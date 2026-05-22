@@ -1,50 +1,15 @@
 {
-  "generated_at": "2026-05-22T01:55:35.950396+00:00",
-  "elapsed_seconds": 2.3,
-  "article_count": 344,
+  "generated_at": "2026-05-22T02:05:47.698285+00:00",
+  "elapsed_seconds": 1.9,
+  "article_count": 343,
   "feed_status": [
-    {
-      "source": "Billy Penn",
-      "count": 10,
-      "error": null
-    },
     {
       "source": "Philadelphia Business Journal",
       "count": 0,
       "error": "HTTP 403"
     },
     {
-      "source": "WFMZ 69 News - Business",
-      "count": 0,
-      "error": "HTTP 429"
-    },
-    {
-      "source": "WFMZ 69 News - Local",
-      "count": 0,
-      "error": null
-    },
-    {
-      "source": "Reading Eagle - Business",
-      "count": 0,
-      "error": "HTTP 403"
-    },
-    {
-      "source": "LancasterOnline - Business",
-      "count": 0,
-      "error": "HTTP 429"
-    },
-    {
-      "source": "Lehigh Valley News",
-      "count": 0,
-      "error": "HTTP 404"
-    },
-    {
-      "source": "Central Penn Business Journal",
-      "count": 10,
-      "error": null
-    },
-    {
-      "source": "Lehigh Valley Business",
+      "source": "Billy Penn",
       "count": 10,
       "error": null
     },
@@ -54,9 +19,44 @@
       "error": null
     },
     {
+      "source": "WFMZ 69 News - Business",
+      "count": 0,
+      "error": "HTTP 429"
+    },
+    {
+      "source": "WFMZ 69 News - Local",
+      "count": 0,
+      "error": "HTTP 429"
+    },
+    {
+      "source": "Lehigh Valley Business",
+      "count": 10,
+      "error": null
+    },
+    {
+      "source": "Reading Eagle - Business",
+      "count": 0,
+      "error": "HTTP 403"
+    },
+    {
+      "source": "Central Penn Business Journal",
+      "count": 10,
+      "error": null
+    },
+    {
       "source": "Spotlight PA",
       "count": 0,
       "error": "HTTP 404"
+    },
+    {
+      "source": "Lehigh Valley News",
+      "count": 0,
+      "error": "HTTP 404"
+    },
+    {
+      "source": "LancasterOnline - Business",
+      "count": 0,
+      "error": "HTTP 429"
     },
     {
       "source": "REBusinessOnline - Northeast",
@@ -69,8 +69,8 @@
       "error": null
     },
     {
-      "source": "Philadelphia Inquirer - Real Estate",
-      "count": 11,
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "count": 100,
       "error": null
     },
     {
@@ -84,23 +84,8 @@
       "error": null
     },
     {
-      "source": "Philadelphia Inquirer - Business",
-      "count": 15,
-      "error": null
-    },
-    {
       "source": "Google News: \"Berks County\" OR \"Reading PA\" (commercial OR development OR",
-      "count": 72,
-      "error": null
-    },
-    {
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "count": 100,
-      "error": null
-    },
-    {
-      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
-      "count": 67,
+      "count": 73,
       "error": null
     },
     {
@@ -109,12 +94,27 @@
       "error": null
     },
     {
-      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
-      "count": 79,
+      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
+      "count": 68,
+      "error": null
+    },
+    {
+      "source": "Philadelphia Inquirer - Real Estate",
+      "count": 11,
       "error": null
     },
     {
       "source": "Google News: \"Bucks County\" PA (commercial real estate OR development)",
+      "count": 79,
+      "error": null
+    },
+    {
+      "source": "Philadelphia Inquirer - Business",
+      "count": 15,
+      "error": null
+    },
+    {
+      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
       "count": 79,
       "error": null
     },
@@ -125,7 +125,7 @@
     },
     {
       "source": "Google News: PPL Center OR \"NIZ Allentown\" (development OR investment)",
-      "count": 67,
+      "count": 70,
       "error": null
     },
     {
@@ -134,13 +134,13 @@
       "error": null
     },
     {
-      "source": "Google News: Pennsylvania (groundbreaking OR \"broke ground\") (retail OR o",
-      "count": 78,
+      "source": "Google News: \"Lehigh Valley\" (medical office OR healthcare real estate)",
+      "count": 79,
       "error": null
     },
     {
-      "source": "Google News: \"Lehigh Valley\" (medical office OR healthcare real estate)",
-      "count": 79,
+      "source": "Google News: Pennsylvania (groundbreaking OR \"broke ground\") (retail OR o",
+      "count": 76,
       "error": null
     }
   ],
@@ -196,7 +196,7 @@
         "broker",
         "store"
       ],
-      "rank_score": 18.83
+      "rank_score": 18.82
     },
     {
       "id": "a1f2944af2df",
@@ -230,7 +230,7 @@
         "retail",
         "construction"
       ],
-      "rank_score": 17.9
+      "rank_score": 17.89
     },
     {
       "id": "99fe9c0800d7",
@@ -246,7 +246,7 @@
         "development",
         "redevelopment"
       ],
-      "rank_score": 17.81
+      "rank_score": 17.8
     },
     {
       "id": "9567a4396fd3",
@@ -295,7 +295,7 @@
         "development",
         "redevelopment"
       ],
-      "rank_score": 17.19
+      "rank_score": 17.18
     },
     {
       "id": "437d47f9f953",
@@ -329,6 +329,23 @@
         "property"
       ],
       "rank_score": 15.4
+    },
+    {
+      "id": "fb96dc100781",
+      "title": "Lower Nazareth Township denies school district\u2019s rezoning request for new school - Lehighvalleylive.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeThOUklKQ3R5NE96SE1ncFlzSTRLajE2b2FHa00zeTRsYnlTeE5XdkVhTlJuUVhJZVAtLXNoNjc2NWRHMXdqa19LRmVESXdfQnkwUy1ZQUhMQmZqRVBuekl5SE9Ud2NEam1tLWFaX1p0UGFsZUo0MDZMejdPdUtUMHFlTHloSTM5VmNydS01Qk10QzNZRHpidS1JN3FSb1ZiX2tyQmtGMHRybUlBYWNGMk1LN1RPdUE4bHlmYVlRWGdkWXoxNnRFQXZ5Rm9LM2_SAeMBQVVfeXFMT2plbWpkY3ZOVnRxYi1vb0RsZlNKM29XM0pLR281X0cyREY2R0VXT1N0Szh2a3U1S1duU1JoNFF1VFNHcDJvLVMtMkdjbVNhUF9LejhydURIUjhFRVBwLVBqX2VoZEdxdFVJQVdKWXNhX290NDhFWkVLNHg3dW5ZY21MNVJPSGZXWlRfZlg2UXlQNE9nTkFuWEhQRXh5dFdyT0prOFlSLXMyeFBhTnJDc2FhS2JubEc0RE50SExjbDZQekljNjU0ZXJYSGpadDNJMjBON1ByU0pyZVdSX05YNFVMNTQ?oc=5",
+      "summary": "Lower Nazareth Township denies school district\u2019s rezoning request for new school &nbsp;&nbsp; Lehighvalleylive.com",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2025-07-24T07:00:00+00:00",
+      "published_ts": 1753340400.0,
+      "topic_score": 7,
+      "matched_terms": [
+        "rezoning",
+        "zoning",
+        "township"
+      ],
+      "rank_score": 14.0
     },
     {
       "id": "3e2fb2a0e2a1",
@@ -382,24 +399,6 @@
       "rank_score": 14.0
     },
     {
-      "id": "a66ad0996c96",
-      "title": "Expansive pickleball facility targets November opening at Lehigh County shopping center - WFMZ.com",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQeC01ZVp1aklDSUR5XzZvM085d253OXRlamg4dXR0SmZ2aTg4TDZJT256MVFIWEVmVEVYR1hwWm81THQyODhWTjJwaXo3T3Y1elRreHBrUTRFWFEzNGY5emZWSEVnSHdxSFhNVFRjN1htWWFsbmxVNURYNXBvSlhIemlOTlc0dFdldXB0MHcydzhPQnRhVVVtQzZGYUNYbGNNMkFuTXhkdnlCeWd0ZkliMFZuaDY0REN2Y3NMa3o2cERtNW1UVnduYTNqT3VZcVc5Qk0wRWFqbnRCdU9MU01oN2NTOTFhNTRRUDF3Yk9IcWh0Y3hDQjB0SDlQN2pVSy1HM3Y3Z2lpNHVTQjdV?oc=5",
-      "summary": "Expansive pickleball facility targets November opening at Lehigh County shopping center &nbsp;&nbsp; WFMZ.com",
-      "source": "Google News: \"Lehigh Valley\" (retail OR \"shopping center\" OR lease OR dev",
-      "domain": "news.google.com",
-      "published": "2025-10-03T07:00:00+00:00",
-      "published_ts": 1759474800.0,
-      "topic_score": 7,
-      "matched_terms": [
-        "shopping center",
-        "opening",
-        "facility",
-        "target"
-      ],
-      "rank_score": 14.0
-    },
-    {
       "id": "b5bd52058787",
       "title": "Berks County Industrial Park receives over $2.8M in state funding for infrastructure development - Berks Weekly",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOemZJb0N2b1ItR1BQNUlTV2FNMmlGSHFaYXJzU2pUTDdIM0RGblR2dDZ1WkItWDd2aEtHVjdDZUxGSkZxSEVleEh2cGlDbWc0NDloSkZheGFiajFPREdacFZ5TjBGRmdDT3NKanRlNS1IcnRxczhyZWJuQ1RuYlVBNDlYekZuZW40QlhZS3Zmd2FNTDgxX0NBaU9zbjFQdkxLcXFNSHJsNlRteEtMeTNRQlQtQ19rTV9YM2hmUFhJUGc3a2xrMl83Z0tsR21TeGM?oc=5",
@@ -413,40 +412,6 @@
         "industrial park",
         "industrial",
         "development"
-      ],
-      "rank_score": 14.0
-    },
-    {
-      "id": "fb96dc100781",
-      "title": "Lower Nazareth Township denies school district\u2019s rezoning request for new school - Lehighvalleylive.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeThOUklKQ3R5NE96SE1ncFlzSTRLajE2b2FHa00zeTRsYnlTeE5XdkVhTlJuUVhJZVAtLXNoNjc2NWRHMXdqa19LRmVESXdfQnkwUy1ZQUhMQmZqRVBuekl5SE9Ud2NEam1tLWFaX1p0UGFsZUo0MDZMejdPdUtUMHFlTHloSTM5VmNydS01Qk10QzNZRHpidS1JN3FSb1ZiX2tyQmtGMHRybUlBYWNGMk1LN1RPdUE4bHlmYVlRWGdkWXoxNnRFQXZ5Rm9LM2_SAeMBQVVfeXFMT2plbWpkY3ZOVnRxYi1vb0RsZlNKM29XM0pLR281X0cyREY2R0VXT1N0Szh2a3U1S1duU1JoNFF1VFNHcDJvLVMtMkdjbVNhUF9LejhydURIUjhFRVBwLVBqX2VoZEdxdFVJQVdKWXNhX290NDhFWkVLNHg3dW5ZY21MNVJPSGZXWlRfZlg2UXlQNE9nTkFuWEhQRXh5dFdyT0prOFlSLXMyeFBhTnJDc2FhS2JubEc0RE50SExjbDZQekljNjU0ZXJYSGpadDNJMjBON1ByU0pyZVdSX05YNFVMNTQ?oc=5",
-      "summary": "Lower Nazareth Township denies school district\u2019s rezoning request for new school &nbsp;&nbsp; Lehighvalleylive.com",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2025-07-24T07:00:00+00:00",
-      "published_ts": 1753340400.0,
-      "topic_score": 7,
-      "matched_terms": [
-        "rezoning",
-        "zoning",
-        "township"
-      ],
-      "rank_score": 14.0
-    },
-    {
-      "id": "d6b5e566c8ca",
-      "title": "Proposed zoning changes could regulate data centers in Bethlehem Township - WFMZ.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOa1hVUzV3cWQ5ODlRWU9FYVNtN3NtSktQYXBCMmhrMlpoNjdzdC1ZR1dweHFfTnlKa2t5NHE0MHBMMkRqLWstbXlkU2lpWF9PQWQySU9EU1JJaTBGRmk2Sk82STFPb1l0d29PWGN4X0YxRGItTVNZdlZ6dmpCZ3FrV0NIWlZoSk1fODZ2MV9oclJWemU5Q1R1TVludzFFanFLc2JfYjViR1VsNk95SGJ0TExESmtJZmh4NXR1cGVhQzc1dFl4TzIxeXI5VFpRWnEtcVBWUGNMcTZiUDBGT3BCSjVqMGhLVmVNcjM2Z1Zkd2NrSnhpeHJyN05pdWppdmNldks4RGdocElFSlNDM1BfY2w0czVnbDk1TmlweGRUZzJ5bWhYQ2ZfNw?oc=5",
-      "summary": "Proposed zoning changes could regulate data centers in Bethlehem Township &nbsp;&nbsp; WFMZ.com",
-      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
-      "domain": "news.google.com",
-      "published": "2026-02-16T08:00:00+00:00",
-      "published_ts": 1771228800.0,
-      "topic_score": 7,
-      "matched_terms": [
-        "zoning change",
-        "zoning",
-        "township"
       ],
       "rank_score": 14.0
     },
@@ -480,6 +445,23 @@
       "matched_terms": [
         "sold for",
         "warehouse",
+        "township"
+      ],
+      "rank_score": 14.0
+    },
+    {
+      "id": "d6b5e566c8ca",
+      "title": "Proposed zoning changes could regulate data centers in Bethlehem Township - WFMZ.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOa1hVUzV3cWQ5ODlRWU9FYVNtN3NtSktQYXBCMmhrMlpoNjdzdC1ZR1dweHFfTnlKa2t5NHE0MHBMMkRqLWstbXlkU2lpWF9PQWQySU9EU1JJaTBGRmk2Sk82STFPb1l0d29PWGN4X0YxRGItTVNZdlZ6dmpCZ3FrV0NIWlZoSk1fODZ2MV9oclJWemU5Q1R1TVludzFFanFLc2JfYjViR1VsNk95SGJ0TExESmtJZmh4NXR1cGVhQzc1dFl4TzIxeXI5VFpRWnEtcVBWUGNMcTZiUDBGT3BCSjVqMGhLVmVNcjM2Z1Zkd2NrSnhpeHJyN05pdWppdmNldks4RGdocElFSlNDM1BfY2w0czVnbDk1TmlweGRUZzJ5bWhYQ2ZfNw?oc=5",
+      "summary": "Proposed zoning changes could regulate data centers in Bethlehem Township &nbsp;&nbsp; WFMZ.com",
+      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
+      "domain": "news.google.com",
+      "published": "2026-02-16T08:00:00+00:00",
+      "published_ts": 1771228800.0,
+      "topic_score": 7,
+      "matched_terms": [
+        "zoning change",
+        "zoning",
         "township"
       ],
       "rank_score": 14.0
@@ -531,22 +513,7 @@
         "development",
         "facility"
       ],
-      "rank_score": 13.74
-    },
-    {
-      "id": "d38f35de1322",
-      "title": "Thomas Jefferson University expansion to build Lehigh Valley health care professional pipeline - Lehigh Valley Business",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWXhDMGQ4UHNRMW42WGVrS2FtNWNXeUNiSDNsS0lQVDJSYnFNQTNHdW8zZDY4a2xCSkoydS1oMWdFN1piS2lWaWxMbEpkOWN3LVNXY29vamNvT0ZUUkNuLWYza2g2NURYVzdyNEVoSEZidjY3N3Q0Q2F2ZEhPU1RaazM1ZXgtbzlidEZr?oc=5",
-      "summary": "Thomas Jefferson University expansion to build Lehigh Valley health care professional pipeline &nbsp;&nbsp; Lehigh Valley Business",
-      "source": "Google News: \"Lehigh Valley\" (medical office OR healthcare real estate)",
-      "domain": "news.google.com",
-      "published": "2026-05-19T17:26:12+00:00",
-      "published_ts": 1779211572.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "expansion"
-      ],
-      "rank_score": 13.22
+      "rank_score": 13.73
     },
     {
       "id": "df3b38e289a0",
@@ -576,7 +543,7 @@
       "matched_terms": [
         "shopping center"
       ],
-      "rank_score": 12.6
+      "rank_score": 12.59
     },
     {
       "id": "0e38e6c7add1",
@@ -592,6 +559,23 @@
         "retail"
       ],
       "rank_score": 12.14
+    },
+    {
+      "id": "03352ac7f187",
+      "title": "One Lehigh Valley township has a plan to severely restrict warehouse development. Other communities could follow its lead. - The Morning Call",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjYk5MajlMbU9lUDhoNUxhZDFyQkRtb0FuamlxbkV1VVMyOHA4bDhzTnJqbzFQWFZqdElScEpLTXNuVVZWbWFzT05sZUtSY1pLbmFIa19HMmZxcTZZSTBOTGZFRGx4b3BMQjFj?oc=5",
+      "summary": "One Lehigh Valley township has a plan to severely restrict warehouse development. Other communities could follow its lead. &nbsp;&nbsp; The Morning Call",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2023-02-07T08:00:00+00:00",
+      "published_ts": 1675756800.0,
+      "topic_score": 6,
+      "matched_terms": [
+        "warehouse",
+        "development",
+        "township"
+      ],
+      "rank_score": 12.0
     },
     {
       "id": "9f020338b480",
@@ -711,23 +695,6 @@
       "rank_score": 12.0
     },
     {
-      "id": "03352ac7f187",
-      "title": "One Lehigh Valley township has a plan to severely restrict warehouse development. Other communities could follow its lead. - The Morning Call",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjYk5MajlMbU9lUDhoNUxhZDFyQkRtb0FuamlxbkV1VVMyOHA4bDhzTnJqbzFQWFZqdElScEpLTXNuVVZWbWFzT05sZUtSY1pLbmFIa19HMmZxcTZZSTBOTGZFRGx4b3BMQjFj?oc=5",
-      "summary": "One Lehigh Valley township has a plan to severely restrict warehouse development. Other communities could follow its lead. &nbsp;&nbsp; The Morning Call",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2023-02-07T08:00:00+00:00",
-      "published_ts": 1675756800.0,
-      "topic_score": 6,
-      "matched_terms": [
-        "warehouse",
-        "development",
-        "township"
-      ],
-      "rank_score": 12.0
-    },
-    {
       "id": "431bba54f021",
       "title": "Local leaders celebrate groundbreaking of PHA's Westpark Redevelopment Project - NBC10 Philadelphia",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSlBVM2c4STJKTkZtc0V5TGd6RnNPQl9BUXBXaWFxaU16ZUNVS3RDa0w4NkNsWV9YWTk1UjY3NG9jMmVMWDMtYzJiRWRvSzlNbkN6azBGUi1JcG1QMV9DRVlPYklkU210NEhUclQ1SElrc0lPcUtXNjJEdkNRZXNBNXhpTU1ZSEVONEhYS2UyaGJZN3hRMkhpeWNiV3FCbjRMckFPREJ4dWFYaWdVeXhZWdIBuAFBVV95cUxQUGdUTW5kN0J5dng3QTZrWFF1SzU1V1FmQ1ZGcERWVUFWdXlJazNKZjNrSGtZWnB3WFZTTXo4bFJ5VVQwSVhUSGI0QUF5blZfMVJYQ1FOMGw2SmpNOG5pOG8tRmF5SjVDcmx5RG5zT1hVMk92Um9nNHRGUDBLOVF0T0g5VUVpbW9Bd2JEUGNwb3pJeml4RWFTc1gyOXFMdV9xSGdRbGQ4ZVNhclNYUHNCNmR2Ql9VMl9O?oc=5",
@@ -789,73 +756,23 @@
       "matched_terms": [
         "zoning"
       ],
-      "rank_score": 11.39
+      "rank_score": 11.38
     },
     {
-      "id": "7aba797051e2",
-      "title": "National Parks of Boston Seeks Proposals for Historic Easton Building Lease - Boston Real Estate Times",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQekRXei1rOExWQTNTbzk5NldJWUxVRmt1V2kwd0NORUtFcUZlVk9fc0Z0ZWpjU1dod29hWHFidGtnMjBsREJUN0wzOWJIZGYyeW5lS2NYZkJ5X3IwOVk2Z2RqQlJVN1NKWkJjMGxjQ2NwOG1zMkZvdkFKMllxUXJraTlZT2g3WUZOaTRWY28xc0M3SXNWY29XTWtMb3BnVFNsRGZMaDBKbjVMSGY0UmY4?oc=5",
-      "summary": "National Parks of Boston Seeks Proposals for Historic Easton Building Lease &nbsp;&nbsp; Boston Real Estate Times",
-      "source": "Google News: \"Allentown\" OR \"Bethlehem\" OR \"Easton\" (commercial real esta",
+      "id": "9da820c9c5ac",
+      "title": "New Dollar General to offer free gift cards for grand opening in the Lehigh Valley - The Morning Call",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON3JwcW8tekoyU054Q0swMU1JZ0NsYkhldDdHWW83cmxfb1NFNGU3TFM1U1lzbnRqelFxVmg0TVd1MTAwcGF0R0xfVGhabWVvRjBoNmZ2UnRLUF9oYnFJS1FnNHc3cFVVRW9KV3dZQm4xTXdjM2oxdnZZRkdWRlVCVW1hdkNqYjZIcnFvQ3dn?oc=5",
+      "summary": "New Dollar General to offer free gift cards for grand opening in the Lehigh Valley &nbsp;&nbsp; The Morning Call",
+      "source": "Google News: \"Lehigh Valley\" (retail OR \"shopping center\" OR lease OR dev",
       "domain": "news.google.com",
-      "published": "2025-06-12T07:00:00+00:00",
-      "published_ts": 1749711600.0,
-      "topic_score": 5,
+      "published": "2026-05-05T07:00:00+00:00",
+      "published_ts": 1777964400.0,
+      "topic_score": 3,
       "matched_terms": [
-        "lease",
-        "real estate",
-        "building"
+        "opening",
+        "dollar general"
       ],
-      "rank_score": 10.0
-    },
-    {
-      "id": "e34f6cdcf1c7",
-      "title": "The Easton Group Announces Three New Tenants At Recently Acquired Office Building In Doral - citybiz",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZzJsY2RFbi1BeVNOR1lnUWdDTl91blhkenRCVFM1Y1pEemJkVGdXRG10c19qOFh3bHB2OXRPSFJaMHlhenF1SnBWZXI1blB3NXdFRC1SVGlJWWpxTzluMEo0MVowOThsRU5TVnI0bW5EbHBidUVFbmFFNlJLSVczdVVoZ200MDVzVTR3WXRxSW9OQWlHQnFIcGE3T19wSVJlTmpKUGtlUHZVa0RwZExieERjZUZMTzdKamFnN3BVZmJmcFFjUzlaVQ?oc=5",
-      "summary": "The Easton Group Announces Three New Tenants At Recently Acquired Office Building In Doral &nbsp;&nbsp; citybiz",
-      "source": "Google News: \"Allentown\" OR \"Bethlehem\" OR \"Easton\" (commercial real esta",
-      "domain": "news.google.com",
-      "published": "2024-05-21T07:00:00+00:00",
-      "published_ts": 1716274800.0,
-      "topic_score": 5,
-      "matched_terms": [
-        "tenant",
-        "acquired",
-        "building"
-      ],
-      "rank_score": 10.0
-    },
-    {
-      "id": "de0d818dd35e",
-      "title": "Murray H. Goodman, Lehigh Valley shopping center developer and Lehigh University alum, dies at 99 - The Morning Call",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUFQd01FUUo4X0pWSjM2Y21HNmVxNlRJblMxRlpYMmRBckc0a1BKMEtRYXRnT2pmTnRHMXNjNjB4V3FEYzN2bklmQ185NXNGaUZZVDR6SnpuTFlpeW5KU0dPVm5UYWV2RFNlV2VKeWJIRkJWYURJd1BGaS04S3NEOXhfdzBSQk5MdXpuRzhTX29OTHRDOWFOZzJqYVlaTy14R1lZZHRCdmZNcFM0ZFUxMmpVdm9XNFhCZE5wLV9rZG9qSkVMcks4?oc=5",
-      "summary": "Murray H. Goodman, Lehigh Valley shopping center developer and Lehigh University alum, dies at 99 &nbsp;&nbsp; The Morning Call",
-      "source": "Google News: \"Allentown\" OR \"Bethlehem\" OR \"Easton\" (commercial real esta",
-      "domain": "news.google.com",
-      "published": "2024-12-30T08:00:00+00:00",
-      "published_ts": 1735545600.0,
-      "topic_score": 5,
-      "matched_terms": [
-        "shopping center",
-        "developer"
-      ],
-      "rank_score": 10.0
-    },
-    {
-      "id": "91a7fd36b3af",
-      "title": "Reading zoning board hears appeal for new shopping center at former paint factory site - WFMZ.com",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOWHdvaWlZSkltVng0TTlsZnA5ekEtczdKQzJBQWxSN2R1ZG9KVHp4MUFjeUxuTU5MNTNKUmg5SjE2VlBaTXFQcTJYb04xZk5RY3VnNzhBNkluWGdEOHNDMXpjUFBuVHRSXzI2NjVicTBiVnRpYkxUS0JmYk4tbzd4eWlPenBfaElPOUpnV1lUWHBiWnpEM1o2UV9TN2FJczBoNEJqNWpLc2ZDYzBOWEh4dHBHd1dBLW1TZHB4UUg0MFNsc0RlcXR0dWcyRGNxM1A5OXlvVnh6X0xRck8weWwwUDYtb1dFWHpkZXFiN1lkMmswNDlSRHpGZDhfM2ROUzJDM0NN?oc=5",
-      "summary": "Reading zoning board hears appeal for new shopping center at former paint factory site &nbsp;&nbsp; WFMZ.com",
-      "source": "Google News: \"Berks County\" OR \"Reading PA\" (commercial OR development OR",
-      "domain": "news.google.com",
-      "published": "2024-07-10T07:00:00+00:00",
-      "published_ts": 1720594800.0,
-      "topic_score": 5,
-      "matched_terms": [
-        "shopping center",
-        "zoning"
-      ],
-      "rank_score": 10.0
+      "rank_score": 10.4
     },
     {
       "id": "095835959030",
@@ -918,6 +835,88 @@
       "topic_score": 5,
       "matched_terms": [
         "zoning change",
+        "zoning"
+      ],
+      "rank_score": 10.0
+    },
+    {
+      "id": "7aba797051e2",
+      "title": "National Parks of Boston Seeks Proposals for Historic Easton Building Lease - Boston Real Estate Times",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQekRXei1rOExWQTNTbzk5NldJWUxVRmt1V2kwd0NORUtFcUZlVk9fc0Z0ZWpjU1dod29hWHFidGtnMjBsREJUN0wzOWJIZGYyeW5lS2NYZkJ5X3IwOVk2Z2RqQlJVN1NKWkJjMGxjQ2NwOG1zMkZvdkFKMllxUXJraTlZT2g3WUZOaTRWY28xc0M3SXNWY29XTWtMb3BnVFNsRGZMaDBKbjVMSGY0UmY4?oc=5",
+      "summary": "National Parks of Boston Seeks Proposals for Historic Easton Building Lease &nbsp;&nbsp; Boston Real Estate Times",
+      "source": "Google News: \"Allentown\" OR \"Bethlehem\" OR \"Easton\" (commercial real esta",
+      "domain": "news.google.com",
+      "published": "2025-06-12T07:00:00+00:00",
+      "published_ts": 1749711600.0,
+      "topic_score": 5,
+      "matched_terms": [
+        "lease",
+        "real estate",
+        "building"
+      ],
+      "rank_score": 10.0
+    },
+    {
+      "id": "e34f6cdcf1c7",
+      "title": "The Easton Group Announces Three New Tenants At Recently Acquired Office Building In Doral - citybiz",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZzJsY2RFbi1BeVNOR1lnUWdDTl91blhkenRCVFM1Y1pEemJkVGdXRG10c19qOFh3bHB2OXRPSFJaMHlhenF1SnBWZXI1blB3NXdFRC1SVGlJWWpxTzluMEo0MVowOThsRU5TVnI0bW5EbHBidUVFbmFFNlJLSVczdVVoZ200MDVzVTR3WXRxSW9OQWlHQnFIcGE3T19wSVJlTmpKUGtlUHZVa0RwZExieERjZUZMTzdKamFnN3BVZmJmcFFjUzlaVQ?oc=5",
+      "summary": "The Easton Group Announces Three New Tenants At Recently Acquired Office Building In Doral &nbsp;&nbsp; citybiz",
+      "source": "Google News: \"Allentown\" OR \"Bethlehem\" OR \"Easton\" (commercial real esta",
+      "domain": "news.google.com",
+      "published": "2024-05-21T07:00:00+00:00",
+      "published_ts": 1716274800.0,
+      "topic_score": 5,
+      "matched_terms": [
+        "tenant",
+        "acquired",
+        "building"
+      ],
+      "rank_score": 10.0
+    },
+    {
+      "id": "de0d818dd35e",
+      "title": "Murray H. Goodman, Lehigh Valley shopping center developer and Lehigh University alum, dies at 99 - The Morning Call",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUFQd01FUUo4X0pWSjM2Y21HNmVxNlRJblMxRlpYMmRBckc0a1BKMEtRYXRnT2pmTnRHMXNjNjB4V3FEYzN2bklmQ185NXNGaUZZVDR6SnpuTFlpeW5KU0dPVm5UYWV2RFNlV2VKeWJIRkJWYURJd1BGaS04S3NEOXhfdzBSQk5MdXpuRzhTX29OTHRDOWFOZzJqYVlaTy14R1lZZHRCdmZNcFM0ZFUxMmpVdm9XNFhCZE5wLV9rZG9qSkVMcks4?oc=5",
+      "summary": "Murray H. Goodman, Lehigh Valley shopping center developer and Lehigh University alum, dies at 99 &nbsp;&nbsp; The Morning Call",
+      "source": "Google News: \"Allentown\" OR \"Bethlehem\" OR \"Easton\" (commercial real esta",
+      "domain": "news.google.com",
+      "published": "2024-12-30T08:00:00+00:00",
+      "published_ts": 1735545600.0,
+      "topic_score": 5,
+      "matched_terms": [
+        "shopping center",
+        "developer"
+      ],
+      "rank_score": 10.0
+    },
+    {
+      "id": "adddd1880348",
+      "title": "Zoning changes could make Reading more business friendly, official says - WFMZ.com",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZFVwX1VGaHo5LW5NUDUyeEFDbnF1SzFTYWlWVDloX2hXejc3SG9HWVVhV2pKTWU3ZTd2Z3BHeUhyYU56R1A3M255amZoS01PMzUtVXhuc1g3bDhycU9MeGpOZkxmbmJNNmJsT0pjZ2ZKUWh5d0dNRDJnOXlhTnhHSVNhVC1RRmNWdUVmb21vejMzalhTSzcydXE5N3RBSUx0aGF2SDlPRTRGVThNMENSN0txRldCUTJ5UXN0cHRWOWxfd0xHZXN4VnVjdkhzT0lqSjM2ZG81QXpvN0cxaEQtaGdsYXhic2d4dTN4NkFB?oc=5",
+      "summary": "Zoning changes could make Reading more business friendly, official says &nbsp;&nbsp; WFMZ.com",
+      "source": "Google News: \"Berks County\" OR \"Reading PA\" (commercial OR development OR",
+      "domain": "news.google.com",
+      "published": "2024-05-13T07:00:00+00:00",
+      "published_ts": 1715583600.0,
+      "topic_score": 5,
+      "matched_terms": [
+        "zoning change",
+        "zoning"
+      ],
+      "rank_score": 10.0
+    },
+    {
+      "id": "91a7fd36b3af",
+      "title": "Reading zoning board hears appeal for new shopping center at former paint factory site - WFMZ.com",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOWHdvaWlZSkltVng0TTlsZnA5ekEtczdKQzJBQWxSN2R1ZG9KVHp4MUFjeUxuTU5MNTNKUmg5SjE2VlBaTXFQcTJYb04xZk5RY3VnNzhBNkluWGdEOHNDMXpjUFBuVHRSXzI2NjVicTBiVnRpYkxUS0JmYk4tbzd4eWlPenBfaElPOUpnV1lUWHBiWnpEM1o2UV9TN2FJczBoNEJqNWpLc2ZDYzBOWEh4dHBHd1dBLW1TZHB4UUg0MFNsc0RlcXR0dWcyRGNxM1A5OXlvVnh6X0xRck8weWwwUDYtb1dFWHpkZXFiN1lkMmswNDlSRHpGZDhfM2ROUzJDM0NN?oc=5",
+      "summary": "Reading zoning board hears appeal for new shopping center at former paint factory site &nbsp;&nbsp; WFMZ.com",
+      "source": "Google News: \"Berks County\" OR \"Reading PA\" (commercial OR development OR",
+      "domain": "news.google.com",
+      "published": "2024-07-10T07:00:00+00:00",
+      "published_ts": 1720594800.0,
+      "topic_score": 5,
+      "matched_terms": [
+        "shopping center",
         "zoning"
       ],
       "rank_score": 10.0
@@ -1040,6 +1039,102 @@
       "rank_score": 10.0
     },
     {
+      "id": "8873abdb46d3",
+      "title": "Baird appointed new director of development, zoning officer - Lehigh Valley Press",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTjRRNFh2cGNKZ1djUkFKQW54d2FRSGEzYUNJbEw2T2kyTW1tSzd2Y3BWcWNIQ3ZiZDhXY1I0Y3AzdG1RSHlvdDFCWXpMbWRqRU1hbWZGcjBsSXhXUC1XOVpyd2ItOWtLLVozSlVyM0JsUzRZOGVVRkZ0NW9MYTJuMXNuNzdTaWZaZVdQbFVTM0t1LUxyTnlB?oc=5",
+      "summary": "Baird appointed new director of development, zoning officer &nbsp;&nbsp; Lehigh Valley Press",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2026-02-12T08:00:00+00:00",
+      "published_ts": 1770883200.0,
+      "topic_score": 4,
+      "matched_terms": [
+        "development",
+        "zoning"
+      ],
+      "rank_score": 8.0
+    },
+    {
+      "id": "da8004220343",
+      "title": "Is this 6-story proposed Easton development too big? Experts discuss at zoning hearing. - Lehighvalleylive.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVG8wcl9TVEUyaW5CRXZrNXg3b0NvZUZoc1FYOHRPVV9EZlBBVFlxeVhNckUzYUdkWHhNNFNDbm5NVTl1VEhibjBEYzVKTHg1d2FXNDZJa0Y1bVBRVFhzeGgzT0VfNjhYa05nWEtkY0ZFa3hlT0RZNU1TeWZOcjJEUnhJTk93Z0xRNVE1T2tpQkhIVmQ4Rk5ONzVKRl85eGdPdkctdWR0QXdmVnNOOGEzblFkVVhRajQybFRLNHNVckpwcXhGZGM5R1p0eEVndHMxakwtX9IB6AFBVV95cUxQY2xrNWVTS3M4ZVVaX05Bbjc1dlZUZzhLUFpBeGc5NEhDa195THZyWDNCUXBhc3ZWMEVlYi1vUTV6NEd3NmN0UU1mNFlTaDhwX2ZNWWxyRUZ0T2NWYVJLQWFRSDVjSWpVUlBWVm00X1FZV29NcURyOW1UTy1wbjMwbFJ0UDVaQkh4R0xVYndHQTgyQWg4a2hSdmI2OHZackVuR2pNNGM4VUwzQVBQbXE5dUE1dGpnWW1jOEdKYkNKaUh3bWpGYVN3UVhpd2lMV2phSGM2cXJqckVKdnFYVlhQZFVyRVdwTTl5?oc=5",
+      "summary": "Is this 6-story proposed Easton development too big? Experts discuss at zoning hearing. &nbsp;&nbsp; Lehighvalleylive.com",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2025-12-19T08:00:00+00:00",
+      "published_ts": 1766131200.0,
+      "topic_score": 4,
+      "matched_terms": [
+        "development",
+        "zoning"
+      ],
+      "rank_score": 8.0
+    },
+    {
+      "id": "2d9fbb472d7b",
+      "title": "Bethlehem development project would bring 70 apartments, retail space - LehighValleyNews.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU0VTUGV6VzJfelF4SkhFZzB6c2ZvTExtSHdoaVpnMXdidHdjM09hYWstQkZjaGJZY3g1OHQwLWRqUEdJNUVfckxLZG44azFNMV9ScnpMTHRHZExCQzZlOEJxbTJGTV9pb29mQWFEOHJ1NjUtVWNSd3doMkhnWDA5WHN1ZlRQWWdVSWxMcGk1OUZOWEV2WmlaZWU3MTgwdkk3WGUxMnVvNDFqU1ZIQnNtVjIwMVhVTUFiZTFXZDRtWW16V01SOEVvYlQxNXEwOHVKeVE?oc=5",
+      "summary": "Bethlehem development project would bring 70 apartments, retail space &nbsp;&nbsp; LehighValleyNews.com",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2025-02-28T08:00:00+00:00",
+      "published_ts": 1740729600.0,
+      "topic_score": 4,
+      "matched_terms": [
+        "retail",
+        "development"
+      ],
+      "rank_score": 8.0
+    },
+    {
+      "id": "46c793db158d",
+      "title": "Lower Macungie grants written zoning approval for North Krocks Road development - LehighValleyNews.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZnRJckV4cGZmT0hXTXlXMktYaF96bmk1WWRjcFl4NlkzR29rdXliWjhOQzlhbld0b3lqUkJucTAwUTI1SGdRZTRTdVBUaWtFQWJWQ3l2aFR4YUlPaDI0eU9YZHRDcC1OOGpsSzF4UmllQXZLR0RKbm5nU1BkY2I2M2JNWU9kRERMblVndlQzTXVaNUF2bE5TWWpIZDk3T01xTkMySHFRMDFJZzMwNU1aMFBTUmZ0Mk8tcVlGYXF3Y241RUJYYTlnRWxLWGFpdw?oc=5",
+      "summary": "Lower Macungie grants written zoning approval for North Krocks Road development &nbsp;&nbsp; LehighValleyNews.com",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2023-03-17T07:00:00+00:00",
+      "published_ts": 1679036400.0,
+      "topic_score": 4,
+      "matched_terms": [
+        "development",
+        "zoning"
+      ],
+      "rank_score": 8.0
+    },
+    {
+      "id": "5ae718045150",
+      "title": "Lehigh Valley Town Center update: Project making strides in land development process in Lower Macungie Township - The Morning Call",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUVBmT053Zmt3Z3N2NWthWUE5SF84X3VmLWRhNzRuWEpMc2dtVnJndHo5NEw5eVZUTWd3dmU2SXpaMUx4QTdHN3NTX2szM0RIUVhKbG1iN1lwcWJvVTlQQkRCLW4ycGRyYlNWZFJRN3R3REV6enVidV9XektZcm8tWnh4dTZybFllLXhEUHAxNnRfX1g1TndIUUxGZ2Jsa0lpWTZNbS1lR0RQR1o1cXZDd2YyZjdiUmFGcjA5UWQ5ZU8?oc=5",
+      "summary": "Lehigh Valley Town Center update: Project making strides in land development process in Lower Macungie Township &nbsp;&nbsp; The Morning Call",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2023-11-14T08:00:00+00:00",
+      "published_ts": 1699948800.0,
+      "topic_score": 4,
+      "matched_terms": [
+        "development",
+        "township"
+      ],
+      "rank_score": 8.0
+    },
+    {
+      "id": "e9369e43421a",
+      "title": "Plan for 120 apartments at major Bethlehem Township intersection gets zoning relief - LehighValleyNews.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZUxKNkNfRlJBSzV6eUx0YmtOX0J2ZVozTmVpQ0gybm16YkItRWdFNnYzWXg1YjY4dXd4Rll0dlBWc3VnbW9VN2dPdUtMMUNuYy1BZU9MU3B1UkdvZFlMYzh5OXpsWFpUandDY3gzclVNTjhUQzBpNTRtZEE0VDRBeGJKYk55bjJscXc0OWxvRjlDdjl6RDZwWUZncVZkZERKbkxXLUE0TlN3QTV5bGlaOEk2YVZmVGxrTmtTa0gtYlc0bkNV?oc=5",
+      "summary": "Plan for 120 apartments at major Bethlehem Township intersection gets zoning relief &nbsp;&nbsp; LehighValleyNews.com",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2025-03-20T07:00:00+00:00",
+      "published_ts": 1742454000.0,
+      "topic_score": 4,
+      "matched_terms": [
+        "zoning",
+        "township"
+      ],
+      "rank_score": 8.0
+    },
+    {
       "id": "78e4a2fd5bcc",
       "title": "Lehigh Valley lands major gathering of commercial, industrial real estate leaders - WFMZ.com",
       "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOd1U0Y2F4NlpvYUh4MnVaZTFFZ0tPajN4M3dhY3U3V1ZPc0QyR3EtVmtnNnJwajJFUW5ON1dfejNReVFkMG54dUpoMnVqejV5emo4M043bTBuYlZwZEZ3QUVUaUtObEpscmdfYmZqZGFkOF8zVjYzZUVsbm9nUmJRNjY4YnRPZWM1TlpNQk5BMzdRSXA4cDYxb3RXWkE0dUpZVVdxUDZrU1Q5aVVJRWRVaVlaQ3pfWl9DbDVmcEZaY2Z3RjJXbmRmcjNWWE5XSWtfX1VEcFNzemZ4eHRGWEJ4UTNSUkVfclQ2VXdJYWZHNHpvT2taQXI2bnpjbGxfN09pU2dxMkRfUlRsRG1DeTRSdThtLUlUZlVndEJyQ1FTVGNzOVZLQTRJc3cwaw?oc=5",
@@ -1068,22 +1163,6 @@
       "matched_terms": [
         "office space",
         "developer"
-      ],
-      "rank_score": 8.0
-    },
-    {
-      "id": "e9369e43421a",
-      "title": "Plan for 120 apartments at major Bethlehem Township intersection gets zoning relief - LehighValleyNews.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZUxKNkNfRlJBSzV6eUx0YmtOX0J2ZVozTmVpQ0gybm16YkItRWdFNnYzWXg1YjY4dXd4Rll0dlBWc3VnbW9VN2dPdUtMMUNuYy1BZU9MU3B1UkdvZFlMYzh5OXpsWFpUandDY3gzclVNTjhUQzBpNTRtZEE0VDRBeGJKYk55bjJscXc0OWxvRjlDdjl6RDZwWUZncVZkZERKbkxXLUE0TlN3QTV5bGlaOEk2YVZmVGxrTmtTa0gtYlc0bkNV?oc=5",
-      "summary": "Plan for 120 apartments at major Bethlehem Township intersection gets zoning relief &nbsp;&nbsp; LehighValleyNews.com",
-      "source": "Google News: \"Allentown\" OR \"Bethlehem\" OR \"Easton\" (commercial real esta",
-      "domain": "news.google.com",
-      "published": "2025-03-20T07:00:00+00:00",
-      "published_ts": 1742454000.0,
-      "topic_score": 4,
-      "matched_terms": [
-        "zoning",
-        "township"
       ],
       "rank_score": 8.0
     },
@@ -1265,23 +1344,6 @@
       "rank_score": 8.0
     },
     {
-      "id": "f18d08e0b09c",
-      "title": "Retail recap: Lehigh Valley area restaurants, stores and more that opened or closed in 2024 - WFMZ.com",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNdElfOXhqRjI1VXRxNFU2cGprT3Bfb0d5RnFTekpJdTlNSTRfRnhsN05OWWVHOHNvZWRwQWdZeHJGQzBwRzNBVlNOMU55QXVBcDlrWk8zOWhTY3ZzT1NkeFdzU1FFb3ZIX1lFVVpXY05uSjdscHpDUENpc1liWFdCNGFyTGk5MXpwUC1jWWcwSHJRRkEtamFOMGlERW5lZTdib0hJMDlXa1VKaVJVSUl6dWk4WkNCX3huMkl0UW4yMFVjU2pveE1LY0RZdEg5eXJaU0swU0t4VlVPb09rWUxFeGpRYXVCYWJNdllIZGJlWmN2bU5sZ09TZmFIeVdIdHNHOEJiWUJlTzliQkhkVTRV?oc=5",
-      "summary": "Retail recap: Lehigh Valley area restaurants, stores and more that opened or closed in 2024 &nbsp;&nbsp; WFMZ.com",
-      "source": "Google News: \"Lehigh Valley\" (retail OR \"shopping center\" OR lease OR dev",
-      "domain": "news.google.com",
-      "published": "2024-12-25T08:00:00+00:00",
-      "published_ts": 1735113600.0,
-      "topic_score": 4,
-      "matched_terms": [
-        "retail",
-        "store",
-        "restaurant"
-      ],
-      "rank_score": 8.0
-    },
-    {
       "id": "496984e69230",
       "title": "ICE\u2019s Berks County warehouse has years of unresolved construction problems, records show - The Morning Call",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQkFZNDgwT2xTY0NCNEVDRDd0QjZPb3hFbTVJSWZFd0lGVlBxXy1OUlFvRnNxemlYbFlSN2kzeVFqQzI4RUpaU1pNa2JmLXhyaGpVSE5leUFQZW5obDlXXy1NQWpRbWt4RWIzbWxjWndja0VqNmhidEYwM1BwUjV2MDh0cEN4eGZxR2pQSmVFOWRlektUNjJpemYyWnpycWpDWDJFNVN2U2dIbzJ2dzZGU0RyM1lhc25uVXdqaA?oc=5",
@@ -1330,82 +1392,50 @@
       "rank_score": 8.0
     },
     {
-      "id": "8873abdb46d3",
-      "title": "Baird appointed new director of development, zoning officer - Lehigh Valley Press",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTjRRNFh2cGNKZ1djUkFKQW54d2FRSGEzYUNJbEw2T2kyTW1tSzd2Y3BWcWNIQ3ZiZDhXY1I0Y3AzdG1RSHlvdDFCWXpMbWRqRU1hbWZGcjBsSXhXUC1XOVpyd2ItOWtLLVozSlVyM0JsUzRZOGVVRkZ0NW9MYTJuMXNuNzdTaWZaZVdQbFVTM0t1LUxyTnlB?oc=5",
-      "summary": "Baird appointed new director of development, zoning officer &nbsp;&nbsp; Lehigh Valley Press",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "id": "a8b4e395ed4d",
+      "title": "30 real estate sales and leases in Harrisburg, Lancaster, York and beyond - PennLive.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZHVlcEFaX0hiRDdlaXpDa0lvdF9WTjlKcWlEMURyTEZiNGRxNi12MUVXWnpiaUd5eGVvRTAtOVQxXzU2amtYVzJRYUFtRFV3VEpfdkQzZFp4RFVkWHd6NmI5MGp6Smh3VXV4NVhmNTN1QTctNnlITHNZLUdhbTduTnh3UkszSWpWd0pFeWhQVlEwdkxfbVBJdUxUS09ZQy04aXVybHAzTkN4ZS1JWHJ6TE1YdFBTQnBzUVdKS3NIcDI4MFRlbGfSAdoBQVVfeXFMT1QyRWM5S293WVZhRGxiTk1lUFJqbWt1NG5lNUJLVTJGZ05fcVN6N1dTM3VSOV96Ylk0c1h5UE5Lal9XVWUtRDYwZXI2ZkpZa2lxQ1lzRHFsZTZsLWs4Vnp1MjFWamxpX2hFTXVvSGwyQldvMldUeUtVZTRDaHNPcHhCUS0zY0VQbmJuX1I3SUF4ekNOQ3dLcXRvUGx5UGRpWWNWcUw1SXluTkRGTURxV20wWVJVcHpmU0h1aTNhLXk5S1NkaExFLVI1YkFmcmpRR2dTVm1xNGlNOUE?oc=5",
+      "summary": "30 real estate sales and leases in Harrisburg, Lancaster, York and beyond &nbsp;&nbsp; PennLive.com",
+      "source": "Google News: \"Lancaster County\" (commercial real estate OR industrial OR ",
       "domain": "news.google.com",
-      "published": "2026-02-12T08:00:00+00:00",
-      "published_ts": 1770883200.0,
+      "published": "2025-12-24T08:00:00+00:00",
+      "published_ts": 1766563200.0,
       "topic_score": 4,
       "matched_terms": [
-        "development",
-        "zoning"
+        "lease",
+        "real estate"
       ],
       "rank_score": 8.0
     },
     {
-      "id": "da8004220343",
-      "title": "Is this 6-story proposed Easton development too big? Experts discuss at zoning hearing. - Lehighvalleylive.com",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVG8wcl9TVEUyaW5CRXZrNXg3b0NvZUZoc1FYOHRPVV9EZlBBVFlxeVhNckUzYUdkWHhNNFNDbm5NVTl1VEhibjBEYzVKTHg1d2FXNDZJa0Y1bVBRVFhzeGgzT0VfNjhYa05nWEtkY0ZFa3hlT0RZNU1TeWZOcjJEUnhJTk93Z0xRNVE1T2tpQkhIVmQ4Rk5ONzVKRl85eGdPdkctdWR0QXdmVnNOOGEzblFkVVhRajQybFRLNHNVckpwcXhGZGM5R1p0eEVndHMxakwtX9IB6AFBVV95cUxQY2xrNWVTS3M4ZVVaX05Bbjc1dlZUZzhLUFpBeGc5NEhDa195THZyWDNCUXBhc3ZWMEVlYi1vUTV6NEd3NmN0UU1mNFlTaDhwX2ZNWWxyRUZ0T2NWYVJLQWFRSDVjSWpVUlBWVm00X1FZV29NcURyOW1UTy1wbjMwbFJ0UDVaQkh4R0xVYndHQTgyQWg4a2hSdmI2OHZackVuR2pNNGM4VUwzQVBQbXE5dUE1dGpnWW1jOEdKYkNKaUh3bWpGYVN3UVhpd2lMV2phSGM2cXJqckVKdnFYVlhQZFVyRVdwTTl5?oc=5",
-      "summary": "Is this 6-story proposed Easton development too big? Experts discuss at zoning hearing. &nbsp;&nbsp; Lehighvalleylive.com",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "id": "fdd13bb830b7",
+      "title": "Rapho Twp. property sold for more than $3.2M [Deeds recorded: Dec. 8, 2025] - LancasterOnline",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcS1MX2dsSU16V3FFVHdpOXdvQjR6aTlwQ3RrQ1BrTnM4NUVVMDdlVXNXcGFsMlRPSXVXZWhmWUNmOEx0YWE3S1dSV19hOXlsZ1l2OWU5QVFReHl1QjVZaE01MFYxS2liVDE0RFFObF9RTmhsa3docFhTQ252UnNpRUc3bWFweHFsYkNQMFNCVnhHVFBmWTBITlE5Tk9YanJkZUM0R2puQXYxNlNrY3pndGdUeXUxUjBPZmdJVjdpbGItaS1PMzk4Ukk0V1ppM2lycEdQMVJHVzJtbzFWamNFU0NTUTlYeFlUSEpBYk9wYXNIR0k?oc=5",
+      "summary": "Rapho Twp. property sold for more than $3.2M [Deeds recorded: Dec. 8, 2025] &nbsp;&nbsp; LancasterOnline",
+      "source": "Google News: \"Lancaster County\" (commercial real estate OR industrial OR ",
       "domain": "news.google.com",
-      "published": "2025-12-19T08:00:00+00:00",
-      "published_ts": 1766131200.0,
+      "published": "2025-12-08T08:00:00+00:00",
+      "published_ts": 1765180800.0,
       "topic_score": 4,
       "matched_terms": [
-        "development",
-        "zoning"
+        "sold for",
+        "property"
       ],
       "rank_score": 8.0
     },
     {
-      "id": "2d9fbb472d7b",
-      "title": "Bethlehem development project would bring 70 apartments, retail space - LehighValleyNews.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU0VTUGV6VzJfelF4SkhFZzB6c2ZvTExtSHdoaVpnMXdidHdjM09hYWstQkZjaGJZY3g1OHQwLWRqUEdJNUVfckxLZG44azFNMV9ScnpMTHRHZExCQzZlOEJxbTJGTV9pb29mQWFEOHJ1NjUtVWNSd3doMkhnWDA5WHN1ZlRQWWdVSWxMcGk1OUZOWEV2WmlaZWU3MTgwdkk3WGUxMnVvNDFqU1ZIQnNtVjIwMVhVTUFiZTFXZDRtWW16V01SOEVvYlQxNXEwOHVKeVE?oc=5",
-      "summary": "Bethlehem development project would bring 70 apartments, retail space &nbsp;&nbsp; LehighValleyNews.com",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "id": "757f2a327dab",
+      "title": "Alliance Custom Cabinetry and Ames Construction join forces in $2.5 million real estate deal - LancasterOnline",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPMjRMWHh5dmUtOEhGWFVWWWFkVjhENk1WSk1zUTg0T2o1WUM4NXg5LWlPMDZpbUNCcjFrMzd4ZGZoTnE0Q25wbE9McVFFN01RaDNsdXFWOFpFVzRfVnJGaTRYUk9aNFQtcnFDOG9vMEZLX1hkVHhzTDFVcTE2ZDRuV2t5UGI5bTZKRWkydEJSMWt6Rk1ZU0tTbWhtVlIxS21CU2lOOE1BdVQxT0pSaHhva3VTV3BDVldfZFR6dmZHcnNvZGtpZVc4NHJjZ1NjTzlpSlF4RTdYa2dyV2ZJc3NMMDE1SmtkS0hQUEMxTlZnVWdJUFZJaDVPbkNfY2x2QUlhdmx3ckUtZ1R1Yk5kaGNxbjZjYlRyS3E1aFJvV3VR?oc=5",
+      "summary": "Alliance Custom Cabinetry and Ames Construction join forces in $2.5 million real estate deal &nbsp;&nbsp; LancasterOnline",
+      "source": "Google News: \"Lancaster County\" (commercial real estate OR industrial OR ",
       "domain": "news.google.com",
-      "published": "2025-02-28T08:00:00+00:00",
-      "published_ts": 1740729600.0,
+      "published": "2023-07-28T07:00:00+00:00",
+      "published_ts": 1690527600.0,
       "topic_score": 4,
       "matched_terms": [
-        "retail",
-        "development"
-      ],
-      "rank_score": 8.0
-    },
-    {
-      "id": "46c793db158d",
-      "title": "Lower Macungie grants written zoning approval for North Krocks Road development - LehighValleyNews.com",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZnRJckV4cGZmT0hXTXlXMktYaF96bmk1WWRjcFl4NlkzR29rdXliWjhOQzlhbld0b3lqUkJucTAwUTI1SGdRZTRTdVBUaWtFQWJWQ3l2aFR4YUlPaDI0eU9YZHRDcC1OOGpsSzF4UmllQXZLR0RKbm5nU1BkY2I2M2JNWU9kRERMblVndlQzTXVaNUF2bE5TWWpIZDk3T01xTkMySHFRMDFJZzMwNU1aMFBTUmZ0Mk8tcVlGYXF3Y241RUJYYTlnRWxLWGFpdw?oc=5",
-      "summary": "Lower Macungie grants written zoning approval for North Krocks Road development &nbsp;&nbsp; LehighValleyNews.com",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2023-03-17T07:00:00+00:00",
-      "published_ts": 1679036400.0,
-      "topic_score": 4,
-      "matched_terms": [
-        "development",
-        "zoning"
-      ],
-      "rank_score": 8.0
-    },
-    {
-      "id": "5ae718045150",
-      "title": "Lehigh Valley Town Center update: Project making strides in land development process in Lower Macungie Township - The Morning Call",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUVBmT053Zmt3Z3N2NWthWUE5SF84X3VmLWRhNzRuWEpMc2dtVnJndHo5NEw5eVZUTWd3dmU2SXpaMUx4QTdHN3NTX2szM0RIUVhKbG1iN1lwcWJvVTlQQkRCLW4ycGRyYlNWZFJRN3R3REV6enVidV9XektZcm8tWnh4dTZybFllLXhEUHAxNnRfX1g1TndIUUxGZ2Jsa0lpWTZNbS1lR0RQR1o1cXZDd2YyZjdiUmFGcjA5UWQ5ZU8?oc=5",
-      "summary": "Lehigh Valley Town Center update: Project making strides in land development process in Lower Macungie Township &nbsp;&nbsp; The Morning Call",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2023-11-14T08:00:00+00:00",
-      "published_ts": 1699948800.0,
-      "topic_score": 4,
-      "matched_terms": [
-        "development",
-        "township"
+        "construction",
+        "real estate"
       ],
       "rank_score": 8.0
     },
@@ -1474,134 +1504,6 @@
       "rank_score": 8.0
     },
     {
-      "id": "a8b4e395ed4d",
-      "title": "30 real estate sales and leases in Harrisburg, Lancaster, York and beyond - PennLive.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZHVlcEFaX0hiRDdlaXpDa0lvdF9WTjlKcWlEMURyTEZiNGRxNi12MUVXWnpiaUd5eGVvRTAtOVQxXzU2amtYVzJRYUFtRFV3VEpfdkQzZFp4RFVkWHd6NmI5MGp6Smh3VXV4NVhmNTN1QTctNnlITHNZLUdhbTduTnh3UkszSWpWd0pFeWhQVlEwdkxfbVBJdUxUS09ZQy04aXVybHAzTkN4ZS1JWHJ6TE1YdFBTQnBzUVdKS3NIcDI4MFRlbGfSAdoBQVVfeXFMT1QyRWM5S293WVZhRGxiTk1lUFJqbWt1NG5lNUJLVTJGZ05fcVN6N1dTM3VSOV96Ylk0c1h5UE5Lal9XVWUtRDYwZXI2ZkpZa2lxQ1lzRHFsZTZsLWs4Vnp1MjFWamxpX2hFTXVvSGwyQldvMldUeUtVZTRDaHNPcHhCUS0zY0VQbmJuX1I3SUF4ekNOQ3dLcXRvUGx5UGRpWWNWcUw1SXluTkRGTURxV20wWVJVcHpmU0h1aTNhLXk5S1NkaExFLVI1YkFmcmpRR2dTVm1xNGlNOUE?oc=5",
-      "summary": "30 real estate sales and leases in Harrisburg, Lancaster, York and beyond &nbsp;&nbsp; PennLive.com",
-      "source": "Google News: \"Lancaster County\" (commercial real estate OR industrial OR ",
-      "domain": "news.google.com",
-      "published": "2025-12-24T08:00:00+00:00",
-      "published_ts": 1766563200.0,
-      "topic_score": 4,
-      "matched_terms": [
-        "lease",
-        "real estate"
-      ],
-      "rank_score": 8.0
-    },
-    {
-      "id": "fdd13bb830b7",
-      "title": "Rapho Twp. property sold for more than $3.2M [Deeds recorded: Dec. 8, 2025] - LancasterOnline",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcS1MX2dsSU16V3FFVHdpOXdvQjR6aTlwQ3RrQ1BrTnM4NUVVMDdlVXNXcGFsMlRPSXVXZWhmWUNmOEx0YWE3S1dSV19hOXlsZ1l2OWU5QVFReHl1QjVZaE01MFYxS2liVDE0RFFObF9RTmhsa3docFhTQ252UnNpRUc3bWFweHFsYkNQMFNCVnhHVFBmWTBITlE5Tk9YanJkZUM0R2puQXYxNlNrY3pndGdUeXUxUjBPZmdJVjdpbGItaS1PMzk4Ukk0V1ppM2lycEdQMVJHVzJtbzFWamNFU0NTUTlYeFlUSEpBYk9wYXNIR0k?oc=5",
-      "summary": "Rapho Twp. property sold for more than $3.2M [Deeds recorded: Dec. 8, 2025] &nbsp;&nbsp; LancasterOnline",
-      "source": "Google News: \"Lancaster County\" (commercial real estate OR industrial OR ",
-      "domain": "news.google.com",
-      "published": "2025-12-08T08:00:00+00:00",
-      "published_ts": 1765180800.0,
-      "topic_score": 4,
-      "matched_terms": [
-        "sold for",
-        "property"
-      ],
-      "rank_score": 8.0
-    },
-    {
-      "id": "757f2a327dab",
-      "title": "Alliance Custom Cabinetry and Ames Construction join forces in $2.5 million real estate deal - LancasterOnline",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPMjRMWHh5dmUtOEhGWFVWWWFkVjhENk1WSk1zUTg0T2o1WUM4NXg5LWlPMDZpbUNCcjFrMzd4ZGZoTnE0Q25wbE9McVFFN01RaDNsdXFWOFpFVzRfVnJGaTRYUk9aNFQtcnFDOG9vMEZLX1hkVHhzTDFVcTE2ZDRuV2t5UGI5bTZKRWkydEJSMWt6Rk1ZU0tTbWhtVlIxS21CU2lOOE1BdVQxT0pSaHhva3VTV3BDVldfZFR6dmZHcnNvZGtpZVc4NHJjZ1NjTzlpSlF4RTdYa2dyV2ZJc3NMMDE1SmtkS0hQUEMxTlZnVWdJUFZJaDVPbkNfY2x2QUlhdmx3ckUtZ1R1Yk5kaGNxbjZjYlRyS3E1aFJvV3VR?oc=5",
-      "summary": "Alliance Custom Cabinetry and Ames Construction join forces in $2.5 million real estate deal &nbsp;&nbsp; LancasterOnline",
-      "source": "Google News: \"Lancaster County\" (commercial real estate OR industrial OR ",
-      "domain": "news.google.com",
-      "published": "2023-07-28T07:00:00+00:00",
-      "published_ts": 1690527600.0,
-      "topic_score": 4,
-      "matched_terms": [
-        "construction",
-        "real estate"
-      ],
-      "rank_score": 8.0
-    },
-    {
-      "id": "c5ba04f48013",
-      "title": "Philadelphia-area nonprofits reshape real estate strategies with recent sales and acquisitions - The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON3FIWWFXV05ZMFA3NnZJYTU2T0VZcTRWYUsyN2R6dUFPd19qOHNBejc2VnZmRFg0MVJGdVBPeDFCMzI1UHhXdVcxSnVDS09qZ1NjcDRQM0pTam93Y0lUVldTQ2gzaE9sbEkzOFB1UHYtSDF4TUF5WGxaWXpVa0xqVUhnRlhmUGI5dnZXZU50cExOQjR0dExyby01OWxFcXNWU2h5LUtndHRMaXJ5dXc?oc=5",
-      "summary": "Philadelphia-area nonprofits reshape real estate strategies with recent sales and acquisitions &nbsp;&nbsp; The Business Journals",
-      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
-      "domain": "news.google.com",
-      "published": "2025-11-26T08:00:00+00:00",
-      "published_ts": 1764144000.0,
-      "topic_score": 4,
-      "matched_terms": [
-        "real estate",
-        "acquisition"
-      ],
-      "rank_score": 8.0
-    },
-    {
-      "id": "9e5a241770e5",
-      "title": "Amazon Fresh to open in revamped Montgomery County shopping center, documents show - The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHB0V2hEbkNXbGtHclI5YzRUYnVKZnh1Wk9kYW9BMmVZcGhkSEozZUp2cDAzbGt2blNGRjlpbzhrTW9ISFJNczhuVU5YT0ZucWRybVhic3R0OUQtYkZFcWZ4R0F2QnU2Y1pMS0daRkpUczN4aWpHVVUzUEJrN0FRTjdqZ04xRTBCS09CeTA4eEVYdVEwUXgySVZqQ3hBb0RnelE?oc=5",
-      "summary": "Amazon Fresh to open in revamped Montgomery County shopping center, documents show &nbsp;&nbsp; The Business Journals",
-      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
-      "domain": "news.google.com",
-      "published": "2022-08-30T07:00:00+00:00",
-      "published_ts": 1661842800.0,
-      "topic_score": 4,
-      "matched_terms": [
-        "shopping center",
-        "amazon"
-      ],
-      "rank_score": 8.0
-    },
-    {
-      "id": "9d87702497fb",
-      "title": "The New Norristown: 1,000 Units, Hospital Redevelopment Set To Revitalize Disinvested Town - Bisnow",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN3d2NUt2UmNJbElXVVp1cUJCUGJQZGlrVnJwLXA5SENZZmJOU2VCc1R4YmFST3FpV1NpOGw4NG1uVzYxWWY1Y1JpaElJS0RLbm5BN0pNd0hmYVVfQ21sLXc4MXNOdWY3dVBsaXF1N0hRSGRNdVUtY1BXRkxPTWlUMF94b1JqSFBHNnhEclZuNG5RVTNmQlNiUUw0WDB5WU5oaGJ6WWNxbjIxUGtpLVFscDJibG9rZ1ZCUGxmTTJ6Nm9jUWZvVnNRWTBGYUhqNEpOQjlr?oc=5",
-      "summary": "The New Norristown: 1,000 Units, Hospital Redevelopment Set To Revitalize Disinvested Town &nbsp;&nbsp; Bisnow",
-      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
-      "domain": "news.google.com",
-      "published": "2025-08-29T07:00:00+00:00",
-      "published_ts": 1756450800.0,
-      "topic_score": 4,
-      "matched_terms": [
-        "development",
-        "redevelopment"
-      ],
-      "rank_score": 8.0
-    },
-    {
-      "id": "8ef58ca9c94e",
-      "title": "New owners plan redevelopment of 340-acre Montgomery County life sciences campus - The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVC16UWN1czg2NUlUR3A0MWlpMEc4cm1ONjRrQ3hyNk5lRXQ0LUVIMVJuZl9YVHVjdU1QNVpFVHplYkVqVmw1Mmx3QnNzNDZPUnZWNUxwdXNBTklYSDNFdGQ2RnJqcTFDV3lwcnFZSUVjcVU5R1RNYnBqd3JCaGd3bUpSaUpWN3kwRUl1NUZCcDNxMkNKbXN5X3lOc3EzYUx1TTJrUTlB?oc=5",
-      "summary": "New owners plan redevelopment of 340-acre Montgomery County life sciences campus &nbsp;&nbsp; The Business Journals",
-      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
-      "domain": "news.google.com",
-      "published": "2024-05-06T07:00:00+00:00",
-      "published_ts": 1714978800.0,
-      "topic_score": 4,
-      "matched_terms": [
-        "development",
-        "redevelopment"
-      ],
-      "rank_score": 8.0
-    },
-    {
-      "id": "67f6f1c85fb6",
-      "title": "Amazon wants to build massive, multi-story distribution center in Montgomery County - The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYjVLbHRlX2FteGNqbXdVaVJ3RWM4dHBWRk8wRkg5NHNHT1ZqNHV2alNVODdqZHpoRHR6UjVBQ3MzSGlkbmhlWEhvR3BSRDRJVGdRUjgxSXg2SXoyZ1pTOFIwQk85OUdhVjBGV0wtNXI2MGxwOXpCeFA5eGFVWWkyZUxrSDExdjR6N3k4elk3c1ZCSU9UUUxmRk9ORHItSkVCT1hYV2VUOA?oc=5",
-      "summary": "Amazon wants to build massive, multi-story distribution center in Montgomery County &nbsp;&nbsp; The Business Journals",
-      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
-      "domain": "news.google.com",
-      "published": "2025-02-11T08:00:00+00:00",
-      "published_ts": 1739260800.0,
-      "topic_score": 4,
-      "matched_terms": [
-        "distribution center",
-        "amazon"
-      ],
-      "rank_score": 8.0
-    },
-    {
       "id": "a260a8b8c83f",
       "title": "Sojo Industries takes newly built Bucks County warehouse with one of region's largest leases of 2025 - The Business Journals",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQm92YkxqdHJTak5vV0NZdEpfMDdDZEpxcFFpNFJEU1NKXy1vZTNyLXhQYVVHNTlkWEIwNEIxSjB4OTQ2ak95VTRXRkRJSF9PMENjUUlncUJGaGpqY2NvdU1EV01hN19aNFFqMzhJUWl0cHNmLWZPMDFsUkluQVBXLVR5Y1Y2clFoWWRMTFpYaU5zbGl6UXlBNUdPV2VDZnFEZ0JqTkhsdHlNZw?oc=5",
@@ -1662,6 +1564,86 @@
       "matched_terms": [
         "shopping center",
         "grocery"
+      ],
+      "rank_score": 8.0
+    },
+    {
+      "id": "c5ba04f48013",
+      "title": "Philadelphia-area nonprofits reshape real estate strategies with recent sales and acquisitions - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON3FIWWFXV05ZMFA3NnZJYTU2T0VZcTRWYUsyN2R6dUFPd19qOHNBejc2VnZmRFg0MVJGdVBPeDFCMzI1UHhXdVcxSnVDS09qZ1NjcDRQM0pTam93Y0lUVldTQ2gzaE9sbEkzOFB1UHYtSDF4TUF5WGxaWXpVa0xqVUhnRlhmUGI5dnZXZU50cExOQjR0dExyby01OWxFcXNWU2h5LUtndHRMaXJ5dXc?oc=5",
+      "summary": "Philadelphia-area nonprofits reshape real estate strategies with recent sales and acquisitions &nbsp;&nbsp; The Business Journals",
+      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
+      "domain": "news.google.com",
+      "published": "2025-11-26T08:00:00+00:00",
+      "published_ts": 1764144000.0,
+      "topic_score": 4,
+      "matched_terms": [
+        "real estate",
+        "acquisition"
+      ],
+      "rank_score": 8.0
+    },
+    {
+      "id": "9e5a241770e5",
+      "title": "Amazon Fresh to open in revamped Montgomery County shopping center, documents show - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcHB0V2hEbkNXbGtHclI5YzRUYnVKZnh1Wk9kYW9BMmVZcGhkSEozZUp2cDAzbGt2blNGRjlpbzhrTW9ISFJNczhuVU5YT0ZucWRybVhic3R0OUQtYkZFcWZ4R0F2QnU2Y1pMS0daRkpUczN4aWpHVVUzUEJrN0FRTjdqZ04xRTBCS09CeTA4eEVYdVEwUXgySVZqQ3hBb0RnelE?oc=5",
+      "summary": "Amazon Fresh to open in revamped Montgomery County shopping center, documents show &nbsp;&nbsp; The Business Journals",
+      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
+      "domain": "news.google.com",
+      "published": "2022-08-30T07:00:00+00:00",
+      "published_ts": 1661842800.0,
+      "topic_score": 4,
+      "matched_terms": [
+        "shopping center",
+        "amazon"
+      ],
+      "rank_score": 8.0
+    },
+    {
+      "id": "9d87702497fb",
+      "title": "The New Norristown: 1,000 Units, Hospital Redevelopment Set To Revitalize Disinvested Town - Bisnow",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN3d2NUt2UmNJbElXVVp1cUJCUGJQZGlrVnJwLXA5SENZZmJOU2VCc1R4YmFST3FpV1NpOGw4NG1uVzYxWWY1Y1JpaElJS0RLbm5BN0pNd0hmYVVfQ21sLXc4MXNOdWY3dVBsaXF1N0hRSGRNdVUtY1BXRkxPTWlUMF94b1JqSFBHNnhEclZuNG5RVTNmQlNiUUw0WDB5WU5oaGJ6WWNxbjIxUGtpLVFscDJibG9rZ1ZCUGxmTTJ6Nm9jUWZvVnNRWTBGYUhqNEpOQjlr?oc=5",
+      "summary": "The New Norristown: 1,000 Units, Hospital Redevelopment Set To Revitalize Disinvested Town &nbsp;&nbsp; Bisnow",
+      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
+      "domain": "news.google.com",
+      "published": "2025-08-29T07:00:00+00:00",
+      "published_ts": 1756450800.0,
+      "topic_score": 4,
+      "matched_terms": [
+        "development",
+        "redevelopment"
+      ],
+      "rank_score": 8.0
+    },
+    {
+      "id": "67f6f1c85fb6",
+      "title": "Amazon wants to build massive, multi-story distribution center in Montgomery County - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYjVLbHRlX2FteGNqbXdVaVJ3RWM4dHBWRk8wRkg5NHNHT1ZqNHV2alNVODdqZHpoRHR6UjVBQ3MzSGlkbmhlWEhvR3BSRDRJVGdRUjgxSXg2SXoyZ1pTOFIwQk85OUdhVjBGV0wtNXI2MGxwOXpCeFA5eGFVWWkyZUxrSDExdjR6N3k4elk3c1ZCSU9UUUxmRk9ORHItSkVCT1hYV2VUOA?oc=5",
+      "summary": "Amazon wants to build massive, multi-story distribution center in Montgomery County &nbsp;&nbsp; The Business Journals",
+      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
+      "domain": "news.google.com",
+      "published": "2025-02-11T08:00:00+00:00",
+      "published_ts": 1739260800.0,
+      "topic_score": 4,
+      "matched_terms": [
+        "distribution center",
+        "amazon"
+      ],
+      "rank_score": 8.0
+    },
+    {
+      "id": "8ef58ca9c94e",
+      "title": "New owners plan redevelopment of 340-acre Montgomery County life sciences campus - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVC16UWN1czg2NUlUR3A0MWlpMEc4cm1ONjRrQ3hyNk5lRXQ0LUVIMVJuZl9YVHVjdU1QNVpFVHplYkVqVmw1Mmx3QnNzNDZPUnZWNUxwdXNBTklYSDNFdGQ2RnJqcTFDV3lwcnFZSUVjcVU5R1RNYnBqd3JCaGd3bUpSaUpWN3kwRUl1NUZCcDNxMkNKbXN5X3lOc3EzYUx1TTJrUTlB?oc=5",
+      "summary": "New owners plan redevelopment of 340-acre Montgomery County life sciences campus &nbsp;&nbsp; The Business Journals",
+      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
+      "domain": "news.google.com",
+      "published": "2024-05-06T07:00:00+00:00",
+      "published_ts": 1714978800.0,
+      "topic_score": 4,
+      "matched_terms": [
+        "development",
+        "redevelopment"
       ],
       "rank_score": 8.0
     },
@@ -1889,6 +1871,54 @@
       "rank_score": 6.07
     },
     {
+      "id": "afb43de9a8fe",
+      "title": "Backers for proposed 34-unit apartment building on Easton's N. 4th St. challenge zoning code - LehighValleyNews.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV0pBUV9PUnFLTlFTbEdFTXRYdDItZWQxVlZERzRCM1BhS2tJYXpnNXRUNDBqTDRHdUlwUXl0TkhsY2JpTlhMaU9ZTEF3MTI1UnplazJvaFNlclduREJGREpfdFEtZUdXd05JaXdfNTljMzM2YzJ3VWxiekVwdllMNnk1M2xtQ0p4V3lrUEl2cjhtYzFxWnlGMUlyZDJwTVdBZzdJVnAyYW9wMlFreDJHVEsxTnBRTDY1WUg4UXoyRDYwZG9jSXkxUQ?oc=5",
+      "summary": "Backers for proposed 34-unit apartment building on Easton's N. 4th St. challenge zoning code &nbsp;&nbsp; LehighValleyNews.com",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2025-12-19T08:00:00+00:00",
+      "published_ts": 1766131200.0,
+      "topic_score": 3,
+      "matched_terms": [
+        "zoning",
+        "building"
+      ],
+      "rank_score": 6.0
+    },
+    {
+      "id": "7d929a16b74c",
+      "title": "Allentown zoning officials reject group recovery home too close to similar facility - LehighValleyNews.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaWpZNU1zUWU5VU91SzRYaEtzY3hjSVNtZXlISU5tZkd1c2luNWpxaTI2dzgtcTRsOFpFalBkcmROaXVSWE9UYzBSN3JJaDcyTmV5dXd1T2Z2RFJXNnB4cGV5bWs1anVrRUlwNUhSMDJEelNhOFRWN1pzQ1ZCUjBSY01KWXU2aUpSQVI4Q1JLSFltRkxCa0hLeUw3RkVtMmRqRDltRTJod2lIR1o0VGlsUjVBN216SldGeG1CTlJCU2Y1NkQ3?oc=5",
+      "summary": "Allentown zoning officials reject group recovery home too close to similar facility &nbsp;&nbsp; LehighValleyNews.com",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2024-04-16T07:00:00+00:00",
+      "published_ts": 1713250800.0,
+      "topic_score": 3,
+      "matched_terms": [
+        "zoning",
+        "facility"
+      ],
+      "rank_score": 6.0
+    },
+    {
+      "id": "d6c80329b7e2",
+      "title": "'Junkyard' property in Allentown gets project reapproval 12 years after first OK; developer apologizes - LehighValleyNews.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMXRReFhHbDFZMnRfbFpjUWtGQzE4Z21kVThZZ1RvdTVWUUs2YVFXQjJMQjUzdDdpeE5PUlcyWnBsOGZMSWhDemVZTDFqcWZ5WlBWV3FLYnQ4cmtOdDdsZ3dFbnZva2pBLXN3MTcxZkt2Um14TUNqN0Q2RmZXX1A5cGdUNTRDQWotekRyS1VZc3lSSmwxRkh4SElhcThOUVVuZ0duNXBpNTRadktxSElROXVOOFFpX29jTV9odVRYRG1pcnlYSjdUcjFDZnUzb0xXS3ZhR0xNRVY3Zw?oc=5",
+      "summary": "'Junkyard' property in Allentown gets project reapproval 12 years after first OK; developer apologizes &nbsp;&nbsp; LehighValleyNews.com",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2025-03-04T08:00:00+00:00",
+      "published_ts": 1741075200.0,
+      "topic_score": 3,
+      "matched_terms": [
+        "developer",
+        "property"
+      ],
+      "rank_score": 6.0
+    },
+    {
       "id": "233267750903",
       "title": "Easton Town Center retail building hits the market for $11.2M - The Business Journals",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb2Zsa28tNHN1X0ljTW5aeGlZRzN3VW51c2ZzYWxqeTNsOF9zRjBoWURxOEZ3MHRZdHpzWm9JMXpTcnA1RWctUFdVU2l6UkJrRy1GN3lvSkRObXBoREJ2aDI1V1BScG0zMlVmcmctdDdZZE91VXhfRVNFS0ZBR0JaRHgtcTN5dnBuLWlEcmozamNfUG84UUVVbmk3VkxrS0xvandDVXI3Slc?oc=5",
@@ -2045,21 +2075,6 @@
       "rank_score": 6.0
     },
     {
-      "id": "5015b5c41ae9",
-      "title": "84-year-old man killed in Lehigh County shopping center crash, cops say - Lehighvalleylive.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQmxnN21IRWZlWUdqZXhocGlDcEFOQko0eFFGcVV2NTFES3EweVEzb01kLXo5VTVtRFdmaXp0VGUwamEtM2xKQ1VvUGViSHJRa0FpbjhScU9KY0R6Mm14U2swMi04S0FrV2IxS3VGZ1QxMWMzdXpWU1Z5S0JtdmpDVHBaaXRZTzBIZnFzUGFMY0kwSHlBZmhUZmkwX1B0R01SVzE4TmpZXzZaa2E1M01HUEE0Sk1SWklaazVoYWUwWEZsaWczZEl1S2xR0gHeAUFVX3lxTE5zcUZhT1pVV0JJWDhHZEc0MThzWHJ0NC01NWdBLU1sMzc3Q0VCX3Zzak9CcVp2UlVDN1FBNHMtZHMtUFJ0SlhtY2xvajVqeWFaYXEwLTQ2bDRXSjZJdkYya2g0RTNzZUdvbVBwa1kySU10WlZpRG0yd1YxR0xIbXlrWjFtdnYtUDlENkN1N3BWTW9OUVB4YVYwelF1ckhZYjhWZmVwNkM1WENSNUZqdFB0R2dxeEU3ZnNIS1pQTklTQmpPTkx4elVTUTV1cnZyZ3R6TGxGdGZnRTR2X1FEUQ?oc=5",
-      "summary": "84-year-old man killed in Lehigh County shopping center crash, cops say &nbsp;&nbsp; Lehighvalleylive.com",
-      "source": "Google News: \"Lehigh Valley\" (retail OR \"shopping center\" OR lease OR dev",
-      "domain": "news.google.com",
-      "published": "2026-03-03T08:00:00+00:00",
-      "published_ts": 1772524800.0,
-      "topic_score": 3,
-      "matched_terms": [
-        "shopping center"
-      ],
-      "rank_score": 6.0
-    },
-    {
       "id": "962a255e3a2f",
       "title": "Developer to seek more time to turn Allentown forest into 12-building apartment complex - LehighValleyNews.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQk9nazFGRVVJcjlyZnAwZkF1VUUyclRCaEhhcVo1Y0F1TlFLeGpjd3JJbmhXV2lBWEpJMGpOc2tya1BrSFRIMVpWVXpvMXFHYkMwNkUtYXVHdW9EaEY5M2kyUlhKVXZJaFJPcTZ1X09lSlpWVXJ4MllETXdKYlJHT194WXdQbWxyc2tCam81eWVGN1lDRVprSHhUNWZFVFdQWVhaNXJ1RVFpWmU5Q001UkFIaGVFamtFazhsRjdTQnFvQXVsTmhUMWtB?oc=5",
@@ -2092,18 +2107,33 @@
       "rank_score": 6.0
     },
     {
-      "id": "c4cad9b8a965",
-      "title": "Bethlehem pub reopening Friday the 13th after fire, another new Wawa and more | Open & Shut - Lehighvalleylive.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdm9Hc1NOVXdrUEJWeHR4Y2c0dU1wb3VaMzF0NnNkb1ZyeXBYSjg3aGJnbjNTbEU0c3NaWHhZc0laRks4RUhwWGp5YjcxaEFhN0tWZWtjdWp0R1JBcHhTc1VfV1NXLUUxYXdaOXdjZlFqMmdMaXVJN1dobTliZVFHQUxPZUc2UmgtdkdBNThFNGRpT1dQUU1zZXloWmI0bVIzR1hnS29SWkVkbkpTSkNTWW50NlNGTjhuUm5JT1JmcDM2Q2htNWF3dFVXWDRMZzl5Mk5GLXlTWG7SAewBQVVfeXFMT1JUMEtJcEVlejVBYTFFNVVMUnFkUERodlFiTUhjWmg2Z1JlYTZGNjNfbmNVcWhUU2RmTHo3QWhnSE93b0tLRTl3TjFLb0tmWFY5X2o4UWU4aHNvVmdVWllOMjRxY054UXJBNjJpVjRHTWREUDg3d2ZXVGQ4M0I1WmRhb3VfWWFONjFVXy1oQ0YwOHVGVnhlLTUwSmFCU0w1UXNLVUdvSFp6Ul9zZ3hSZUx2WGpVeHgtWkN5RUo1YkxybHpKRG9yTHV6Nmg4dC1qOF9fVDJkcG5fdklYVjJBamZMTnpzZEt2Z3pDSXk?oc=5",
-      "summary": "Bethlehem pub reopening Friday the 13th after fire, another new Wawa and more | Open & Shut &nbsp;&nbsp; Lehighvalleylive.com",
+      "id": "5015b5c41ae9",
+      "title": "84-year-old man killed in Lehigh County shopping center crash, cops say - Lehighvalleylive.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQmxnN21IRWZlWUdqZXhocGlDcEFOQko0eFFGcVV2NTFES3EweVEzb01kLXo5VTVtRFdmaXp0VGUwamEtM2xKQ1VvUGViSHJRa0FpbjhScU9KY0R6Mm14U2swMi04S0FrV2IxS3VGZ1QxMWMzdXpWU1Z5S0JtdmpDVHBaaXRZTzBIZnFzUGFMY0kwSHlBZmhUZmkwX1B0R01SVzE4TmpZXzZaa2E1M01HUEE0Sk1SWklaazVoYWUwWEZsaWczZEl1S2xR0gHeAUFVX3lxTE5zcUZhT1pVV0JJWDhHZEc0MThzWHJ0NC01NWdBLU1sMzc3Q0VCX3Zzak9CcVp2UlVDN1FBNHMtZHMtUFJ0SlhtY2xvajVqeWFaYXEwLTQ2bDRXSjZJdkYya2g0RTNzZUdvbVBwa1kySU10WlZpRG0yd1YxR0xIbXlrWjFtdnYtUDlENkN1N3BWTW9OUVB4YVYwelF1ckhZYjhWZmVwNkM1WENSNUZqdFB0R2dxeEU3ZnNIS1pQTklTQmpPTkx4elVTUTV1cnZyZ3R6TGxGdGZnRTR2X1FEUQ?oc=5",
+      "summary": "84-year-old man killed in Lehigh County shopping center crash, cops say &nbsp;&nbsp; Lehighvalleylive.com",
       "source": "Google News: \"Lehigh Valley\" (retail OR \"shopping center\" OR lease OR dev",
       "domain": "news.google.com",
-      "published": "2026-03-11T07:00:00+00:00",
-      "published_ts": 1773212400.0,
+      "published": "2026-03-03T08:00:00+00:00",
+      "published_ts": 1772524800.0,
       "topic_score": 3,
       "matched_terms": [
-        "opening",
-        "wawa"
+        "shopping center"
+      ],
+      "rank_score": 6.0
+    },
+    {
+      "id": "c79605282dfc",
+      "title": "Retail Watch: Find sweets and sweet nostalgia with new owner at Lehigh Valley ice cream store - The Morning Call",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc1IzbmpTM3lVOG14ckdONWttZ1dON0duaEFtQmJvNjRMeFV5VFdZbllaNmxVRk5LRnRLdUdNQV9NdG52TmVzSDd6U0FxcnpOeU5RdVhGRUliLWNHUG16dkRnaDFDUWtGVzZhczFrcTczWmpCc1d3VUhUbXdNM0FyNERpQ0VmXzRDbUh4Uk9teWJYWXlzY0Y3cVJLN2duakNIN2hMNjZidG9NcFdOSGN5c1B6blNRRVRmNzhpeEZRenNydEFy?oc=5",
+      "summary": "Retail Watch: Find sweets and sweet nostalgia with new owner at Lehigh Valley ice cream store &nbsp;&nbsp; The Morning Call",
+      "source": "Google News: \"Lehigh Valley\" (retail OR \"shopping center\" OR lease OR dev",
+      "domain": "news.google.com",
+      "published": "2026-01-03T08:00:00+00:00",
+      "published_ts": 1767427200.0,
+      "topic_score": 3,
+      "matched_terms": [
+        "retail",
+        "store"
       ],
       "rank_score": 6.0
     },
@@ -2361,101 +2391,6 @@
       "rank_score": 6.0
     },
     {
-      "id": "afb43de9a8fe",
-      "title": "Backers for proposed 34-unit apartment building on Easton's N. 4th St. challenge zoning code - LehighValleyNews.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV0pBUV9PUnFLTlFTbEdFTXRYdDItZWQxVlZERzRCM1BhS2tJYXpnNXRUNDBqTDRHdUlwUXl0TkhsY2JpTlhMaU9ZTEF3MTI1UnplazJvaFNlclduREJGREpfdFEtZUdXd05JaXdfNTljMzM2YzJ3VWxiekVwdllMNnk1M2xtQ0p4V3lrUEl2cjhtYzFxWnlGMUlyZDJwTVdBZzdJVnAyYW9wMlFreDJHVEsxTnBRTDY1WUg4UXoyRDYwZG9jSXkxUQ?oc=5",
-      "summary": "Backers for proposed 34-unit apartment building on Easton's N. 4th St. challenge zoning code &nbsp;&nbsp; LehighValleyNews.com",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2025-12-19T08:00:00+00:00",
-      "published_ts": 1766131200.0,
-      "topic_score": 3,
-      "matched_terms": [
-        "zoning",
-        "building"
-      ],
-      "rank_score": 6.0
-    },
-    {
-      "id": "7d929a16b74c",
-      "title": "Allentown zoning officials reject group recovery home too close to similar facility - LehighValleyNews.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaWpZNU1zUWU5VU91SzRYaEtzY3hjSVNtZXlISU5tZkd1c2luNWpxaTI2dzgtcTRsOFpFalBkcmROaXVSWE9UYzBSN3JJaDcyTmV5dXd1T2Z2RFJXNnB4cGV5bWs1anVrRUlwNUhSMDJEelNhOFRWN1pzQ1ZCUjBSY01KWXU2aUpSQVI4Q1JLSFltRkxCa0hLeUw3RkVtMmRqRDltRTJod2lIR1o0VGlsUjVBN216SldGeG1CTlJCU2Y1NkQ3?oc=5",
-      "summary": "Allentown zoning officials reject group recovery home too close to similar facility &nbsp;&nbsp; LehighValleyNews.com",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2024-04-16T07:00:00+00:00",
-      "published_ts": 1713250800.0,
-      "topic_score": 3,
-      "matched_terms": [
-        "zoning",
-        "facility"
-      ],
-      "rank_score": 6.0
-    },
-    {
-      "id": "d6c80329b7e2",
-      "title": "'Junkyard' property in Allentown gets project reapproval 12 years after first OK; developer apologizes - LehighValleyNews.com",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMXRReFhHbDFZMnRfbFpjUWtGQzE4Z21kVThZZ1RvdTVWUUs2YVFXQjJMQjUzdDdpeE5PUlcyWnBsOGZMSWhDemVZTDFqcWZ5WlBWV3FLYnQ4cmtOdDdsZ3dFbnZva2pBLXN3MTcxZkt2Um14TUNqN0Q2RmZXX1A5cGdUNTRDQWotekRyS1VZc3lSSmwxRkh4SElhcThOUVVuZ0duNXBpNTRadktxSElROXVOOFFpX29jTV9odVRYRG1pcnlYSjdUcjFDZnUzb0xXS3ZhR0xNRVY3Zw?oc=5",
-      "summary": "'Junkyard' property in Allentown gets project reapproval 12 years after first OK; developer apologizes &nbsp;&nbsp; LehighValleyNews.com",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2025-03-04T08:00:00+00:00",
-      "published_ts": 1741075200.0,
-      "topic_score": 3,
-      "matched_terms": [
-        "developer",
-        "property"
-      ],
-      "rank_score": 6.0
-    },
-    {
-      "id": "b6dc3c53d9eb",
-      "title": "See how much Lehigh Valley properties sold for in the last 30 days - The Morning Call",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qcWdubDNiM0VBOXhndHV6ZWVrQTFRT1N6dXFUMjlNTk5XWmt2SnBWeE5NTXdaWWwzaGpST2pGbmtaRnE5a0p2T3BlRnFjU21lSXBWU1M0X1Zucjlqb0xqX2huZlFTdzIxdER5cnhjUFVQT1RBcl9zanpFZ0o?oc=5",
-      "summary": "See how much Lehigh Valley properties sold for in the last 30 days &nbsp;&nbsp; The Morning Call",
-      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
-      "domain": "news.google.com",
-      "published": "2025-08-09T07:00:00+00:00",
-      "published_ts": 1754722800.0,
-      "topic_score": 3,
-      "matched_terms": [
-        "sold for"
-      ],
-      "rank_score": 6.0
-    },
-    {
-      "id": "00d1808c9ce8",
-      "title": "With an Amazon data center out of the picture, will Lehigh Valley developer find another? - The Morning Call",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0aEYxYmJHcERTTGhaaHBWS19YZnk2QUtvLU44TmhFS1h5T1FnZG94Y3lhMjBSQ2x0NDRlX0FNVDNOMjNOdXJwYkVDRnlrLThPaU8tazF6S0VvMGZMbmZjVGJLeHI0dkRKOENZbm9ZTDNKcFZLM2YtWU1OUTFudw?oc=5",
-      "summary": "With an Amazon data center out of the picture, will Lehigh Valley developer find another? &nbsp;&nbsp; The Morning Call",
-      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
-      "domain": "news.google.com",
-      "published": "2025-06-08T07:00:00+00:00",
-      "published_ts": 1749366000.0,
-      "topic_score": 3,
-      "matched_terms": [
-        "developer",
-        "amazon"
-      ],
-      "rank_score": 6.0
-    },
-    {
-      "id": "b7bfb8755181",
-      "title": "Food-manufacturing building, medical office in revised plan on Bethlehem Township's agenda - WFMZ.com",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOMy1sVlN4TVE0NDB0U25zVGtRbDdZblB2U2FvSHF4YWFXaWdoeDFWSk5uY052RS0xSnZNNGstRXNMV3BBYXpCXy03MjhHekJlU01FNjhtZkFyMUREUUUwV25tS0ZmZ1RxSEhQV2NNS1ZJMUJMMUd1My13dkViVWswQVdQNlJuZW5Ya0VsY3RUNFZ3NnBVcE12Qmc0eDZjV1Q0OHR4ZGlpVnY5TWp2VWh5WVJmcmIxZ2dDTy1uSmxsR1NtR0NiRVVjcC16Y1NyVVZTaGxyb3ZLbkF5R0ZZbzlldm9UNXFUT3JZck0xZzRCcHhGdjBlWlktT0FDT2V1dUJoOWNINE01NXJjOGRTSF9Z?oc=5",
-      "summary": "Food-manufacturing building, medical office in revised plan on Bethlehem Township's agenda &nbsp;&nbsp; WFMZ.com",
-      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
-      "domain": "news.google.com",
-      "published": "2024-04-09T07:00:00+00:00",
-      "published_ts": 1712646000.0,
-      "topic_score": 3,
-      "matched_terms": [
-        "township",
-        "building"
-      ],
-      "rank_score": 6.0
-    },
-    {
       "id": "0380c6c6f758",
       "title": "Plans for another big Lancaster County shopping center hinge on more new homes - Rock Hill Herald",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OS3BJeFFMY0k2ZURyc2pNQS1yeGk1d1lSS2djMUM0ZzFqZ0lOQ3RWcUo3dGN2dHZ5dmI0bHdFRkQwWktCTlZBamt0c2xQQ1BpTmFBYjlKdndIbF9YZWM2eEU1MVlPb1paelI4TlhOZjVoZ9IBckFVX3lxTE9JcnJmX2xFYjJIWXlSMG03RDBtbTdxZlR0SGR3bUpaSWFTbTU4NEtlWFVKbUY2WkNQQ0dTdXRYZTBDVTBVb1FOV19nRFY0c3k1NW92S0J3RG95cTAzYUY4RW9CdEtMYWJaTml3TklqUWs2Zw?oc=5",
@@ -2547,17 +2482,48 @@
       "rank_score": 6.0
     },
     {
-      "id": "7dc8b9bd5429",
-      "title": "2-building Montgomery County industrial complex sells for $29.25M - The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS0lQM0pzUmtFOWpOQnV3NXFYTndkdUUybVRWbU9hYWMzM05OVUdudXVQYnBkT2ZYTFZINGFDVWFmUFMtWHN6ZjkyV0Y0Q09vSWhiWF9wUW1RVXE3eU0wNVN5Z1NjblpzemxteEN0VmR2aUpDTFNscVlNb3hKWXNuaFlTQ3dQa1JKRXlxWkpscGoyUmxPNHVfbG5FUGMtYWVtWnpodEI0Vmp5aTJrWndR?oc=5",
-      "summary": "2-building Montgomery County industrial complex sells for $29.25M &nbsp;&nbsp; The Business Journals",
-      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
+      "id": "b6dc3c53d9eb",
+      "title": "See how much Lehigh Valley properties sold for in the last 30 days - The Morning Call",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qcWdubDNiM0VBOXhndHV6ZWVrQTFRT1N6dXFUMjlNTk5XWmt2SnBWeE5NTXdaWWwzaGpST2pGbmtaRnE5a0p2T3BlRnFjU21lSXBWU1M0X1Zucjlqb0xqX2huZlFTdzIxdER5cnhjUFVQT1RBcl9zanpFZ0o?oc=5",
+      "summary": "See how much Lehigh Valley properties sold for in the last 30 days &nbsp;&nbsp; The Morning Call",
+      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
       "domain": "news.google.com",
-      "published": "2025-11-25T08:00:00+00:00",
-      "published_ts": 1764057600.0,
+      "published": "2025-08-09T07:00:00+00:00",
+      "published_ts": 1754722800.0,
       "topic_score": 3,
       "matched_terms": [
-        "industrial",
+        "sold for"
+      ],
+      "rank_score": 6.0
+    },
+    {
+      "id": "00d1808c9ce8",
+      "title": "With an Amazon data center out of the picture, will Lehigh Valley developer find another? - The Morning Call",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB0aEYxYmJHcERTTGhaaHBWS19YZnk2QUtvLU44TmhFS1h5T1FnZG94Y3lhMjBSQ2x0NDRlX0FNVDNOMjNOdXJwYkVDRnlrLThPaU8tazF6S0VvMGZMbmZjVGJLeHI0dkRKOENZbm9ZTDNKcFZLM2YtWU1OUTFudw?oc=5",
+      "summary": "With an Amazon data center out of the picture, will Lehigh Valley developer find another? &nbsp;&nbsp; The Morning Call",
+      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
+      "domain": "news.google.com",
+      "published": "2025-06-08T07:00:00+00:00",
+      "published_ts": 1749366000.0,
+      "topic_score": 3,
+      "matched_terms": [
+        "developer",
+        "amazon"
+      ],
+      "rank_score": 6.0
+    },
+    {
+      "id": "b7bfb8755181",
+      "title": "Food-manufacturing building, medical office in revised plan on Bethlehem Township's agenda - WFMZ.com",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOMy1sVlN4TVE0NDB0U25zVGtRbDdZblB2U2FvSHF4YWFXaWdoeDFWSk5uY052RS0xSnZNNGstRXNMV3BBYXpCXy03MjhHekJlU01FNjhtZkFyMUREUUUwV25tS0ZmZ1RxSEhQV2NNS1ZJMUJMMUd1My13dkViVWswQVdQNlJuZW5Ya0VsY3RUNFZ3NnBVcE12Qmc0eDZjV1Q0OHR4ZGlpVnY5TWp2VWh5WVJmcmIxZ2dDTy1uSmxsR1NtR0NiRVVjcC16Y1NyVVZTaGxyb3ZLbkF5R0ZZbzlldm9UNXFUT3JZck0xZzRCcHhGdjBlWlktT0FDT2V1dUJoOWNINE01NXJjOGRTSF9Z?oc=5",
+      "summary": "Food-manufacturing building, medical office in revised plan on Bethlehem Township's agenda &nbsp;&nbsp; WFMZ.com",
+      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
+      "domain": "news.google.com",
+      "published": "2024-04-09T07:00:00+00:00",
+      "published_ts": 1712646000.0,
+      "topic_score": 3,
+      "matched_terms": [
+        "township",
         "building"
       ],
       "rank_score": 6.0
@@ -2605,6 +2571,22 @@
       "topic_score": 3,
       "matched_terms": [
         "shopping center"
+      ],
+      "rank_score": 6.0
+    },
+    {
+      "id": "7dc8b9bd5429",
+      "title": "2-building Montgomery County industrial complex sells for $29.25M - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS0lQM0pzUmtFOWpOQnV3NXFYTndkdUUybVRWbU9hYWMzM05OVUdudXVQYnBkT2ZYTFZINGFDVWFmUFMtWHN6ZjkyV0Y0Q09vSWhiWF9wUW1RVXE3eU0wNVN5Z1NjblpzemxteEN0VmR2aUpDTFNscVlNb3hKWXNuaFlTQ3dQa1JKRXlxWkpscGoyUmxPNHVfbG5FUGMtYWVtWnpodEI0Vmp5aTJrWndR?oc=5",
+      "summary": "2-building Montgomery County industrial complex sells for $29.25M &nbsp;&nbsp; The Business Journals",
+      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
+      "domain": "news.google.com",
+      "published": "2025-11-25T08:00:00+00:00",
+      "published_ts": 1764057600.0,
+      "topic_score": 3,
+      "matched_terms": [
+        "industrial",
+        "building"
       ],
       "rank_score": 6.0
     },
@@ -2737,22 +2719,6 @@
       "rank_score": 6.0
     },
     {
-      "id": "d208f6b5eeb8",
-      "title": "Popular cigar retailer planning to open \u2018world\u2019s largest cigar store\u2019 in Bethlehem - WFMZ.com",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNcUNuLXhMRkVIN000cW1HeGlOdEtzNTc5NGg5b1Z4RXFUSDU1dlBKRlFRbW1EYnE1RXp2UUpXem1PRHdzYy02SmFaYVVQcnloZzdocjJvdkU1c1RQZnM5eGJnU3RNNXFNVXBOaFYxaVd0UUE2RzcxV291aGdNRloyQzhGVVFZN2lodlp0WXZsZnoybVQxbmJoVmY5NUNEQjR2ZXdXSGVoWENkSFhvdXE0SlZScjMxanRrc3lLMHdjWVRjdlZPOERKSGNjM0xpeVdYT1FRWktGNEE3dFZMeW5Fd1haREdxVzJyRmtxNm9ONUh3VVl0aU5IVWp1enF5em1UcHZiMQ?oc=5",
-      "summary": "Popular cigar retailer planning to open \u2018world\u2019s largest cigar store\u2019 in Bethlehem &nbsp;&nbsp; WFMZ.com",
-      "source": "Google News: Pennsylvania (groundbreaking OR \"broke ground\") (retail OR o",
-      "domain": "news.google.com",
-      "published": "2026-03-25T07:00:00+00:00",
-      "published_ts": 1774422000.0,
-      "topic_score": 3,
-      "matched_terms": [
-        "retail",
-        "store"
-      ],
-      "rank_score": 6.0
-    },
-    {
       "id": "240354b15b9e",
       "title": "LVHN sells Bethlehem Twp. medical building for $40.2 million as part of sale/leaseback transaction - WFMZ.com",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPVXItdlhObWIyTlNEdDl0WmE2bTVrRTh3N2F4SXZoMmVDWXh4X0c5TnM5MmVLMUpUb0FUMGk5b3k2NTZOalJNR3o0QWVTX2ZTY25ZVmJMVzBfZmZ5RENSbEEwWms2LXBST1F2REtwVXJaX29qWlpRdmVQZW1uQmJoVG9lTHNfbFhxc3dGNGZwUUFJY2NtQ1M3OEI3dm9kWnRpOVp6RWtMLTlZXzB1UFpKYngwcTQ0MHB4aDl5Wm1tLWpHNlN1MHFWOFpaQ2o2djdxRThlU2J3VHFnUVc1d0VZYk1wbTlQc2s2aDJtWHhVY1JqZzdRcldfSEt2cDhOZ0QzYkxZVENhS1ozQQ?oc=5",
@@ -2769,21 +2735,6 @@
       "rank_score": 6.0
     },
     {
-      "id": "b9e62aa28580",
-      "title": "As American malls fall out of fashion, Lehigh Valley shopping centers continue to adapt - The Morning Call",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOODcxWmJIMzdFVUtYMkQwY3ZnTGp5SjFsTjJ0NngtZFYwQU1Ubm5DSklPUnlYOW1oaHZjaDRUWkVnODNpejJ3eVBKX3pGdDNlNVJ3T0U5V0thUXp6TGJwQ2Z6dXhHb3Uxdms5OW51MDRYZzU4SWNrbWFyZlJua25EU3AwaWUyb2EtSjJnM3VYdmxLZzRLS2JuSklLMFNsUUdFalVhZkJMX0E5Z3RwUjRtcmZOMG80Rmk1UHFlQw?oc=5",
-      "summary": "As American malls fall out of fashion, Lehigh Valley shopping centers continue to adapt &nbsp;&nbsp; The Morning Call",
-      "source": "Google News: \"Lehigh Valley\" (medical office OR healthcare real estate)",
-      "domain": "news.google.com",
-      "published": "2022-01-14T08:00:00+00:00",
-      "published_ts": 1642147200.0,
-      "topic_score": 3,
-      "matched_terms": [
-        "shopping center"
-      ],
-      "rank_score": 6.0
-    },
-    {
       "id": "e2d37403d4c3",
       "title": "UK-based kitchen retailer closes American locations, including in the Lehigh Valley - The Morning Call",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYl9zdXMwRTktaWw1NXM0S0paSEJ4ckdCV0tSUFU3R2d2RFlUd2p2Nm16VFBOLWQ2MlFiSEdXY0FSMW0xcEcxZjVLLVFqQjRHeEZ0MUtONmtoQXJWSmFGbmNTTFFfMEZYZU0xWlU2S2lUckdOcXZ0U3ZsbnF1MktYTWJXdE91bk8tbUdDbHdYZ3YwTnZmOF9Mbng1VS13c2hfb211ejdxZGVBYk9wM2hUV2c1R21ZV0k?oc=5",
@@ -2796,7 +2747,22 @@
       "matched_terms": [
         "retail"
       ],
-      "rank_score": 4.74
+      "rank_score": 4.73
+    },
+    {
+      "id": "f6e969ad6204",
+      "title": "GLVCC real estate event talks wins, trends and trouble spots | Allentown Area - WFMZ.com",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNQi1RQVl1WTBkbHA4cmpOb3NNemVBQ2EycU01aXdvMV9nQXNQOGhGVWRRMjBYZFBEa1dDcU5FTGRMaUZiQUQ4cmtUbFc4SDRXV0dqN3hObGh0WFRKcmtwMEdPbG95QjNfN0FsNklvOUJsQzJBc3ZQUHBRRFFtODd3YVZxbVp5SlFRemh1WWg2Y3ZEWmJqeTUxd01zY1FlUU5ON0pMNFZaM0k5OEtiUFhNMmFJanlaa1RsN3JHREtwcm9zTHc3c1AzN1pHQlp0TnNrYTAySk1XcGFJUVRHTGlZTXNsQU9walJWRzl5QVZtUE9fSEtKZFJ5ZEZzcVBOd1g3eFc1elZnQkJzdHVfRlVr?oc=5",
+      "summary": "GLVCC real estate event talks wins, trends and trouble spots | Allentown Area &nbsp;&nbsp; WFMZ.com",
+      "source": "Google News: \"Allentown\" OR \"Bethlehem\" OR \"Easton\" (commercial real esta",
+      "domain": "news.google.com",
+      "published": "2026-04-22T07:00:00+00:00",
+      "published_ts": 1776841200.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "real estate"
+      ],
+      "rank_score": 4.07
     },
     {
       "id": "c2008f58527b",
@@ -2812,6 +2778,396 @@
         "construction"
       ],
       "rank_score": 4.07
+    },
+    {
+      "id": "712cab910545",
+      "title": "LVHN zoning request advances for legal review - Lehigh Valley Press",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU3JBeHNIaTNnOTFuLTk5VTJmbzBwZGJGRlpmMzdxOWx1TU9LLWxmSXlVaWNxX1A4SjIxcHloakhXS3VMdU9UUU1Zbi0xcHRNLVNoS08yb2h4ZFQ2RW1vZ1o1eE5PbXlCYlZvWDlOaFJDUVhEUFFTYWZTRWhpTFNkanYwV1N5Zw?oc=5",
+      "summary": "LVHN zoning request advances for legal review &nbsp;&nbsp; Lehigh Valley Press",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2026-01-28T08:00:00+00:00",
+      "published_ts": 1769587200.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "zoning"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "cf1dc9cc368d",
+      "title": "Public hearing on Upper Milford zoning ordinance May 21 - Lehigh Valley Press",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdEtKRXVRVWVwYkZ6ZUloREVsY1ptY3kyS2VrbEJCSHJ5dlVicWFibi1Za2ltWXk1V3FuanNnTlQ2YXEtOEc4NXhaakc0b0pBMXUtSzVYOUZPMFhocGVMTHUyd0RWZEV2NWtvTUFFU2dMamYxV3BHWVp0UFh2c3B2dF85dGxKYTN0WmtTYjZVS3BJRDg?oc=5",
+      "summary": "Public hearing on Upper Milford zoning ordinance May 21 &nbsp;&nbsp; Lehigh Valley Press",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2026-03-06T08:00:00+00:00",
+      "published_ts": 1772784000.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "zoning"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "bea0176f9fcf",
+      "title": "With massive data center proposal looming, Upper Macungie amends zoning with regulations - WFMZ.com",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOdU5yUmx5MzQtbVE1OFJTRXRPTHBYalBReFA5OXhFaWNMSFl0MVhWU2FCcUp0WHZUTlc4MExVLWEzalBwaXpIRFVFTWU3VnhDOFZucklGeGxmaS1BamtCWDlaMUtuNWdfejRmN0p3NjhYSVZqYkUyeHJVc2hyMHpJTUp1TE44R01XUWNKelZrQXVfcjVnbHpaTXYzdWhRaE1XSTFESjNKNXFVRy1sdExJXzcwVkRqd09ob2xDaEc5ZG1pd3l6ajIxeUxDVDV3RFd1clYyZG92RFl5b05kUDlscXU5SVhTSi1nXzItTTBHUnJadXR5VzFiRnkzVTlWMm9oM3lYdi1tM3lqamVKczFQRnFlMFdHTHIzemRzOVFaVExESkRCUGhYOFR0OUdfZnFxX0E4N01uR256Zk10Wmc?oc=5",
+      "summary": "With massive data center proposal looming, Upper Macungie amends zoning with regulations &nbsp;&nbsp; WFMZ.com",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2025-12-05T08:00:00+00:00",
+      "published_ts": 1764921600.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "zoning"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "359a2dba4dfe",
+      "title": "Hamilton dental office, zoning ordinance discussed - Lehigh Valley Press",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTmVETkNoeDR5c2k5eWdQYnBNc2xwLXZUOUNCWFBULUMwTS03aGlUcEtPMU9xdk9uZzI3MXlpa3VfN1ROVkJ0RmVXSUpnZXV1cXdRWEVFVl92bFpMa0l0dE9JVXBRbVJrS08wN2JyX2VFVGlCU2RrMGpiUzRiT25KMzZ5WWZHVzlWSnow?oc=5",
+      "summary": "Hamilton dental office, zoning ordinance discussed &nbsp;&nbsp; Lehigh Valley Press",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2026-02-19T08:00:00+00:00",
+      "published_ts": 1771488000.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "zoning"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "39439213f5b0",
+      "title": "North Whitehall Twp completes hearing on zoning challenge - Lehigh Valley Press",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQWZ0U21hTkFHODBIQk9iTmtHSTJ2UDhxWFROM2ZKQVRTNE81cFpCZWFybXZEVXN0cUpHRTBiOURjQ0lxMzhjUWp5empJcVFsR2NTeG1ySWxwOTJwS3o5Q2NPaHZSMUlVSFU1UTVkYnNjc085LWk1MS01X3htZ0ZlMlZ3U1lONXhmdGstVFY1dkFaNW5vc0E?oc=5",
+      "summary": "North Whitehall Twp completes hearing on zoning challenge &nbsp;&nbsp; Lehigh Valley Press",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2025-12-21T08:00:00+00:00",
+      "published_ts": 1766304000.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "zoning"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "1a347bdadf40",
+      "title": "Allentown zoning code in line for overhaul as council backs extensive update - LehighValleyNews.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOWtlZU41M0xMX2ZrTnVvdlhaaGw5SkdrYXY3aEpxUk1DeTdxUkdCMTFIdkFQSDFxam1JLTBHcHk2SVA2MUlybEt0Y01tclNfT1NoVXBTUmpmeTQ5TmtuYkVNSk9FclZkX3lBczd4YURvQWhNbnNJZWdZaTY1R0Z0ajJrTE1qSHlYMXJxa3RRaENsU2pJZjRPNi1UY1ljaFdrQXZHbXNBd0diMVJwRTVja0dRdUxZVDAxQldn?oc=5",
+      "summary": "Allentown zoning code in line for overhaul as council backs extensive update &nbsp;&nbsp; LehighValleyNews.com",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2025-09-25T07:00:00+00:00",
+      "published_ts": 1758783600.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "zoning"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "2f9d83c78cee",
+      "title": "Bethlehem Environmental Advisory Council hears presentation on new land development ordinance - LehighValleyNews.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdVBVbEtoS0lNQWMxQzI0UE9HTDZaNGRsQ182R2QxUEc4NXVhMkt3ZEk5YXNuU2J1T0J4Z3RyYnAyNFJqV2dsa25uYTVBdzdSM1RNTFlUdTR2ajhrcHRsVjUtUWlFd0hCMzE4TGVBbnIxcFVMaVEwX3FVVWViMHFzVU01eHBVLVF5VXhTcWc0OGdqQUwxNEdpNEpmS1J1aEdaeTdpazhMeDN2dzEyTC0wT2FoaVFjOEctRGJwaDM5U3p4X2FEMXVNUWlVUzBWZFR2WVU0djNYWGc1Y0dPSVNR?oc=5",
+      "summary": "Bethlehem Environmental Advisory Council hears presentation on new land development ordinance &nbsp;&nbsp; LehighValleyNews.com",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2025-11-07T08:00:00+00:00",
+      "published_ts": 1762502400.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "development"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "6fa2ec8f1a9a",
+      "title": "Allentown seeks more feedback on comprehensive zoning rewrite - LehighValleyNews.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQl9udzhPaXhwUEJ3Z2pZbHdiMWlMSW5oNnZpT0lkeWwxaFRFYm1pU1FGb3phMVR5VWd3RXJVbHNzQ0lUSkl1Y1p0OWRSbmpKU0x2SlZqM3JFQzgzcHU3M213Qmc5U0psMjhaTzI1ckFfLVdpaWhXak4yT2VERklwWFh4YVZJLU16MmVDbEdEWm9uZURrRlpDUG5RZ1hLU0lLRTJiYURfOA?oc=5",
+      "summary": "Allentown seeks more feedback on comprehensive zoning rewrite &nbsp;&nbsp; LehighValleyNews.com",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2025-07-06T07:00:00+00:00",
+      "published_ts": 1751785200.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "zoning"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "ac82efd4eb7a",
+      "title": "Upper Macungie proposes data center ordinance as it faces plans for development at former Air Products headquarters - The Morning Call",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZGx1eVVwWHRqNnJOWUx5MEVhVHAtQ1hhZTRKSWxoNGxNVmtxZXYwVkctbUg1ZU9RTDgyM3p3N0RMTWd6S0dtR1lMOUFnYTA5N1pjUlJRUGJRaUpQaHF3clROQUhNX01wUkN1Yml3UTdQSkxwdjlIQ19BNTB4cEYzM2hWdnFlTzFYdEZYY0VVZWY4RWUtRjBkYW5tNlNZT191b1FaT2VtYlFRajNyb3hWeTdXUTJ4NWcyOGRBay1R?oc=5",
+      "summary": "Upper Macungie proposes data center ordinance as it faces plans for development at former Air Products headquarters &nbsp;&nbsp; The Morning Call",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2025-11-17T08:00:00+00:00",
+      "published_ts": 1763366400.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "development"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "4ec5269d47b7",
+      "title": "Phillipsburg amends zoning to allow residential uses along Route 22 - Lehighvalleylive.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLUxwQzhza1FaM2g1Q3RBVGR6WTJIaXppTUIyd3BTMEEzTlNOejRwck54cGx3TE1GNHVQd1ZqZHV5VDBoSVJoZEZYRWpVb3pmaFQyMFBRZ0FpYlpzdXV1RTBJczVWT2FhWE5QbW1TY3VvdG1tSVZKdjBrT2pvWVhkcVFzaWVHMlliaUdDV3llNFBaQVdhdnhvQi1mUGhOcElwcHVTTEFRZ3kwZmlnNmpWLVVudnFXS2RCMW9XaE9Vb3pzcEt5bnfSAdoBQVVfeXFMUGpEUWdLSzUyVHc3djJlQ3p3TlRGQXo3cW9oaHZHSVlvZEJsNmFYZXhYU0hUZ3ZfdlUzdEU2UWJTUzV6SzlZcUNOVE5LZFNLU3hJSDVQSHdaenlWenhtM05OMHhXMmVEeVByUklpX1NmWGY3ZXU4WG1HbTd3MF92NVRJc3U4U0lKaXhRbVFXYmtRVV91LTF3LVhZWDZOenk5aFVORGc0R3hMVUNxSmtFSGlrNVp5NFJ1OG5ZUS0zaU9SZlpLZXN5ZkgxdWZLUFV6d0tsbUVfeGlZTlE?oc=5",
+      "summary": "Phillipsburg amends zoning to allow residential uses along Route 22 &nbsp;&nbsp; Lehighvalleylive.com",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2025-10-30T07:00:00+00:00",
+      "published_ts": 1761807600.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "zoning"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "1815653b29a2",
+      "title": "Bethlehem Zoning Board votes on several housing projects - WFMZ.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNeXFTU0NhaFotZjQtTXNBOXhsUG9oVXRCWDN1dkdJMHlfNElmWUJraURPdmNPMGtZeUlMeVY4eTVSYXYtYnpNajR3MFpuWXZXRUppTGJpbkp2MGF4cWpqM0JjTlhzbGlvZGZXX1ZmNWFBTC1QX1dxc3RWWWFzdGtwQW5GMkY2bURZRmM1UjBwZ19ib2tsai1pampZVHNmYVVNbVdfUEttdWpCYTljTjljQnJ0VFloWFctOTY0bmpVTVY3SkxEaGdfekxQYV9ING1aQ1JESExxSDlNUUpCZDVqTmF4WTFGNklVc2dhRlB3OUZvelBpUERuT1NoYWRLdGJXNGNxd3FpSkhjVlk?oc=5",
+      "summary": "Bethlehem Zoning Board votes on several housing projects &nbsp;&nbsp; WFMZ.com",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2025-09-25T07:00:00+00:00",
+      "published_ts": 1758783600.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "zoning"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "fc4e4829880f",
+      "title": "Opponents say proposed Wood Avenue warehouse in Easton will pose flood risks - Lehighvalleylive.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQTlITFpjN2JvUm5qQmhoQkw3eUNuM2dYV3RDZnU0SnBlTk5RQXN3U0pNRFc1ME5GZXZQREZ3TVlOV1FjWDZLN2FLVzFVb0lEaEp4VHVvOG9jYW5rQVI3M0d1d3IxZGp4M0NxRzYydm5aaEVkZ3pwQm9rbGMzbFRON2JUMUhCNUItSlZma1RjaFlJckhSOGlMdFlCRUY1eDcyNkR3X0tjT3A4TnE1LXVwZnVZVzJQLVcwTWV4LTdXTkxYMTRjVGtTWdIB3AFBVV95cUxOV216V0ZKSnFVakE4OWhPTkhpaHZwS3RFSmJpTlVocXE4WFBaX015MjRRdEQ4Q2NNaWN6RmwwUWZHRnNVRGx3VWI3Q3ZHdnRXVmJ2cXJTQ0gyYWRqM0dFbGNIekJEQjNyRWlMbE9MY0s3ZzVPenpHM2doSmVfQWVnR1JkUEloU3lvTldUWmFyQy1LTm1kel9KbVdlZU5SdmRaSlZ3S0Zmakl6eXVxSElaQUI0ZjhMMmxSX0ZTT2pVYVNZdWRrU3RqZTBkY0ZyajI2YWw3amdrQkZrUHlt?oc=5",
+      "summary": "Opponents say proposed Wood Avenue warehouse in Easton will pose flood risks &nbsp;&nbsp; Lehighvalleylive.com",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2025-10-28T07:00:00+00:00",
+      "published_ts": 1761634800.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "warehouse"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "abdcbe2946a9",
+      "title": "David Jaindl outlines vision for Lehigh Valley development - Lehigh Valley Business",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbkNKc0Eza09LZGE5WkxITGhWMkQ2YXoxa1NHMml1Ym9UZFpwVndZdDdTUjNRamNvbkk3VGlkanNBZWExS3dvUjNNQjdXOElfdGpZU2Zhd3NWV0FiOTBJR1JDbTZWd09fNDZ6VWZ5YUszQlY2dkVWUGtGajFYLVV2VA?oc=5",
+      "summary": "David Jaindl outlines vision for Lehigh Valley development &nbsp;&nbsp; Lehigh Valley Business",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2025-11-21T08:00:00+00:00",
+      "published_ts": 1763712000.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "development"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "f4a42dca12f8",
+      "title": "Easton residents bring attorneys to challenge Wood Avenue warehouse proposal - Lehighvalleylive.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRHhzSzViSjBScXBOeVY5aUl1TlhSczQ1QmpXQ0dCZllJX1VVUmZHdWpMRG9STVNoQmRzMGNjTElQSG9OVmhUMGVVbFN4RGRfS0NILVNfTTNpOG5lenpEZVJkXzVIaWNKX0g1NXV4RmQwQzdRa29KSjR1dmtxSlZpNEpRX25qNGFVbS1WRjFWT2ZDUWo1eVY5REJCcjJ2ZjVlX19jZmlIRmJWUGFrYnVnbnRyZWpNU0JNM2gtZlZaNEJ3OWYzVmVTcNIB3AFBVV95cUxOVzUyNkloRDFJSlVUTEVHZng2dV9WbWl4NU1hYnI0N1EzMFktREJob1g0RFRFTFJ0MDgyLUhfYVp5aFBrX1VKSUprSzhzM3kyaUVFNElabGw4S0dzYzFnQUJrV0JLbmpMX2VDRm1oX0lJYnhIUlBEYk9hbzgySlJZZ3loZW1fR1pVT19MMWpxczNLYmtaeFlkaXZOWGd4RjdsRGtCWDZRSnlVbmxWTzZzX1ozT1JlSE9ibzI4NGlqNTJjdm9oQ1k1eFp5Wlk2SExfbE9hYXdDUU90T0FJ?oc=5",
+      "summary": "Easton residents bring attorneys to challenge Wood Avenue warehouse proposal &nbsp;&nbsp; Lehighvalleylive.com",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2025-09-19T07:00:00+00:00",
+      "published_ts": 1758265200.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "warehouse"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "e421deb78387",
+      "title": "Lehigh Valley landfill wins a major round in long fight to rezone more than 200 acres for trash expansion - The Morning Call",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LOUpOd3NGZFhIejd2TEJkdWZreDlfODg4R2VhWDdGdXZZUW1POG9xVC1INEhSWmpOWUZuZ00xa1ZPQVB3anVxZUdZbTdlZzJaUHhmM0xCaWk0UDRKWWVpVlkxMHo1SE1GclhCUGVQT0xYMHBmY0hR?oc=5",
+      "summary": "Lehigh Valley landfill wins a major round in long fight to rezone more than 200 acres for trash expansion &nbsp;&nbsp; The Morning Call",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2025-08-28T07:00:00+00:00",
+      "published_ts": 1756364400.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "expansion"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "58ec837dc2c2",
+      "title": "Lehigh Valley garage owner working with national law firm in township dispute that threatens his livelihood - The Morning Call",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oeDdkN1dMbFY1ZXFmRmJ6cHZ2V2dDQUdGZlJwaWFkOHV0bzNJdVl3Sm9iSjM1MUc4UHZVQnJicndDV0NDeHFWa0NzRnJhSFd1OVdCZ1ZYVExVVmcwcF9YOEpEcWhVbjZqRnpXRzZrTWJiZ01NeHBMOGZrLW05UQ?oc=5",
+      "summary": "Lehigh Valley garage owner working with national law firm in township dispute that threatens his livelihood &nbsp;&nbsp; The Morning Call",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2025-09-02T07:00:00+00:00",
+      "published_ts": 1756796400.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "township"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "35b1f1bc1d7b",
+      "title": "Lower Macungie development plan now to include aquarium, other entertainment facilities in addition to Topgolf - LehighValleyNews.com",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNN0trTUltQXNnRW5fNWt1V1FkRExmLVBrRkVabkU3c0lqY1ZrYVB3dmhzeEtWb0wybjRkQW1mZ1ZNaFVDMkJoeVJCcEhyS2VpdlRGT0tPeVYwdDN1RC1jNzI1UGNFNXdqM1FXZng2OF93SjFjaVFnY3BidEtuZk0xeHo5LVByNFc5ZmZnenVTdUw3enE1SENNSmtYWlRQMUF4UFFhMWI4VnN3cEE4aGRGLXRHYXNuMUExOEh6M3M2d19BaEtLcm5UZXV4bDdjU05XcDdFRFlrS1c3TjkyVy1nRFQzMnByb2F2LTVaMk9WZnVORXpEVU5R?oc=5",
+      "summary": "Lower Macungie development plan now to include aquarium, other entertainment facilities in addition to Topgolf &nbsp;&nbsp; LehighValleyNews.com",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2023-02-15T08:00:00+00:00",
+      "published_ts": 1676448000.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "development"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "9063fb9a0e2e",
+      "title": "Upper Macungie wants your input for the future of the township - LehighValleyNews.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ3NRT28xYTk5MTBicFVNd0Ztbi1CN1pIZ2dpcDZPTlRpeVdLVTRkZ0d6LVlfb3RVUnhVTXhUcEhPUE5FU3lhdVUtTEpteG43d0hnd0dpU21ySTFXSVBaRHZlQXd3NC1ZbWJlbDM2VEFTQTFhZjhmYTNVVnl6ZjJVWnZzeFA2MVZLdDJaMU80LUpMSVJTaVhJTUhPQ0MySEdIdm9hdmIxYw?oc=5",
+      "summary": "Upper Macungie wants your input for the future of the township &nbsp;&nbsp; LehighValleyNews.com",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2023-06-01T07:00:00+00:00",
+      "published_ts": 1685602800.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "township"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "8206b209bea2",
+      "title": "Apartment project at Bethlehem gateway gets approval from zoning board - Lehighvalleylive.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUGdhS2E5aF8wbjY2eEpraGZEa09IR3Bqd3dOeHJ0dUc3VE9VUjFzU3l5c2pIYTBJSk1vTG9lWi1yQzAxb1FaaTF3SDY1X1ctY1NpMGMyTzdjTWhqNWVOOFlPVXpNY0xtSXlMYnBXQW5LRHZCbThqbm9pQlVkSUZFb1UyZUR5VDFMLW13MGtYQXljVVVxTDl6U0UwWk42TTItQXJxMjA5eHlKanpLMkd1Uk41Wl9VeGZkRDlTNk1B0gHSAUFVX3lxTE9YZVlzR1U2V0dEODQ2RTB1aUFlTUtWVVRZcVBZUmpKQ05BX201LXpjOGY0N2t0OVROenU4VDBHTzV6LWJOdnQwS181ZlUwS3FBTS1OaV9CbnM4andXZG9IUjFWUi1RSW9RaEh2WlNUZG0tWTBCZ19SaTVkNlllbTItdS1KUGhYNDN3Ym45UVM2R0hqSjB2bGpJVlJ3WGdOaG5mT0txMHp0M1E0TEJZMkluekJGTnlrdTVhNFloWFFKZXFOdFRiajQtOXFMQnVOQVhoQQ?oc=5",
+      "summary": "Apartment project at Bethlehem gateway gets approval from zoning board &nbsp;&nbsp; Lehighvalleylive.com",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2022-04-28T07:00:00+00:00",
+      "published_ts": 1651129200.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "zoning"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "13b09c69baf2",
+      "title": "Managing the Lehigh Valley's warehouse boom: The search for solutions - LehighValleyNews.com",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdmVBZWhKb0tMUzY3ZTdxaU9LUHRrdzRva3FaSWFUUnZrcHFIczhVbzNOckUzZUU5SEh4bDlRTkdjdmE5MUlaY1RPZ1RqdWlrRzhyLWNkYkJ4YmVtM1IyUklYWjQ5NmtjQk50OWJtSFY5c1l5R3hLX2wzYVZvd3R1UExJb1Y3NVZYclNMdXpLYXlwQVk5QWdGcVFSaHZWZjY3TTVFS1ZOWDY4ODBZbE1kX0ZQZUZJYXZ4eGpRTw?oc=5",
+      "summary": "Managing the Lehigh Valley's warehouse boom: The search for solutions &nbsp;&nbsp; LehighValleyNews.com",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2024-08-29T07:00:00+00:00",
+      "published_ts": 1724914800.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "warehouse"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "3b4ed0e3f78e",
+      "title": "Bethlehem zoning board approves Lehigh Valley charter school move - WFMZ.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUFlvSjh3Rk5wSzFZdExncUVkT2U2SGZBNmI3SU01akxQMTRrTlpjdGE5MWFCY3RubkVsRl80S3hIVmhiaUNQbTAwbEFMRF9yM05lcmQ3eW4zMk51aUZfaTRNVE5ndGxBOFdZcXlkYTRIWW51ekFjYVZwekl6YlVad2J1eUszcTg2R1duUm15Q2hIbkhZX3ZlQkc3SjAzMTdsVGVzS3RsblRmVkhZV1BjLTkycVoxbWVzZ1RJUFZHbVNBMUtiaGVRT1V0Y3dyU3FZa1R2MlZCamU5dmlpSlpEODlTXzZVS3lUU2pwbHoxck4?oc=5",
+      "summary": "Bethlehem zoning board approves Lehigh Valley charter school move &nbsp;&nbsp; WFMZ.com",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2021-08-25T07:00:00+00:00",
+      "published_ts": 1629874800.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "zoning"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "d3e2c93d9f95",
+      "title": "'Killing free enterprise': Coffee shop owners question Upper Macungie zoning decision - WFMZ.com",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPb3hyMjZuMHlDTXp1S2hRVVU1Y0VtcDVhdXpsN192M3BKREJjZUhITWl0LTVEUHp6YVFQZ2FHcEhUMnJhcm1aWWRGMjRVelI3d0tiZjV3ckRaV0lCMTN1Q3I0Q2VybjZSNmhnZ24wZmxPV0E1dEk4eWtKbTlmZzN2eDVsVWJKV3JsVHFnUjMyaXJDUmg1dGliZUVMVXVhQkdHVGR4TnhraE5YaHYwdTU3VUc4cVpWOEVhcVNJLUpfcndjS19BX2VUT2FPYkpnTlpHVE1hNXUyLWN6czR2NDhSUy04YlBseWF0VnFtd0pUQWNxWkxMMFNvQzN2cWZPOEcwZEhJREFURQ?oc=5",
+      "summary": "'Killing free enterprise': Coffee shop owners question Upper Macungie zoning decision &nbsp;&nbsp; WFMZ.com",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2024-02-01T08:00:00+00:00",
+      "published_ts": 1706774400.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "zoning"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "e65277d3d7d3",
+      "title": "Lower Macungie prepares amendments to planning, zoning codes - WFMZ.com",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeWYyMi03eGNnNVZoVWJtWHRvZ2hRbnFzRjFqMzc4Nnl6NnlqRnRwcXVuTnNhNnBqczhfemt4OGtSZUt0c0hNRnpodndNdXBNZ3pCSS1PVzRqbFBpQkhCSk9TbEJybHllYVVHcWF2bnB4U0FVN2dwcTJlenBuNTJPNFlkUzg1eExia2phcnFBZWlDWmVMWWtDTTFnMWhMZ2JPNm9OZlZIY1czNjFPaHdVUXdVTl9xdGNNRWo0eFl5RGQ4aFBOWmNPTC0yWTVIRk5rN2VXM0tHZ3psMmN6SHNxZDJpQ2VxbUJU?oc=5",
+      "summary": "Lower Macungie prepares amendments to planning, zoning codes &nbsp;&nbsp; WFMZ.com",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2023-10-05T07:00:00+00:00",
+      "published_ts": 1696489200.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "zoning"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "3d347c728de4",
+      "title": "120-unit Gateway on Fourth apartments clear zoning hurdles in Bethlehem - LehighValleyNews.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVkVYNjhvMzZteXMwdk9xQXJzUjljR2hVSVBlZENuN21zNzFoel8tTUZqNjNTS01VNUVORWtRSE42allUQ2lGVGJraGZjZWlZMTl5V1RPc2RROTJhcUstM1hsQ3NBaTBWZGlpZlh6WkJwYVlGNFA5ZDl5N2k2LXFUZFp0azZKd3d0cFdidVJFTVlhbS1MQnIxNmhDZ0NENTQ1RGUtVXdjRDl5Nm80TzFyNVg1LVk?oc=5",
+      "summary": "120-unit Gateway on Fourth apartments clear zoning hurdles in Bethlehem &nbsp;&nbsp; LehighValleyNews.com",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2024-11-22T08:00:00+00:00",
+      "published_ts": 1732262400.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "zoning"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "e056a34ef073",
+      "title": "Project making strides in land development process in Lehigh near Berks line - Reading Eagle",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN1Q4RDdBRVU5MmdRRUhEYnp2SWpWUWp3QU1PTUFTejJBMzFfSWZLNC0xaVA4Mm41MDVJNE82Y1FPN1pWRi1WOVc3MXR0dlcxV0JoNDdjMEF0WFFxX2ZuTHRaX2RicXZXXzJSTVEzTnZISHZTajFub3F2aTJzdHNhY0U4LUtfN0U5bDFRMHZ4RERjME9PUUhVTy1UVzFzTFg0My1DeHlYbF96SjhZZWttSlY4MDNUbUVj?oc=5",
+      "summary": "Project making strides in land development process in Lehigh near Berks line &nbsp;&nbsp; Reading Eagle",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2023-11-15T08:00:00+00:00",
+      "published_ts": 1700035200.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "development"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "483d3d2ebf0b",
+      "title": "What\u2019s the latest on Lehigh Valley Town Center? Project moving closer to construction with positive recommendation - The Morning Call",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTWJrTGMwMjFZYkY1RFZnRzhuTGVsMW9uN25UOVVRUmxCY1hVTkg5ei01b2hlc0xhU2tCaWVFZmtGQ01zRnkwdWZYWDhMdW5LeThEajJDTnh6b0hvanJXRUVHZVBIZUwtWmpkaFkyZF9CMHFDMG9EaVVTbTlrRjQyREFfTFhEZm1JaV9MVkR6eTEwbkVHRmlzbzUzemExd2kxUkIwT3NqMU5QclJEUGNpZndfQlpWYVZEQ1JkYTNmZGZyb2RnUmtOMUw0Sjd0a085VGdYVWJsR1NuWG90N2lV?oc=5",
+      "summary": "What\u2019s the latest on Lehigh Valley Town Center? Project moving closer to construction with positive recommendation &nbsp;&nbsp; The Morning Call",
+      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
+      "domain": "news.google.com",
+      "published": "2024-06-12T07:00:00+00:00",
+      "published_ts": 1718175600.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "construction"
+      ],
+      "rank_score": 4.0
     },
     {
       "id": "0414cde66d12",
@@ -3265,17 +3621,17 @@
       "rank_score": 4.0
     },
     {
-      "id": "9d0c37d91cbf",
-      "title": "Waterfront Development Corp. An updated master plan - Lehigh Valley Press",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRDRSSXpfM3BJOHM3S0lUX0UtVWVBWllQNkJkeWlLcDdhbWNpSGhzT29pdF9ZRl9CMDNxOXhnUENnU09Kb19iQ05OX2p1OUMtUGVUcWlKRWpWWUl6SjFMbmZnSVFHR3I0ZWY1NnZLaXRTRkpaVzhfM016OWFDWDBJenRxU2ZEcEI0WXVDcg?oc=5",
-      "summary": "Waterfront Development Corp. An updated master plan &nbsp;&nbsp; Lehigh Valley Press",
+      "id": "5f398f0c5851",
+      "title": "Retail Watch: Popular mead shop opens in new location in Quakertown with new owners - The Morning Call",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHhGRmQydzktdVZIRXFOYVRvWjdrYjBmZW9xZDBTNDF2N3NKaUFRbU9DNWJQLVN2SVhzUF9sNmNyQmVBbFhRSkhScEo0SUhpTVQtOEtFcDN5bFI2QWN5bEdCcDR2QjBlME54aFhNSjFyY0xEQm1OT1lYc3g1eUItQWxwRzg3U3VBN21OZDVvaHhueDRUTEVVRWFjWkdrbzVpNjQwb0ZiVmg3MVBERF9iSkFSOV9kWm8?oc=5",
+      "summary": "Retail Watch: Popular mead shop opens in new location in Quakertown with new owners &nbsp;&nbsp; The Morning Call",
       "source": "Google News: \"Lehigh Valley\" (retail OR \"shopping center\" OR lease OR dev",
       "domain": "news.google.com",
-      "published": "2026-02-02T08:00:00+00:00",
-      "published_ts": 1770019200.0,
+      "published": "2026-01-17T08:00:00+00:00",
+      "published_ts": 1768636800.0,
       "topic_score": 2,
       "matched_terms": [
-        "development"
+        "retail"
       ],
       "rank_score": 4.0
     },
@@ -3291,21 +3647,6 @@
       "topic_score": 2,
       "matched_terms": [
         "retail"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "6c3b08917f70",
-      "title": "The latest Lehigh Valley business openings and closings in November - The Morning Call",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWkgwckg3ZEYycDBVdFE0eWtoSnY5V2hUcGNDeTcyYjlPNnh4TURsQzNIWGNleHJUc3BieGJYekZ4ZHBPdTM0dkV4T3V3YTVXYTczbm45X2ZoLWlUOVNUYWJMaDlLbmd4RldMRDZLWVoydm5TaVV3WlJ6WHFoT3pvSEh5bURmd0hYMXFnbWxOWEtWcUx1R3ktcDE3QV9fZy1qdkZN?oc=5",
-      "summary": "The latest Lehigh Valley business openings and closings in November &nbsp;&nbsp; The Morning Call",
-      "source": "Google News: \"Lehigh Valley\" (retail OR \"shopping center\" OR lease OR dev",
-      "domain": "news.google.com",
-      "published": "2025-12-02T08:00:00+00:00",
-      "published_ts": 1764662400.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "opening"
       ],
       "rank_score": 4.0
     },
@@ -3505,6 +3846,21 @@
       "rank_score": 4.0
     },
     {
+      "id": "0187b1211447",
+      "title": "Retail Watch: New Lehigh Valley salon offering popular head spa halos that are trending online - The Morning Call",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUUcyRHFRc0lKRFUzSVN4UHRCZWRfdnlIaHFRd0pzLV9ITHdOMTVaLUM1b1NTZkc1VlVlNHduRXMxLUhZNTlDc1ZuMkFvWGwtZU1XSDZxMG83ZGtXREJwNnFxdVVDa0JtakgtX0x5cEo2em1KNDRiMzEzaGVDempYMWJfR3dDNFFhbTZ1Q1h0LXRJNVVDQWRsOUhpVV9uUGo4NUZJLVZPSVAwR1dlZHozVjZ6VHc4U1FGaGxZSW5nblkxRkV5RU02UV9hU1RwVXR2am0xWVRudy1mSk1RRmxZNnBXd2xaUQ?oc=5",
+      "summary": "Retail Watch: New Lehigh Valley salon offering popular head spa halos that are trending online &nbsp;&nbsp; The Morning Call",
+      "source": "Google News: \"Lehigh Valley\" (retail OR \"shopping center\" OR lease OR dev",
+      "domain": "news.google.com",
+      "published": "2025-09-13T07:00:00+00:00",
+      "published_ts": 1757746800.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "retail"
+      ],
+      "rank_score": 4.0
+    },
+    {
       "id": "53101bdd4ec7",
       "title": "Lehigh Valley developer wants to turn a former cheese factory into 150 apartments - The Morning Call",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QeFBtb1Y5aG5DSEtrVXBKXzNIVGZzOTNwWlhfNEk4VDAwUjdGWk44OUg1WFlKcXkxYm56SFJPWDJnNXdDTWlXVkpMSFN4NkhxUjZvVWJZdU9IRGRqTVhPck1zclFndlhQeWN4UjcwZUp6dDNWUGRB?oc=5",
@@ -3513,21 +3869,6 @@
       "domain": "news.google.com",
       "published": "2025-06-30T07:00:00+00:00",
       "published_ts": 1751266800.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "developer"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "3149a6310bb4",
-      "title": "Developer taking another crack at long-stalled Allentown skyscraper - LehighValleyNews.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPanFaOHNXX3dCOEJSUnRhQm91VEFYS0ZOaVhSRGZIcng5UHRaTloza1VnYm4zMzYtQjNZQXU0QzU2RzFKNG50Z3ExLW82VU1BS0QzQmdzT1Jrc182OU5VMm4xNXZ0T3RvYzBRbkJTR0NaMHpoVUFYQW5hbGQyV0EwWllRV3hlRElPVmo0SU8wYndNLUZ2aXFWMXI4S2dyWjZXOTVLU1BxTklmZ1ZBenQ0?oc=5",
-      "summary": "Developer taking another crack at long-stalled Allentown skyscraper &nbsp;&nbsp; LehighValleyNews.com",
-      "source": "Google News: \"Lehigh Valley\" (retail OR \"shopping center\" OR lease OR dev",
-      "domain": "news.google.com",
-      "published": "2025-05-30T07:00:00+00:00",
-      "published_ts": 1748588400.0,
       "topic_score": 2,
       "matched_terms": [
         "developer"
@@ -3880,531 +4221,6 @@
       "rank_score": 4.0
     },
     {
-      "id": "712cab910545",
-      "title": "LVHN zoning request advances for legal review - Lehigh Valley Press",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU3JBeHNIaTNnOTFuLTk5VTJmbzBwZGJGRlpmMzdxOWx1TU9LLWxmSXlVaWNxX1A4SjIxcHloakhXS3VMdU9UUU1Zbi0xcHRNLVNoS08yb2h4ZFQ2RW1vZ1o1eE5PbXlCYlZvWDlOaFJDUVhEUFFTYWZTRWhpTFNkanYwV1N5Zw?oc=5",
-      "summary": "LVHN zoning request advances for legal review &nbsp;&nbsp; Lehigh Valley Press",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2026-01-28T08:00:00+00:00",
-      "published_ts": 1769587200.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "zoning"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "cf1dc9cc368d",
-      "title": "Public hearing on Upper Milford zoning ordinance May 21 - Lehigh Valley Press",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdEtKRXVRVWVwYkZ6ZUloREVsY1ptY3kyS2VrbEJCSHJ5dlVicWFibi1Za2ltWXk1V3FuanNnTlQ2YXEtOEc4NXhaakc0b0pBMXUtSzVYOUZPMFhocGVMTHUyd0RWZEV2NWtvTUFFU2dMamYxV3BHWVp0UFh2c3B2dF85dGxKYTN0WmtTYjZVS3BJRDg?oc=5",
-      "summary": "Public hearing on Upper Milford zoning ordinance May 21 &nbsp;&nbsp; Lehigh Valley Press",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2026-03-06T08:00:00+00:00",
-      "published_ts": 1772784000.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "zoning"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "bea0176f9fcf",
-      "title": "With massive data center proposal looming, Upper Macungie amends zoning with regulations - WFMZ.com",
-      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOdU5yUmx5MzQtbVE1OFJTRXRPTHBYalBReFA5OXhFaWNMSFl0MVhWU2FCcUp0WHZUTlc4MExVLWEzalBwaXpIRFVFTWU3VnhDOFZucklGeGxmaS1BamtCWDlaMUtuNWdfejRmN0p3NjhYSVZqYkUyeHJVc2hyMHpJTUp1TE44R01XUWNKelZrQXVfcjVnbHpaTXYzdWhRaE1XSTFESjNKNXFVRy1sdExJXzcwVkRqd09ob2xDaEc5ZG1pd3l6ajIxeUxDVDV3RFd1clYyZG92RFl5b05kUDlscXU5SVhTSi1nXzItTTBHUnJadXR5VzFiRnkzVTlWMm9oM3lYdi1tM3lqamVKczFQRnFlMFdHTHIzemRzOVFaVExESkRCUGhYOFR0OUdfZnFxX0E4N01uR256Zk10Wmc?oc=5",
-      "summary": "With massive data center proposal looming, Upper Macungie amends zoning with regulations &nbsp;&nbsp; WFMZ.com",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2025-12-05T08:00:00+00:00",
-      "published_ts": 1764921600.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "zoning"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "359a2dba4dfe",
-      "title": "Hamilton dental office, zoning ordinance discussed - Lehigh Valley Press",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTmVETkNoeDR5c2k5eWdQYnBNc2xwLXZUOUNCWFBULUMwTS03aGlUcEtPMU9xdk9uZzI3MXlpa3VfN1ROVkJ0RmVXSUpnZXV1cXdRWEVFVl92bFpMa0l0dE9JVXBRbVJrS08wN2JyX2VFVGlCU2RrMGpiUzRiT25KMzZ5WWZHVzlWSnow?oc=5",
-      "summary": "Hamilton dental office, zoning ordinance discussed &nbsp;&nbsp; Lehigh Valley Press",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2026-02-19T08:00:00+00:00",
-      "published_ts": 1771488000.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "zoning"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "39439213f5b0",
-      "title": "North Whitehall Twp completes hearing on zoning challenge - Lehigh Valley Press",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQWZ0U21hTkFHODBIQk9iTmtHSTJ2UDhxWFROM2ZKQVRTNE81cFpCZWFybXZEVXN0cUpHRTBiOURjQ0lxMzhjUWp5empJcVFsR2NTeG1ySWxwOTJwS3o5Q2NPaHZSMUlVSFU1UTVkYnNjc085LWk1MS01X3htZ0ZlMlZ3U1lONXhmdGstVFY1dkFaNW5vc0E?oc=5",
-      "summary": "North Whitehall Twp completes hearing on zoning challenge &nbsp;&nbsp; Lehigh Valley Press",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2025-12-21T08:00:00+00:00",
-      "published_ts": 1766304000.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "zoning"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "1a347bdadf40",
-      "title": "Allentown zoning code in line for overhaul as council backs extensive update - LehighValleyNews.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOWtlZU41M0xMX2ZrTnVvdlhaaGw5SkdrYXY3aEpxUk1DeTdxUkdCMTFIdkFQSDFxam1JLTBHcHk2SVA2MUlybEt0Y01tclNfT1NoVXBTUmpmeTQ5TmtuYkVNSk9FclZkX3lBczd4YURvQWhNbnNJZWdZaTY1R0Z0ajJrTE1qSHlYMXJxa3RRaENsU2pJZjRPNi1UY1ljaFdrQXZHbXNBd0diMVJwRTVja0dRdUxZVDAxQldn?oc=5",
-      "summary": "Allentown zoning code in line for overhaul as council backs extensive update &nbsp;&nbsp; LehighValleyNews.com",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2025-09-25T07:00:00+00:00",
-      "published_ts": 1758783600.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "zoning"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "2f9d83c78cee",
-      "title": "Bethlehem Environmental Advisory Council hears presentation on new land development ordinance - LehighValleyNews.com",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdVBVbEtoS0lNQWMxQzI0UE9HTDZaNGRsQ182R2QxUEc4NXVhMkt3ZEk5YXNuU2J1T0J4Z3RyYnAyNFJqV2dsa25uYTVBdzdSM1RNTFlUdTR2ajhrcHRsVjUtUWlFd0hCMzE4TGVBbnIxcFVMaVEwX3FVVWViMHFzVU01eHBVLVF5VXhTcWc0OGdqQUwxNEdpNEpmS1J1aEdaeTdpazhMeDN2dzEyTC0wT2FoaVFjOEctRGJwaDM5U3p4X2FEMXVNUWlVUzBWZFR2WVU0djNYWGc1Y0dPSVNR?oc=5",
-      "summary": "Bethlehem Environmental Advisory Council hears presentation on new land development ordinance &nbsp;&nbsp; LehighValleyNews.com",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2025-11-07T08:00:00+00:00",
-      "published_ts": 1762502400.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "development"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "6fa2ec8f1a9a",
-      "title": "Allentown seeks more feedback on comprehensive zoning rewrite - LehighValleyNews.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQl9udzhPaXhwUEJ3Z2pZbHdiMWlMSW5oNnZpT0lkeWwxaFRFYm1pU1FGb3phMVR5VWd3RXJVbHNzQ0lUSkl1Y1p0OWRSbmpKU0x2SlZqM3JFQzgzcHU3M213Qmc5U0psMjhaTzI1ckFfLVdpaWhXak4yT2VERklwWFh4YVZJLU16MmVDbEdEWm9uZURrRlpDUG5RZ1hLU0lLRTJiYURfOA?oc=5",
-      "summary": "Allentown seeks more feedback on comprehensive zoning rewrite &nbsp;&nbsp; LehighValleyNews.com",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2025-07-06T07:00:00+00:00",
-      "published_ts": 1751785200.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "zoning"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "ac82efd4eb7a",
-      "title": "Upper Macungie proposes data center ordinance as it faces plans for development at former Air Products headquarters - The Morning Call",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZGx1eVVwWHRqNnJOWUx5MEVhVHAtQ1hhZTRKSWxoNGxNVmtxZXYwVkctbUg1ZU9RTDgyM3p3N0RMTWd6S0dtR1lMOUFnYTA5N1pjUlJRUGJRaUpQaHF3clROQUhNX01wUkN1Yml3UTdQSkxwdjlIQ19BNTB4cEYzM2hWdnFlTzFYdEZYY0VVZWY4RWUtRjBkYW5tNlNZT191b1FaT2VtYlFRajNyb3hWeTdXUTJ4NWcyOGRBay1R?oc=5",
-      "summary": "Upper Macungie proposes data center ordinance as it faces plans for development at former Air Products headquarters &nbsp;&nbsp; The Morning Call",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2025-11-17T08:00:00+00:00",
-      "published_ts": 1763366400.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "development"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "4ec5269d47b7",
-      "title": "Phillipsburg amends zoning to allow residential uses along Route 22 - Lehighvalleylive.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLUxwQzhza1FaM2g1Q3RBVGR6WTJIaXppTUIyd3BTMEEzTlNOejRwck54cGx3TE1GNHVQd1ZqZHV5VDBoSVJoZEZYRWpVb3pmaFQyMFBRZ0FpYlpzdXV1RTBJczVWT2FhWE5QbW1TY3VvdG1tSVZKdjBrT2pvWVhkcVFzaWVHMlliaUdDV3llNFBaQVdhdnhvQi1mUGhOcElwcHVTTEFRZ3kwZmlnNmpWLVVudnFXS2RCMW9XaE9Vb3pzcEt5bnfSAdoBQVVfeXFMUGpEUWdLSzUyVHc3djJlQ3p3TlRGQXo3cW9oaHZHSVlvZEJsNmFYZXhYU0hUZ3ZfdlUzdEU2UWJTUzV6SzlZcUNOVE5LZFNLU3hJSDVQSHdaenlWenhtM05OMHhXMmVEeVByUklpX1NmWGY3ZXU4WG1HbTd3MF92NVRJc3U4U0lKaXhRbVFXYmtRVV91LTF3LVhZWDZOenk5aFVORGc0R3hMVUNxSmtFSGlrNVp5NFJ1OG5ZUS0zaU9SZlpLZXN5ZkgxdWZLUFV6d0tsbUVfeGlZTlE?oc=5",
-      "summary": "Phillipsburg amends zoning to allow residential uses along Route 22 &nbsp;&nbsp; Lehighvalleylive.com",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2025-10-30T07:00:00+00:00",
-      "published_ts": 1761807600.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "zoning"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "1815653b29a2",
-      "title": "Bethlehem Zoning Board votes on several housing projects - WFMZ.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNeXFTU0NhaFotZjQtTXNBOXhsUG9oVXRCWDN1dkdJMHlfNElmWUJraURPdmNPMGtZeUlMeVY4eTVSYXYtYnpNajR3MFpuWXZXRUppTGJpbkp2MGF4cWpqM0JjTlhzbGlvZGZXX1ZmNWFBTC1QX1dxc3RWWWFzdGtwQW5GMkY2bURZRmM1UjBwZ19ib2tsai1pampZVHNmYVVNbVdfUEttdWpCYTljTjljQnJ0VFloWFctOTY0bmpVTVY3SkxEaGdfekxQYV9ING1aQ1JESExxSDlNUUpCZDVqTmF4WTFGNklVc2dhRlB3OUZvelBpUERuT1NoYWRLdGJXNGNxd3FpSkhjVlk?oc=5",
-      "summary": "Bethlehem Zoning Board votes on several housing projects &nbsp;&nbsp; WFMZ.com",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2025-09-25T07:00:00+00:00",
-      "published_ts": 1758783600.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "zoning"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "fc4e4829880f",
-      "title": "Opponents say proposed Wood Avenue warehouse in Easton will pose flood risks - Lehighvalleylive.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQTlITFpjN2JvUm5qQmhoQkw3eUNuM2dYV3RDZnU0SnBlTk5RQXN3U0pNRFc1ME5GZXZQREZ3TVlOV1FjWDZLN2FLVzFVb0lEaEp4VHVvOG9jYW5rQVI3M0d1d3IxZGp4M0NxRzYydm5aaEVkZ3pwQm9rbGMzbFRON2JUMUhCNUItSlZma1RjaFlJckhSOGlMdFlCRUY1eDcyNkR3X0tjT3A4TnE1LXVwZnVZVzJQLVcwTWV4LTdXTkxYMTRjVGtTWdIB3AFBVV95cUxOV216V0ZKSnFVakE4OWhPTkhpaHZwS3RFSmJpTlVocXE4WFBaX015MjRRdEQ4Q2NNaWN6RmwwUWZHRnNVRGx3VWI3Q3ZHdnRXVmJ2cXJTQ0gyYWRqM0dFbGNIekJEQjNyRWlMbE9MY0s3ZzVPenpHM2doSmVfQWVnR1JkUEloU3lvTldUWmFyQy1LTm1kel9KbVdlZU5SdmRaSlZ3S0Zmakl6eXVxSElaQUI0ZjhMMmxSX0ZTT2pVYVNZdWRrU3RqZTBkY0ZyajI2YWw3amdrQkZrUHlt?oc=5",
-      "summary": "Opponents say proposed Wood Avenue warehouse in Easton will pose flood risks &nbsp;&nbsp; Lehighvalleylive.com",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2025-10-28T07:00:00+00:00",
-      "published_ts": 1761634800.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "warehouse"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "abdcbe2946a9",
-      "title": "David Jaindl outlines vision for Lehigh Valley development - Lehigh Valley Business",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbkNKc0Eza09LZGE5WkxITGhWMkQ2YXoxa1NHMml1Ym9UZFpwVndZdDdTUjNRamNvbkk3VGlkanNBZWExS3dvUjNNQjdXOElfdGpZU2Zhd3NWV0FiOTBJR1JDbTZWd09fNDZ6VWZ5YUszQlY2dkVWUGtGajFYLVV2VA?oc=5",
-      "summary": "David Jaindl outlines vision for Lehigh Valley development &nbsp;&nbsp; Lehigh Valley Business",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2025-11-21T08:00:00+00:00",
-      "published_ts": 1763712000.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "development"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "f4a42dca12f8",
-      "title": "Easton residents bring attorneys to challenge Wood Avenue warehouse proposal - Lehighvalleylive.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRHhzSzViSjBScXBOeVY5aUl1TlhSczQ1QmpXQ0dCZllJX1VVUmZHdWpMRG9STVNoQmRzMGNjTElQSG9OVmhUMGVVbFN4RGRfS0NILVNfTTNpOG5lenpEZVJkXzVIaWNKX0g1NXV4RmQwQzdRa29KSjR1dmtxSlZpNEpRX25qNGFVbS1WRjFWT2ZDUWo1eVY5REJCcjJ2ZjVlX19jZmlIRmJWUGFrYnVnbnRyZWpNU0JNM2gtZlZaNEJ3OWYzVmVTcNIB3AFBVV95cUxOVzUyNkloRDFJSlVUTEVHZng2dV9WbWl4NU1hYnI0N1EzMFktREJob1g0RFRFTFJ0MDgyLUhfYVp5aFBrX1VKSUprSzhzM3kyaUVFNElabGw4S0dzYzFnQUJrV0JLbmpMX2VDRm1oX0lJYnhIUlBEYk9hbzgySlJZZ3loZW1fR1pVT19MMWpxczNLYmtaeFlkaXZOWGd4RjdsRGtCWDZRSnlVbmxWTzZzX1ozT1JlSE9ibzI4NGlqNTJjdm9oQ1k1eFp5Wlk2SExfbE9hYXdDUU90T0FJ?oc=5",
-      "summary": "Easton residents bring attorneys to challenge Wood Avenue warehouse proposal &nbsp;&nbsp; Lehighvalleylive.com",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2025-09-19T07:00:00+00:00",
-      "published_ts": 1758265200.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "warehouse"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "e421deb78387",
-      "title": "Lehigh Valley landfill wins a major round in long fight to rezone more than 200 acres for trash expansion - The Morning Call",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5LOUpOd3NGZFhIejd2TEJkdWZreDlfODg4R2VhWDdGdXZZUW1POG9xVC1INEhSWmpOWUZuZ00xa1ZPQVB3anVxZUdZbTdlZzJaUHhmM0xCaWk0UDRKWWVpVlkxMHo1SE1GclhCUGVQT0xYMHBmY0hR?oc=5",
-      "summary": "Lehigh Valley landfill wins a major round in long fight to rezone more than 200 acres for trash expansion &nbsp;&nbsp; The Morning Call",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2025-08-28T07:00:00+00:00",
-      "published_ts": 1756364400.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "expansion"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "58ec837dc2c2",
-      "title": "Lehigh Valley garage owner working with national law firm in township dispute that threatens his livelihood - The Morning Call",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oeDdkN1dMbFY1ZXFmRmJ6cHZ2V2dDQUdGZlJwaWFkOHV0bzNJdVl3Sm9iSjM1MUc4UHZVQnJicndDV0NDeHFWa0NzRnJhSFd1OVdCZ1ZYVExVVmcwcF9YOEpEcWhVbjZqRnpXRzZrTWJiZ01NeHBMOGZrLW05UQ?oc=5",
-      "summary": "Lehigh Valley garage owner working with national law firm in township dispute that threatens his livelihood &nbsp;&nbsp; The Morning Call",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2025-09-02T07:00:00+00:00",
-      "published_ts": 1756796400.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "township"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "35b1f1bc1d7b",
-      "title": "Lower Macungie development plan now to include aquarium, other entertainment facilities in addition to Topgolf - LehighValleyNews.com",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNN0trTUltQXNnRW5fNWt1V1FkRExmLVBrRkVabkU3c0lqY1ZrYVB3dmhzeEtWb0wybjRkQW1mZ1ZNaFVDMkJoeVJCcEhyS2VpdlRGT0tPeVYwdDN1RC1jNzI1UGNFNXdqM1FXZng2OF93SjFjaVFnY3BidEtuZk0xeHo5LVByNFc5ZmZnenVTdUw3enE1SENNSmtYWlRQMUF4UFFhMWI4VnN3cEE4aGRGLXRHYXNuMUExOEh6M3M2d19BaEtLcm5UZXV4bDdjU05XcDdFRFlrS1c3TjkyVy1nRFQzMnByb2F2LTVaMk9WZnVORXpEVU5R?oc=5",
-      "summary": "Lower Macungie development plan now to include aquarium, other entertainment facilities in addition to Topgolf &nbsp;&nbsp; LehighValleyNews.com",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2023-02-15T08:00:00+00:00",
-      "published_ts": 1676448000.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "development"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "9063fb9a0e2e",
-      "title": "Upper Macungie wants your input for the future of the township - LehighValleyNews.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ3NRT28xYTk5MTBicFVNd0Ztbi1CN1pIZ2dpcDZPTlRpeVdLVTRkZ0d6LVlfb3RVUnhVTXhUcEhPUE5FU3lhdVUtTEpteG43d0hnd0dpU21ySTFXSVBaRHZlQXd3NC1ZbWJlbDM2VEFTQTFhZjhmYTNVVnl6ZjJVWnZzeFA2MVZLdDJaMU80LUpMSVJTaVhJTUhPQ0MySEdIdm9hdmIxYw?oc=5",
-      "summary": "Upper Macungie wants your input for the future of the township &nbsp;&nbsp; LehighValleyNews.com",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2023-06-01T07:00:00+00:00",
-      "published_ts": 1685602800.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "township"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "8206b209bea2",
-      "title": "Apartment project at Bethlehem gateway gets approval from zoning board - Lehighvalleylive.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUGdhS2E5aF8wbjY2eEpraGZEa09IR3Bqd3dOeHJ0dUc3VE9VUjFzU3l5c2pIYTBJSk1vTG9lWi1yQzAxb1FaaTF3SDY1X1ctY1NpMGMyTzdjTWhqNWVOOFlPVXpNY0xtSXlMYnBXQW5LRHZCbThqbm9pQlVkSUZFb1UyZUR5VDFMLW13MGtYQXljVVVxTDl6U0UwWk42TTItQXJxMjA5eHlKanpLMkd1Uk41Wl9VeGZkRDlTNk1B0gHSAUFVX3lxTE9YZVlzR1U2V0dEODQ2RTB1aUFlTUtWVVRZcVBZUmpKQ05BX201LXpjOGY0N2t0OVROenU4VDBHTzV6LWJOdnQwS181ZlUwS3FBTS1OaV9CbnM4andXZG9IUjFWUi1RSW9RaEh2WlNUZG0tWTBCZ19SaTVkNlllbTItdS1KUGhYNDN3Ym45UVM2R0hqSjB2bGpJVlJ3WGdOaG5mT0txMHp0M1E0TEJZMkluekJGTnlrdTVhNFloWFFKZXFOdFRiajQtOXFMQnVOQVhoQQ?oc=5",
-      "summary": "Apartment project at Bethlehem gateway gets approval from zoning board &nbsp;&nbsp; Lehighvalleylive.com",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2022-04-28T07:00:00+00:00",
-      "published_ts": 1651129200.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "zoning"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "13b09c69baf2",
-      "title": "Managing the Lehigh Valley's warehouse boom: The search for solutions - LehighValleyNews.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdmVBZWhKb0tMUzY3ZTdxaU9LUHRrdzRva3FaSWFUUnZrcHFIczhVbzNOckUzZUU5SEh4bDlRTkdjdmE5MUlaY1RPZ1RqdWlrRzhyLWNkYkJ4YmVtM1IyUklYWjQ5NmtjQk50OWJtSFY5c1l5R3hLX2wzYVZvd3R1UExJb1Y3NVZYclNMdXpLYXlwQVk5QWdGcVFSaHZWZjY3TTVFS1ZOWDY4ODBZbE1kX0ZQZUZJYXZ4eGpRTw?oc=5",
-      "summary": "Managing the Lehigh Valley's warehouse boom: The search for solutions &nbsp;&nbsp; LehighValleyNews.com",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2024-08-29T07:00:00+00:00",
-      "published_ts": 1724914800.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "warehouse"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "3b4ed0e3f78e",
-      "title": "Bethlehem zoning board approves Lehigh Valley charter school move - WFMZ.com",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOUFlvSjh3Rk5wSzFZdExncUVkT2U2SGZBNmI3SU01akxQMTRrTlpjdGE5MWFCY3RubkVsRl80S3hIVmhiaUNQbTAwbEFMRF9yM05lcmQ3eW4zMk51aUZfaTRNVE5ndGxBOFdZcXlkYTRIWW51ekFjYVZwekl6YlVad2J1eUszcTg2R1duUm15Q2hIbkhZX3ZlQkc3SjAzMTdsVGVzS3RsblRmVkhZV1BjLTkycVoxbWVzZ1RJUFZHbVNBMUtiaGVRT1V0Y3dyU3FZa1R2MlZCamU5dmlpSlpEODlTXzZVS3lUU2pwbHoxck4?oc=5",
-      "summary": "Bethlehem zoning board approves Lehigh Valley charter school move &nbsp;&nbsp; WFMZ.com",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2021-08-25T07:00:00+00:00",
-      "published_ts": 1629874800.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "zoning"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "d3e2c93d9f95",
-      "title": "'Killing free enterprise': Coffee shop owners question Upper Macungie zoning decision - WFMZ.com",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPb3hyMjZuMHlDTXp1S2hRVVU1Y0VtcDVhdXpsN192M3BKREJjZUhITWl0LTVEUHp6YVFQZ2FHcEhUMnJhcm1aWWRGMjRVelI3d0tiZjV3ckRaV0lCMTN1Q3I0Q2VybjZSNmhnZ24wZmxPV0E1dEk4eWtKbTlmZzN2eDVsVWJKV3JsVHFnUjMyaXJDUmg1dGliZUVMVXVhQkdHVGR4TnhraE5YaHYwdTU3VUc4cVpWOEVhcVNJLUpfcndjS19BX2VUT2FPYkpnTlpHVE1hNXUyLWN6czR2NDhSUy04YlBseWF0VnFtd0pUQWNxWkxMMFNvQzN2cWZPOEcwZEhJREFURQ?oc=5",
-      "summary": "'Killing free enterprise': Coffee shop owners question Upper Macungie zoning decision &nbsp;&nbsp; WFMZ.com",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2024-02-01T08:00:00+00:00",
-      "published_ts": 1706774400.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "zoning"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "e65277d3d7d3",
-      "title": "Lower Macungie prepares amendments to planning, zoning codes - WFMZ.com",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeWYyMi03eGNnNVZoVWJtWHRvZ2hRbnFzRjFqMzc4Nnl6NnlqRnRwcXVuTnNhNnBqczhfemt4OGtSZUt0c0hNRnpodndNdXBNZ3pCSS1PVzRqbFBpQkhCSk9TbEJybHllYVVHcWF2bnB4U0FVN2dwcTJlenBuNTJPNFlkUzg1eExia2phcnFBZWlDWmVMWWtDTTFnMWhMZ2JPNm9OZlZIY1czNjFPaHdVUXdVTl9xdGNNRWo0eFl5RGQ4aFBOWmNPTC0yWTVIRk5rN2VXM0tHZ3psMmN6SHNxZDJpQ2VxbUJU?oc=5",
-      "summary": "Lower Macungie prepares amendments to planning, zoning codes &nbsp;&nbsp; WFMZ.com",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2023-10-05T07:00:00+00:00",
-      "published_ts": 1696489200.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "zoning"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "3d347c728de4",
-      "title": "120-unit Gateway on Fourth apartments clear zoning hurdles in Bethlehem - LehighValleyNews.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVkVYNjhvMzZteXMwdk9xQXJzUjljR2hVSVBlZENuN21zNzFoel8tTUZqNjNTS01VNUVORWtRSE42allUQ2lGVGJraGZjZWlZMTl5V1RPc2RROTJhcUstM1hsQ3NBaTBWZGlpZlh6WkJwYVlGNFA5ZDl5N2k2LXFUZFp0azZKd3d0cFdidVJFTVlhbS1MQnIxNmhDZ0NENTQ1RGUtVXdjRDl5Nm80TzFyNVg1LVk?oc=5",
-      "summary": "120-unit Gateway on Fourth apartments clear zoning hurdles in Bethlehem &nbsp;&nbsp; LehighValleyNews.com",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2024-11-22T08:00:00+00:00",
-      "published_ts": 1732262400.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "zoning"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "e056a34ef073",
-      "title": "Project making strides in land development process in Lehigh near Berks line - Reading Eagle",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN1Q4RDdBRVU5MmdRRUhEYnp2SWpWUWp3QU1PTUFTejJBMzFfSWZLNC0xaVA4Mm41MDVJNE82Y1FPN1pWRi1WOVc3MXR0dlcxV0JoNDdjMEF0WFFxX2ZuTHRaX2RicXZXXzJSTVEzTnZISHZTajFub3F2aTJzdHNhY0U4LUtfN0U5bDFRMHZ4RERjME9PUUhVTy1UVzFzTFg0My1DeHlYbF96SjhZZWttSlY4MDNUbUVj?oc=5",
-      "summary": "Project making strides in land development process in Lehigh near Berks line &nbsp;&nbsp; Reading Eagle",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2023-11-15T08:00:00+00:00",
-      "published_ts": 1700035200.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "development"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "483d3d2ebf0b",
-      "title": "What\u2019s the latest on Lehigh Valley Town Center? Project moving closer to construction with positive recommendation - The Morning Call",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTWJrTGMwMjFZYkY1RFZnRzhuTGVsMW9uN25UOVVRUmxCY1hVTkg5ei01b2hlc0xhU2tCaWVFZmtGQ01zRnkwdWZYWDhMdW5LeThEajJDTnh6b0hvanJXRUVHZVBIZUwtWmpkaFkyZF9CMHFDMG9EaVVTbTlrRjQyREFfTFhEZm1JaV9MVkR6eTEwbkVHRmlzbzUzemExd2kxUkIwT3NqMU5QclJEUGNpZndfQlpWYVZEQ1JkYTNmZGZyb2RnUmtOMUw0Sjd0a085VGdYVWJsR1NuWG90N2lV?oc=5",
-      "summary": "What\u2019s the latest on Lehigh Valley Town Center? Project moving closer to construction with positive recommendation &nbsp;&nbsp; The Morning Call",
-      "source": "Google News: \"Lehigh Valley\" (zoning OR rezoning OR \"land development\")",
-      "domain": "news.google.com",
-      "published": "2024-06-12T07:00:00+00:00",
-      "published_ts": 1718175600.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "construction"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "cf14f86c1d1c",
-      "title": "\u2018An irreplaceable resource\u2019: Northampton County farm preserved from development - LehighValleyNews.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVGhoQXFzbTdSU2lHVnVSU3JCdHdyTE9sT2dWUkFtQWxjWm9HT0o0cm5IbFNOLW0zb1NFb1VNM3ltdy1kamxiYU5kSDl2OF9FVHFLRFlXamtQY2RCWUxqTWVGVXZwUUNPOHdSb3hvS2xCc0xzMmFHXzd4WWEtYkNwbUh5VGtVeFlhUHhoZ09aSlM5T1h4ZUVqOGZDNmZaZHNWc0ZTVEhHcHd5OE1uWmpBYjNGWjZYTV84YjUyWXM2STRsd3ppMV84NA?oc=5",
-      "summary": "\u2018An irreplaceable resource\u2019: Northampton County farm preserved from development &nbsp;&nbsp; LehighValleyNews.com",
-      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
-      "domain": "news.google.com",
-      "published": "2025-12-12T08:00:00+00:00",
-      "published_ts": 1765526400.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "development"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "9eab8c8c4e4d",
-      "title": "Massive Northampton County development project at center of legal dispute - The Morning Call",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWTNKdy04OUlidGQ3bFFHOHdWaEdEQ2hHOHIyZmpVS3hVSTkwcHlQdVdFRkFnOWdTUTRXMTlLZ2wzeFZmRkhHNk9YNTdIZnppbC1JZjlDeFdTaERwcHo4QkJZS05mQV9WV283akJibXo0MF80c3lRUWlORThLZnFBR0VqbW5jVGlTYzRZZ2pTdGVNVGM?oc=5",
-      "summary": "Massive Northampton County development project at center of legal dispute &nbsp;&nbsp; The Morning Call",
-      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
-      "domain": "news.google.com",
-      "published": "2026-03-04T08:00:00+00:00",
-      "published_ts": 1772611200.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "development"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "5f18a282e1b1",
-      "title": "Developers propose \u2018responsible\u2019 data center in rural Northampton County community. Neighbors are skeptical - The Morning Call",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSkF3ZW1DMVo4d2I0UHhDNmxTY1ZjUGIya2NheU95M241YlRCNDl1a3VmdVpZdlhkWUE0TU1hVmpKbGd4cUhkejZmZklpWldnWTJMM3l4SzBmQmhNRjdrUllrNnVlelF0N054WXJ1NGNHdnk1RGNkWkgwcnRZck53TUR1Ti1aaGlUS0E3UXZodlRab1pFWUE?oc=5",
-      "summary": "Developers propose \u2018responsible\u2019 data center in rural Northampton County community. Neighbors are skeptical &nbsp;&nbsp; The Morning Call",
-      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
-      "domain": "news.google.com",
-      "published": "2026-02-25T08:00:00+00:00",
-      "published_ts": 1772006400.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "developer"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "72f94b17b24a",
-      "title": "Dixie cup factory development hinges on Northampton County\u2019s tax financing decision - Lehighvalleylive.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTVMwbXZMUDlwQkxVR0cybjRtXzRZSjJtYk5aME1pTmlGbVM5UklCXzhQLUcwQkZzX3RreXhCUE1nbW9FUGc3ckFJbU1MaF96eXpIU3ZobjZfVXBzaXdSTk52bm9BOEhRM0oyVVZsUFMwc3czTGlRclJ0Z2NRSERlWGdUWXVCRUVzclpodFZ5dW0ybHJYWWJzZ2JpaHYwMURFVXREQzViZWN2UjM2ZjUyc1U0MVZuaEwwUVpObzV2dXN5TGlDSE1LRGllT2J6WGFw0gHkAUFVX3lxTFBSOU04S0Q3bFRCUkYtTW1KaWt2M1ZVVlYtamFtMVU1TmlWYThsUDhkdEhMQUlpaFV1ZU1UT0hHV3V0TDg5QWRJX3ZsVWZNckJKaEdheGRfTGlkYXNXNm9fVnNUMmZIQnpxeFpLa1hVWGdFRHd2TWlGUFhfenU1bmVaeGNocFZSTERxU2JrTDF6cE5DZUxpNnhUZFdGWndxRWdleFpMRkZKY3Z4VzlQNFBJUEFBbTlKRG8wVDZtVEgwVlp1R3dET0tsU0tGcG1hWnk4UjJRRmtLS0dySXZmRGtETVBLNg?oc=5",
-      "summary": "Dixie cup factory development hinges on Northampton County\u2019s tax financing decision &nbsp;&nbsp; Lehighvalleylive.com",
-      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
-      "domain": "news.google.com",
-      "published": "2025-08-26T07:00:00+00:00",
-      "published_ts": 1756191600.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "development"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "6305515f43b5",
-      "title": "2 years after being blocked, a massive development is in the works again on Lehigh Valley airport land - The Morning Call",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1najEwR1ZGd0xhNnc4Mmd3VzhBQ1Z6WjU3S3k2WnRIUnoyRUQ1SHhNcFR3Qkh6ZDlmeGw2dUp6VTVqZy1RNVh3dUlZVmpDdms0U1RabWdad0tMTlBsZzhtZUY3VE9XY1BzaWpxY28yYw?oc=5",
-      "summary": "2 years after being blocked, a massive development is in the works again on Lehigh Valley airport land &nbsp;&nbsp; The Morning Call",
-      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
-      "domain": "news.google.com",
-      "published": "2025-09-14T07:00:00+00:00",
-      "published_ts": 1757833200.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "development"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "c8dbf25e9abb",
-      "title": "Massive housing development in Northampton County taking shape - WFMZ.com",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNNU5RSy12WmxlZUpvX0JGV1FXWEFkSUZpTXNTUXJGUXlkM2UxREhSTEFCeFZ6ZEFUWGdoMXBJZWNRWnZKVElzYnJ3ZVkwNW5GTmIwcW9YTzlLM2NNSFFWQmRHNE83eTlfc2JVWU4yUlBEUVUwRFFBNTdnbzItaDZKYWcxY3dnM0xxRGZnUVAwY0dkVVlUWDR4djR0ZU5PSzZaLUpWSFBMNnBvdHZDODlMLXBPNXZPU2dGb1VWVUZadEVDOUQzXzdibUd5V1lTcVRqV3VMVm1PN2RzeFBwbnFad19PNkV1NlNGTEV1OHpWd0ZnaC1SVTF3M1QzRjVzWDlMeXB1MGE5UXdMcjg2ang2TGRjZnc1UQ?oc=5",
-      "summary": "Massive housing development in Northampton County taking shape &nbsp;&nbsp; WFMZ.com",
-      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
-      "domain": "news.google.com",
-      "published": "2025-03-25T07:00:00+00:00",
-      "published_ts": 1742886000.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "development"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "a57439f32a79",
-      "title": "An international food and beverage company is opening a coffee-roasting plant in the Lehigh Valley - The Morning Call",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM3pxUktfaHJTRVNrVncyVmpFRlc3ZmFodFlUU3FxaXVkTkhzNTh3dXNCUF9TZFIxSTB5MFlVeFpMN21RdGJld1lUMF9wMHhNcno5b01BUy1zeHBDaURSejF6MTd2WV9fcDNXSGtZMXZUY2k0NjVHazVjbU1IR2NOSWVBU2J0QmdadGZnNEVpQnBVVDRObHdOSi0zNzF6c1hlazhwbmc4YzVvWTRSbXVKdnlLbHVRZ1VVWkR6VUlKUXlTY3c3YmlpaENnLVA?oc=5",
-      "summary": "An international food and beverage company is opening a coffee-roasting plant in the Lehigh Valley &nbsp;&nbsp; The Morning Call",
-      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
-      "domain": "news.google.com",
-      "published": "2025-09-30T07:00:00+00:00",
-      "published_ts": 1759215600.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "opening"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "d5839bffcc40",
-      "title": "2 more Lehigh Valley farms saved from development. Find out where and how much it cost. - The Morning Call",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaG1NQnF2QkZCMlJHZjhSR3hIRUdrNHRUYVNyOEtSaE1yTGsyQ2w0bmpJWlJVR1ZmM21wNkVsMFdCcmMwWWlzVmhvWEtJcDZiaml1ekd6WnFGUE5IYUg3YS1SYnJGenVla3dYUXpLQUpFTEg4NnN4dURxZ01LaGtoY3FMOEVqb3RPUkM5T0UySjU5a0JRYjg2dWtZYmQ3SWpMdkxyblFINnBTWDZwY19hUnF4UkNhYTB0aHg4?oc=5",
-      "summary": "2 more Lehigh Valley farms saved from development. Find out where and how much it cost. &nbsp;&nbsp; The Morning Call",
-      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
-      "domain": "news.google.com",
-      "published": "2024-04-12T07:00:00+00:00",
-      "published_ts": 1712905200.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "development"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "2353142c1cc7",
-      "title": "Wood Avenue warehouse dealt another blow as Easton zoners deny request to relocate stream - WFMZ.com",
-      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNS2JwNEtSbFA4YmoyWkFPSTRiU0FvQ2ZjVXJYSlY2ODRibjNkMWZpNm1kbGdDMEtlX2dnSGdzM29HNURVSXFZVzBvTVBGRVB1Zk80MnV2UTlDS3psb0psZFFiQTlka01yVHJtY0lrZU1udldpY29STFlIOWlINElXS3prdVpNR1pEbXZURHphaktBeTdLZWtTZnRraDkwUDl3YVpRLWhZUWRSUWtYUi1iMmFOajdfdVUtcUdNS0Z4OV9VNGZkRjcySzRVdHFlUG04WXFpYlFNbzVtMk5kMjVuNkgtM3BoZUFfTEE2UnEyT1djZGtOZjZ0Rm5adWNsc2c0THJTNjFKbVdFNUpxOXZoR0Q5TTVsLUJ3SmFfTGN3eFRHUGthVmFOYWs0U2VhQnFNdEx4V0lQNVcwZw?oc=5",
-      "summary": "Wood Avenue warehouse dealt another blow as Easton zoners deny request to relocate stream &nbsp;&nbsp; WFMZ.com",
-      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
-      "domain": "news.google.com",
-      "published": "2026-01-15T08:00:00+00:00",
-      "published_ts": 1768464000.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "warehouse"
-      ],
-      "rank_score": 4.0
-    },
-    {
       "id": "f365d6e6c9ee",
       "title": "Kislak sells 67 acres for senior living development in Lancaster County - ROI-NJ",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQanM0VHBqYjdwdXNJb05SZHYtdGZjOG5WYUljUU9oQklORkVROFVzWWp0TllxZl8wc3FrUjRBWWlRMnZJV1ZOZXpkNG5veW1md3I2UkRjSlNVcS15c1JJemtQSGdHYjNhWDN1XzlIUzZsNjJvMGttdWJrZkZZUDhDSkE2SGVBZG84Y1NPdU5IYm1pV2ZDUkJic2M2MXB3T2t3UWZEYXRBbTZDaENFd1duUFoyWm1rM255YkxDam9Wa3F4VEIyWnpYdmtR?oc=5",
@@ -4675,74 +4491,59 @@
       "rank_score": 4.0
     },
     {
-      "id": "64c8c8fbc813",
-      "title": "Montgomery County proposes a real estate tax hike and employee salary bump in 2023 budget - WHYY",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FSXZlanh2WW1oejlFYjZ6SnI5ZjBDbW5RTmdEMm9oMEtKX3NMY0VXeldEWTQ2RjExVFR2M1pseG02QzJGaWdYQUtOT2g5TDk1QWItNGFuQ2dtYVJQNDVhWE9USU1VcnJadmtsMVQxZi04UWlRY1Jn?oc=5",
-      "summary": "Montgomery County proposes a real estate tax hike and employee salary bump in 2023 budget &nbsp;&nbsp; WHYY",
-      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
+      "id": "cf14f86c1d1c",
+      "title": "\u2018An irreplaceable resource\u2019: Northampton County farm preserved from development - LehighValleyNews.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVGhoQXFzbTdSU2lHVnVSU3JCdHdyTE9sT2dWUkFtQWxjWm9HT0o0cm5IbFNOLW0zb1NFb1VNM3ltdy1kamxiYU5kSDl2OF9FVHFLRFlXamtQY2RCWUxqTWVGVXZwUUNPOHdSb3hvS2xCc0xzMmFHXzd4WWEtYkNwbUh5VGtVeFlhUHhoZ09aSlM5T1h4ZUVqOGZDNmZaZHNWc0ZTVEhHcHd5OE1uWmpBYjNGWjZYTV84YjUyWXM2STRsd3ppMV84NA?oc=5",
+      "summary": "\u2018An irreplaceable resource\u2019: Northampton County farm preserved from development &nbsp;&nbsp; LehighValleyNews.com",
+      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
       "domain": "news.google.com",
-      "published": "2022-12-12T08:00:00+00:00",
-      "published_ts": 1670832000.0,
+      "published": "2025-12-12T08:00:00+00:00",
+      "published_ts": 1765526400.0,
       "topic_score": 2,
       "matched_terms": [
-        "real estate"
+        "development"
       ],
       "rank_score": 4.0
     },
     {
-      "id": "0c8bffd21ce2",
-      "title": "Joint venture plans 176,000-square-foot warehouse in Montgomery County - The Business Journals",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOblYxdDFmQ1U5X0wyQW1tVlRCMWFWSXpRam82a0I5Smpjb1VYeFotaVdwSFhVc1dPTzhsNGZlaVFqdmxoR25SdFlBRkVUakRsNE5xaFhMZm9kM2dpdmY5aXV2RFh2V01RUUt2QVRhT3IzcGswd3E4bzJ3Q2lQdTJ2cXZfbFVEek1IMzFZLVdnbzNmY0EtQUljcXJRUU4xVHd0b1dzcDZfSWkzazloTnhSbg?oc=5",
-      "summary": "Joint venture plans 176,000-square-foot warehouse in Montgomery County &nbsp;&nbsp; The Business Journals",
-      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
+      "id": "72f94b17b24a",
+      "title": "Dixie cup factory development hinges on Northampton County\u2019s tax financing decision - Lehighvalleylive.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTVMwbXZMUDlwQkxVR0cybjRtXzRZSjJtYk5aME1pTmlGbVM5UklCXzhQLUcwQkZzX3RreXhCUE1nbW9FUGc3ckFJbU1MaF96eXpIU3ZobjZfVXBzaXdSTk52bm9BOEhRM0oyVVZsUFMwc3czTGlRclJ0Z2NRSERlWGdUWXVCRUVzclpodFZ5dW0ybHJYWWJzZ2JpaHYwMURFVXREQzViZWN2UjM2ZjUyc1U0MVZuaEwwUVpObzV2dXN5TGlDSE1LRGllT2J6WGFw0gHkAUFVX3lxTFBSOU04S0Q3bFRCUkYtTW1KaWt2M1ZVVlYtamFtMVU1TmlWYThsUDhkdEhMQUlpaFV1ZU1UT0hHV3V0TDg5QWRJX3ZsVWZNckJKaEdheGRfTGlkYXNXNm9fVnNUMmZIQnpxeFpLa1hVWGdFRHd2TWlGUFhfenU1bmVaeGNocFZSTERxU2JrTDF6cE5DZUxpNnhUZFdGWndxRWdleFpMRkZKY3Z4VzlQNFBJUEFBbTlKRG8wVDZtVEgwVlp1R3dET0tsU0tGcG1hWnk4UjJRRmtLS0dySXZmRGtETVBLNg?oc=5",
+      "summary": "Dixie cup factory development hinges on Northampton County\u2019s tax financing decision &nbsp;&nbsp; Lehighvalleylive.com",
+      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
       "domain": "news.google.com",
-      "published": "2024-12-12T08:00:00+00:00",
-      "published_ts": 1733990400.0,
+      "published": "2025-08-26T07:00:00+00:00",
+      "published_ts": 1756191600.0,
       "topic_score": 2,
       "matched_terms": [
-        "warehouse"
+        "development"
       ],
       "rank_score": 4.0
     },
     {
-      "id": "91f1fa5b7518",
-      "title": "Montgomery County, Skanska and SOM Celebrate Groundbreaking on Montgomery County Justice Center in Norristown, PA - citybiz",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMWhVbGpwZHBmSWdmYnBTdG91aFlPcV9vNFlMMkQ3RWtLVHhQVk5CZFdNRERKdXdSclc2Sm45bHZoRzNFS0FOdGVDZWdBMkliVVppTE9sRm9ISWZJZ2hjQ1dma1lXYTBFTDZySzkyY1JLTVl6Ql9jTURPSUdaNlVtNXU3NklIZHFscWRkSXNmdDRYQk4yaU8ybVVTU0hhWkNmaHVrT012MWd3ODZkWU1aZHV2WUgwVjlzQ2J5WjRlakJTYWNLZ2N4dUtqRjJBWUVSb3VILUpFdVItZmJIMFRLbFRaZw?oc=5",
-      "summary": "Montgomery County, Skanska and SOM Celebrate Groundbreaking on Montgomery County Justice Center in Norristown, PA &nbsp;&nbsp; citybiz",
-      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
+      "id": "9eab8c8c4e4d",
+      "title": "Massive Northampton County development project at center of legal dispute - The Morning Call",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWTNKdy04OUlidGQ3bFFHOHdWaEdEQ2hHOHIyZmpVS3hVSTkwcHlQdVdFRkFnOWdTUTRXMTlLZ2wzeFZmRkhHNk9YNTdIZnppbC1JZjlDeFdTaERwcHo4QkJZS05mQV9WV283akJibXo0MF80c3lRUWlORThLZnFBR0VqbW5jVGlTYzRZZ2pTdGVNVGM?oc=5",
+      "summary": "Massive Northampton County development project at center of legal dispute &nbsp;&nbsp; The Morning Call",
+      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
       "domain": "news.google.com",
-      "published": "2021-06-15T07:00:00+00:00",
-      "published_ts": 1623740400.0,
+      "published": "2026-03-04T08:00:00+00:00",
+      "published_ts": 1772611200.0,
       "topic_score": 2,
       "matched_terms": [
-        "groundbreaking"
+        "development"
       ],
       "rank_score": 4.0
     },
     {
-      "id": "168bedaad9d6",
-      "title": "As ICE expands its footprint, DHS is leasing a high-end office space on the Main Line - WHYY",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBORVNjcWRpalhXMHhhcUVCbU90MWFPNE9EUURHZk42ZGM4ak9rWWxjczIyVGExRXpaM09qX3FuR2MwXzRRenFYQnhSN3VvVHU4a3ZzeWlzU3g5M2cwRWdKbHNDUUpOalBMaDBLN2psUDk1QQ?oc=5",
-      "summary": "As ICE expands its footprint, DHS is leasing a high-end office space on the Main Line &nbsp;&nbsp; WHYY",
-      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
+      "id": "5f18a282e1b1",
+      "title": "Developers propose \u2018responsible\u2019 data center in rural Northampton County community. Neighbors are skeptical - The Morning Call",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSkF3ZW1DMVo4d2I0UHhDNmxTY1ZjUGIya2NheU95M241YlRCNDl1a3VmdVpZdlhkWUE0TU1hVmpKbGd4cUhkejZmZklpWldnWTJMM3l4SzBmQmhNRjdrUllrNnVlelF0N054WXJ1NGNHdnk1RGNkWkgwcnRZck53TUR1Ti1aaGlUS0E3UXZodlRab1pFWUE?oc=5",
+      "summary": "Developers propose \u2018responsible\u2019 data center in rural Northampton County community. Neighbors are skeptical &nbsp;&nbsp; The Morning Call",
+      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
       "domain": "news.google.com",
-      "published": "2026-02-13T08:00:00+00:00",
-      "published_ts": 1770969600.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "office space"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "4bcce409fb1b",
-      "title": "Developer O\u2019Neill pays $103M in deal for former GSK complex, promotes plan for labs and offices in Montgomery County - Inquirer.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTItYVFsRnI2dE9OaHJLaDcweVpzeXBReURvSk1TVGlIb3FuWGJ6aW5zZVhucVVNUWdGaG9SQllYaVhqRk1EOE9TVGFQMnZGM3F2OW45VjU5WUR2bFVncE44ZUVVd2t1QldIWHJYUmFYVDN5Y1BWRWdqb0JPRnFtOEtSeVVEQnE1eEdVUmlHRmZWUURkSmhqRXJhWnQyYkxKNXFBTFhaWGJrT1FzSVhSallpSTM0U1BqZTJZeF9vWWk?oc=5",
-      "summary": "Developer O\u2019Neill pays $103M in deal for former GSK complex, promotes plan for labs and offices in Montgomery County &nbsp;&nbsp; Inquirer.com",
-      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
-      "domain": "news.google.com",
-      "published": "2021-01-26T08:00:00+00:00",
-      "published_ts": 1611648000.0,
+      "published": "2026-02-25T08:00:00+00:00",
+      "published_ts": 1772006400.0,
       "topic_score": 2,
       "matched_terms": [
         "developer"
@@ -4750,17 +4551,92 @@
       "rank_score": 4.0
     },
     {
-      "id": "9179ba19f2c9",
-      "title": "Cosmo DiNardo, at Center of Missing Men Case, Is Heir to Family With Sizable Real Estate Holdings - NBC10 Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOME9KdW01emgtaXFaMjVYcUhpLVVVZm95VlFqQ3NKWGhBX25nQ3pkcXpWaFV1VldGdXZrellzd0ZWalVkSlNUYnU3QWlfUGlITEJuRkZ3UHluVnJIYk16T0NwVXpyUUNDNXN0Wml2UE1fZUN0UnFoYTg0bTlSQ1hvbDlYS2lIdnJNTUNlUU5DUmpHX3hrQzgxeTNtOHR6YkZtVE1yWUNZWkNjd2NlUmNZdFNEODZ1a1lESDFzbEFXaWdrZWZ2VVBhVmw2RjVRZDZaVE50WDRhRW53ZXpsSDhXbWNISW83eG9samZPTkRGUHctUzR3cW5KWVFB0gGCAkFVX3lxTE8xQ2Y2QlAwamN5QVJrS1R3MUYwREE3WkZGd01YOW02anBDSTFXdjJtUkRYUHp4UzlYSFgtcFlsamRQYkNUNnljbWVSa0VJam8yUXFBMzB5djlPMVlEbkd5aEVERXpiTlJLTDg4RlhmUDB1SXk3N1Y1ZmdKSzNzZ0FveF83eFhjc1E4NjcySjhaTEktUjRRLWlGd2pNTzhIUHhMOVpOTjQ0OTB0R01VTmZkbk1yOHRyWmdMWDFEV0oyVWg1bk1QV05UbE5UTmZxUER1VW12Q2JMTFlzNUxWeDBxOWVDOEJWYnktZlVteDJPM05rcU9fSEEzYnFnSjhxWWVzZw?oc=5",
-      "summary": "Cosmo DiNardo, at Center of Missing Men Case, Is Heir to Family With Sizable Real Estate Holdings &nbsp;&nbsp; NBC10 Philadelphia",
-      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
+      "id": "6305515f43b5",
+      "title": "2 years after being blocked, a massive development is in the works again on Lehigh Valley airport land - The Morning Call",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1najEwR1ZGd0xhNnc4Mmd3VzhBQ1Z6WjU3S3k2WnRIUnoyRUQ1SHhNcFR3Qkh6ZDlmeGw2dUp6VTVqZy1RNVh3dUlZVmpDdms0U1RabWdad0tMTlBsZzhtZUY3VE9XY1BzaWpxY28yYw?oc=5",
+      "summary": "2 years after being blocked, a massive development is in the works again on Lehigh Valley airport land &nbsp;&nbsp; The Morning Call",
+      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
       "domain": "news.google.com",
-      "published": "2017-07-12T07:00:00+00:00",
-      "published_ts": 1499842800.0,
+      "published": "2025-09-14T07:00:00+00:00",
+      "published_ts": 1757833200.0,
       "topic_score": 2,
       "matched_terms": [
-        "real estate"
+        "development"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "c8dbf25e9abb",
+      "title": "Massive housing development in Northampton County taking shape - WFMZ.com",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNNU5RSy12WmxlZUpvX0JGV1FXWEFkSUZpTXNTUXJGUXlkM2UxREhSTEFCeFZ6ZEFUWGdoMXBJZWNRWnZKVElzYnJ3ZVkwNW5GTmIwcW9YTzlLM2NNSFFWQmRHNE83eTlfc2JVWU4yUlBEUVUwRFFBNTdnbzItaDZKYWcxY3dnM0xxRGZnUVAwY0dkVVlUWDR4djR0ZU5PSzZaLUpWSFBMNnBvdHZDODlMLXBPNXZPU2dGb1VWVUZadEVDOUQzXzdibUd5V1lTcVRqV3VMVm1PN2RzeFBwbnFad19PNkV1NlNGTEV1OHpWd0ZnaC1SVTF3M1QzRjVzWDlMeXB1MGE5UXdMcjg2ang2TGRjZnc1UQ?oc=5",
+      "summary": "Massive housing development in Northampton County taking shape &nbsp;&nbsp; WFMZ.com",
+      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
+      "domain": "news.google.com",
+      "published": "2025-03-25T07:00:00+00:00",
+      "published_ts": 1742886000.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "development"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "d5839bffcc40",
+      "title": "2 more Lehigh Valley farms saved from development. Find out where and how much it cost. - The Morning Call",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaG1NQnF2QkZCMlJHZjhSR3hIRUdrNHRUYVNyOEtSaE1yTGsyQ2w0bmpJWlJVR1ZmM21wNkVsMFdCcmMwWWlzVmhvWEtJcDZiaml1ekd6WnFGUE5IYUg3YS1SYnJGenVla3dYUXpLQUpFTEg4NnN4dURxZ01LaGtoY3FMOEVqb3RPUkM5T0UySjU5a0JRYjg2dWtZYmQ3SWpMdkxyblFINnBTWDZwY19hUnF4UkNhYTB0aHg4?oc=5",
+      "summary": "2 more Lehigh Valley farms saved from development. Find out where and how much it cost. &nbsp;&nbsp; The Morning Call",
+      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
+      "domain": "news.google.com",
+      "published": "2024-04-12T07:00:00+00:00",
+      "published_ts": 1712905200.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "development"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "b0fa0502314a",
+      "title": "Fadem Resigns as Hellertown Council VP, Approved as New Zoning Officer - Saucon Source",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZzFJOGdjNHgxSTkzbjNJSGxtT3JzWVh6OFltYkNhNzFEdThzWUJsSEpUS1B6Z1hEYTdiVGtnV3FCUGFJZHhyVE1uNGtadU41ejNyaW8wVTNnbkZ1OTBRXzMtbnRXZjBJaDcyVklldFNCTS01N1RRbWFhRVd1TFRJUnJOTEFmZ0tidWVhRjdWdFAzWnM2V1hGOGdTNGk5d2xSM0tCNXdxa0VpZw?oc=5",
+      "summary": "Fadem Resigns as Hellertown Council VP, Approved as New Zoning Officer &nbsp;&nbsp; Saucon Source",
+      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
+      "domain": "news.google.com",
+      "published": "2025-05-29T07:00:00+00:00",
+      "published_ts": 1748502000.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "zoning"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "cfb9390eec85",
+      "title": "Gov. Shapiro to tout $500M Pa. development program with visit to old Bethlehem Steel HQ - LehighValleyNews.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWklUV2ZwWkFjdk9yY2xLV3pQeHpjWmZlQk1WVmpsbU9HOVlZVmdRazZTSGVxWnZiSWFxLVV3aWkwU2pXNmM1SDNWNlowNEJGdTFXR1dsdExlUTVhOFZ4dHd1b0xNekl6dzJ2akFVd3d5dnVJY09kWUVGdko3UElJZGlwQ1FYSU8wb2F0MW8zbjh4NVFHUGQxZDlrWG1MYll6Tlhyd3dYV19EamxaaW1VazBBM0NWUWgyZ1ZvM01wTU9sWnBmVFE?oc=5",
+      "summary": "Gov. Shapiro to tout $500M Pa. development program with visit to old Bethlehem Steel HQ &nbsp;&nbsp; LehighValleyNews.com",
+      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
+      "domain": "news.google.com",
+      "published": "2024-07-15T07:00:00+00:00",
+      "published_ts": 1721026800.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "development"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "2353142c1cc7",
+      "title": "Wood Avenue warehouse dealt another blow as Easton zoners deny request to relocate stream - WFMZ.com",
+      "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNS2JwNEtSbFA4YmoyWkFPSTRiU0FvQ2ZjVXJYSlY2ODRibjNkMWZpNm1kbGdDMEtlX2dnSGdzM29HNURVSXFZVzBvTVBGRVB1Zk80MnV2UTlDS3psb0psZFFiQTlka01yVHJtY0lrZU1udldpY29STFlIOWlINElXS3prdVpNR1pEbXZURHphaktBeTdLZWtTZnRraDkwUDl3YVpRLWhZUWRSUWtYUi1iMmFOajdfdVUtcUdNS0Z4OV9VNGZkRjcySzRVdHFlUG04WXFpYlFNbzVtMk5kMjVuNkgtM3BoZUFfTEE2UnEyT1djZGtOZjZ0Rm5adWNsc2c0THJTNjFKbVdFNUpxOXZoR0Q5TTVsLUJ3SmFfTGN3eFRHUGthVmFOYWs0U2VhQnFNdEx4V0lQNVcwZw?oc=5",
+      "summary": "Wood Avenue warehouse dealt another blow as Easton zoners deny request to relocate stream &nbsp;&nbsp; WFMZ.com",
+      "source": "Google News: \"Northampton County\" PA (development OR commercial OR zoning",
+      "domain": "news.google.com",
+      "published": "2026-01-15T08:00:00+00:00",
+      "published_ts": 1768464000.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "warehouse"
       ],
       "rank_score": 4.0
     },
@@ -4916,6 +4792,112 @@
       "rank_score": 4.0
     },
     {
+      "id": "c21e729d8b77",
+      "title": "Newly built Wawa property in Montgomery County sells for $7.4M - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc0xkNnR5Rkp2blN5RERVRW5VZDNwcU55NU04RjBnTnBpZERpS0dhRFBtaldHRW9yeU5SWDRHTVVCMTlPeUV2d05jdV8xYm0tWHR1WnFHS1JvRnVweWRMZ0Z1OXNudE9fR3lDNXlvcUEyRXF3ZllEdHdJbEFOLTVTdWk0YUFtSFNWcE9RNkNvSHdkWFdUODBn?oc=5",
+      "summary": "Newly built Wawa property in Montgomery County sells for $7.4M &nbsp;&nbsp; The Business Journals",
+      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
+      "domain": "news.google.com",
+      "published": "2026-01-26T08:00:00+00:00",
+      "published_ts": 1769414400.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "property",
+        "wawa"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "64c8c8fbc813",
+      "title": "Montgomery County proposes a real estate tax hike and employee salary bump in 2023 budget - WHYY",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FSXZlanh2WW1oejlFYjZ6SnI5ZjBDbW5RTmdEMm9oMEtKX3NMY0VXeldEWTQ2RjExVFR2M1pseG02QzJGaWdYQUtOT2g5TDk1QWItNGFuQ2dtYVJQNDVhWE9USU1VcnJadmtsMVQxZi04UWlRY1Jn?oc=5",
+      "summary": "Montgomery County proposes a real estate tax hike and employee salary bump in 2023 budget &nbsp;&nbsp; WHYY",
+      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
+      "domain": "news.google.com",
+      "published": "2022-12-12T08:00:00+00:00",
+      "published_ts": 1670832000.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "real estate"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "0c8bffd21ce2",
+      "title": "Joint venture plans 176,000-square-foot warehouse in Montgomery County - The Business Journals",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOblYxdDFmQ1U5X0wyQW1tVlRCMWFWSXpRam82a0I5Smpjb1VYeFotaVdwSFhVc1dPTzhsNGZlaVFqdmxoR25SdFlBRkVUakRsNE5xaFhMZm9kM2dpdmY5aXV2RFh2V01RUUt2QVRhT3IzcGswd3E4bzJ3Q2lQdTJ2cXZfbFVEek1IMzFZLVdnbzNmY0EtQUljcXJRUU4xVHd0b1dzcDZfSWkzazloTnhSbg?oc=5",
+      "summary": "Joint venture plans 176,000-square-foot warehouse in Montgomery County &nbsp;&nbsp; The Business Journals",
+      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
+      "domain": "news.google.com",
+      "published": "2024-12-12T08:00:00+00:00",
+      "published_ts": 1733990400.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "warehouse"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "91f1fa5b7518",
+      "title": "Montgomery County, Skanska and SOM Celebrate Groundbreaking on Montgomery County Justice Center in Norristown, PA - citybiz",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMWhVbGpwZHBmSWdmYnBTdG91aFlPcV9vNFlMMkQ3RWtLVHhQVk5CZFdNRERKdXdSclc2Sm45bHZoRzNFS0FOdGVDZWdBMkliVVppTE9sRm9ISWZJZ2hjQ1dma1lXYTBFTDZySzkyY1JLTVl6Ql9jTURPSUdaNlVtNXU3NklIZHFscWRkSXNmdDRYQk4yaU8ybVVTU0hhWkNmaHVrT012MWd3ODZkWU1aZHV2WUgwVjlzQ2J5WjRlakJTYWNLZ2N4dUtqRjJBWUVSb3VILUpFdVItZmJIMFRLbFRaZw?oc=5",
+      "summary": "Montgomery County, Skanska and SOM Celebrate Groundbreaking on Montgomery County Justice Center in Norristown, PA &nbsp;&nbsp; citybiz",
+      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
+      "domain": "news.google.com",
+      "published": "2021-06-15T07:00:00+00:00",
+      "published_ts": 1623740400.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "groundbreaking"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "168bedaad9d6",
+      "title": "As ICE expands its footprint, DHS is leasing a high-end office space on the Main Line - WHYY",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBORVNjcWRpalhXMHhhcUVCbU90MWFPNE9EUURHZk42ZGM4ak9rWWxjczIyVGExRXpaM09qX3FuR2MwXzRRenFYQnhSN3VvVHU4a3ZzeWlzU3g5M2cwRWdKbHNDUUpOalBMaDBLN2psUDk1QQ?oc=5",
+      "summary": "As ICE expands its footprint, DHS is leasing a high-end office space on the Main Line &nbsp;&nbsp; WHYY",
+      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
+      "domain": "news.google.com",
+      "published": "2026-02-13T08:00:00+00:00",
+      "published_ts": 1770969600.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "office space"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "4bcce409fb1b",
+      "title": "Developer O\u2019Neill pays $103M in deal for former GSK complex, promotes plan for labs and offices in Montgomery County - Inquirer.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTItYVFsRnI2dE9OaHJLaDcweVpzeXBReURvSk1TVGlIb3FuWGJ6aW5zZVhucVVNUWdGaG9SQllYaVhqRk1EOE9TVGFQMnZGM3F2OW45VjU5WUR2bFVncE44ZUVVd2t1QldIWHJYUmFYVDN5Y1BWRWdqb0JPRnFtOEtSeVVEQnE1eEdVUmlHRmZWUURkSmhqRXJhWnQyYkxKNXFBTFhaWGJrT1FzSVhSallpSTM0U1BqZTJZeF9vWWk?oc=5",
+      "summary": "Developer O\u2019Neill pays $103M in deal for former GSK complex, promotes plan for labs and offices in Montgomery County &nbsp;&nbsp; Inquirer.com",
+      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
+      "domain": "news.google.com",
+      "published": "2021-01-26T08:00:00+00:00",
+      "published_ts": 1611648000.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "developer"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "9179ba19f2c9",
+      "title": "Cosmo DiNardo, at Center of Missing Men Case, Is Heir to Family With Sizable Real Estate Holdings - NBC10 Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOME9KdW01emgtaXFaMjVYcUhpLVVVZm95VlFqQ3NKWGhBX25nQ3pkcXpWaFV1VldGdXZrellzd0ZWalVkSlNUYnU3QWlfUGlITEJuRkZ3UHluVnJIYk16T0NwVXpyUUNDNXN0Wml2UE1fZUN0UnFoYTg0bTlSQ1hvbDlYS2lIdnJNTUNlUU5DUmpHX3hrQzgxeTNtOHR6YkZtVE1yWUNZWkNjd2NlUmNZdFNEODZ1a1lESDFzbEFXaWdrZWZ2VVBhVmw2RjVRZDZaVE50WDRhRW53ZXpsSDhXbWNISW83eG9samZPTkRGUHctUzR3cW5KWVFB0gGCAkFVX3lxTE8xQ2Y2QlAwamN5QVJrS1R3MUYwREE3WkZGd01YOW02anBDSTFXdjJtUkRYUHp4UzlYSFgtcFlsamRQYkNUNnljbWVSa0VJam8yUXFBMzB5djlPMVlEbkd5aEVERXpiTlJLTDg4RlhmUDB1SXk3N1Y1ZmdKSzNzZ0FveF83eFhjc1E4NjcySjhaTEktUjRRLWlGd2pNTzhIUHhMOVpOTjQ0OTB0R01VTmZkbk1yOHRyWmdMWDFEV0oyVWg1bk1QV05UbE5UTmZxUER1VW12Q2JMTFlzNUxWeDBxOWVDOEJWYnktZlVteDJPM05rcU9fSEEzYnFnSjhxWWVzZw?oc=5",
+      "summary": "Cosmo DiNardo, at Center of Missing Men Case, Is Heir to Family With Sizable Real Estate Holdings &nbsp;&nbsp; NBC10 Philadelphia",
+      "source": "Google News: \"Montgomery County\" PA (commercial real estate OR retail)",
+      "domain": "news.google.com",
+      "published": "2017-07-12T07:00:00+00:00",
+      "published_ts": 1499842800.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "real estate"
+      ],
+      "rank_score": 4.0
+    },
+    {
       "id": "d91a09c2d69a",
       "title": "Residents hear newest pitch for White Clay Point development - Chester County Press",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRmQyU2xqWGxROHdfSm1RSk5wOTBRWVBPXzRITXk4a2JaYjBZNDlZaHNsTVNrMnl6NFlTbndFU3hXUFJqeXBDSWZ5UWJpR25yZEctbWEwQmQ4MHlyeVE4TGlIVHlqblRIem16Qy1uc0stVVgtbm54WnJTc3dic3FobVBLYVh2UDhodDF5ZE1qS3U2bWY0OFhEZ0tIdHlGVVZ3QXFEUFpYQUhlRmxK?oc=5",
@@ -4961,21 +4943,6 @@
       "rank_score": 4.0
     },
     {
-      "id": "c4abfec4cd80",
-      "title": "A construction boom in Chester County: 700 people compete for 142 units - Inquirer.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUndSS3dNX0lpa2FJTXVVeVFEUGYtVTRYcmRxc1pKbDhkMUJTeWxEUUFvVnFJQ055V0FERldUZ1BHM3p2Wm1QSW5lUGNZN3RwMEVreDB6U2JWdzFDWlpHOWdCWTRweWp3RFVQQk5RNEl2ZzEtX3hOQXBiNmpRUzJvcGc0NExVME9YemJsbVVmaUdKc3loS3pzei04MVM1WWJxdEhNZFZxTnJyTVptRFAzd0pUZGVBSmhrM2x5enRn?oc=5",
-      "summary": "A construction boom in Chester County: 700 people compete for 142 units &nbsp;&nbsp; Inquirer.com",
-      "source": "Google News: \"Chester County\" PA (commercial real estate OR development)",
-      "domain": "news.google.com",
-      "published": "2020-12-02T08:00:00+00:00",
-      "published_ts": 1606896000.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "construction"
-      ],
-      "rank_score": 4.0
-    },
-    {
       "id": "1630820a19b5",
       "title": "Local business openings and closings to know | Inquirer Chester County - Inquirer.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcXpEVjBncHpUdk5tRFF2S3N5cGFHbk9TZ3hPUGRDUnJQVDM4cDZMVFljOEVJbVZjX3Q2MUtNeGpndDF1MGpzek9HRDNhTUhuZ2luelo4dDQySWNHanZfOFpNYmhDb2d1UnI5YnFtUThSc0V5R0UwY0d2TERqbnpfYzFhVmpVSVhKWFJ5MDVhR2Y4SEVOMFRJRVZTVWtaUkg1RW5VbjFvWFkyd0R3cVpLWnBB?oc=5",
@@ -4987,6 +4954,21 @@
       "topic_score": 2,
       "matched_terms": [
         "opening"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "c4abfec4cd80",
+      "title": "A construction boom in Chester County: 700 people compete for 142 units - Inquirer.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUndSS3dNX0lpa2FJTXVVeVFEUGYtVTRYcmRxc1pKbDhkMUJTeWxEUUFvVnFJQ055V0FERldUZ1BHM3p2Wm1QSW5lUGNZN3RwMEVreDB6U2JWdzFDWlpHOWdCWTRweWp3RFVQQk5RNEl2ZzEtX3hOQXBiNmpRUzJvcGc0NExVME9YemJsbVVmaUdKc3loS3pzei04MVM1WWJxdEhNZFZxTnJyTVptRFAzd0pUZGVBSmhrM2x5enRn?oc=5",
+      "summary": "A construction boom in Chester County: 700 people compete for 142 units &nbsp;&nbsp; Inquirer.com",
+      "source": "Google News: \"Chester County\" PA (commercial real estate OR development)",
+      "domain": "news.google.com",
+      "published": "2020-12-02T08:00:00+00:00",
+      "published_ts": 1606896000.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "construction"
       ],
       "rank_score": 4.0
     },
@@ -5276,111 +5258,6 @@
       "rank_score": 4.0
     },
     {
-      "id": "e10b117bc6ff",
-      "title": "Assets of Bethlehem-based Davis Bottling Co. being bought by Dr Pepper Snapple, news release says - Lehighvalleylive.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMVhNb2J6dllXb0pkOEFTZ0Zub0hkd3k3ZGdwNEM0bXhuYjBxT3MtMG8tYVA1YXRXRk0wMXpHRE5LbC12WHdnSlpaOFRjVlVVVWNMTHZXY0Q3dHotdkRxWi1rMkpLeGdIRUl4Zjk1RjBZS3VWZ3dnMHhCMXVtelg0YXkzeHIxbGxNTkRGbjFTcw?oc=5",
-      "summary": "Assets of Bethlehem-based Davis Bottling Co. being bought by Dr Pepper Snapple, news release says &nbsp;&nbsp; Lehighvalleylive.com",
-      "source": "Google News: \"Eastern Pennsylvania\" (warehouse OR industrial OR distribut",
-      "domain": "news.google.com",
-      "published": "2014-09-04T07:00:00+00:00",
-      "published_ts": 1409814000.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "lease"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "eb85769370c3",
-      "title": "Groundbreaking held for commerce center planned for former Bethlehem Steel land - Lehigh Valley Business",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmhVTkxCcVFCWnB3NHh5ODBnZU9PM1RBUzBGbGRraHJVT0RkNVA5RDZDREhhZU1rbXBrUWd1dmx4d2UtQ1ZBUGJhRlJ5ajdIMG9JMTZuMWFIT0NiazgxSFFlalMtd2lqdTZMYUJsRktJNWMySXlScG1qUGpDd3ZCdS1pMjZRVTdzdkpEczhSV3ZnYzRqLUFzRHZtT2k?oc=5",
-      "summary": "Groundbreaking held for commerce center planned for former Bethlehem Steel land &nbsp;&nbsp; Lehigh Valley Business",
-      "source": "Google News: Pennsylvania (groundbreaking OR \"broke ground\") (retail OR o",
-      "domain": "news.google.com",
-      "published": "2025-11-13T08:00:00+00:00",
-      "published_ts": 1763020800.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "groundbreaking"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "8062edcc1480",
-      "title": "Pennsylvania passes carbon capture bill in an important step for industrial decarbonization - Clean Air Task Force",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb0l4d2d1Z3V0TXo5SzJfejRXaXpqR3ZROHlyU2tjQ1ZPMkNnVlBDa05NempWNW1NQVQ4UWxpYVpVRzUzMjlZU1h6ZDB0djFaVWZES2pTVjBNMWxyNm5GMnIwSTZGd19xUnB6M0dpY205Z1pxQXU3Y0ZVcGozUVAwTmRwb3NTM0c5MGRDNlE2R1VZU3JSOGhfR2hHcGJXcDBVMDB1dnF2RFhjMnprSVdj?oc=5",
-      "summary": "Pennsylvania passes carbon capture bill in an important step for industrial decarbonization &nbsp;&nbsp; Clean Air Task Force",
-      "source": "Google News: Pennsylvania (groundbreaking OR \"broke ground\") (retail OR o",
-      "domain": "news.google.com",
-      "published": "2024-07-17T07:00:00+00:00",
-      "published_ts": 1721199600.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "industrial"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "8dc9d0af136d",
-      "title": "Jacqueline Romero's groundbreaking journey to trailblazing United States District Attorney - 6abc Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWGJjdHRqMTZRQVRZTFlrZVB6clFSd1lxdFZLTXI3QzF4ZGVQaGR2QXMwRFFhV2xhSFBIdUJCb1RkcHlTbDF2NnhrdWx1STAxdlRPTzFrbElSMzJWSTBSQzhIdlU2MVRNMHhSWmVvQlZaSzVmM1BLRUdrN2g1Mk5Md0dHV3hLMW9VZE04MnE3VTdYcFQyekZSVzQxeVk5N0lZcWo3RtIBqgFBVV95cUxQT05XcGdFLThfb1RsaDFUWm5GWmJ5bk4wejRKTHhMY1lDNndOSmFnR0pHV1NnVjRnVEp6aFRfVzE0bjkxWmFWMW9vMGVCX3JpazZobXp3MmNjUF9pR1BMajE3MUFlWUo2bEw1OVFFNFpHVEFHaVRhcFA0cTlpQ0M3M25MdmU5VmZTbDZQcW42NHB2M2Q4T0c3VkIxYUFxQWpCcXJrX0w1S3NtUQ?oc=5",
-      "summary": "Jacqueline Romero's groundbreaking journey to trailblazing United States District Attorney &nbsp;&nbsp; 6abc Philadelphia",
-      "source": "Google News: Pennsylvania (groundbreaking OR \"broke ground\") (retail OR o",
-      "domain": "news.google.com",
-      "published": "2022-09-20T07:00:00+00:00",
-      "published_ts": 1663657200.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "groundbreaking"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "290f016519b7",
-      "title": "Bergamot Station-Adjacent Offices Slated for 2022 Groundbreaking - Urbanize LA",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMTJvNFhUQ0NXX0t2WjhvbDJBMlRnbmdBTjhSWmtBMEc4THg1ZWc1bENrdTVBQ3VGVktuTmVjSjhWYkk3ejk5eDVoMUdOaTd5TzAwUldKN1YwWVlaNWJGUXFZSUdKczM0a1ZYZTQyTWQxejNPOXM5MU9LZkEyM1RDTFhsQVZSbVhCY0ZoUTlOdVlnUlY1?oc=5",
-      "summary": "Bergamot Station-Adjacent Offices Slated for 2022 Groundbreaking &nbsp;&nbsp; Urbanize LA",
-      "source": "Google News: Pennsylvania (groundbreaking OR \"broke ground\") (retail OR o",
-      "domain": "news.google.com",
-      "published": "2020-12-01T08:00:00+00:00",
-      "published_ts": 1606809600.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "groundbreaking"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "89743aa8761a",
-      "title": "Lovett Industrial Breaks Ground at Highway 1 Commerce Center, a Last Mile Industrial Site in Philadelphia, PA - Business Wire",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNMVRuQmJ2M3YxT2dha1NNTUlLWHFfUEY5ZDZLYTBqbTBWWTYyZnNhQV80UXA2QW5BRkZCTW1OU1JNUlBmdlB5N0tGRVN3NkFBYS1mLW1rMTJFTlc5ZlVERG1wang4YVJtWEtaRkkxTjVsb0Z3bG1kLVEtZ3Zaczl5b3c1a0ZCTGRrbVUycVZQUDhmdEJORFM3NFBqYWZ5RVl1bGlQTHk1LWVVZEhjZ3ZFU1YxSFc4YVQ2M2EwY0tKbzQ5RjBBNWQxMnNpXzhENjBFWl9pM2NRRHZjdHU0SVh2SGM1bXJHTkFyZlVhRU1yVGVaZVVVbmZ3?oc=5",
-      "summary": "Lovett Industrial Breaks Ground at Highway 1 Commerce Center, a Last Mile Industrial Site in Philadelphia, PA &nbsp;&nbsp; Business Wire",
-      "source": "Google News: Pennsylvania (groundbreaking OR \"broke ground\") (retail OR o",
-      "domain": "news.google.com",
-      "published": "2024-10-03T07:00:00+00:00",
-      "published_ts": 1727938800.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "industrial"
-      ],
-      "rank_score": 4.0
-    },
-    {
-      "id": "3f3924e31999",
-      "title": "East Market Developers Break Ground - Hidden City Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQb0plWjZLT0JqSktxek5TZWVNZVAwZk9HMTNvWjJ1UGx2M2NuaTFrVEc0R3hGSFJsNEFJMlVRVUZBbl80STNPYVkteXFOMXNPakRkaGpBa0U3elcyNzl2d0NUZTlFd1VaVHREZFRIN19ZZ3RhNWhuS1FGR2dIRld3TmhsRDc0MVVnS2kxVDQwVEowR1QtTEIyZk9DTQ?oc=5",
-      "summary": "East Market Developers Break Ground &nbsp;&nbsp; Hidden City Philadelphia",
-      "source": "Google News: Pennsylvania (groundbreaking OR \"broke ground\") (retail OR o",
-      "domain": "news.google.com",
-      "published": "2014-10-02T07:00:00+00:00",
-      "published_ts": 1412233200.0,
-      "topic_score": 2,
-      "matched_terms": [
-        "developer"
-      ],
-      "rank_score": 4.0
-    },
-    {
       "id": "262426538699",
       "title": "and Universal Health Services Host Ceremonial Groundbreaking Event for Hanover Hill Behavioral Health | Lehigh Valley Health Network - Lehigh Valley Health Network",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNmdHU0UzaTYwSjNMbXdOUzJmN0JRNDFZamJHZmllSUE3MklZbFlja0dSYUY1ZzU4blpPVnFHNWJwRXl4em53dTc5dW5yWE9lTkl3LXo4RWdrRVpMNGhjeEZ2c01IVTJYdjlHc1gxWGp6Y3c2dXp1ZW9UTm4wX05PbFdqOTNXNzVFbDk5b0xUTXdIQzgxaTNxNHFId3RuenVtbTlSbGxfcVlxdXUya0dmSVB0ZktDQQ?oc=5",
@@ -5471,6 +5348,21 @@
       "rank_score": 4.0
     },
     {
+      "id": "d2e500414361",
+      "title": "Lehigh\u2019s growth exposes a hard reality about South Bethlehem\u2019s real estate market - Lehighvalleylive.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObWhLaU5YeUFQWERiYjZpbXUwbTJheXFYRW5BanlFaGt3Vl95SmtQdU5XeWVoX3VWYlZEbTZSNXdWZU9MMUx3UVh4ZVBiV0xjaXdTaEVTV2txeE80eDdRUHh1LWJZMDJWN1RITW1EbEhWVFcxLVhVbzJ0YzVkZTVZdGhZMHRXd2NnN1NNUmNRSkEwdlAwWWhKNzFITDdmdlZhaDNfc3o3V3ZJUEY4NDBRbWd1aXpmODFQYWw2b3k5NlFoU0Y1X25lbUFqUlJlUm1U?oc=5",
+      "summary": "Lehigh\u2019s growth exposes a hard reality about South Bethlehem\u2019s real estate market &nbsp;&nbsp; Lehighvalleylive.com",
+      "source": "Google News: \"Lehigh Valley\" (medical office OR healthcare real estate)",
+      "domain": "news.google.com",
+      "published": "2022-02-01T08:00:00+00:00",
+      "published_ts": 1643702400.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "real estate"
+      ],
+      "rank_score": 4.0
+    },
+    {
       "id": "62c2c615a9b9",
       "title": "LVHN announces groundbreaking for Carbon County hospital - Pocono Record",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRnNhNGFLRzQ5WmdoX29tWWFkV1NOY0hMRjBYNkdZT01rclFUWnV3ZHo2cEtGTWF5cDNFQW9zTkJTN1d4LU9mRTFlUzlXcmY0Rjl3djlhLTF2aVJwekFNd1JrWkZ5TXpsNG5tZExZcFRkQnpKeVdZV3J3SXhTWjctdlhWeVo3WnVuWHBrVDZRMnVsbTlBbk91VkdzVjN5bkRlUmcyR25sVnR5VXJwaVhZcV9ubmVvdw?oc=5",
@@ -5479,6 +5371,96 @@
       "domain": "news.google.com",
       "published": "2020-12-22T08:00:00+00:00",
       "published_ts": 1608624000.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "groundbreaking"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "65e704ddbc30",
+      "title": "New commercial and residential development announced for Saucon Valley - Lehigh Valley Business",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTFRua3R1Wl9QRFloM3BuUGphZHB2aXNrVFVVR3VjVWZOXzVIckd2OHc4MGRPU1VfQlhrWHI0Q1k1SnBIakF5aFVxV01FSE5NS3EycTFVNnI5QXhDTDNLSC1LT1RWV0x3WWtLVC1DWDlyS2VMU1I3MG1lZ09KTmlidkp4aUNTN292eHhJbDkxa00?oc=5",
+      "summary": "New commercial and residential development announced for Saucon Valley &nbsp;&nbsp; Lehigh Valley Business",
+      "source": "Google News: \"Lehigh Valley\" (medical office OR healthcare real estate)",
+      "domain": "news.google.com",
+      "published": "2025-01-29T08:00:00+00:00",
+      "published_ts": 1738137600.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "development"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "eb85769370c3",
+      "title": "Groundbreaking held for commerce center planned for former Bethlehem Steel land - Lehigh Valley Business",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMmhVTkxCcVFCWnB3NHh5ODBnZU9PM1RBUzBGbGRraHJVT0RkNVA5RDZDREhhZU1rbXBrUWd1dmx4d2UtQ1ZBUGJhRlJ5ajdIMG9JMTZuMWFIT0NiazgxSFFlalMtd2lqdTZMYUJsRktJNWMySXlScG1qUGpDd3ZCdS1pMjZRVTdzdkpEczhSV3ZnYzRqLUFzRHZtT2k?oc=5",
+      "summary": "Groundbreaking held for commerce center planned for former Bethlehem Steel land &nbsp;&nbsp; Lehigh Valley Business",
+      "source": "Google News: Pennsylvania (groundbreaking OR \"broke ground\") (retail OR o",
+      "domain": "news.google.com",
+      "published": "2025-11-13T08:00:00+00:00",
+      "published_ts": 1763020800.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "groundbreaking"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "8062edcc1480",
+      "title": "Pennsylvania passes carbon capture bill in an important step for industrial decarbonization - Clean Air Task Force",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQb0l4d2d1Z3V0TXo5SzJfejRXaXpqR3ZROHlyU2tjQ1ZPMkNnVlBDa05NempWNW1NQVQ4UWxpYVpVRzUzMjlZU1h6ZDB0djFaVWZES2pTVjBNMWxyNm5GMnIwSTZGd19xUnB6M0dpY205Z1pxQXU3Y0ZVcGozUVAwTmRwb3NTM0c5MGRDNlE2R1VZU3JSOGhfR2hHcGJXcDBVMDB1dnF2RFhjMnprSVdj?oc=5",
+      "summary": "Pennsylvania passes carbon capture bill in an important step for industrial decarbonization &nbsp;&nbsp; Clean Air Task Force",
+      "source": "Google News: Pennsylvania (groundbreaking OR \"broke ground\") (retail OR o",
+      "domain": "news.google.com",
+      "published": "2024-07-17T07:00:00+00:00",
+      "published_ts": 1721199600.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "industrial"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "8dc9d0af136d",
+      "title": "Jacqueline Romero's groundbreaking journey to trailblazing United States District Attorney - 6abc Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWGJjdHRqMTZRQVRZTFlrZVB6clFSd1lxdFZLTXI3QzF4ZGVQaGR2QXMwRFFhV2xhSFBIdUJCb1RkcHlTbDF2NnhrdWx1STAxdlRPTzFrbElSMzJWSTBSQzhIdlU2MVRNMHhSWmVvQlZaSzVmM1BLRUdrN2g1Mk5Md0dHV3hLMW9VZE04MnE3VTdYcFQyekZSVzQxeVk5N0lZcWo3RtIBqgFBVV95cUxQT05XcGdFLThfb1RsaDFUWm5GWmJ5bk4wejRKTHhMY1lDNndOSmFnR0pHV1NnVjRnVEp6aFRfVzE0bjkxWmFWMW9vMGVCX3JpazZobXp3MmNjUF9pR1BMajE3MUFlWUo2bEw1OVFFNFpHVEFHaVRhcFA0cTlpQ0M3M25MdmU5VmZTbDZQcW42NHB2M2Q4T0c3VkIxYUFxQWpCcXJrX0w1S3NtUQ?oc=5",
+      "summary": "Jacqueline Romero's groundbreaking journey to trailblazing United States District Attorney &nbsp;&nbsp; 6abc Philadelphia",
+      "source": "Google News: Pennsylvania (groundbreaking OR \"broke ground\") (retail OR o",
+      "domain": "news.google.com",
+      "published": "2022-09-20T07:00:00+00:00",
+      "published_ts": 1663657200.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "groundbreaking"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "290f016519b7",
+      "title": "Bergamot Station-Adjacent Offices Slated for 2022 Groundbreaking - Urbanize LA",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMTJvNFhUQ0NXX0t2WjhvbDJBMlRnbmdBTjhSWmtBMEc4THg1ZWc1bENrdTVBQ3VGVktuTmVjSjhWYkk3ejk5eDVoMUdOaTd5TzAwUldKN1YwWVlaNWJGUXFZSUdKczM0a1ZYZTQyTWQxejNPOXM5MU9LZkEyM1RDTFhsQVZSbVhCY0ZoUTlOdVlnUlY1?oc=5",
+      "summary": "Bergamot Station-Adjacent Offices Slated for 2022 Groundbreaking &nbsp;&nbsp; Urbanize LA",
+      "source": "Google News: Pennsylvania (groundbreaking OR \"broke ground\") (retail OR o",
+      "domain": "news.google.com",
+      "published": "2020-12-01T08:00:00+00:00",
+      "published_ts": 1606809600.0,
+      "topic_score": 2,
+      "matched_terms": [
+        "groundbreaking"
+      ],
+      "rank_score": 4.0
+    },
+    {
+      "id": "4f3df4e18e81",
+      "title": "Seven Tower Bridge holds groundbreaking in Philadelphia suburb - Pennsylvania Business Report -",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYU92dGhaemtlNV81QTloSUhUa2U3MzVOSkxBdkQ1MkJxdUpQcFJjeWRvdVozZHZld3ZXYVVPdVozejUwTXI5S1pwTUpTSFhJR21Qc2djbUJhazBZekNxcmtWcjRRWkRSNG9xUF9vUEE0M3lCYzRoaTJvWms4enRnNDJ5MDcyTWlRcF9nTEd6N3ItVlRZdFBURGMwQnhRbl81T1E?oc=5",
+      "summary": "Seven Tower Bridge holds groundbreaking in Philadelphia suburb &nbsp;&nbsp; Pennsylvania Business Report -",
+      "source": "Google News: Pennsylvania (groundbreaking OR \"broke ground\") (retail OR o",
+      "domain": "news.google.com",
+      "published": "2019-11-26T14:54:55+00:00",
+      "published_ts": 1574780095.0,
       "topic_score": 2,
       "matched_terms": [
         "groundbreaking"
