@@ -124,6 +124,53 @@ GOOGLE_NEWS_QUERIES = [
     'site:republicanherald.com (development OR commercial OR zoning)',
     'site:tiogapublishing.com (development OR commercial OR zoning)',
     'site:spotlightpa.org (development OR commercial OR zoning OR retail)',
+    'site:mcall.com (opens OR "new location" OR lease OR developer OR zoning)',
+
+    # County-by-county tenant news searches (added v6 — aggressive expansion)
+    # These catch openings/closings/expansions that don't use formal CRE language
+    '"Lehigh County" (opens OR "new location" OR "now open" OR debuts)',
+    '"Lehigh County" (closes OR closing OR "going out of business")',
+    '"Northampton County" (opens OR "new location" OR "now open" OR debuts)',
+    '"Northampton County" (closes OR closing OR "going out of business")',
+    '"Berks County" (opens OR "new location" OR "now open" OR debuts)',
+    '"Berks County" (closes OR closing OR "going out of business")',
+    '"Bucks County" (opens OR "new location" OR "now open" OR debuts)',
+    '"Bucks County" (closes OR closing OR "going out of business")',
+    '"Montgomery County" PA (opens OR "new location" OR "now open" OR debuts)',
+    '"Montgomery County" PA (closes OR closing OR "going out of business")',
+    '"Chester County" PA (opens OR "new location" OR "now open" OR debuts)',
+    '"Chester County" PA (closes OR closing OR "going out of business")',
+    '"Lancaster County" (opens OR "new location" OR "now open" OR debuts)',
+    '"Lancaster County" (closes OR closing OR "going out of business")',
+    '"Delaware County" PA (opens OR "new location" OR "now open" OR debuts)',
+    '"Schuylkill County" (opens OR "new location" OR debuts)',
+    '"Monroe County" PA (opens OR "new location" OR debuts)',
+    '"Carbon County" PA (opens OR "new location" OR debuts)',
+    '"Lackawanna County" (opens OR "new location" OR "now open" OR debuts)',
+    '"Luzerne County" (opens OR "new location" OR "now open" OR debuts)',
+    '"Dauphin County" (opens OR "new location" OR debuts)',
+    '"Lebanon County" (opens OR "new location" OR debuts)',
+    '"Cumberland County" PA (opens OR "new location" OR debuts)',
+    '"York County" PA (opens OR "new location" OR debuts)',
+
+    # Tenant + region searches — catch chains expanding INTO Eastern PA
+    'Pennsylvania "first location" (restaurant OR store OR coffee OR cafe)',
+    'Pennsylvania "first Pennsylvania location"',
+    'Pennsylvania "expanding to" (Lehigh Valley OR Lancaster OR Berks OR Bucks)',
+    '"Eastern Pennsylvania" (opens OR "new store" OR "new restaurant")',
+    'Lehigh Valley "now serving" OR "now open"',
+    '"coming soon" Lehigh Valley OR Lancaster PA OR Bucks County',
+    'Pennsylvania (franchise OR franchisee) (opens OR "new location")',
+
+    # Lease and deal news — broader than the v3 set
+    'Pennsylvania "signed a lease" (retail OR commercial OR shopping)',
+    'Pennsylvania (sold for OR "trades for") (shopping center OR retail OR office)',
+    '"Lehigh Valley" OR "Lancaster County" OR "Berks County" ("sold for" OR "purchased for")',
+
+    # Hospitality, multifamily, healthcare expansion
+    'Pennsylvania (hotel OR hospitality) (opens OR "breaks ground" OR planned)',
+    '"Lehigh Valley" OR "Lancaster County" (apartment OR multifamily) (opens OR planned OR proposed)',
+    'Pennsylvania (urgent care OR "medical office" OR clinic) (opens OR "new location")',
 ]
 
 # Geography filter — article must mention at least one of these to be Eastern PA relevant.
@@ -145,6 +192,22 @@ EASTERN_PA_TERMS = [
     "doylestown", "west chester", "media pa", "king of prussia", "exton",
     "quakertown", "emmaus", "macungie", "hellertown", "nazareth", "phillipsburg",
     "stroudsburg", "hazleton", "pottsville", "lebanon pa", "york pa",
+    # Lehigh Valley townships and boroughs (added v5 — critical for tenant news)
+    "whitehall", "whitehall township", "south whitehall", "north whitehall",
+    "lower macungie", "upper macungie", "salisbury township",
+    "upper saucon", "lower saucon", "hanover township", "bethlehem township",
+    "forks township", "palmer township", "williams township",
+    "lower nazareth", "upper nazareth", "moore township", "bushkill township",
+    "lower mount bethel", "upper mount bethel", "plainfield township",
+    "weisenberg", "lynn township", "heidelberg township", "lowhill township",
+    "north catasauqua", "catasauqua", "coplay", "northampton borough",
+    "fountain hill", "freemansburg", "wilson borough", "west easton",
+    "tatamy", "stockertown", "bath pa", "wind gap", "pen argyl",
+    "bangor pa", "walnutport", "slatington", "northampton county courthouse",
+    "cedar crest", "tilghman street", "hamilton boulevard", "macarthur road",
+    "route 222", "route 309", "route 33", "lehigh valley mall",
+    "south side bethlehem", "south bethlehem", "lehigh valley international",
+    "lvia", "abe airport",
     # Cities/boroughs in Northern Tier / North-Central PA (added v3)
     "williamsport", "muncy", "jersey shore pa", "lock haven", "bloomsburg",
     "danville pa", "lewisburg", "sunbury", "selinsgrove", "state college",
@@ -162,39 +225,140 @@ EASTERN_PA_TERMS = [
 ]
 
 # Topic relevance — article must hit on CRE / development / zoning themes.
+# Weights: 3 = strong signal, 2 = solid signal, 1 = supporting context
 CRE_TERMS = {
-    # High-value terms (weight 3)
+    # ===== HIGH-VALUE TERMS (weight 3) =====
+    # Specific transaction language
     "retail leasing": 3, "commercial real estate": 3, "shopping center": 3,
-    "ground breaking": 3, "broke ground": 3, "lease signed": 3,
+    "ground breaking": 3, "broke ground": 3, "lease signed": 3, "signs lease": 3,
+    "signed a lease": 3, "inks deal": 3, "inked a deal": 3,
     "rezoning": 3, "zoning change": 3, "land development plan": 3,
-    "investment sale": 3, "sold for": 3, "trade for": 3,
+    "investment sale": 3, "sold for": 3, "trade for": 3, "traded for": 3,
     "medical office building": 3, "industrial park": 3, "distribution center": 3,
     "mixed-use development": 3, "build-to-suit": 3, "tenant rep": 3,
     "site plan": 3, "subdivision plan": 3,
+    # Tenant news — high-value phrases (added v4)
+    "new location": 3, "second location": 3, "third location": 3,
+    "first location": 3, "first store": 3, "new store": 3,
+    "now open": 3, "coming soon": 3, "soft opening": 3, "grand opening": 3,
+    "set to open": 3, "expected to open": 3, "plans to open": 3,
+    "will open": 3, "to open in": 3, "coming to": 3, "set to launch": 3,
+    "going out of business": 3, "out of business": 3,
+    "permanently closed": 3, "closing its doors": 3, "closes for good": 3,
+    "former site of": 3, "former space": 3, "long-vacant": 3,
+    "take over": 3, "took over": 3, "taking over": 3,
 
-    # Medium-value (weight 2)
+    # ===== MEDIUM-VALUE TERMS (weight 2) =====
+    # Property classes
     "retail": 2, "warehouse": 2, "industrial": 2, "office space": 2,
+    "hotel": 2, "boutique hotel": 2, "event venue": 2, "banquet hall": 2,
+    "apartment complex": 2, "apartment building": 2, "multifamily": 2,
+    "townhomes": 2, "condominiums": 2, "condos": 2,
+    "assisted living": 2, "senior living": 2, "memory care": 2,
+    "urgent care": 2, "medical office": 2, "outpatient": 2, "clinic": 2,
+    "dental office": 2, "veterinary": 2, "physical therapy": 2,
+    # CRE players
     "developer": 2, "development": 2, "construction": 2, "lease": 2,
-    "tenant": 2, "landlord": 2, "broker": 2, "real estate": 2,
+    "tenant": 2, "landlord": 2, "broker": 2, "brokerage": 2, "real estate": 2,
+    "investor": 2, "owner": 2, "property owner": 2,
+    # Land use / government
     "zoning": 2, "planning commission": 2, "township": 2, "borough": 2,
-    "redevelopment": 2, "anchor tenant": 2, "big box": 2, "strip mall": 2,
-    "acquisition": 2, "acquired": 2, "purchased": 2, "investor": 2,
-    "groundbreaking": 2, "expansion": 2, "opening": 2, "relocating": 2,
+    "supervisors": 2, "zoning hearing": 2, "variance": 2, "conditional use": 2,
+    # Project status
+    "redevelopment": 2, "renovation": 2, "renovating": 2, "renovated": 2,
+    "anchor tenant": 2, "big box": 2, "strip mall": 2, "strip center": 2,
+    "acquisition": 2, "acquired": 2, "acquires": 2, "purchased": 2, "purchases": 2,
+    "groundbreaking": 2, "expansion": 2, "expanding": 2, "expanded": 2,
+    "opening": 2, "opens": 2, "opened": 2, "open in": 2,
+    "relocating": 2, "relocate": 2, "relocates": 2, "relocated": 2,
+    "moves to": 2, "moved to": 2, "moving to": 2,
+    "closing": 2, "closes": 2, "closed": 2, "shutting down": 2, "shuts down": 2,
+    "debuts": 2, "debuted": 2, "launches": 2, "launched": 2,
+    "files for": 2, "filed for": 2, "applies for": 2, "applied for": 2,
+    "plans to": 2, "proposed": 2, "proposing": 2,
+    "groundwork": 2, "broke down": 2, "demolished": 2, "demolition": 2,
 
-    # Supporting context (weight 1)
-    "property": 1, "building": 1, "facility": 1, "store": 1,
-    "restaurant": 1, "grocery": 1, "supermarket": 1, "drugstore": 1,
-    "pharmacy": 1, "bank branch": 1, "dollar general": 1, "dollar tree": 1,
-    "walmart": 1, "target": 1, "wawa": 1, "sheetz": 1, "aldi": 1,
-    "starbucks": 1, "chipotle": 1, "jersey mike": 1, "chick-fil-a": 1,
+    # ===== SUPPORTING CONTEXT (weight 1) =====
+    # Generic property/business words
+    "property": 1, "building": 1, "facility": 1, "store": 1, "site": 1,
+    # Food & beverage tenants (added v4)
+    "restaurant": 1, "eatery": 1, "diner": 1, "cafe": 1, "coffee shop": 1,
+    "sandwich shop": 1, "pizza shop": 1, "pizzeria": 1, "bakery": 1,
+    "brewery": 1, "taproom": 1, "wine bar": 1, "cocktail bar": 1,
+    "ice cream": 1, "frozen yogurt": 1, "smoothie": 1, "juice bar": 1,
+    "food truck": 1, "ghost kitchen": 1, "food hall": 1,
+    "deli": 1, "bagel shop": 1, "donut shop": 1, "bbq": 1, "barbecue": 1,
+    "steakhouse": 1, "sushi": 1, "ramen": 1, "taco": 1, "burrito": 1,
+    "hot dog": 1, "burger": 1, "fast casual": 1, "fast food": 1,
+    "fine dining": 1, "gastropub": 1,
+    # Retail categories (added v4)
+    "boutique": 1, "boutique store": 1, "consignment": 1, "thrift store": 1,
+    "salon": 1, "spa": 1, "barbershop": 1, "nail salon": 1,
+    "gym": 1, "fitness center": 1, "yoga studio": 1, "crossfit": 1,
+    "dispensary": 1, "cannabis": 1,
+    "bookstore": 1, "bicycle shop": 1, "pet store": 1, "florist": 1,
+    "auto body": 1, "car wash": 1, "tire shop": 1,
+    # Standard retail anchors
+    "grocery": 1, "supermarket": 1, "drugstore": 1, "pharmacy": 1,
+    "bank branch": 1, "credit union": 1,
+    "dollar general": 1, "dollar tree": 1, "family dollar": 1,
+    "walmart": 1, "target": 1, "costco": 1, "sam's club": 1,
+    "wawa": 1, "sheetz": 1, "royal farms": 1,
+    "aldi": 1, "lidl": 1, "weis": 1, "giant food": 1, "wegmans": 1,
+    "whole foods": 1, "trader joe": 1, "acme markets": 1,
+    "starbucks": 1, "dunkin": 1, "panera": 1,
+    "chipotle": 1, "jersey mike": 1, "chick-fil-a": 1, "five guys": 1,
+    "shake shack": 1, "panda express": 1, "raising cane": 1,
+    "cava": 1, "sweetgreen": 1, "qdoba": 1, "taco bell": 1, "wendy": 1,
+    "popeyes": 1, "kfc": 1, "mcdonald": 1, "burger king": 1,
+    "tj maxx": 1, "marshalls": 1, "homegoods": 1, "ross stores": 1, "ross dress": 1,
+    "lowe's": 1, "home depot": 1, "ace hardware": 1, "tractor supply": 1,
+    "petco": 1, "petsmart": 1,
+    "ulta": 1, "sephora": 1, "bath & body": 1,
+    "best buy": 1, "verizon store": 1, "at&t store": 1,
+    "planet fitness": 1, "la fitness": 1, "anytime fitness": 1,
     "amazon": 1, "fedex": 1, "ups ": 1,
+    # Healthcare / wellness chains
+    "lehigh valley health": 1, "st. luke": 1, "geisinger": 1, "penn medicine": 1,
+    "tower health": 1, "wellspan": 1, "patient first": 1, "mvp health": 1,
+    "concentra": 1,
+    # Hospitality
+    "marriott": 1, "hilton": 1, "hyatt": 1, "holiday inn": 1, "hampton inn":1,
+    "courtyard": 1, "fairfield": 1, "residence inn": 1, "homewood suites": 1,
+    "best western": 1, "comfort inn": 1, "wyndham": 1, "airbnb": 1,
 }
 
-# Hard-exclude topics — these typically aren't useful CRE intel.
+# Hard-exclude topics — these get rejected even if they pass geography/topic filters.
+# Expanded in v6 to actively reject the most common false-positive patterns.
 EXCLUDE_TERMS = [
+    # Sports
     "obituary", "obituaries", "high school sports", "college sports",
-    "horoscope", "celebrity", "movie review", "concert review",
-    "recipe", "food recipe", "weather forecast",
+    "varsity", "football game", "basketball game", "baseball game",
+    "championship game", "playoff game", "all-american",
+    "touchdown", "rushing yards", "passing yards", "home run",
+    "field goal", "free throw", "scoring leader",
+    # Crime / police blotter — usually not CRE relevant
+    "arrested", "charged with", "police blotter", "indicted",
+    "sentenced to", "pleaded guilty", "criminal complaint",
+    "homicide", "shooting victim", "armed robbery",
+    # Lifestyle / entertainment
+    "horoscope", "celebrity", "movie review", "film review", "concert review",
+    "recipe", "food recipe", "cooking with",
+    "weather forecast", "weather alert", "winter storm warning",
+    # Restaurant reviews (different from opening news!)
+    "restaurant review", "first bite", "we tried", "taste test",
+    "menu review", "food critic",
+    # Politics / elections (unless explicitly about real estate)
+    "election results", "campaign finance", "primary election",
+    "voter turnout", "ballot measure",
+    # Obvious junk
+    "fundraiser", "fundraising event", "benefit dinner",
+    "graduation", "valedictorian", "homecoming",
+    "wedding announcement", "engagement announcement",
+    "scholarship recipient", "honor roll", "dean's list",
+    # Generic non-CRE news that often mentions geography
+    "school district", "school board", "superintendent",
+    "vaccination clinic", "health screening",
 ]
 
 # Per-feed timeout
@@ -358,7 +522,7 @@ def run_scraper(max_workers=8):
                 geo_hit, topic_score, matched = article_score(art["title"], art["summary"])
 
                 # Keep only Eastern PA relevant AND topic-relevant articles
-                if not geo_hit or topic_score < 2:
+                if not geo_hit or topic_score < 3:
                     continue
 
                 art["topic_score"] = topic_score
