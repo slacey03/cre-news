@@ -1,0 +1,40 @@
+name: Update CRE News
+
+on:
+  schedule:
+    # Runs every hour, on the hour
+    - cron: '0 * * * *'
+  workflow_dispatch:  # Allows manual runs from the Actions tab
+
+permissions:
+  contents: write  # Needed to commit the updated dashboard back to the repo
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser requests python-dateutil beautifulsoup4
+
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Embed data into dashboard
+        run: python embed_data.py
+
+      - name: Commit updated dashboard
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add articles.json dashboard.html
+          git diff --staged --quiet || git commit -m "Update news $(date -u +%Y-%m-%d)"
+          git push
