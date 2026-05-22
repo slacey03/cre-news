@@ -19,12 +19,12 @@ import hashlib
 
 # Direct RSS feeds from Eastern PA outlets that publish them.
 # Mix of statewide, regional, and city/business journals.
+# Note: feeds confirmed broken in v3 were either removed or replaced with Google News queries below.
 RSS_FEEDS = [
     # Lehigh Valley
     ("Lehigh Valley Business", "https://www.lvb.com/feed/"),
     ("WFMZ 69 News - Business", "https://www.wfmz.com/search/?f=rss&t=article&c=news/business&l=25&s=start_time&sd=desc"),
     ("WFMZ 69 News - Local", "https://www.wfmz.com/search/?f=rss&t=article&c=news/local&l=50&s=start_time&sd=desc"),
-    ("Lehigh Valley News", "https://www.lehighvalleynews.com/news.rss"),
 
     # Philadelphia region
     ("Philadelphia Inquirer - Real Estate", "https://www.inquirer.com/arc/outboundfeeds/rss/category/real-estate/?outputType=xml"),
@@ -36,28 +36,20 @@ RSS_FEEDS = [
     ("PennLive", "https://www.pennlive.com/arc/outboundfeeds/rss/?outputType=xml"),
     ("Central Penn Business Journal", "https://www.cpbj.com/feed/"),
     ("LancasterOnline - Business", "https://lancasteronline.com/search/?f=rss&t=article&c=business&l=25&s=start_time&sd=desc"),
-    ("Reading Eagle - Business", "https://www.readingeagle.com/business/feed/"),
-    ("Spotlight PA", "https://www.spotlightpa.org/feeds/articles.rss"),
+    ("Reading Eagle", "https://www.readingeagle.com/feed/"),
+    ("Spotlight PA", "https://www.spotlightpa.org/feeds/articles/"),
 
-    # Additional Eastern PA local papers (added in v2)
-    ("Pocono Record", "https://www.poconorecord.com/arc/outboundfeeds/rss/?outputType=xml"),
+    # Additional Eastern PA local papers
     ("Times News (Carbon County)", "https://www.tnonline.com/feed/"),
     ("The Mercury (Pottstown)", "https://www.pottsmerc.com/feed/"),
     ("Daily Local News (Chester)", "https://www.dailylocal.com/feed/"),
-    ("Bucks County Courier Times", "https://www.buckscountycouriertimes.com/arc/outboundfeeds/rss/?outputType=xml"),
     ("Times Herald (Norristown)", "https://www.timesherald.com/feed/"),
-    ("Citizens' Voice (Wilkes-Barre)", "https://www.citizensvoice.com/search/?f=rss&t=article&c=news&l=25&s=start_time&sd=desc"),
     ("The Sentinel (Carlisle)", "https://cumberlink.com/search/?f=rss&t=article&c=news&l=25&s=start_time&sd=desc"),
-    ("Times-Tribune (Scranton)", "https://www.thetimes-tribune.com/search/?f=rss&t=article&c=news&l=25&s=start_time&sd=desc"),
     ("Standard-Speaker (Hazleton)", "https://www.standardspeaker.com/search/?f=rss&t=article&c=news&l=25&s=start_time&sd=desc"),
-    ("Republican-Herald (Pottsville)", "https://www.republicanherald.com/search/?f=rss&t=article&c=news&l=25&s=start_time&sd=desc"),
     ("Daily Item (Sunbury)", "https://www.dailyitem.com/search/?f=rss&t=article&c=news&l=25&s=start_time&sd=desc"),
 
-    # Northern Tier / North-Central PA papers (added v3)
+    # Northern Tier / North-Central PA papers
     ("Williamsport Sun-Gazette", "https://www.sungazette.com/feed/"),
-    ("Daily Review (Towanda)", "https://www.thedailyreview.com/search/?f=rss&t=article&c=news&l=25&s=start_time&sd=desc"),
-    ("The Wellsboro Gazette", "https://www.tiogapublishing.com/feed/"),
-    ("Press Enterprise (Bloomsburg)", "https://www.pressenterpriseonline.com/feed/"),
     ("Lock Haven Express", "https://www.lockhaven.com/feed/"),
     ("Centre Daily Times", "https://www.centredaily.com/news/?widgetName=rssfeed&widgetContentId=712015&getXmlFeed=true"),
     ("Wyoming County Press Examiner", "https://www.wcexaminer.com/feed/"),
@@ -120,6 +112,18 @@ GOOGLE_NEWS_QUERIES = [
     '"State College" PA (commercial OR retail OR development)',
     '"Northern Tier" Pennsylvania (development OR industrial OR commercial)',
     'Pennsylvania (natural gas OR Marcellus) (industrial site OR development OR warehouse)',
+
+    # Outlet-targeted searches — backfills for sources whose direct RSS is dead (v4)
+    'site:lehighvalleynews.com (development OR commercial OR zoning OR retail)',
+    'site:poconorecord.com (development OR commercial OR zoning OR retail)',
+    'site:buckscountycouriertimes.com (development OR commercial OR zoning)',
+    'site:citizensvoice.com (development OR commercial OR zoning)',
+    'site:thetimes-tribune.com (development OR commercial OR zoning)',
+    'site:thedailyreview.com (development OR commercial OR zoning)',
+    'site:pressenterpriseonline.com (development OR commercial OR zoning)',
+    'site:republicanherald.com (development OR commercial OR zoning)',
+    'site:tiogapublishing.com (development OR commercial OR zoning)',
+    'site:spotlightpa.org (development OR commercial OR zoning OR retail)',
 ]
 
 # Geography filter — article must mention at least one of these to be Eastern PA relevant.
@@ -195,7 +199,8 @@ EXCLUDE_TERMS = [
 
 # Per-feed timeout
 TIMEOUT = 15
-USER_AGENT = "Mozilla/5.0 (CRE-NewsBot/1.0; +https://example.com/bot)"
+# Realistic browser user-agent — bypasses many "no bots" blocks
+USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15"
 
 
 # ---------- FUNCTIONS ----------
@@ -205,16 +210,39 @@ def normalize_text(s):
 
 
 def fetch_feed(name, url):
-    """Fetch and parse a single RSS feed."""
-    try:
-        headers = {"User-Agent": USER_AGENT}
-        resp = requests.get(url, headers=headers, timeout=TIMEOUT)
-        if resp.status_code != 200:
+    """Fetch and parse a single RSS feed.
+
+    - Uses a realistic browser user-agent to bypass basic bot detection.
+    - Retries once on HTTP 429 (rate-limited) after a short delay.
+    """
+    import time as _time
+
+    headers = {
+        "User-Agent": USER_AGENT,
+        "Accept": "application/rss+xml, application/xml, text/xml, application/atom+xml, */*",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Cache-Control": "no-cache",
+    }
+
+    for attempt in range(2):  # one retry on 429
+        try:
+            resp = requests.get(url, headers=headers, timeout=TIMEOUT, allow_redirects=True)
+            if resp.status_code == 200:
+                parsed = feedparser.parse(resp.content)
+                return name, parsed.entries, None
+            if resp.status_code == 429 and attempt == 0:
+                # Rate-limited — wait and retry once
+                _time.sleep(3)
+                continue
             return name, [], f"HTTP {resp.status_code}"
-        parsed = feedparser.parse(resp.content)
-        return name, parsed.entries, None
-    except Exception as e:
-        return name, [], str(e)
+        except Exception as e:
+            if attempt == 0:
+                _time.sleep(1)
+                continue
+            return name, [], str(e)[:80]
+
+    return name, [], "Failed after retry"
 
 
 def fetch_google_news(query):
