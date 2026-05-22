@@ -39,6 +39,29 @@ RSS_FEEDS = [
     ("Reading Eagle - Business", "https://www.readingeagle.com/business/feed/"),
     ("Spotlight PA", "https://www.spotlightpa.org/feeds/articles.rss"),
 
+    # Additional Eastern PA local papers (added in v2)
+    ("Pocono Record", "https://www.poconorecord.com/arc/outboundfeeds/rss/?outputType=xml"),
+    ("Times News (Carbon County)", "https://www.tnonline.com/feed/"),
+    ("The Mercury (Pottstown)", "https://www.pottsmerc.com/feed/"),
+    ("Daily Local News (Chester)", "https://www.dailylocal.com/feed/"),
+    ("Bucks County Courier Times", "https://www.buckscountycouriertimes.com/arc/outboundfeeds/rss/?outputType=xml"),
+    ("Times Herald (Norristown)", "https://www.timesherald.com/feed/"),
+    ("Citizens' Voice (Wilkes-Barre)", "https://www.citizensvoice.com/search/?f=rss&t=article&c=news&l=25&s=start_time&sd=desc"),
+    ("The Sentinel (Carlisle)", "https://cumberlink.com/search/?f=rss&t=article&c=news&l=25&s=start_time&sd=desc"),
+    ("Times-Tribune (Scranton)", "https://www.thetimes-tribune.com/search/?f=rss&t=article&c=news&l=25&s=start_time&sd=desc"),
+    ("Standard-Speaker (Hazleton)", "https://www.standardspeaker.com/search/?f=rss&t=article&c=news&l=25&s=start_time&sd=desc"),
+    ("Republican-Herald (Pottsville)", "https://www.republicanherald.com/search/?f=rss&t=article&c=news&l=25&s=start_time&sd=desc"),
+    ("Daily Item (Sunbury)", "https://www.dailyitem.com/search/?f=rss&t=article&c=news&l=25&s=start_time&sd=desc"),
+
+    # Northern Tier / North-Central PA papers (added v3)
+    ("Williamsport Sun-Gazette", "https://www.sungazette.com/feed/"),
+    ("Daily Review (Towanda)", "https://www.thedailyreview.com/search/?f=rss&t=article&c=news&l=25&s=start_time&sd=desc"),
+    ("The Wellsboro Gazette", "https://www.tiogapublishing.com/feed/"),
+    ("Press Enterprise (Bloomsburg)", "https://www.pressenterpriseonline.com/feed/"),
+    ("Lock Haven Express", "https://www.lockhaven.com/feed/"),
+    ("Centre Daily Times", "https://www.centredaily.com/news/?widgetName=rssfeed&widgetContentId=712015&getXmlFeed=true"),
+    ("Wyoming County Press Examiner", "https://www.wcexaminer.com/feed/"),
+
     # Trade press relevant to PA
     ("ROI-NJ (regional)", "https://www.roi-nj.com/feed/"),
     ("REBusinessOnline - Northeast", "https://rebusinessonline.com/category/northeast/feed/"),
@@ -47,6 +70,7 @@ RSS_FEEDS = [
 # Google News RSS searches — these catch articles from outlets we don't directly subscribe to.
 # Each query is constructed to bias toward Eastern PA + CRE topics.
 GOOGLE_NEWS_QUERIES = [
+    # Topical / CRE-focused
     '"Lehigh Valley" (retail OR "shopping center" OR lease OR developer)',
     '"Lehigh Valley" (zoning OR rezoning OR "land development")',
     '"Allentown" OR "Bethlehem" OR "Easton" (commercial real estate OR development)',
@@ -60,26 +84,73 @@ GOOGLE_NEWS_QUERIES = [
     'PPL Center OR "NIZ Allentown" (development OR investment)',
     '"Lehigh Valley" (medical office OR healthcare real estate)',
     'Pennsylvania (groundbreaking OR "broke ground") (retail OR office OR industrial)',
+
+    # Township and government activity (added in v2)
+    '"Lehigh Valley Planning Commission" OR "LVPC"',
+    '"Delaware Valley Regional Planning" OR "DVRPC"',
+    '"Lower Macungie" OR "Upper Macungie" (planning OR zoning OR supervisors)',
+    '"South Whitehall" OR "North Whitehall" OR "Whitehall Township" (zoning OR planning OR development)',
+    '"Hanover Township" OR "Bethlehem Township" PA (planning OR zoning)',
+    '"Salisbury Township" OR "Upper Saucon" OR "Lower Saucon" (zoning OR development)',
+    '"Forks Township" OR "Palmer Township" OR "Williams Township" (development OR zoning)',
+    '"Upper Macungie" OR "Lower Macungie" (warehouse OR industrial OR distribution)',
+    '"Berks County" (planning commission OR "land development" OR rezoning)',
+    '"Bucks County" (planning commission OR zoning hearing OR supervisors approve)',
+    '"Montgomery County" PA (planning commission OR zoning hearing)',
+    '"Chester County" (planning commission OR "land development plan")',
+    'Pennsylvania "supervisors approve" (warehouse OR retail OR commercial)',
+    'Pennsylvania "zoning hearing board" (variance OR commercial OR retail)',
+
+    # Sector-specific
+    '"Lehigh Valley" (data center OR "data centers")',
+    'Pennsylvania (warehouse moratorium OR warehouse opposition)',
+    '"Eastern PA" (last mile OR fulfillment center)',
+    '"Lehigh Valley" (apartment OR multifamily OR "mixed-use")',
+
+    # Northern Tier / North-Central PA (added v3)
+    '"Lycoming County" (development OR commercial OR zoning OR warehouse)',
+    '"Bradford County" PA (development OR commercial OR industrial)',
+    '"Tioga County" PA (development OR commercial OR zoning)',
+    '"Potter County" PA (development OR commercial)',
+    '"Williamsport" PA (commercial real estate OR development OR retail)',
+    '"Susquehanna Valley" (development OR commercial OR industrial)',
+    '"Northumberland County" PA (development OR commercial OR zoning)',
+    '"Columbia County" PA OR "Montour County" (development OR commercial)',
+    '"Centre County" PA (commercial real estate OR development OR zoning)',
+    '"State College" PA (commercial OR retail OR development)',
+    '"Northern Tier" Pennsylvania (development OR industrial OR commercial)',
+    'Pennsylvania (natural gas OR Marcellus) (industrial site OR development OR warehouse)',
 ]
 
 # Geography filter — article must mention at least one of these to be Eastern PA relevant.
 EASTERN_PA_TERMS = [
-    # Counties
+    # Counties — Eastern/Southeastern PA
     "lehigh county", "northampton county", "berks county", "bucks county",
     "montgomery county", "chester county", "delaware county", "philadelphia county",
     "lancaster county", "schuylkill county", "carbon county", "monroe county",
     "pike county", "wayne county", "lackawanna county", "luzerne county",
     "dauphin county", "york county", "cumberland county", "lebanon county",
+    # Counties — Northern Tier / North-Central / Northeast PA (added v3)
+    "lycoming county", "bradford county", "potter county", "tioga county",
+    "sullivan county", "wyoming county", "susquehanna county", "columbia county",
+    "montour county", "northumberland county", "snyder county", "union county",
+    "clinton county", "centre county",
     # Cities/boroughs in Eastern PA
     "allentown", "bethlehem", "easton", "reading", "lancaster", "harrisburg",
     "philadelphia", "scranton", "wilkes-barre", "pottstown", "norristown",
     "doylestown", "west chester", "media pa", "king of prussia", "exton",
     "quakertown", "emmaus", "macungie", "hellertown", "nazareth", "phillipsburg",
     "stroudsburg", "hazleton", "pottsville", "lebanon pa", "york pa",
+    # Cities/boroughs in Northern Tier / North-Central PA (added v3)
+    "williamsport", "muncy", "jersey shore pa", "lock haven", "bloomsburg",
+    "danville pa", "lewisburg", "sunbury", "selinsgrove", "state college",
+    "bellefonte", "towanda", "sayre pa", "athens pa", "mansfield pa",
+    "wellsboro", "coudersport", "tunkhannock", "montrose pa", "berwick",
     # Regional terms
     "lehigh valley", "eastern pa", "eastern pennsylvania", "southeastern pa",
     "southeastern pennsylvania", "northeastern pa", "northeastern pennsylvania",
-    "south central pa", "philadelphia region", "delaware valley",
+    "south central pa", "north central pa", "northern tier", "endless mountains",
+    "philadelphia region", "delaware valley", "susquehanna valley",
     "poconos", "main line",
     # Anchor institutions / known projects
     "ppl center", "niz", "neighborhood improvement zone", "lehigh university",
