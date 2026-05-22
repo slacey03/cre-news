@@ -1,0 +1,315 @@
+{
+  "generated_at": "2026-05-21T22:37:13.522903+00:00",
+  "elapsed_seconds": 8.4,
+  "article_count": 15,
+  "feed_status": [
+    {
+      "source": "Lehigh Valley Business",
+      "count": 12,
+      "error": null
+    },
+    {
+      "source": "Morning Call",
+      "count": 23,
+      "error": null
+    },
+    {
+      "source": "WFMZ 69 News",
+      "count": 18,
+      "error": null
+    },
+    {
+      "source": "Philadelphia Business Journal",
+      "count": 31,
+      "error": null
+    },
+    {
+      "source": "Google News: Lehigh Valley CRE",
+      "count": 47,
+      "error": null
+    },
+    {
+      "source": "Google News: Berks County development",
+      "count": 19,
+      "error": null
+    },
+    {
+      "source": "REBusinessOnline - Northeast",
+      "count": 0,
+      "error": "HTTP 503"
+    }
+  ],
+  "articles": [
+    {
+      "id": "cd822e22eab3",
+      "title": "Lower Macungie planning commission approves industrial rezoning on 240 acres",
+      "link": "https://www.mcall.com/example/2",
+      "summary": "A former farm parcel near Route 100 was rezoned from agricultural to industrial, clearing the way for a 1.2M SF distribution center.",
+      "source": "Morning Call",
+      "domain": "mcall.com",
+      "published": "2026-05-20T21:37:13.522903+00:00",
+      "published_ts": 1779313033.522903,
+      "topic_score": 22,
+      "matched_terms": [
+        "rezoning",
+        "industrial",
+        "distribution center",
+        "land development plan",
+        "township"
+      ],
+      "rank_score": 53.67
+    },
+    {
+      "id": "f00a47ff467a",
+      "title": "Jersey Mike's signs lease for 1,800 SF in Allentown shopping center",
+      "link": "https://www.lvb.com/example/1",
+      "summary": "The sandwich chain has signed a lease at the Tilghman Square Shopping Center, its third Lehigh Valley location.",
+      "source": "Lehigh Valley Business",
+      "domain": "lvb.com",
+      "published": "2026-05-19T20:37:13.522903+00:00",
+      "published_ts": 1779223033.522903,
+      "topic_score": 18,
+      "matched_terms": [
+        "retail leasing",
+        "lease",
+        "shopping center",
+        "tenant"
+      ],
+      "rank_score": 45.33
+    },
+    {
+      "id": "40abc69bb233",
+      "title": "Chester County industrial park lands FedEx as anchor tenant",
+      "link": "https://www.bizjournals.com/philadelphia/example/10",
+      "summary": "FedEx Ground signed a 15-year lease for a 425,000 SF distribution facility in Coatesville.",
+      "source": "Philadelphia Business Journal",
+      "domain": "bizjournals.com",
+      "published": "2026-05-19T20:37:13.522903+00:00",
+      "published_ts": 1779223033.522903,
+      "topic_score": 17,
+      "matched_terms": [
+        "industrial park",
+        "anchor tenant",
+        "lease",
+        "distribution center",
+        "fedex"
+      ],
+      "rank_score": 43.33
+    },
+    {
+      "id": "0b1f4b55e05c",
+      "title": "Allentown's NIZ approves $42M mixed-use project on Hamilton Street",
+      "link": "https://www.wfmz.com/example/6",
+      "summary": "The Neighborhood Improvement Zone authority approved financing for a seven-story mixed-use building combining ground-floor retail with apartments above.",
+      "source": "WFMZ 69 News",
+      "domain": "wfmz.com",
+      "published": "2026-05-18T19:37:13.522903+00:00",
+      "published_ts": 1779133033.522903,
+      "topic_score": 16,
+      "matched_terms": [
+        "mixed-use development",
+        "niz",
+        "retail",
+        "developer"
+      ],
+      "rank_score": 41.0
+    },
+    {
+      "id": "cb6c936fb35c",
+      "title": "Bucks County rejects rezoning for proposed Doylestown retail center",
+      "link": "https://www.bizjournals.com/philadelphia/example/7",
+      "summary": "Township supervisors voted 4-1 against a developer's request to rezone a 12-acre parcel from residential to commercial.",
+      "source": "Philadelphia Business Journal",
+      "domain": "bizjournals.com",
+      "published": "2026-05-17T18:37:13.522903+00:00",
+      "published_ts": 1779043033.522903,
+      "topic_score": 14,
+      "matched_terms": [
+        "rezoning",
+        "zoning",
+        "developer",
+        "township",
+        "retail"
+      ],
+      "rank_score": 36.67
+    },
+    {
+      "id": "774d71ffde02",
+      "title": "Berks County medical office building trades for $14.2M",
+      "link": "https://www.cpbj.com/example/3",
+      "summary": "The 65,000 SF Class A medical office building in Wyomissing sold to a Philadelphia-based private equity buyer.",
+      "source": "Central Penn Business Journal",
+      "domain": "cpbj.com",
+      "published": "2026-05-18T19:37:13.522903+00:00",
+      "published_ts": 1779133033.522903,
+      "topic_score": 12,
+      "matched_terms": [
+        "medical office building",
+        "investment sale",
+        "sold for",
+        "real estate"
+      ],
+      "rank_score": 33.0
+    },
+    {
+      "id": "c38385710dc9",
+      "title": "Lancaster County warehouse expansion adds 180,000 SF",
+      "link": "https://lancasteronline.com/example/5",
+      "summary": "A logistics tenant is doubling the size of its Manheim Township distribution facility, with completion targeted for Q4 2026.",
+      "source": "LancasterOnline",
+      "domain": "lancasteronline.com",
+      "published": "2026-05-20T21:37:13.522903+00:00",
+      "published_ts": 1779313033.522903,
+      "topic_score": 11,
+      "matched_terms": [
+        "warehouse",
+        "industrial",
+        "expansion",
+        "tenant",
+        "construction"
+      ],
+      "rank_score": 31.67
+    },
+    {
+      "id": "1c81d962ff6c",
+      "title": "Aldi opening fourth Lehigh Valley store in former Bon-Ton space",
+      "link": "https://www.lvb.com/example/14",
+      "summary": "The grocery discounter will occupy 22,000 SF at the former Bon-Ton anchor space in a Whitehall shopping center.",
+      "source": "Lehigh Valley Business",
+      "domain": "lvb.com",
+      "published": "2026-05-10T18:37:13.522903+00:00",
+      "published_ts": 1778438233.522903,
+      "topic_score": 12,
+      "matched_terms": [
+        "aldi",
+        "anchor tenant",
+        "shopping center",
+        "grocery",
+        "opening"
+      ],
+      "rank_score": 30.33
+    },
+    {
+      "id": "86371bbf6f05",
+      "title": "Wawa plans three new stores across Northampton County",
+      "link": "https://www.lehighvalleylive.com/example/4",
+      "summary": "The convenience chain confirmed three Northampton County locations with groundbreakings scheduled for late summer.",
+      "source": "Lehigh Valley Live",
+      "domain": "lehighvalleylive.com",
+      "published": "2026-05-16T17:37:13.522903+00:00",
+      "published_ts": 1778953033.522903,
+      "topic_score": 9,
+      "matched_terms": [
+        "wawa",
+        "groundbreaking",
+        "expansion",
+        "real estate"
+      ],
+      "rank_score": 26.33
+    },
+    {
+      "id": "a3133d861ecd",
+      "title": "Sheetz buying former Friendly's site in Whitehall for new prototype store",
+      "link": "https://www.mcall.com/example/8",
+      "summary": "The convenience store operator acquired the 2.4-acre Whitehall Township site and plans to demolish the existing restaurant.",
+      "source": "Morning Call",
+      "domain": "mcall.com",
+      "published": "2026-05-15T16:37:13.522903+00:00",
+      "published_ts": 1778863033.522903,
+      "topic_score": 8,
+      "matched_terms": [
+        "sheetz",
+        "acquired",
+        "site plan",
+        "developer"
+      ],
+      "rank_score": 24.0
+    },
+    {
+      "id": "82d2671da65c",
+      "title": "Bethlehem zoning hearing scheduled for proposed South Side hotel project",
+      "link": "https://www.lehighvalleynews.com/example/11",
+      "summary": "A developer is seeking variances for a 142-room boutique hotel on Bethlehem's South Side, with the zoning hearing set for next month.",
+      "source": "Lehigh Valley News",
+      "domain": "lehighvalleynews.com",
+      "published": "2026-05-13T21:37:13.522903+00:00",
+      "published_ts": 1778708233.522903,
+      "topic_score": 7,
+      "matched_terms": [
+        "zoning",
+        "developer",
+        "planning commission"
+      ],
+      "rank_score": 21.33
+    },
+    {
+      "id": "ed283b863a5d",
+      "title": "Dollar General opens 14th Berks County location this year",
+      "link": "https://www.readingeagle.com/example/9",
+      "summary": "The discount retailer continues aggressive expansion across Berks County with a new 9,100 SF store in Bernville.",
+      "source": "Reading Eagle",
+      "domain": "readingeagle.com",
+      "published": "2026-05-14T22:37:13.522903+00:00",
+      "published_ts": 1778798233.522903,
+      "topic_score": 6,
+      "matched_terms": [
+        "dollar general",
+        "retail",
+        "opening",
+        "expansion"
+      ],
+      "rank_score": 19.67
+    },
+    {
+      "id": "f42c314a7764",
+      "title": "Reading developer breaks ground on $28M apartment complex",
+      "link": "https://www.cpbj.com/example/13",
+      "summary": "Construction has begun on a 184-unit multifamily project near downtown Reading.",
+      "source": "Central Penn Business Journal",
+      "domain": "cpbj.com",
+      "published": "2026-05-11T19:37:13.522903+00:00",
+      "published_ts": 1778528233.522903,
+      "topic_score": 6,
+      "matched_terms": [
+        "broke ground",
+        "construction",
+        "developer"
+      ],
+      "rank_score": 18.67
+    },
+    {
+      "id": "b39b98a8ca35",
+      "title": "Philadelphia office vacancy hits 21% as CBD softens further",
+      "link": "https://www.inquirer.com/example/12",
+      "summary": "Center City office vacancy climbed again in Q1 2026 as several large tenants downsized or sublet space.",
+      "source": "Philadelphia Inquirer",
+      "domain": "inquirer.com",
+      "published": "2026-05-12T20:37:13.522903+00:00",
+      "published_ts": 1778618233.522903,
+      "topic_score": 5,
+      "matched_terms": [
+        "office space",
+        "tenant",
+        "real estate"
+      ],
+      "rank_score": 17.0
+    },
+    {
+      "id": "b6a2e575bcd8",
+      "title": "Easton Planning Commission tables decision on College Hill subdivision",
+      "link": "https://www.lehighvalleylive.com/example/15",
+      "summary": "Commissioners requested additional traffic studies before voting on a proposed 38-lot residential subdivision.",
+      "source": "Lehigh Valley Live",
+      "domain": "lehighvalleylive.com",
+      "published": "2026-05-09T17:37:13.522903+00:00",
+      "published_ts": 1778348233.522903,
+      "topic_score": 4,
+      "matched_terms": [
+        "planning commission",
+        "subdivision plan",
+        "land development plan"
+      ],
+      "rank_score": 14.0
+    }
+  ]
+}

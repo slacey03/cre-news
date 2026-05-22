@@ -1,0 +1,987 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Eastern PA CRE Wire</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,700;9..144,900&family=JetBrains+Mono:wght@400;500;700&family=Inter+Tight:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --paper: #f4f1ea;
+    --paper-dark: #ebe6d8;
+    --ink: #161513;
+    --ink-soft: #3a3631;
+    --ink-faded: #6b6357;
+    --rule: #d4cdb8;
+    --accent: #8b2a1f;
+    --accent-dark: #5a1a13;
+    --gold: #a47c2c;
+    --good: #2d5a3f;
+    --warn: #8b6914;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html, body {
+    background: var(--paper);
+    color: var(--ink);
+    font-family: 'Inter Tight', -apple-system, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    min-height: 100vh;
+  }
+
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background-image:
+      radial-gradient(circle at 20% 30%, rgba(139, 42, 31, 0.02) 0%, transparent 50%),
+      radial-gradient(circle at 80% 70%, rgba(164, 124, 44, 0.02) 0%, transparent 50%);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 32px;
+    position: relative;
+    z-index: 1;
+  }
+
+  /* ----- MASTHEAD ----- */
+  .masthead {
+    border-bottom: 3px double var(--ink);
+    padding: 32px 0 20px;
+    margin-bottom: 24px;
+    position: relative;
+  }
+
+  .masthead-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ink-faded);
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 12px;
+    margin-bottom: 16px;
+  }
+
+  .masthead-meta span:first-child::before {
+    content: "◆ ";
+    color: var(--accent);
+  }
+
+  .masthead h1 {
+    font-family: 'Fraunces', serif;
+    font-weight: 900;
+    font-size: clamp(48px, 7vw, 84px);
+    line-height: 0.92;
+    letter-spacing: -0.03em;
+    text-align: center;
+    font-variation-settings: "opsz" 144;
+  }
+
+  .masthead h1 .the {
+    display: block;
+    font-size: 0.3em;
+    font-weight: 400;
+    font-style: italic;
+    letter-spacing: 0.05em;
+    margin-bottom: 4px;
+    color: var(--ink-soft);
+  }
+
+  .masthead .subtitle {
+    text-align: center;
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-size: 16px;
+    margin-top: 12px;
+    color: var(--ink-soft);
+  }
+
+  .masthead .subtitle::before,
+  .masthead .subtitle::after {
+    content: "  ·  ";
+    color: var(--accent);
+  }
+
+  /* ----- STATS STRIP ----- */
+  .stats-strip {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0;
+    border: 1px solid var(--ink);
+    background: var(--paper);
+    margin-bottom: 32px;
+  }
+
+  .stat {
+    padding: 16px 20px;
+    border-right: 1px solid var(--rule);
+    position: relative;
+  }
+  .stat:last-child { border-right: none; }
+
+  .stat-label {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    color: var(--ink-faded);
+    margin-bottom: 6px;
+  }
+
+  .stat-value {
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 1;
+    letter-spacing: -0.02em;
+  }
+
+  .stat-value .unit {
+    font-size: 14px;
+    color: var(--ink-faded);
+    font-weight: 400;
+    margin-left: 4px;
+  }
+
+  /* ----- CONTROLS ----- */
+  .controls {
+    display: grid;
+    grid-template-columns: 1fr auto auto;
+    gap: 16px;
+    align-items: center;
+    margin-bottom: 32px;
+    padding: 16px;
+    background: var(--paper-dark);
+    border: 1px solid var(--rule);
+  }
+
+  .search-wrap { position: relative; }
+
+  .search {
+    width: 100%;
+    padding: 10px 14px 10px 36px;
+    background: var(--paper);
+    border: 1px solid var(--ink);
+    font-family: 'Inter Tight', sans-serif;
+    font-size: 14px;
+    color: var(--ink);
+    outline: none;
+    transition: border-color 0.15s;
+  }
+  .search:focus { border-color: var(--accent); }
+  .search::placeholder { color: var(--ink-faded); }
+
+  .search-icon {
+    position: absolute;
+    left: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: var(--ink-faded);
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 14px;
+  }
+
+  .filter-group {
+    display: flex;
+    gap: 4px;
+    background: var(--paper);
+    border: 1px solid var(--ink);
+    padding: 2px;
+  }
+
+  .filter-btn {
+    padding: 8px 14px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    transition: all 0.15s;
+  }
+
+  .filter-btn:hover { color: var(--ink); }
+
+  .filter-btn.active {
+    background: var(--ink);
+    color: var(--paper);
+  }
+
+  .sort-select {
+    padding: 9px 12px;
+    background: var(--paper);
+    border: 1px solid var(--ink);
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--ink);
+    cursor: pointer;
+    outline: none;
+  }
+
+  /* ----- ARTICLE GRID ----- */
+  .articles {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+    gap: 0;
+    border-top: 1px solid var(--rule);
+    border-left: 1px solid var(--rule);
+  }
+
+  .article {
+    padding: 24px;
+    border-right: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
+    background: var(--paper);
+    transition: background 0.2s;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-height: 240px;
+  }
+
+  .article:hover {
+    background: var(--paper-dark);
+  }
+
+  .article::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 3px;
+    height: 0;
+    background: var(--accent);
+    transition: height 0.25s ease;
+  }
+
+  .article:hover::before { height: 100%; }
+
+  .article-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ink-faded);
+    margin-bottom: 12px;
+    padding-bottom: 8px;
+    border-bottom: 1px dotted var(--rule);
+  }
+
+  .source-name {
+    color: var(--accent);
+    font-weight: 500;
+  }
+
+  .article-title {
+    font-family: 'Fraunces', serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: -0.015em;
+    margin-bottom: 12px;
+    font-variation-settings: "opsz" 36;
+  }
+
+  .article-title a {
+    color: var(--ink);
+    text-decoration: none;
+    background-image: linear-gradient(var(--accent), var(--accent));
+    background-size: 0% 1px;
+    background-position: 0 100%;
+    background-repeat: no-repeat;
+    transition: background-size 0.25s;
+  }
+
+  .article-title a:hover {
+    background-size: 100% 1px;
+    color: var(--accent);
+  }
+
+  .article-summary {
+    font-size: 14px;
+    line-height: 1.55;
+    color: var(--ink-soft);
+    margin-bottom: 16px;
+    flex-grow: 1;
+  }
+
+  .article-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding-top: 12px;
+    border-top: 1px dotted var(--rule);
+  }
+
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+  }
+
+  .tag {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding: 3px 6px;
+    background: var(--paper-dark);
+    color: var(--ink-soft);
+    border: 1px solid var(--rule);
+  }
+
+  .score-badge {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 4px 8px;
+    background: var(--ink);
+    color: var(--paper);
+    letter-spacing: 0.05em;
+  }
+
+  .score-badge.high { background: var(--accent); }
+  .score-badge.med { background: var(--gold); }
+
+  /* ----- EMPTY / FOOTER ----- */
+  .empty {
+    grid-column: 1 / -1;
+    padding: 80px 20px;
+    text-align: center;
+    color: var(--ink-faded);
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-size: 18px;
+  }
+
+  .colophon {
+    margin-top: 48px;
+    padding: 24px 0;
+    border-top: 3px double var(--ink);
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--ink-faded);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .colophon a { color: var(--accent); text-decoration: none; }
+  .colophon a:hover { text-decoration: underline; }
+
+  /* Feed status drawer */
+  .feed-status {
+    margin-top: 16px;
+    padding: 16px;
+    background: var(--paper-dark);
+    border: 1px solid var(--rule);
+    display: none;
+  }
+  .feed-status.open { display: block; }
+
+  .feed-status h4 {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+  }
+
+  .feed-status-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 8px;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+  }
+
+  .feed-status-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 4px 0;
+  }
+  .feed-status-row .ok { color: var(--good); }
+  .feed-status-row .err { color: var(--accent); }
+
+  @media (max-width: 768px) {
+    .container { padding: 0 16px; }
+    .stats-strip { grid-template-columns: repeat(2, 1fr); }
+    .stat:nth-child(2) { border-right: none; }
+    .stat:nth-child(1), .stat:nth-child(2) { border-bottom: 1px solid var(--rule); }
+    .controls { grid-template-columns: 1fr; }
+    .articles { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <header class="masthead">
+    <div class="masthead-meta">
+      <span id="dateline">VOL. I · No. 1 · LOADING...</span>
+      <span>EASTERN PENNSYLVANIA EDITION</span>
+    </div>
+    <h1>
+      <span class="the">The</span>
+      Keystone Wire
+    </h1>
+    <div class="subtitle">Commercial Real Estate · Development · Zoning</div>
+  </header>
+
+  <div class="stats-strip">
+    <div class="stat">
+      <div class="stat-label">Articles in Brief</div>
+      <div class="stat-value" id="stat-count">—</div>
+    </div>
+    <div class="stat">
+      <div class="stat-label">High-Signal</div>
+      <div class="stat-value" id="stat-high">—</div>
+    </div>
+    <div class="stat">
+      <div class="stat-label">Last 7 Days</div>
+      <div class="stat-value" id="stat-recent">—</div>
+    </div>
+    <div class="stat">
+      <div class="stat-label">Sources Polled</div>
+      <div class="stat-value" id="stat-sources">—</div>
+    </div>
+  </div>
+
+  <div class="controls">
+    <div class="search-wrap">
+      <span class="search-icon">⌕</span>
+      <input type="text" class="search" id="search" placeholder="Filter by keyword, town, tenant, developer...">
+    </div>
+    <div class="filter-group" id="filter-group">
+      <button class="filter-btn active" data-filter="all">All</button>
+      <button class="filter-btn" data-filter="retail">Retail</button>
+      <button class="filter-btn" data-filter="zoning">Zoning</button>
+      <button class="filter-btn" data-filter="industrial">Industrial</button>
+      <button class="filter-btn" data-filter="medical">Medical</button>
+    </div>
+    <select class="sort-select" id="sort">
+      <option value="rank">Sort: Relevance</option>
+      <option value="date">Sort: Newest</option>
+      <option value="score">Sort: Topic Score</option>
+    </select>
+  </div>
+
+  <div class="articles" id="articles"></div>
+
+  <div class="colophon">
+    <span id="generated-at">PUBLISHED —</span>
+    <span><a href="#" id="show-status">View Feed Status</a></span>
+    <span>RUN <code style="background:var(--paper-dark);padding:2px 6px;">python scraper.py</code> TO REFRESH</span>
+  </div>
+
+  <div class="feed-status" id="feed-status">
+    <h4>Feed Polling Status (Last Run)</h4>
+    <div class="feed-status-grid" id="feed-status-grid"></div>
+  </div>
+</div>
+
+<script id="embedded-data" type="application/json">
+{
+  "generated_at": "2026-05-21T22:37:13.522903+00:00",
+  "elapsed_seconds": 8.4,
+  "article_count": 15,
+  "feed_status": [
+    {
+      "source": "Lehigh Valley Business",
+      "count": 12,
+      "error": null
+    },
+    {
+      "source": "Morning Call",
+      "count": 23,
+      "error": null
+    },
+    {
+      "source": "WFMZ 69 News",
+      "count": 18,
+      "error": null
+    },
+    {
+      "source": "Philadelphia Business Journal",
+      "count": 31,
+      "error": null
+    },
+    {
+      "source": "Google News: Lehigh Valley CRE",
+      "count": 47,
+      "error": null
+    },
+    {
+      "source": "Google News: Berks County development",
+      "count": 19,
+      "error": null
+    },
+    {
+      "source": "REBusinessOnline - Northeast",
+      "count": 0,
+      "error": "HTTP 503"
+    }
+  ],
+  "articles": [
+    {
+      "id": "cd822e22eab3",
+      "title": "Lower Macungie planning commission approves industrial rezoning on 240 acres",
+      "link": "https://www.mcall.com/example/2",
+      "summary": "A former farm parcel near Route 100 was rezoned from agricultural to industrial, clearing the way for a 1.2M SF distribution center.",
+      "source": "Morning Call",
+      "domain": "mcall.com",
+      "published": "2026-05-20T21:37:13.522903+00:00",
+      "published_ts": 1779313033.522903,
+      "topic_score": 22,
+      "matched_terms": [
+        "rezoning",
+        "industrial",
+        "distribution center",
+        "land development plan",
+        "township"
+      ],
+      "rank_score": 53.67
+    },
+    {
+      "id": "f00a47ff467a",
+      "title": "Jersey Mike's signs lease for 1,800 SF in Allentown shopping center",
+      "link": "https://www.lvb.com/example/1",
+      "summary": "The sandwich chain has signed a lease at the Tilghman Square Shopping Center, its third Lehigh Valley location.",
+      "source": "Lehigh Valley Business",
+      "domain": "lvb.com",
+      "published": "2026-05-19T20:37:13.522903+00:00",
+      "published_ts": 1779223033.522903,
+      "topic_score": 18,
+      "matched_terms": [
+        "retail leasing",
+        "lease",
+        "shopping center",
+        "tenant"
+      ],
+      "rank_score": 45.33
+    },
+    {
+      "id": "40abc69bb233",
+      "title": "Chester County industrial park lands FedEx as anchor tenant",
+      "link": "https://www.bizjournals.com/philadelphia/example/10",
+      "summary": "FedEx Ground signed a 15-year lease for a 425,000 SF distribution facility in Coatesville.",
+      "source": "Philadelphia Business Journal",
+      "domain": "bizjournals.com",
+      "published": "2026-05-19T20:37:13.522903+00:00",
+      "published_ts": 1779223033.522903,
+      "topic_score": 17,
+      "matched_terms": [
+        "industrial park",
+        "anchor tenant",
+        "lease",
+        "distribution center",
+        "fedex"
+      ],
+      "rank_score": 43.33
+    },
+    {
+      "id": "0b1f4b55e05c",
+      "title": "Allentown's NIZ approves $42M mixed-use project on Hamilton Street",
+      "link": "https://www.wfmz.com/example/6",
+      "summary": "The Neighborhood Improvement Zone authority approved financing for a seven-story mixed-use building combining ground-floor retail with apartments above.",
+      "source": "WFMZ 69 News",
+      "domain": "wfmz.com",
+      "published": "2026-05-18T19:37:13.522903+00:00",
+      "published_ts": 1779133033.522903,
+      "topic_score": 16,
+      "matched_terms": [
+        "mixed-use development",
+        "niz",
+        "retail",
+        "developer"
+      ],
+      "rank_score": 41.0
+    },
+    {
+      "id": "cb6c936fb35c",
+      "title": "Bucks County rejects rezoning for proposed Doylestown retail center",
+      "link": "https://www.bizjournals.com/philadelphia/example/7",
+      "summary": "Township supervisors voted 4-1 against a developer's request to rezone a 12-acre parcel from residential to commercial.",
+      "source": "Philadelphia Business Journal",
+      "domain": "bizjournals.com",
+      "published": "2026-05-17T18:37:13.522903+00:00",
+      "published_ts": 1779043033.522903,
+      "topic_score": 14,
+      "matched_terms": [
+        "rezoning",
+        "zoning",
+        "developer",
+        "township",
+        "retail"
+      ],
+      "rank_score": 36.67
+    },
+    {
+      "id": "774d71ffde02",
+      "title": "Berks County medical office building trades for $14.2M",
+      "link": "https://www.cpbj.com/example/3",
+      "summary": "The 65,000 SF Class A medical office building in Wyomissing sold to a Philadelphia-based private equity buyer.",
+      "source": "Central Penn Business Journal",
+      "domain": "cpbj.com",
+      "published": "2026-05-18T19:37:13.522903+00:00",
+      "published_ts": 1779133033.522903,
+      "topic_score": 12,
+      "matched_terms": [
+        "medical office building",
+        "investment sale",
+        "sold for",
+        "real estate"
+      ],
+      "rank_score": 33.0
+    },
+    {
+      "id": "c38385710dc9",
+      "title": "Lancaster County warehouse expansion adds 180,000 SF",
+      "link": "https://lancasteronline.com/example/5",
+      "summary": "A logistics tenant is doubling the size of its Manheim Township distribution facility, with completion targeted for Q4 2026.",
+      "source": "LancasterOnline",
+      "domain": "lancasteronline.com",
+      "published": "2026-05-20T21:37:13.522903+00:00",
+      "published_ts": 1779313033.522903,
+      "topic_score": 11,
+      "matched_terms": [
+        "warehouse",
+        "industrial",
+        "expansion",
+        "tenant",
+        "construction"
+      ],
+      "rank_score": 31.67
+    },
+    {
+      "id": "1c81d962ff6c",
+      "title": "Aldi opening fourth Lehigh Valley store in former Bon-Ton space",
+      "link": "https://www.lvb.com/example/14",
+      "summary": "The grocery discounter will occupy 22,000 SF at the former Bon-Ton anchor space in a Whitehall shopping center.",
+      "source": "Lehigh Valley Business",
+      "domain": "lvb.com",
+      "published": "2026-05-10T18:37:13.522903+00:00",
+      "published_ts": 1778438233.522903,
+      "topic_score": 12,
+      "matched_terms": [
+        "aldi",
+        "anchor tenant",
+        "shopping center",
+        "grocery",
+        "opening"
+      ],
+      "rank_score": 30.33
+    },
+    {
+      "id": "86371bbf6f05",
+      "title": "Wawa plans three new stores across Northampton County",
+      "link": "https://www.lehighvalleylive.com/example/4",
+      "summary": "The convenience chain confirmed three Northampton County locations with groundbreakings scheduled for late summer.",
+      "source": "Lehigh Valley Live",
+      "domain": "lehighvalleylive.com",
+      "published": "2026-05-16T17:37:13.522903+00:00",
+      "published_ts": 1778953033.522903,
+      "topic_score": 9,
+      "matched_terms": [
+        "wawa",
+        "groundbreaking",
+        "expansion",
+        "real estate"
+      ],
+      "rank_score": 26.33
+    },
+    {
+      "id": "a3133d861ecd",
+      "title": "Sheetz buying former Friendly's site in Whitehall for new prototype store",
+      "link": "https://www.mcall.com/example/8",
+      "summary": "The convenience store operator acquired the 2.4-acre Whitehall Township site and plans to demolish the existing restaurant.",
+      "source": "Morning Call",
+      "domain": "mcall.com",
+      "published": "2026-05-15T16:37:13.522903+00:00",
+      "published_ts": 1778863033.522903,
+      "topic_score": 8,
+      "matched_terms": [
+        "sheetz",
+        "acquired",
+        "site plan",
+        "developer"
+      ],
+      "rank_score": 24.0
+    },
+    {
+      "id": "82d2671da65c",
+      "title": "Bethlehem zoning hearing scheduled for proposed South Side hotel project",
+      "link": "https://www.lehighvalleynews.com/example/11",
+      "summary": "A developer is seeking variances for a 142-room boutique hotel on Bethlehem's South Side, with the zoning hearing set for next month.",
+      "source": "Lehigh Valley News",
+      "domain": "lehighvalleynews.com",
+      "published": "2026-05-13T21:37:13.522903+00:00",
+      "published_ts": 1778708233.522903,
+      "topic_score": 7,
+      "matched_terms": [
+        "zoning",
+        "developer",
+        "planning commission"
+      ],
+      "rank_score": 21.33
+    },
+    {
+      "id": "ed283b863a5d",
+      "title": "Dollar General opens 14th Berks County location this year",
+      "link": "https://www.readingeagle.com/example/9",
+      "summary": "The discount retailer continues aggressive expansion across Berks County with a new 9,100 SF store in Bernville.",
+      "source": "Reading Eagle",
+      "domain": "readingeagle.com",
+      "published": "2026-05-14T22:37:13.522903+00:00",
+      "published_ts": 1778798233.522903,
+      "topic_score": 6,
+      "matched_terms": [
+        "dollar general",
+        "retail",
+        "opening",
+        "expansion"
+      ],
+      "rank_score": 19.67
+    },
+    {
+      "id": "f42c314a7764",
+      "title": "Reading developer breaks ground on $28M apartment complex",
+      "link": "https://www.cpbj.com/example/13",
+      "summary": "Construction has begun on a 184-unit multifamily project near downtown Reading.",
+      "source": "Central Penn Business Journal",
+      "domain": "cpbj.com",
+      "published": "2026-05-11T19:37:13.522903+00:00",
+      "published_ts": 1778528233.522903,
+      "topic_score": 6,
+      "matched_terms": [
+        "broke ground",
+        "construction",
+        "developer"
+      ],
+      "rank_score": 18.67
+    },
+    {
+      "id": "b39b98a8ca35",
+      "title": "Philadelphia office vacancy hits 21% as CBD softens further",
+      "link": "https://www.inquirer.com/example/12",
+      "summary": "Center City office vacancy climbed again in Q1 2026 as several large tenants downsized or sublet space.",
+      "source": "Philadelphia Inquirer",
+      "domain": "inquirer.com",
+      "published": "2026-05-12T20:37:13.522903+00:00",
+      "published_ts": 1778618233.522903,
+      "topic_score": 5,
+      "matched_terms": [
+        "office space",
+        "tenant",
+        "real estate"
+      ],
+      "rank_score": 17.0
+    },
+    {
+      "id": "b6a2e575bcd8",
+      "title": "Easton Planning Commission tables decision on College Hill subdivision",
+      "link": "https://www.lehighvalleylive.com/example/15",
+      "summary": "Commissioners requested additional traffic studies before voting on a proposed 38-lot residential subdivision.",
+      "source": "Lehigh Valley Live",
+      "domain": "lehighvalleylive.com",
+      "published": "2026-05-09T17:37:13.522903+00:00",
+      "published_ts": 1778348233.522903,
+      "topic_score": 4,
+      "matched_terms": [
+        "planning commission",
+        "subdivision plan",
+        "land development plan"
+      ],
+      "rank_score": 14.0
+    }
+  ]
+}
+</script>
+<script>
+let DATA = null;
+let activeFilter = 'all';
+let activeSort = 'rank';
+let searchTerm = '';
+
+const FILTER_KEYWORDS = {
+  retail: ['retail', 'shopping center', 'tenant', 'lease', 'restaurant', 'grocery', 'wawa', 'sheetz', 'aldi', 'dollar general', 'starbucks', 'chipotle', 'anchor tenant', 'strip mall', 'big box', 'jersey mike', 'opening'],
+  zoning: ['zoning', 'rezoning', 'planning commission', 'site plan', 'subdivision plan', 'township', 'borough', 'variance', 'land development plan'],
+  industrial: ['industrial', 'warehouse', 'distribution center', 'logistics', 'industrial park', 'fedex', 'amazon'],
+  medical: ['medical office', 'medical office building', 'healthcare', 'hospital'],
+};
+
+function fmtDate(iso) {
+  if (!iso) return '—';
+  const d = new Date(iso);
+  const now = new Date();
+  const diff = (now - d) / (1000 * 60 * 60 * 24);
+  if (diff < 1) return 'TODAY';
+  if (diff < 2) return 'YESTERDAY';
+  if (diff < 7) return Math.floor(diff) + 'D AGO';
+  return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' }).toUpperCase();
+}
+
+function matchesFilter(article, filter) {
+  if (filter === 'all') return true;
+  const keywords = FILTER_KEYWORDS[filter] || [];
+  const text = (article.title + ' ' + article.summary + ' ' + (article.matched_terms || []).join(' ')).toLowerCase();
+  return keywords.some(k => text.includes(k));
+}
+
+function matchesSearch(article, term) {
+  if (!term) return true;
+  const t = term.toLowerCase();
+  return (article.title + ' ' + article.summary + ' ' + article.source).toLowerCase().includes(t);
+}
+
+function scoreBadgeClass(score) {
+  if (score >= 14) return 'high';
+  if (score >= 9) return 'med';
+  return '';
+}
+
+function render() {
+  const list = DATA.articles
+    .filter(a => matchesFilter(a, activeFilter))
+    .filter(a => matchesSearch(a, searchTerm));
+
+  if (activeSort === 'date') {
+    list.sort((a, b) => (b.published_ts || 0) - (a.published_ts || 0));
+  } else if (activeSort === 'score') {
+    list.sort((a, b) => b.topic_score - a.topic_score);
+  } else {
+    list.sort((a, b) => b.rank_score - a.rank_score);
+  }
+
+  const container = document.getElementById('articles');
+  if (list.length === 0) {
+    container.innerHTML = '<div class="empty">No articles match the current filter.</div>';
+    return;
+  }
+
+  container.innerHTML = list.map(a => `
+    <article class="article">
+      <div class="article-meta">
+        <span class="source-name">${escapeHtml(a.source)}</span>
+        <span>${fmtDate(a.published)}</span>
+      </div>
+      <h2 class="article-title">
+        <a href="${escapeHtml(a.link)}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a>
+      </h2>
+      <p class="article-summary">${escapeHtml(a.summary || '')}</p>
+      <div class="article-footer">
+        <div class="tags">
+          ${(a.matched_terms || []).slice(0, 4).map(t => `<span class="tag">${escapeHtml(t)}</span>`).join('')}
+        </div>
+        <span class="score-badge ${scoreBadgeClass(a.topic_score)}">★ ${a.topic_score}</span>
+      </div>
+    </article>
+  `).join('');
+}
+
+function escapeHtml(s) {
+  return String(s || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+function renderStats() {
+  document.getElementById('stat-count').innerHTML = DATA.articles.length;
+  document.getElementById('stat-high').innerHTML = DATA.articles.filter(a => a.topic_score >= 14).length;
+
+  const now = Date.now() / 1000;
+  const recent = DATA.articles.filter(a => a.published_ts && (now - a.published_ts) < 7 * 86400).length;
+  document.getElementById('stat-recent').innerHTML = recent;
+
+  const okSources = DATA.feed_status.filter(s => !s.error).length;
+  const totalSources = DATA.feed_status.length;
+  document.getElementById('stat-sources').innerHTML = `${okSources}<span class="unit">/${totalSources}</span>`;
+
+  const date = new Date(DATA.generated_at);
+  const dateStr = date.toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' }).toUpperCase();
+  document.getElementById('dateline').textContent = `VOL. I · No. 1 · ${dateStr}`;
+  document.getElementById('generated-at').textContent = `PUBLISHED ${date.toLocaleString('en-US', { dateStyle: 'medium', timeStyle: 'short' }).toUpperCase()}`;
+
+  // Feed status drawer
+  document.getElementById('feed-status-grid').innerHTML = DATA.feed_status.map(s => `
+    <div class="feed-status-row">
+      <span>${escapeHtml(s.source.slice(0, 32))}${s.source.length > 32 ? '…' : ''}</span>
+      <span class="${s.error ? 'err' : 'ok'}">${s.error ? '✗ ' + s.error : '✓ ' + s.count}</span>
+    </div>
+  `).join('');
+}
+
+function loadData() {
+  try {
+    const el = document.getElementById('embedded-data');
+    if (el) {
+      DATA = JSON.parse(el.textContent);
+      renderStats();
+      render();
+      return;
+    }
+    // Fallback: try to fetch articles.json (works if served via http)
+    fetch('articles.json').then(r => r.json()).then(d => {
+      DATA = d;
+      renderStats();
+      render();
+    }).catch(() => {
+      document.getElementById('articles').innerHTML =
+        '<div class="empty">No data available. Re-run the embed script after refreshing articles.json.</div>';
+    });
+  } catch (err) {
+    document.getElementById('articles').innerHTML =
+      '<div class="empty">Error loading data: ' + err.message + '</div>';
+  }
+}
+
+document.getElementById('search').addEventListener('input', e => {
+  searchTerm = e.target.value;
+  render();
+});
+
+document.getElementById('filter-group').addEventListener('click', e => {
+  if (e.target.classList.contains('filter-btn')) {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    e.target.classList.add('active');
+    activeFilter = e.target.dataset.filter;
+    render();
+  }
+});
+
+document.getElementById('sort').addEventListener('change', e => {
+  activeSort = e.target.value;
+  render();
+});
+
+document.getElementById('show-status').addEventListener('click', e => {
+  e.preventDefault();
+  document.getElementById('feed-status').classList.toggle('open');
+});
+
+loadData();
+</script>
+</body>
+</html>
