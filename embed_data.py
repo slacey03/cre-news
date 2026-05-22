@@ -1,10 +1,10 @@
 """
 Embed articles.json into dashboard.html as inline data.
 
-This script is safe to run repeatedly. It always:
+Safe to run repeatedly. Always:
   1. Reads the latest articles.json
-  2. Removes any existing embedded-data block from dashboard.html
-  3. Ensures the dashboard has the inline-data loader (replacing fetch loader if present)
+  2. Removes any existing embedded-data block
+  3. Ensures the inline-data loader is present
   4. Inserts the fresh data block
 """
 import json
@@ -16,7 +16,7 @@ with open('articles.json') as f:
 with open('dashboard.html') as f:
     html = f.read()
 
-# --- 1. Remove any existing embedded-data block ---
+# Remove any existing embedded-data block
 html = re.sub(
     r'<script id="embedded-data" type="application/json">.*?</script>\s*',
     '',
@@ -24,7 +24,7 @@ html = re.sub(
     flags=re.DOTALL,
 )
 
-# --- 2. Ensure dashboard uses the inline-data loader (idempotent) ---
+# Ensure dashboard uses the inline-data loader
 fetch_loader = """async function loadData() {
   try {
     const res = await fetch('articles.json');
@@ -63,19 +63,18 @@ inline_loader = """function loadData() {
 if fetch_loader in html:
     html = html.replace(fetch_loader, inline_loader)
 
-# --- 3. Build the fresh data block ---
+# Build the fresh data block
 inline_block = (
     '<script id="embedded-data" type="application/json">\n'
     + json.dumps(data, indent=2)
     + '\n</script>\n'
 )
 
-# --- 4. Insert the data block right before the main <script> that defines DATA ---
+# Insert before the main <script>
 marker = '<script>\nlet DATA = null;'
 if marker in html:
     html = html.replace(marker, inline_block + marker)
 else:
-    # Fallback: insert before closing </body>
     html = html.replace('</body>', inline_block + '</body>')
 
 with open('dashboard.html', 'w') as f:
