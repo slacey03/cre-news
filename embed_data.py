@@ -1,5 +1,14 @@
-"""Embed articles.json into dashboard.html as inline data so it works on double-click."""
+"""
+Embed articles.json into dashboard.html as inline data.
+
+This script is safe to run repeatedly. It always:
+  1. Reads the latest articles.json
+  2. Removes any existing embedded-data block from dashboard.html
+  3. Ensures the dashboard has the inline-data loader (replacing fetch loader if present)
+  4. Inserts the fresh data block
+"""
 import json
+import re
 
 with open('articles.json') as f:
     data = json.load(f)
@@ -7,13 +16,16 @@ with open('articles.json') as f:
 with open('dashboard.html') as f:
     html = f.read()
 
-# Build the inline data block
-inline_block = f"""<script id="embedded-data" type="application/json">
-{json.dumps(data, indent=2)}
-</script>"""
+# --- 1. Remove any existing embedded-data block ---
+html = re.sub(
+    r'<script id="embedded-data" type="application/json">.*?</script>\s*',
+    '',
+    html,
+    flags=re.DOTALL,
+)
 
-# Replace the loadData function to read from the embedded block
-old_loader = """async function loadData() {
+# --- 2. Ensure dashboard uses the inline-data loader (idempotent) ---
+fetch_loader = """async function loadData() {
   try {
     const res = await fetch('articles.json');
     DATA = await res.json();
@@ -25,7 +37,7 @@ old_loader = """async function loadData() {
   }
 }"""
 
-new_loader = """function loadData() {
+inline_loader = """function loadData() {
   try {
     const el = document.getElementById('embedded-data');
     if (el) {
@@ -34,14 +46,13 @@ new_loader = """function loadData() {
       render();
       return;
     }
-    // Fallback: try to fetch articles.json (works if served via http)
     fetch('articles.json').then(r => r.json()).then(d => {
       DATA = d;
       renderStats();
       render();
     }).catch(() => {
       document.getElementById('articles').innerHTML =
-        '<div class="empty">No data available. Re-run the embed script after refreshing articles.json.</div>';
+        '<div class="empty">No data available.</div>';
     });
   } catch (err) {
     document.getElementById('articles').innerHTML =
@@ -49,10 +60,23 @@ new_loader = """function loadData() {
   }
 }"""
 
-html = html.replace(old_loader, new_loader)
+if fetch_loader in html:
+    html = html.replace(fetch_loader, inline_loader)
 
-# Insert the inline data block right before the main script
-html = html.replace('<script>\nlet DATA = null;', inline_block + '\n<script>\nlet DATA = null;')
+# --- 3. Build the fresh data block ---
+inline_block = (
+    '<script id="embedded-data" type="application/json">\n'
+    + json.dumps(data, indent=2)
+    + '\n</script>\n'
+)
+
+# --- 4. Insert the data block right before the main <script> that defines DATA ---
+marker = '<script>\nlet DATA = null;'
+if marker in html:
+    html = html.replace(marker, inline_block + marker)
+else:
+    # Fallback: insert before closing </body>
+    html = html.replace('</body>', inline_block + '</body>')
 
 with open('dashboard.html', 'w') as f:
     f.write(html)
