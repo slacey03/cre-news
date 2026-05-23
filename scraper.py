@@ -435,6 +435,15 @@ OTHER_STATE_MARKERS = [
     ", ct", ", ct.", ", ct ",
     ", nj", ", nj.", ", nj ",
     ", ga", ", ga.", ", ga ",
+    # NYC metro area indicators (added v8 — REBusinessOnline often covers NY suburbs)
+    "new york city", "westchester county", "long island ny", "manhattan",
+    "brooklyn ny", "queens ny", "the bronx", "staten island",
+    "n.y.", "n.j.", "n.y ", "n.j ",
+    "nyc ", " nyc.",
+    # NJ markers (in case NJ deals slip through)
+    "north jersey", "south jersey", "jersey city nj", "newark nj",
+    # New England that REBusinessOnline covers
+    "boston ma", "providence ri", "hartford ct",
 ]
 
 
@@ -492,6 +501,17 @@ def fetch_google_news(query):
     return fetch_feed(f"Google News: {query[:50]}", url)
 
 
+def _word_match(needle, text):
+    """Match needle in text only at word boundaries.
+
+    Prevents 'chester county' from matching inside 'westchester county',
+    'york' from matching inside 'new york', etc.
+    """
+    # Build pattern: word boundary, escaped needle, word boundary
+    pattern = r'(?<![a-zA-Z])' + re.escape(needle) + r'(?![a-zA-Z])'
+    return re.search(pattern, text) is not None
+
+
 def article_score(title, summary):
     """Score article relevance. Returns (geo_hit, topic_score, matched_terms).
 
@@ -500,6 +520,9 @@ def article_score(title, summary):
     2. If only ambiguous cities (Reading, Lancaster, etc.) are mentioned AND
        another US state is also named, reject as out-of-state article.
     3. Otherwise apply normal Eastern PA geography matching.
+
+    All geography matches use word boundaries (v8) to prevent false positives
+    like 'chester county' matching inside 'westchester county'.
     """
     text = normalize_text(title + " " + summary)
 
@@ -507,26 +530,29 @@ def article_score(title, summary):
     if any(term in text for term in EXCLUDE_TERMS):
         return False, 0, []
 
-    # State disambiguation
-    has_pa_strong = any(sig in text for sig in PA_STRONG_SIGNALS)
+    # State disambiguation — use word matching for accuracy
+    has_pa_strong = any(_word_match(sig, text) for sig in PA_STRONG_SIGNALS)
     has_other_state = any(marker in text for marker in OTHER_STATE_MARKERS)
-    only_ambiguous_match = False
 
-    # Check if only ambiguous geography terms matched
-    matched_unambiguous = [t for t in EASTERN_PA_TERMS if t in text and t not in AMBIGUOUS_CITIES]
-    matched_ambiguous = [t for t in EASTERN_PA_TERMS if t in text and t in AMBIGUOUS_CITIES]
+    # Check if only ambiguous geography terms matched (using word boundaries)
+    matched_unambiguous = [t for t in EASTERN_PA_TERMS if t not in AMBIGUOUS_CITIES and _word_match(t, text)]
+    matched_ambiguous = [t for t in EASTERN_PA_TERMS if t in AMBIGUOUS_CITIES and _word_match(t, text)]
 
-    if matched_ambiguous and not matched_unambiguous and not has_pa_strong:
-        only_ambiguous_match = True
+    only_ambiguous_match = bool(matched_ambiguous) and not matched_unambiguous and not has_pa_strong
 
     # Reject if the article hits only ambiguous PA city names AND mentions another state
     if only_ambiguous_match and has_other_state:
         return False, 0, []
 
-    # Standard geography check
-    geo_hit = len(matched_unambiguous) > 0 or len(matched_ambiguous) > 0 or has_pa_strong
+    # Also reject if the article has another state marker AND no strong PA signal at all
+    # This catches NY/NJ/MA articles that happen to mention a non-ambiguous PA term incidentally
+    if has_other_state and not has_pa_strong and not matched_unambiguous:
+        return False, 0, []
 
-    # Topic scoring
+    # Standard geography check
+    geo_hit = bool(matched_unambiguous) or bool(matched_ambiguous) or has_pa_strong
+
+    # Topic scoring (keywords still use substring match — they're not geography sensitive)
     topic_score = 0
     matched_terms = []
     for term, weight in CRE_TERMS.items():
@@ -534,7 +560,7 @@ def article_score(title, summary):
             topic_score += weight
             matched_terms.append(term)
 
-    return geo_hit, topic_score, matched_terms[:8]  # cap matched terms shown
+    return geo_hit, topic_score, matched_terms[:8]
 
 
 def clean_summary(html):
