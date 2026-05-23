@@ -243,6 +243,8 @@ CRE_TERMS = {
     "now open": 3, "coming soon": 3, "soft opening": 3, "grand opening": 3,
     "set to open": 3, "expected to open": 3, "plans to open": 3,
     "will open": 3, "to open in": 3, "coming to": 3, "set to launch": 3,
+    "first east coast": 3, "first pennsylvania": 3, "first mid-atlantic": 3,
+    "east coast store": 3, "east coast location": 3, "expanding to pa": 3,
     "going out of business": 3, "out of business": 3,
     "permanently closed": 3, "closing its doors": 3, "closes for good": 3,
     "former site of": 3, "former space": 3, "long-vacant": 3,
@@ -361,6 +363,81 @@ EXCLUDE_TERMS = [
     "vaccination clinic", "health screening",
 ]
 
+# ===== STATE-EXCLUSION LOGIC (v7) =====
+# Some city names (Reading, Lancaster, York, Bethlehem) exist in other states.
+# To avoid false positives, we use these sets to disambiguate.
+
+# These geography terms are AMBIGUOUS — they exist in PA AND in other states.
+# When an article hits one of these but ALSO mentions another state, we reject.
+AMBIGUOUS_CITIES = {
+    "reading", "lancaster", "york", "bethlehem", "lebanon",
+    "easton",  # also in Maryland and Massachusetts
+    "harrisburg",  # also in Illinois, Oregon
+    "scranton",  # also in Iowa, Kansas
+}
+
+# Unambiguous PA signals — if ANY of these are in the article, it's PA-relevant
+# even if other states are also mentioned (e.g. "NY-based chain opens in PA").
+# These override the other-state rejection.
+PA_STRONG_SIGNALS = {
+    "pennsylvania", " pa ", " pa.", "pa-", "lehigh valley",
+    "eastern pa", "eastern pennsylvania", "southeastern pa",
+    "southeastern pennsylvania", "northeastern pa", "northeastern pennsylvania",
+    "philadelphia region", "delaware valley", "poconos", "main line",
+    # PA county names are unambiguous when they include "county"
+    "lehigh county", "northampton county", "berks county", "bucks county",
+    "montgomery county", "chester county", "delaware county", "philadelphia county",
+    "lancaster county", "schuylkill county", "carbon county", "monroe county",
+    "pike county", "wayne county", "lackawanna county", "luzerne county",
+    "dauphin county", "york county", "cumberland county", "lebanon county",
+    "lycoming county", "bradford county", "potter county", "tioga county",
+    "sullivan county", "wyoming county", "susquehanna county", "columbia county",
+    "montour county", "northumberland county", "snyder county", "union county",
+    "clinton county", "centre county",
+    # Unambiguous PA cities
+    "allentown", "scranton pa", "wilkes-barre", "pottstown", "norristown",
+    "philadelphia",  # also exists elsewhere but rarely
+    "doylestown", "king of prussia", "exton", "quakertown", "emmaus",
+    "macungie", "hellertown", "nazareth", "stroudsburg", "hazleton",
+    "pottsville", "phillipsburg",
+    # Lehigh Valley anchor terms
+    "ppl center", "niz", "neighborhood improvement zone",
+    "lehigh university", "lafayette college", "muhlenberg college",
+}
+
+# Other-state markers that trigger rejection for ambiguous-only articles
+OTHER_STATE_MARKERS = [
+    # Full state names (include leading space to avoid matching "alabama" inside other words)
+    " alabama", " alaska", " arizona", " arkansas", " california",
+    " colorado", " connecticut", " delaware,", " florida", " georgia",
+    " hawaii", " idaho", " illinois", " indiana", " iowa", " kansas",
+    " kentucky", " louisiana", " maine", " maryland", " massachusetts",
+    " michigan", " minnesota", " mississippi", " missouri", " montana",
+    " nebraska", " nevada", " new hampshire", " new jersey",
+    " new mexico", " new york state", " north carolina", " north dakota",
+    " ohio", " oklahoma", " oregon", " rhode island",
+    " south carolina", " south dakota", " tennessee", " texas", " utah",
+    " vermont", " virginia", " washington state",
+    " west virginia", " wisconsin", " wyoming,",
+    # State abbreviations with comma (e.g. "North Reading, MA")
+    ", ma", ", ma.", ", ma ", "(ma)",
+    ", ca", ", ca.", ", ca ", "(ca)",
+    ", tx", ", tx.", ", tx ", "(tx)",
+    ", fl", ", fl.", ", fl ", "(fl)",
+    ", ny ", ", ny.",  # "ny" alone is risky — could match "any" etc, but with space/period before is safer
+    ", oh", ", oh.", ", oh ",
+    ", il", ", il.", ", il ",
+    ", mi", ", mi.", ", mi ",
+    ", nc", ", nc.", ", nc ",
+    ", sc", ", sc.", ", sc ",
+    ", va", ", va.", ", va ",
+    ", md", ", md.", ", md ",
+    ", ct", ", ct.", ", ct ",
+    ", nj", ", nj.", ", nj ",
+    ", ga", ", ga.", ", ga ",
+]
+
+
 # Per-feed timeout
 TIMEOUT = 15
 # Realistic browser user-agent — bypasses many "no bots" blocks
@@ -416,16 +493,38 @@ def fetch_google_news(query):
 
 
 def article_score(title, summary):
-    """Score article relevance. Returns (geo_hit, topic_score, matched_terms)."""
+    """Score article relevance. Returns (geo_hit, topic_score, matched_terms).
+
+    Geography logic (v7):
+    1. If any PA-strong-signal is in the article, it's PA-relevant. Keep.
+    2. If only ambiguous cities (Reading, Lancaster, etc.) are mentioned AND
+       another US state is also named, reject as out-of-state article.
+    3. Otherwise apply normal Eastern PA geography matching.
+    """
     text = normalize_text(title + " " + summary)
 
     # Hard exclude
     if any(term in text for term in EXCLUDE_TERMS):
         return False, 0, []
 
-    # Geography check
-    geo_matches = [term for term in EASTERN_PA_TERMS if term in text]
-    geo_hit = len(geo_matches) > 0
+    # State disambiguation
+    has_pa_strong = any(sig in text for sig in PA_STRONG_SIGNALS)
+    has_other_state = any(marker in text for marker in OTHER_STATE_MARKERS)
+    only_ambiguous_match = False
+
+    # Check if only ambiguous geography terms matched
+    matched_unambiguous = [t for t in EASTERN_PA_TERMS if t in text and t not in AMBIGUOUS_CITIES]
+    matched_ambiguous = [t for t in EASTERN_PA_TERMS if t in text and t in AMBIGUOUS_CITIES]
+
+    if matched_ambiguous and not matched_unambiguous and not has_pa_strong:
+        only_ambiguous_match = True
+
+    # Reject if the article hits only ambiguous PA city names AND mentions another state
+    if only_ambiguous_match and has_other_state:
+        return False, 0, []
+
+    # Standard geography check
+    geo_hit = len(matched_unambiguous) > 0 or len(matched_ambiguous) > 0 or has_pa_strong
 
     # Topic scoring
     topic_score = 0
