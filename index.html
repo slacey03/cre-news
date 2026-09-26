@@ -494,21 +494,33 @@
       <span class="perk-chip">Searchable archive</span>
     </div>
 
-    <!-- SIGNUP BOX -->
+    <!-- SIGNUP BOX — connected to Mailchimp -->
     <div class="signup-box" id="signup">
       <div class="signup-price">Starting at <strong>$49</strong><span>/month</span></div>
       <div class="signup-headline">Join the early access list</div>
       <p class="signup-sub">Be first to know when ZoningTrack launches. Early subscribers get locked-in pricing and priority onboarding.</p>
 
-      <form class="signup-form" id="hero-form" onsubmit="handleSignup(event, 'hero')">
-        <input type="email" id="hero-email" placeholder="Your work email" required autocomplete="email" />
+      <form
+        class="signup-form"
+        id="hero-form"
+        action="https://zoningtrack.us18.list-manage.com/subscribe/post?u=1ac4966eec3ea770e4952d886&amp;id=4cc7ed9cf9&amp;f_id=0045aae6f0"
+        method="post"
+        target="_blank"
+        novalidate
+        onsubmit="handleHeroSignup(event)"
+      >
+        <input type="email" name="EMAIL" id="hero-email" placeholder="Your work email" required autocomplete="email" />
         <button type="submit">Get early access</button>
+        <!-- Mailchimp anti-bot honeypot field — required, must stay hidden -->
+        <div aria-hidden="true" style="position:absolute;left:-5000px;">
+          <input type="text" name="b_1ac4966eec3ea770e4952d886_4cc7ed9cf9" tabindex="-1" value="">
+        </div>
       </form>
-      <p class="signup-note">14-day free trial. No credit card required. Cancel anytime.</p>
+      <p class="signup-note" id="hero-note">14-day free trial. No credit card required. Cancel anytime.</p>
 
       <div class="signup-success" id="hero-success">
         <div class="success-icon">✅</div>
-        <p>You're on the list.<br /><strong>We'll email you the moment ZoningTrack launches.</strong></p>
+        <p>You're on the list.<br /><strong>Check your inbox — Mailchimp will send a confirmation email.</strong></p>
       </div>
     </div>
   </section>
@@ -566,17 +578,29 @@
     </div>
   </section>
 
-  <!-- BOTTOM CTA -->
+  <!-- BOTTOM CTA — connected to Mailchimp -->
   <section class="bottom-cta">
     <h2>The first to know <em>wins.</em></h2>
     <p>Zoning decisions are made every week that create opportunities — or risks — for investors, developers, and property owners. ZoningTrack makes sure you're never the last to find out.</p>
 
-    <form class="bottom-cta-form" onsubmit="handleSignup(event, 'bottom')">
-      <input type="email" id="bottom-email" placeholder="Enter your email" required autocomplete="email" />
+    <form
+      class="bottom-cta-form"
+      id="bottom-form"
+      action="https://zoningtrack.us18.list-manage.com/subscribe/post?u=1ac4966eec3ea770e4952d886&amp;id=4cc7ed9cf9&amp;f_id=0045aae6f0"
+      method="post"
+      target="_blank"
+      novalidate
+      onsubmit="handleBottomSignup(event)"
+    >
+      <input type="email" name="EMAIL" id="bottom-email" placeholder="Enter your email" required autocomplete="email" />
       <button type="submit">Get early access</button>
+      <!-- Mailchimp anti-bot honeypot field — required, must stay hidden -->
+      <div aria-hidden="true" style="position:absolute;left:-5000px;">
+        <input type="text" name="b_1ac4966eec3ea770e4952d886_4cc7ed9cf9" tabindex="-1" value="">
+      </div>
     </form>
-    <p class="bottom-cta-note">14-day free trial · No credit card · Cancel anytime</p>
-    <p class="bottom-success" id="bottom-success">✅ &nbsp;You're on the list. We'll be in touch soon.</p>
+    <p class="bottom-cta-note" id="bottom-note">14-day free trial · No credit card · Cancel anytime</p>
+    <p class="bottom-success" id="bottom-success">✅ &nbsp;You're on the list. Check your inbox for a confirmation email.</p>
   </section>
 
   <!-- FOOTER -->
@@ -585,28 +609,35 @@
     <div class="footer-right">© 2026 ZoningTrack &nbsp;·&nbsp; Lehigh Valley, Pennsylvania</div>
   </footer>
 
+  <!-- Mailchimp validation script -->
+  <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
+
   <script>
-    function handleSignup(event, formId) {
-      event.preventDefault();
-      const emailInput = document.getElementById(formId + '-email');
-      const email = emailInput.value.trim();
+    // Hero form: show success state after submit, then let Mailchimp open in new tab
+    function handleHeroSignup(event) {
+      const email = document.getElementById('hero-email').value.trim();
+      if (!email) { event.preventDefault(); return; }
 
-      if (!email) return;
-
-      // Hide the form, show success
-      if (formId === 'hero') {
+      // Show success UI immediately — Mailchimp confirmation opens in a new tab
+      setTimeout(function() {
         document.getElementById('hero-form').style.display = 'none';
-        document.querySelector('.signup-note').style.display = 'none';
+        document.getElementById('hero-note').style.display = 'none';
         document.getElementById('hero-success').style.display = 'block';
-      } else {
-        document.querySelector('.bottom-cta-form').style.display = 'none';
-        document.querySelector('.bottom-cta-note').style.display = 'none';
-        document.getElementById('bottom-success').style.display = 'block';
-      }
+      }, 100);
+      // Do NOT preventDefault — let the form POST to Mailchimp in target="_blank"
+    }
 
-      // In production: POST to your email capture API (Resend, ConvertKit, Mailchimp, etc.)
-      // fetch('/api/waitlist', { method: 'POST', body: JSON.stringify({ email }), headers: { 'Content-Type': 'application/json' } });
-      console.log('Waitlist signup:', email);
+    // Bottom form: same pattern
+    function handleBottomSignup(event) {
+      const email = document.getElementById('bottom-email').value.trim();
+      if (!email) { event.preventDefault(); return; }
+
+      setTimeout(function() {
+        document.getElementById('bottom-form').style.display = 'none';
+        document.getElementById('bottom-note').style.display = 'none';
+        document.getElementById('bottom-success').style.display = 'block';
+      }, 100);
+      // Do NOT preventDefault — let the form POST to Mailchimp in target="_blank"
     }
 
     // Smooth scroll for nav CTA
