@@ -1,5 +1,5 @@
 """
-Embed articles.json into dashboard.html as inline data.
+Embed articles.json into newstracker.html as inline data.
 
 Safe to run repeatedly. Always:
   1. Reads the latest articles.json
@@ -13,7 +13,7 @@ import re
 with open('articles.json') as f:
     data = json.load(f)
 
-with open('dashboard.html') as f:
+with open('newstracker.html') as f:
     html = f.read()
 
 # Remove any existing embedded-data block
@@ -77,8 +77,8 @@ if marker in html:
 else:
     html = html.replace('</body>', inline_block + '</body>')
 
-with open('dashboard.html', 'w') as f:
+with open('newstracker.html', 'w') as f:
     f.write(html)
 
-print(f"Embedded {len(data['articles'])} articles into dashboard.html")
+print(f"Embedded {len(data['articles'])} articles into newstracker.html")
 print(f"File size: {len(html):,} bytes")

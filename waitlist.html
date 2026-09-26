@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Early Access — ZoningTrack</title>
+<meta name="description" content="Join the ZoningTrack early access list. AI-summarized zoning agendas, hearings, and local real estate news across the Lehigh Valley.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,700&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  /* ── Same palette, type and base as the NewsTracker ── */
+  :root {
+    --bg: #ffffff;
+    --bg-alt: #f5f3ec;
+    --ink: #0f0f0d;
+    --ink-soft: #2d2d28;
+    --ink-faded: #6b6b62;
+    --rule: #e3dfd2;
+    --primary: #2d5a3d;
+    --primary-dark: #1f3f2a;
+    --accent: #4a8c61;
+    --accent-soft: #9fc9ad;
+    --warn: #a47c2c;
+    --danger: #8b3a2a;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html, body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: 'DM Sans', -apple-system, sans-serif;
+    font-size: 15px;
+    line-height: 1.55;
+    min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background-image:
+      radial-gradient(circle at 15% 25%, rgba(45, 90, 61, 0.025) 0%, transparent 50%),
+      radial-gradient(circle at 85% 75%, rgba(74, 140, 97, 0.02) 0%, transparent 50%);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .container { max-width: 1400px; margin: 0 auto; padding: 0 32px; position: relative; z-index: 1; }
+
+  /* Brand bar (identical to NewsTracker) */
+  .brand-bar { border-bottom: 1px solid var(--rule); padding: 18px 0 16px; display: flex; align-items: center; justify-content: space-between; }
+  .brand-logo { display: flex; align-items: center; gap: 12px; text-decoration: none; color: var(--ink); }
+  .brand-logo svg { width: 38px; height: 38px; flex-shrink: 0; }
+  .brand-logo .wordmark { font-family: 'DM Sans', sans-serif; font-weight: 700; font-size: 22px; letter-spacing: -0.01em; color: var(--primary); }
+  .brand-nav { display: flex; gap: 28px; font-family: 'DM Mono', monospace; font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-faded); }
+  .brand-nav a { color: var(--ink-faded); text-decoration: none; transition: color 0.15s; position: relative; padding-bottom: 3px; }
+  .brand-nav a:hover { color: var(--ink); }
+  .brand-nav a.active { color: var(--primary); border-bottom: 2px solid var(--primary); }
+
+  /* Masthead + signup, side by side */
+  .masthead { padding: 48px 0 48px; border-bottom: 1px solid var(--rule); margin-bottom: 32px; }
+  .masthead-meta { display: flex; justify-content: space-between; align-items: baseline; font-family: 'DM Mono', monospace; font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-faded); margin-bottom: 24px; }
+  .masthead-meta span:first-child::before { content: "▸ "; color: var(--accent); margin-right: 2px; }
+  .hero-grid { display: grid; grid-template-columns: 1.25fr 1fr; gap: 56px; align-items: start; }
+  .section-title { font-family: 'Playfair Display', serif; font-weight: 800; font-size: clamp(42px, 5.4vw, 72px); line-height: 1.02; letter-spacing: -0.02em; margin-bottom: 20px; }
+  .section-title .green { color: var(--primary); font-style: italic; }
+  .section-subtitle { font-family: 'Playfair Display', serif; font-style: italic; font-size: 19px; color: var(--ink-soft); max-width: 620px; line-height: 1.45; margin-bottom: 28px; }
+  .tags { display: flex; flex-wrap: wrap; gap: 6px; }
+  .tag { font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase; padding: 5px 9px; background: var(--bg-alt); color: var(--ink-soft); border: 1px solid var(--rule); border-radius: 2px; }
+
+  /* Signup card */
+  .signup { border: 1px solid var(--rule); border-radius: 4px; background: var(--bg); overflow: hidden; }
+  .signup-head { display: grid; grid-template-columns: 1fr 1fr; border-bottom: 1px solid var(--rule); }
+  .signup-head .stat { padding: 18px 22px; }
+  .signup-head .stat:first-child { border-right: 1px solid var(--rule); }
+  .stat-label { font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--ink-faded); margin-bottom: 8px; }
+  .stat-value { font-family: 'Playfair Display', serif; font-weight: 700; font-size: 30px; line-height: 1; letter-spacing: -0.02em; color: var(--ink); }
+  .stat-value .unit { font-size: 13px; color: var(--ink-faded); font-weight: 400; margin-left: 4px; font-family: 'DM Mono', monospace; }
+  .signup-body { padding: 26px 24px 24px; }
+  .signup-title { font-family: 'Playfair Display', serif; font-weight: 700; font-size: 22px; line-height: 1.2; letter-spacing: -0.012em; margin-bottom: 8px; }
+  .signup-sub { font-size: 14px; color: var(--ink-soft); margin-bottom: 20px; }
+
+  .input, .field input, .field select {
+    width: 100%; padding: 11px 14px; background: var(--bg); border: 1px solid var(--rule); border-radius: 3px;
+    font-family: 'DM Sans', sans-serif; font-size: 14px; color: var(--ink); outline: none;
+    transition: border-color 0.15s, box-shadow 0.15s; -webkit-appearance: none; appearance: none;
+  }
+  .input:focus, .field input:focus, .field select:focus { border-color: var(--primary); box-shadow: 0 0 0 3px rgba(45, 90, 61, 0.1); }
+  .input::placeholder, .field input::placeholder { color: var(--ink-faded); }
+  .field select {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%236b6b62' stroke-width='1.5' fill='none'/%3E%3C/svg%3E");
+    background-repeat: no-repeat; background-position: right 14px center; padding-right: 36px;
+  }
+  .row { display: flex; gap: 10px; }
+  .row > * { flex: 1; }
+  .btn {
+    font-family: 'DM Mono', monospace; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase;
+    padding: 12px 18px; border-radius: 3px; border: 1px solid var(--primary); background: var(--primary); color: #fff;
+    cursor: pointer; transition: background 0.15s; white-space: nowrap; flex: 0 0 auto;
+  }
+  .btn:hover { background: var(--primary-dark); }
+  .note { font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-faded); margin-top: 14px; }
+
+  .step2 { display: none; }
+  .step2.active { display: block; }
+  .step2-email { font-size: 13px; color: var(--ink-soft); background: var(--bg-alt); border: 1px solid var(--rule); border-left: 3px solid var(--primary); border-radius: 3px; padding: 9px 12px; margin-bottom: 18px; }
+  .step2-email strong { color: var(--primary); font-weight: 500; }
+  .field { margin-bottom: 14px; }
+  .field label { display: block; font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-faded); margin-bottom: 6px; }
+  .field label .opt { text-transform: none; letter-spacing: 0; font-family: 'DM Sans', sans-serif; }
+  .step2-actions { display: flex; align-items: center; gap: 18px; margin-top: 8px; }
+  .skip-link { font-family: 'DM Mono', monospace; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-faded); background: none; border: none; cursor: pointer; text-decoration: underline; }
+  .skip-link:hover { color: var(--primary); }
+
+  .success { display: none; padding: 8px 0; }
+  .success .signup-title { color: var(--primary); }
+
+  /* Sources strip (NewsTracker controls style) */
+  .sources { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 16px; padding: 18px; background: var(--bg-alt); border: 1px solid var(--rule); border-radius: 4px; margin-bottom: 48px; }
+  .sources-label { font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--ink-faded); margin-right: 8px; }
+  .sources .tag { background: var(--bg); }
+
+  /* Features grid (NewsTracker article grid style) */
+  .block-head { display: flex; justify-content: space-between; align-items: baseline; padding-bottom: 12px; border-bottom: 1px solid var(--rule); }
+  .block-head strong { font-family: 'Playfair Display', serif; font-size: 30px; letter-spacing: -0.02em; font-weight: 800; }
+  .block-head span { font-family: 'DM Mono', monospace; font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-faded); }
+  .features { display: grid; grid-template-columns: repeat(auto-fill, minmax(380px, 1fr)); border-left: 1px solid var(--rule); margin-bottom: 48px; }
+  .feature { padding: 26px; border-right: 1px solid var(--rule); border-bottom: 1px solid var(--rule); position: relative; transition: background 0.2s; }
+  .feature::before { content: ""; position: absolute; top: 0; left: 0; width: 3px; height: 0; background: var(--primary); transition: height 0.25s ease; }
+  .feature:hover { background: var(--bg-alt); }
+  .feature:hover::before { height: 100%; }
+  .feature-meta { display: flex; justify-content: space-between; font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--ink-faded); margin-bottom: 12px; padding-bottom: 10px; border-bottom: 1px dotted var(--rule); }
+  .feature-meta .source-name { color: var(--primary); font-weight: 500; }
+  .feature-title { font-family: 'Playfair Display', serif; font-weight: 700; font-size: 21px; line-height: 1.2; letter-spacing: -0.012em; margin-bottom: 10px; }
+  .feature-text { font-size: 14px; line-height: 1.55; color: var(--ink-soft); }
+
+  /* Closing CTA strip */
+  .closing { display: grid; grid-template-columns: 1fr auto; gap: 32px; align-items: center; padding: 32px; background: var(--bg-alt); border: 1px solid var(--rule); border-radius: 4px; }
+  .closing h2 { font-family: 'Playfair Display', serif; font-weight: 800; font-size: 34px; letter-spacing: -0.02em; line-height: 1.1; margin-bottom: 8px; }
+  .closing h2 em { color: var(--primary); }
+  .closing p { font-family: 'Playfair Display', serif; font-style: italic; font-size: 17px; color: var(--ink-soft); max-width: 640px; }
+  .closing form { display: flex; gap: 10px; min-width: 380px; }
+
+  .colophon { margin-top: 48px; padding: 28px 0; border-top: 1px solid var(--rule); font-family: 'DM Mono', monospace; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-faded); display: flex; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
+  .colophon a { color: var(--primary); text-decoration: none; }
+  .colophon a:hover { text-decoration: underline; }
+
+  @media (max-width: 960px) {
+    .hero-grid { grid-template-columns: 1fr; gap: 32px; }
+    .closing { grid-template-columns: 1fr; }
+    .closing form { min-width: 0; }
+  }
+  @media (max-width: 768px) {
+    .container { padding: 0 16px; }
+    .brand-bar { flex-direction: column; gap: 12px; align-items: flex-start; }
+    .brand-nav { gap: 16px; font-size: 10px; }
+    .masthead-meta { flex-direction: column; gap: 6px; }
+    .section-title { font-size: 44px; }
+    .features { grid-template-columns: 1fr; }
+    .row, .closing form { flex-direction: column; }
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <div class="brand-bar">
+    <a href="/" class="brand-logo">
+      <svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+        <rect x="3" y="3" width="58" height="58" rx="10" ry="10" fill="none" stroke="#2d5a3d" stroke-width="3"/>
+        <!-- Stylized zoning map grid lines -->
+        <path d="M 14 18 L 26 18 M 30 18 L 50 18 M 14 26 L 22 26 M 42 26 L 50 26 M 14 38 L 22 38 M 42 38 L 50 38 M 14 50 L 26 50 M 38 50 L 50 50 M 22 14 L 22 22 M 50 14 L 50 30 M 14 30 L 26 30 M 14 42 L 22 42 M 38 42 L 50 42 M 26 46 L 26 54 M 42 46 L 42 54"
+              stroke="#2d5a3d" stroke-width="2" fill="none" stroke-linecap="round"/>
+        <!-- Location pin centered -->
+        <path d="M 32 18 C 27 18, 24 22, 24 27 C 24 33, 32 44, 32 44 C 32 44, 40 33, 40 27 C 40 22, 37 18, 32 18 Z"
+              fill="#4a8c61"/>
+        <circle cx="32" cy="27" r="3.5" fill="#ffffff"/>
+      </svg>
+      <span class="wordmark">ZoningTrack</span>
+    </a>
+    <nav class="brand-nav">
+      <a href="/">Dashboard</a>
+      <a href="newstracker.html">NewsTracker</a>
+      <a href="waitlist.html" class="active">Early Access</a>
+      <a href="about.html">About</a>
+    </nav>
+  </div>
+
+  <header class="masthead">
+    <div class="masthead-meta">
+      <span>Launching in the Lehigh Valley</span>
+      <span>Expanding across Pennsylvania</span>
+    </div>
+
+    <div class="hero-grid">
+      <div>
+        <h1 class="section-title">Know every zoning move <span class="green">before</span> it becomes news.</h1>
+        <p class="section-subtitle">ZoningTrack monitors municipal meeting agendas, zoning hearings, and local real estate news — automatically. AI reads every document and flags what matters to you.</p>
+        <div class="tags">
+          <span class="tag">Municipal zoning agendas</span>
+          <span class="tag">AI-powered summaries</span>
+          <span class="tag">Keyword alerts</span>
+          <span class="tag">Local news aggregation</span>
+          <span class="tag">Weekly digest</span>
+          <span class="tag">Searchable archive</span>
+        </div>
+      </div>
+
+      <!-- SIGNUP — one Mailchimp form, shown in two steps -->
+      <div class="signup" id="signup">
+        <div class="signup-head">
+          <div class="stat"><div class="stat-label">Starting At</div><div class="stat-value">$49<span class="unit">/ month</span></div></div>
+          <div class="stat"><div class="stat-label">Free Trial</div><div class="stat-value">14<span class="unit">days</span></div></div>
+        </div>
+        <div class="signup-body">
+          <form
+            id="mc-form"
+            action="https://zoningtrack.us18.list-manage.com/subscribe/post?u=1ac4966eec3ea770e4952d886&amp;id=4cc7ed9cf9&amp;f_id=0045aae6f0"
+            method="post"
+            target="_blank"
+            novalidate
+          >
+            <!-- STEP 1: email -->
+            <div id="step1">
+              <div class="signup-title">Join the early access list</div>
+              <p class="signup-sub">Be first to know when ZoningTrack launches. Early subscribers get locked-in pricing and priority onboarding.</p>
+              <div class="row">
+                <input class="input" type="email" name="EMAIL" id="hero-email" placeholder="Your work email" autocomplete="email" />
+                <button class="btn" type="button" onclick="goToStep2()">Get Early Access</button>
+              </div>
+              <p class="note" id="hero-note">No credit card required · Cancel anytime</p>
+            </div>
+
+            <!-- STEP 2: profile -->
+            <div class="step2" id="step2">
+              <div class="stat-label" style="color:var(--primary)">Step 2 of 2 · Optional</div>
+              <div class="signup-title">Tell us a bit about you</div>
+              <p class="signup-sub">Helps us prioritize the municipalities and features you care about.</p>
+              <div class="step2-email">Signing up as <strong id="step2-email-display"></strong></div>
+
+              <div class="row">
+                <div class="field">
+                  <label for="mce-FNAME">First name</label>
+                  <input type="text" name="FNAME" id="mce-FNAME" autocomplete="given-name" />
+                </div>
+                <div class="field">
+                  <label for="mce-LNAME">Last name</label>
+                  <input type="text" name="LNAME" id="mce-LNAME" autocomplete="family-name" />
+                </div>
+              </div>
+              <div class="field">
+                <label for="mce-COMPANY">Company</label>
+                <input type="text" name="COMPANY" id="mce-COMPANY" autocomplete="organization" />
+              </div>
+              <div class="field">
+                <label for="mce-ROLE">What best describes you?</label>
+                <select name="ROLE" id="mce-ROLE">
+                  <option value="">Select one…</option>
+                  <option value="Investor">Investor</option>
+                  <option value="Developer">Developer</option>
+                  <option value="Broker/Agent">Broker/Agent</option>
+                  <option value="Attorney">Attorney</option>
+                  <option value="Other">Other</option>
+                </select>
+              </div>
+              <div class="field">
+                <label for="mce-MUNICIP">Municipalities you care about <span class="opt">(optional)</span></label>
+                <input type="text" name="MUNICIP" id="mce-MUNICIP" placeholder="e.g. South Whitehall, Lower Macungie" />
+              </div>
+              <div class="step2-actions">
+                <button class="btn" type="submit">Join the Waitlist</button>
+                <button class="skip-link" type="submit">Skip for now</button>
+              </div>
+            </div>
+
+            <!-- Mailchimp anti-bot honeypot field — required, must stay hidden -->
+            <div aria-hidden="true" style="position:absolute;left:-5000px;">
+              <input type="text" name="b_1ac4966eec3ea770e4952d886_4cc7ed9cf9" tabindex="-1" value="">
+            </div>
+          </form>
+
+          <div class="success" id="hero-success">
+            <div class="stat-label" style="color:var(--primary)">✓ Confirmed</div>
+            <div class="signup-title">You're on the list.</div>
+            <p class="signup-sub">Check your inbox — Mailchimp will send a confirmation email. We'll reach out the moment ZoningTrack launches.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="sources">
+    <span class="sources-label">Monitoring now</span>
+    <span class="tag">South Whitehall Township</span>
+    <span class="tag">Palmer Township</span>
+    <span class="tag">Forks Township</span>
+    <span class="tag">WFMZ 69News</span>
+    <span class="tag">The Morning Call</span>
+    <span class="tag">LehighValleyLive</span>
+    <span class="tag">Reading Eagle</span>
+  </div>
+
+  <div class="block-head">
+    <strong>What you get</strong>
+    <span>One feed · Every municipality</span>
+  </div>
+  <div class="features">
+    <div class="feature">
+      <div class="feature-meta"><span class="source-name">01 · Municipal</span><span>Scraped automatically</span></div>
+      <div class="feature-title">Municipal documents</div>
+      <p class="feature-text">Zoning hearing agendas, planning commission minutes, and board of supervisors votes — pulled from every monitored township, automatically.</p>
+    </div>
+    <div class="feature">
+      <div class="feature-meta"><span class="source-name">02 · AI</span><span>Plain English</span></div>
+      <div class="feature-title">AI-powered summaries</div>
+      <p class="feature-text">Every document is read by AI the moment it's posted. You get a plain-English summary and a flag if it's real estate relevant — no PDF-reading required.</p>
+    </div>
+    <div class="feature">
+      <div class="feature-meta"><span class="source-name">03 · Alerts</span><span>Within minutes</span></div>
+      <div class="feature-title">Keyword alerts</div>
+      <p class="feature-text">Set alerts for any address, parcel number, business name, or zoning term. Get an email within minutes of a match — anywhere across all monitored sources.</p>
+    </div>
+    <div class="feature">
+      <div class="feature-meta"><span class="source-name">04 · News</span><span>Refreshed hourly</span></div>
+      <div class="feature-title">Local news feed</div>
+      <p class="feature-text">Real estate coverage from WFMZ, The Morning Call, LehighValleyLive, and the Reading Eagle — aggregated and summarized in the same feed.</p>
+    </div>
+    <div class="feature">
+      <div class="feature-meta"><span class="source-name">05 · Digest</span><span>Weekly</span></div>
+      <div class="feature-title">Weekly digest</div>
+      <p class="feature-text">A curated email every week with everything the AI flagged as real estate relevant. Read it in five minutes.</p>
+    </div>
+    <div class="feature">
+      <div class="feature-meta"><span class="source-name">06 · Archive</span><span>Searchable</span></div>
+      <div class="feature-title">Searchable archive</div>
+      <p class="feature-text">Search months of documents by keyword, municipality, or document type. Pro includes 90 days; Firm subscribers get the full historical archive.</p>
+    </div>
+  </div>
+
+  <div class="closing">
+    <div>
+      <h2>The first to know <em>wins.</em></h2>
+      <p>Zoning decisions are made every week that create opportunities — or risks — for investors, developers, and property owners.</p>
+    </div>
+    <!-- Hands the email up to the main two-step form -->
+    <form id="bottom-form" novalidate onsubmit="handleBottomSignup(event)">
+      <input class="input" type="email" id="bottom-email" placeholder="Enter your email" autocomplete="email" />
+      <button class="btn" type="submit">Get Early Access</button>
+    </form>
+  </div>
+
+  <div class="colophon">
+    <span>© 2026 ZoningTrack · Lehigh Valley, Pennsylvania</span>
+    <span><a href="/">See the dashboard preview →</a></span>
+    <span>Powered by ZoningTrack</span>
+  </div>
+</div>
+
+<script>
+  var EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+  var heroEmail = document.getElementById('hero-email');
+
+  function flagBad(input) {
+    input.style.borderColor = '#8b3a2a';
+    input.focus();
+    setTimeout(function() { input.style.borderColor = ''; }, 2000);
+  }
+
+  // Step 1 -> Step 2
+  function goToStep2() {
+    var email = heroEmail.value.trim();
+    if (!EMAIL_RE.test(email)) { flagBad(heroEmail); return; }
+    document.getElementById('step2-email-display').textContent = email;
+    document.getElementById('step1').style.display = 'none';
+    document.getElementById('step2').classList.add('active');
+    document.getElementById('mce-FNAME').focus();
+  }
+
+  heroEmail.addEventListener('keydown', function(e) {
+    if (e.key === 'Enter') { e.preventDefault(); goToStep2(); }
+  });
+
+  // Final submit (either button) — posts to Mailchimp in a new tab, then show success
+  document.getElementById('mc-form').addEventListener('submit', function(e) {
+    if (!EMAIL_RE.test(heroEmail.value.trim())) { e.preventDefault(); return; }
+    if (e.submitter && e.submitter.classList.contains('skip-link')) {
+      ['mce-FNAME','mce-LNAME','mce-COMPANY','mce-ROLE','mce-MUNICIP'].forEach(function(id) {
+        document.getElementById(id).value = '';
+      });
+    }
+    setTimeout(function() {
+      document.getElementById('mc-form').style.display = 'none';
+      document.getElementById('hero-success').style.display = 'block';
+    }, 100);
+  });
+
+  // Bottom CTA: carry the email up to the main form and open step 2
+  function handleBottomSignup(event) {
+    event.preventDefault();
+    var input = document.getElementById('bottom-email');
+    var email = input.value.trim();
+    if (!EMAIL_RE.test(email)) { flagBad(input); return; }
+    heroEmail.value = email;
+    document.getElementById('signup').scrollIntoView({ behavior: 'smooth', block: 'center' });
+    setTimeout(goToStep2, 400);
+  }
+</script>
+</body>
+</html>
