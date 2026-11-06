@@ -35,10 +35,21 @@ class PoliteSession:
         self.s = requests.Session()
         self.s.headers["User-Agent"] = UA
         self.rp = robotparser.RobotFileParser()
-        self.rp.set_url(urljoin(base, "/robots.txt"))
-        self.rp.read()
+        r = self._retry(urljoin(base, "/robots.txt"))
+        self.rp.parse(r.text.splitlines())
         self.delay = max(self.rp.crawl_delay(UA) or 0, 5)
         self.last = 0.0
+
+    def _retry(self, url, tries=4):
+        for i in range(tries):
+            try:
+                r = self.s.get(url, timeout=60)
+                r.raise_for_status()
+                return r
+            except requests.RequestException:
+                if i == tries - 1:
+                    raise
+                time.sleep(30 * (i + 1))
 
     def get(self, url):
         if not self.rp.can_fetch(UA, url):
@@ -46,9 +57,8 @@ class PoliteSession:
         wait = self.last + self.delay - time.time()
         if wait > 0:
             time.sleep(wait)
-        r = self.s.get(url, timeout=60)
+        r = self._retry(url)
         self.last = time.time()
-        r.raise_for_status()
         return r
 
 
@@ -142,4 +152,7 @@ if __name__ == "__main__":
     only = sys.argv[1:]
     for m in MUNICIPALITIES:
         if not only or m["key"] in only:
-            collect(m)
+            try:
+                collect(m)
+            except Exception as e:  # one township being down shouldn't stop the others
+                print(f"[{m['key']}] SKIPPED: {e}")
