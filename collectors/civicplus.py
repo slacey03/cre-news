@@ -92,6 +92,14 @@ def pdf_text(content):
     return "\n\n".join((p.extract_text() or "") for p in reader.pages), len(reader.pages)
 
 
+def ocr_text(content):
+    """Read text from a scanned PDF with Tesseract OCR (installed on the GitHub runner)."""
+    from pdf2image import convert_from_bytes
+    import pytesseract
+    pages = convert_from_bytes(content, dpi=300)
+    return "\n\n".join(pytesseract.image_to_string(img) for img in pages)
+
+
 def collect(muni):
     out_dir = os.path.join(DATA_DIR, muni["key"])
     text_dir = os.path.join(out_dir, "text")
@@ -102,7 +110,9 @@ def collect(muni):
     sess = PoliteSession(muni["base"])
     listing = parse_agenda_center(sess.get(urljoin(muni["base"], "/AgendaCenter")).text, muni["base"])
     cutoff = date.today() - timedelta(days=LOOKBACK_DAYS)
-    todo = [d for d in listing if d["meeting_date"] >= cutoff.isoformat() and d["doc_id"] not in index]
+    # new documents, plus earlier scanned documents that haven't been OCR'd yet
+    todo = [d for d in listing if d["meeting_date"] >= cutoff.isoformat()
+            and (d["doc_id"] not in index or (index[d["doc_id"]].get("needs_ocr") and not index[d["doc_id"]].get("ocr")))]
     print(f"[{muni['key']}] {len(listing)} listed, {len(todo)} new within {LOOKBACK_DAYS} days "
           f"(crawl delay {sess.delay}s)")
 
@@ -112,8 +122,10 @@ def collect(muni):
         try:
             r = sess.get(d["url"])
             text, pages = pdf_text(r.content)
-            rec.update(pages=pages, chars=len(text.strip()),
-                       needs_ocr=len(text.strip()) < 50 * pages)
+            needs_ocr = len(text.strip()) < 50 * pages
+            if needs_ocr:
+                text = ocr_text(r.content)
+            rec.update(pages=pages, chars=len(text.strip()), needs_ocr=needs_ocr, ocr=needs_ocr)
             open(os.path.join(text_dir, d["doc_id"] + ".txt"), "w").write(text)
         except Exception as e:  # keep going; record the failure so it can be retried
             print(f"  ! {d['doc_id']}: {e}")
