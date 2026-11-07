@@ -170,6 +170,36 @@
     body.show-detail .detail { display: block; }
     .back-btn { display: inline-block; margin-bottom: 20px; }
   }
+
+  /* ── Live data additions ── */
+  .auth-bar { display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap; padding: 14px 18px; margin-bottom: 24px; border: 1px solid var(--rule); border-left: 3px solid var(--primary); border-radius: 4px; background: var(--bg-alt); font-size: 14px; color: var(--ink-soft); }
+  .auth-bar form { display: flex; gap: 8px; flex-wrap: wrap; }
+  .auth-bar input { padding: 9px 12px; border: 1px solid var(--rule); border-radius: 3px; font-family: 'DM Sans', sans-serif; font-size: 14px; min-width: 240px; outline: none; }
+  .auth-bar input:focus { border-color: var(--primary); }
+  .auth-msg { font-size: 13px; color: var(--primary); }
+  .check { display: flex; align-items: center; gap: 6px; font-family: 'DM Mono', monospace; font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-soft); white-space: nowrap; cursor: pointer; }
+  .controls.member { grid-template-columns: minmax(240px, 1fr) auto auto auto; }
+  .fields { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 0; border-top: 1px solid var(--rule); border-left: 1px solid var(--rule); margin-bottom: 28px; }
+  .field { padding: 12px 14px; border-right: 1px solid var(--rule); border-bottom: 1px solid var(--rule); }
+  .field .label { margin-bottom: 4px; }
+  .field .val { font-size: 14px; color: var(--ink); word-break: break-word; }
+  .field .val.none { color: var(--ink-faded); }
+  .tl { border-left: 2px solid var(--accent-soft); margin-left: 6px; }
+  .tl-item { position: relative; padding: 0 0 18px 20px; }
+  .tl-item::before { content: ""; position: absolute; left: -7px; top: 4px; width: 12px; height: 12px; border-radius: 50%; background: var(--bg); border: 2px solid var(--primary); }
+  .tl-date { font-family: 'DM Mono', monospace; font-size: 11px; letter-spacing: 0.08em; color: var(--primary); margin-bottom: 2px; }
+  .tl-board { font-weight: 600; font-size: 14px; }
+  .tl-req { font-size: 13px; color: var(--ink-soft); margin: 2px 0 4px; }
+  .tl-out { font-family: 'Playfair Display', serif; font-style: italic; color: var(--warn); font-size: 15px; }
+  .tl-item a { font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--primary); }
+  .tag.stage { background: var(--bg); color: var(--warn); border-color: #e7d6b1; }
+  .tag.cat { background: var(--primary); color: #fff; border-color: var(--primary); }
+  .lock { padding: 28px 24px; text-align: center; border-top: 1px solid var(--rule); background: var(--bg-alt); }
+  .lock h3 { font-family: 'Playfair Display', serif; font-size: 22px; margin-bottom: 8px; }
+  .lock p { font-size: 14px; color: var(--ink-soft); margin-bottom: 14px; }
+  .blur { filter: blur(4px); user-select: none; }
+  .more { padding: 14px 22px; text-align: center; }
+  @media (max-width: 768px) { .controls.member { grid-template-columns: 1fr; } .auth-bar input { min-width: 0; width: 100%; } }
 </style>
 </head>
 <body>
@@ -200,296 +230,202 @@
   <header class="masthead">
     <div class="masthead-meta">
       <span id="dateline">Lehigh Valley</span>
-      <span class="preview-flag">Preview · Sample Data</span>
+      <span class="preview-flag" id="updated">Live data</span>
     </div>
     <h1 class="section-title"><span class="dark">Zoning</span><span class="green">Dashboard</span></h1>
-    <p class="section-subtitle">Municipal agendas, zoning hearings, and planning decisions — read by AI and flagged for real estate.</p>
+    <p class="section-subtitle">Every development project moving through Lehigh Valley planning commissions, zoning hearing boards and councils, read by AI and tracked from first sketch to final vote.</p>
   </header>
 
   <div class="stats-strip">
-    <div class="stat"><div class="stat-label">Items This Week</div><div class="stat-value">47</div></div>
-    <div class="stat"><div class="stat-label">RE Flagged</div><div class="stat-value">12</div></div>
-    <div class="stat"><div class="stat-label">Alert Matches</div><div class="stat-value">3</div></div>
-    <div class="stat"><div class="stat-label">Municipalities</div><div class="stat-value">3</div></div>
+    <div class="stat"><div class="stat-label">Projects Tracked</div><div class="stat-value" id="s-projects">–</div></div>
+    <div class="stat"><div class="stat-label">Active Last 30 Days</div><div class="stat-value" id="s-active">–</div></div>
+    <div class="stat"><div class="stat-label">Documents Read</div><div class="stat-value" id="s-docs">–</div></div>
+    <div class="stat"><div class="stat-label">Municipalities</div><div class="stat-value" id="s-munis">–</div></div>
   </div>
 
-  <div class="controls">
+  <div class="auth-bar" id="auth-bar"></div>
+
+  <div class="controls" id="controls" style="display:none">
     <div class="search-wrap">
       <span class="search-icon">⌕</span>
-      <input type="text" class="search" id="search" placeholder="Filter by address, parcel, applicant, township...">
+      <input type="text" class="search" id="search" placeholder="Search name, address, parcel, applicant, owner, plan #...">
     </div>
     <div class="filter-group" id="filter-group">
       <button class="filter-btn active" data-filter="all">All</button>
-      <button class="filter-btn" data-filter="muni">Municipal</button>
-      <button class="filter-btn" data-filter="news">News</button>
-      <button class="filter-btn" data-filter="re">RE Flagged</button>
+      <button class="filter-btn" data-filter="commercial">Commercial</button>
+      <button class="filter-btn" data-filter="industrial">Industrial</button>
+      <button class="filter-btn" data-filter="residential">Residential</button>
+      <button class="filter-btn" data-filter="zoning">Zoning Changes</button>
     </div>
-    <select class="sort-select" id="township">
-      <option value="all">All Townships</option>
-      <option value="swt">South Whitehall</option>
-      <option value="palmer">Palmer</option>
-      <option value="forks">Forks</option>
-    </select>
+    <select class="sort-select" id="township"><option value="all">All Municipalities</option></select>
+    <label class="check"><input type="checkbox" id="hide-minor" checked> Hide minor residential</label>
   </div>
 
   <div class="workspace">
-    <div class="feed" id="feed"></div>
+    <div class="feed" id="feed"><div class="empty">Loading projects…</div></div>
     <div class="detail" id="detail"></div>
   </div>
 
-  <div class="block-head">
-    <strong>Keyword Alerts</strong>
-    <span class="count">3 New Matches</span>
-  </div>
-  <div class="alerts">
-    <div class="alert">
-      <div class="alert-kw">“Chapman Road”</div>
-      <div class="alert-title">ZHB-2024-10 — Landston Equities variance hearing</div>
-      <div class="alert-src">South Whitehall · 2h ago</div>
-    </div>
-    <div class="alert">
-      <div class="alert-kw">“Route 309”</div>
-      <div class="alert-title">ZHB Public Notice — November 20, 2025</div>
-      <div class="alert-src">South Whitehall · 2h ago</div>
-    </div>
-    <div class="alert">
-      <div class="alert-kw">“Palmer Township”</div>
-      <div class="alert-title">Former Palmer Twp. furniture store sold</div>
-      <div class="alert-src">WFMZ 69News · Yesterday</div>
-    </div>
-    <a class="alert add" href="waitlist.html">+ Set your own alerts</a>
-  </div>
-
   <div class="colophon">
-    <span>Preview build — sample data</span>
+    <span>Updated daily from public municipal records</span>
     <span><a href="waitlist.html">Get early access →</a></span>
-    <span>Powered by ZoningTrack · Dashboard v0.1</span>
+    <span>Powered by ZoningTrack · Dashboard v0.2</span>
   </div>
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
 <script>
-const ITEMS = [
-  {
-    id:1, source:"South Whitehall · ZHB", tag:"swt", type:"muni",
-    date:"Apr 24, 2026",
-    title:"ZHB-2024-10 — Landston Equities LLC Variance Hearing Packet",
-    aiLine:"HC corridor — driveway offset variances + motor vehicle SE",
-    badges:["re","muni","new"],
-    summary:"Landston Equities LLC is seeking multiple variance reliefs from driveway offset requirements along Chapman Road, Route 309, and Grammes Road, plus re-approval of a Special Exception for a Motor Vehicle Service Facility at 1810 PA Route 309, Allentown. The subject parcel is zoned HC (Highway Commercial).",
-    reNote:"Potential commercial intensification at a key Rte 309 / Grammes Rd node. Watch for approval — could signal broader HC development activity in S. Whitehall.",
-    tags:["variance","highway-commercial","driveway-offset","special-exception","route-309","allentown"],
-    docText:`PUBLIC NOTICE — ZONING HEARING BOARD
-South Whitehall Township, Lehigh County, PA
+// Public project URL and publishable ("anon") key: safe to ship in a web page. Data access is enforced by database rules.
+const SUPABASE_URL = 'https://jrlircehkzivwkcauzdt.supabase.co';
+const SUPABASE_ANON_KEY = 'REPLACE_WITH_PUBLISHABLE_KEY';
+const sb = supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
-Hearing Date: November 20, 2025 | 7:00 PM
-Municipal Building, 4444 Walbert Avenue
-
-APPEAL ZHB-2024-10: Landston Equities, LLC
-1810 PA Route 309, Allentown
-
-Variance requests:
-1) 266.5 ft driveway offset vs 300 ft required (Chapman Rd / Rte 309)
-2) 156 ft offset vs 300 ft required (Chapman Rd / Grammes Rd)
-3) 78.5 ft offset vs 100 ft required (Grammes Rd)
-4) Special Exception re-approval — Motor Vehicle Service Facility
-
-PIN: 547723936872 | Zone: HC (Highway Commercial)`,
-    related:[
-      {source:"WFMZ 69News", title:"GLVCC real estate event talks wins, trends and trouble spots"},
-      {source:"South Whitehall · ZHB", title:"ZHB Public Notice — November 20, 2025"},
-    ]
-  },
-  {
-    id:2, source:"WFMZ 69News", tag:"wfmz", type:"news",
-    date:"Apr 23, 2026",
-    title:"Northampton County valve-maker sells headquarters to developer",
-    aiLine:"Commercial HQ sale — redevelopment watch",
-    badges:["re","news"],
-    summary:"A Northampton County manufacturing company has sold its headquarters property to a real estate developer. The sale price and developer's plans have not yet been publicly disclosed.",
-    reNote:"Industrial-to-commercial conversion signal. Monitor for rezoning or land development plan submission to Northampton County Planning.",
-    tags:["property-sale","commercial","northampton-county","industrial","redevelopment"],
-    docText:`A Northampton County manufacturing company has sold its headquarters property to a real estate developer this week.
-
-The developer has not disclosed plans for the site. Permits for any conversion or redevelopment would require review by Northampton County Planning Commission...`,
-    related:[
-      {source:"WFMZ 69News", title:"Former Palmer Twp. furniture store sold"},
-      {source:"Morning Call", title:"Real estate coverage — mcall.com"},
-    ]
-  },
-  {
-    id:3, source:"Forks Township · Planning", tag:"forks", type:"muni",
-    date:"Apr 9, 2026",
-    title:"Planning Commission Regular Meeting Agenda — April 9, 2026",
-    aiLine:"2 land development applications + 1 minor subdivision listed",
-    badges:["muni","new"],
-    summary:"Forks Township Planning Commission regular meeting for April 9, 2026. Agenda includes two land development applications and one minor subdivision application.",
-    reNote:null,
-    tags:["planning-commission","forks-township","northampton-county","agenda"],
-    docText:`FORKS TOWNSHIP PLANNING COMMISSION
-Regular Meeting — April 9, 2026
-1606 Sullivan Trail, Easton, PA 18040
-
-AGENDA
-
-1. Call to Order / Roll Call
-2. Approval of Minutes — March 12, 2026
-3. Land Development Plans:
-   a. Application 2026-LD-04 — Preliminary/Final Plan
-   b. Application 2026-LD-05 — Revised Preliminary Plan
-4. Subdivision: Application 2026-SUB-02 — Minor Subdivision
-5. Zoning Ordinance Discussion
-6. Adjournment`,
-    related:[
-      {source:"Forks Township · BOS", title:"Board of Supervisors Regular Meeting — Apr 16, 2026"},
-    ]
-  },
-  {
-    id:4, source:"WFMZ 69News", tag:"wfmz", type:"news",
-    date:"Apr 22, 2026",
-    title:"State Sen. Coleman proposes bills to curb data center expansion in Lehigh County",
-    aiLine:"Zoning policy flag — large-site commercial development impact",
-    badges:["re","news","new"],
-    summary:"Pennsylvania State Senator Coleman has introduced legislation requiring additional municipal approvals before data centers can be sited in commercial or industrial zones in Lehigh County.",
-    reNote:"Policy watch: Could significantly affect large commercial/industrial site absorption in Lehigh County.",
-    tags:["legislation","data-center","lehigh-county","zoning-policy","industrial"],
-    docText:`Sen. Coleman introduced two bills that would restrict data center siting in Lehigh County, requiring special exception approval from local zoning hearing boards for facilities over 50,000 sq ft...`,
-    related:[
-      {source:"Morning Call", title:"Lehigh County zoning ordinance review underway"},
-    ]
-  },
-  {
-    id:5, source:"Forks Township · BOS", tag:"forks", type:"muni",
-    date:"Apr 16, 2026",
-    title:"Board of Supervisors Regular Meeting Agenda — April 16, 2026",
-    aiLine:"BOS regular meeting — check for land development action items",
-    badges:["muni"],
-    summary:"Forks Township Board of Supervisors regular meeting for April 16, 2026. Includes reports from Township Manager, Solicitor, and Engineer.",
-    reNote:null,
-    tags:["board-of-supervisors","forks-township","agenda"],
-    docText:`FORKS TOWNSHIP BOARD OF SUPERVISORS
-Regular Meeting — April 16, 2026
-
-AGENDA
-1. Call to Order
-2. Approval of Minutes
-3. Public Comment
-4. New Business / Old Business
-5. Reports — Manager, Solicitor, Engineer
-6. Treasurer's Report / Bill List
-7. Adjournment`,
-    related:[
-      {source:"Forks Township · Planning", title:"Planning Commission Meeting — Apr 9, 2026"},
-    ]
-  },
-  {
-    id:6, source:"WFMZ 69News", tag:"wfmz", type:"news",
-    date:"Apr 22, 2026",
-    title:"GLVCC real estate event talks wins, trends and trouble spots",
-    aiLine:"Market intelligence — LV commercial RE conditions",
-    badges:["re","news"],
-    summary:"The Greater Lehigh Valley Chamber hosted a real estate event covering market conditions, development wins, and emerging challenges. Panelists noted permitting timelines as a significant bottleneck.",
-    reNote:"Good market context for understanding LV real estate dynamics affecting municipal zoning activity.",
-    tags:["market-trends","lehigh-valley","commercial","residential","chamber-of-commerce"],
-    docText:`Real estate professionals gathered for the Greater Lehigh Valley Chamber of Commerce's annual real estate event.
-
-Topics ranged from industrial absorption rates to housing affordability, with panelists noting that municipal permitting timelines remain a significant bottleneck for new development...`,
-    related:[
-      {source:"Morning Call", title:"Lehigh Valley housing market report Q1 2026"},
-    ]
-  },
-];
-
-const TOWNSHIP_LABEL = { swt: 'South Whitehall', palmer: 'Palmer', forks: 'Forks' };
-let activeId = 1, activeFilter = 'all';
+const GROUPS = {
+  commercial: ['retail', 'restaurant', 'office', 'medical', 'hotel/hospitality', 'mixed-use', 'redevelopment property'],
+  industrial: ['industrial/warehouse'],
+  residential: ['multifamily', 'residential subdivision', 'residential minor'],
+  zoning: ['zoning text or map amendment'],
+};
+let ROWS = [], member = false, activeId = null, activeFilter = 'all';
 
 document.getElementById('dateline').textContent =
   new Date().toLocaleDateString('en-US', { weekday: 'long', month: 'long', day: 'numeric', year: 'numeric' });
 
-function esc(s) { return String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const fmtDate = d => d ? new Date(d + 'T12:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }) : '';
+const title = s => String(s || '').replace(/\b\w/g, c => c.toUpperCase());
+const num = n => n == null ? null : Number(n).toLocaleString('en-US', { maximumFractionDigits: 2 });
 
-function matches(item) {
+async function loadStats() {
+  const { data } = await sb.from('pipeline_stats').select('*').single();
+  if (!data) return;
+  document.getElementById('s-projects').textContent = num(data.projects);
+  document.getElementById('s-active').textContent = num(data.active_30d);
+  document.getElementById('s-docs').textContent = num(data.documents);
+  document.getElementById('s-munis').textContent = num(data.municipalities);
+  if (data.updated_at) document.getElementById('updated').textContent =
+    'Live · Updated ' + new Date(data.updated_at).toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+}
+
+function renderAuth(session) {
+  const bar = document.getElementById('auth-bar');
+  if (!session) {
+    bar.innerHTML = `<span><strong>Preview:</strong> the latest notable projects. Members see every project with address, parcel, applicant, timeline and source documents.</span>
+      <form id="login"><input type="email" id="email" placeholder="you@company.com" required><button class="btn primary">Email me a sign-in link</button></form>`;
+    document.getElementById('login').onsubmit = async e => {
+      e.preventDefault();
+      const email = document.getElementById('email').value.trim();
+      const { error } = await sb.auth.signInWithOtp({ email, options: { emailRedirectTo: location.origin + location.pathname } });
+      bar.querySelector('form').outerHTML = `<span class="auth-msg">${error ? 'Could not send link: ' + esc(error.message) : 'Check your inbox for a sign-in link.'}</span>`;
+    };
+  } else if (!member) {
+    bar.innerHTML = `<span>Signed in as <strong>${esc(session.user.email)}</strong>. Your access isn't active yet. <a href="waitlist.html">Request early access</a>.</span>
+      <button class="btn" onclick="sb.auth.signOut()">Sign out</button>`;
+  } else {
+    bar.innerHTML = `<span>Signed in as <strong>${esc(session.user.email)}</strong> · full access</span>
+      <button class="btn" onclick="sb.auth.signOut()">Sign out</button>`;
+  }
+}
+
+async function loadData(session) {
+  member = false;
+  if (session) {
+    const { data, error } = await sb.from('pipeline').select('*').order('last_seen', { ascending: false, nullsFirst: false }).limit(5000);
+    if (!error && data && data.length) { ROWS = data.sort((a, b) => (b.last_seen || '').localeCompare(a.last_seen || '')); member = true; }
+  }
+  if (!member) {
+    const { data } = await sb.from('pipeline_teaser').select('*');
+    ROWS = data || [];
+  }
+  document.getElementById('controls').style.display = member ? '' : 'none';
+  document.getElementById('controls').classList.toggle('member', member);
+  if (member) {
+    const sel = document.getElementById('township');
+    const munis = [...new Set(ROWS.map(r => r.municipality).filter(Boolean))].sort();
+    sel.innerHTML = '<option value="all">All Municipalities</option>' + munis.map(m => `<option>${esc(m)}</option>`).join('');
+  }
+  renderAuth(session);
+  activeId = ROWS[0]?.id ?? null;
+  renderFeed(); renderDetail();
+}
+
+function matches(r) {
+  if (!member) return true;
   const q = document.getElementById('search').value.trim().toLowerCase();
   const town = document.getElementById('township').value;
-  const hay = (item.title + ' ' + item.source + ' ' + item.summary + ' ' + item.tags.join(' ')).toLowerCase();
-  if (q && !hay.includes(q)) return false;
-  if (town !== 'all' && item.tag !== town) return false;
-  if (activeFilter === 'muni') return item.type === 'muni';
-  if (activeFilter === 'news') return item.type === 'news';
-  if (activeFilter === 're') return item.badges.includes('re');
+  if (document.getElementById('hide-minor').checked && r.category === 'residential minor') return false;
+  if (town !== 'all' && r.municipality !== town) return false;
+  if (activeFilter !== 'all' && !GROUPS[activeFilter].includes(r.category)) return false;
+  if (q) {
+    const hay = [r.name, r.address, r.parcel, r.applicant, r.owner, r.municipality, r.use, r.request, r.zoning, (r.plan_numbers || []).join(' ')].join(' ').toLowerCase();
+    if (!hay.includes(q)) return false;
+  }
   return true;
 }
 
-function tagsHTML(item) {
-  const out = [];
-  if (item.badges.includes('re')) out.push('<span class="tag re">RE Flag</span>');
-  out.push(`<span class="tag">${item.type === 'muni' ? 'Gov' : 'News'}</span>`);
-  if (item.badges.includes('new')) out.push('<span class="tag new">New</span>');
-  return out.join('');
+function renderFeed() {
+  const list = ROWS.filter(matches);
+  const feed = document.getElementById('feed');
+  if (!list.length) { feed.innerHTML = '<div class="empty">No projects match these filters.</div>'; return; }
+  feed.innerHTML = list.slice(0, 400).map(r => `
+    <div class="item ${r.id === activeId ? 'active' : ''}" onclick="selectItem('${r.id}')">
+      <div class="item-meta"><span class="source-name">${esc(r.municipality)}</span><span>${esc(fmtDate(r.last_seen))}</span></div>
+      <div class="item-title">${esc(r.name)}</div>
+      ${member && r.address ? `<div class="item-ai">${esc(r.address)}</div>` : ''}
+      <div class="tags"><span class="tag cat">${esc(r.category)}</span><span class="tag stage">${esc(r.stage)}</span>${r.mentions > 1 ? `<span class="tag">${r.mentions} meetings</span>` : ''}</div>
+    </div>`).join('')
+    + (list.length > 400 ? `<div class="more">Showing 400 of ${list.length}. Narrow with search or filters.</div>` : '')
+    + (!member ? `<div class="lock"><h3>Hundreds more projects</h3><p>Sign in above, or join early access, to see every project with full details.</p><a class="btn primary" href="waitlist.html">Get early access</a></div>` : '');
 }
 
-function renderFeed() {
-  const list = ITEMS.filter(matches).sort((a, b) => new Date(b.date) - new Date(a.date));
-  const feed = document.getElementById('feed');
-  if (!list.length) { feed.innerHTML = '<div class="empty">No items match these filters.</div>'; return; }
-  let html = '', last = '';
-  list.forEach(item => {
-    if (item.date !== last) { html += `<div class="date-head">${esc(item.date)}</div>`; last = item.date; }
-    html += `
-      <div class="item ${item.id === activeId ? 'active' : ''}" onclick="selectItem(${item.id})">
-        <div class="item-meta"><span class="source-name">${esc(item.source)}</span><span>${esc(item.date)}</span></div>
-        <div class="item-title">${esc(item.title)}</div>
-        <div class="item-ai">${esc(item.aiLine)}</div>
-        <div class="tags">${tagsHTML(item)}</div>
-      </div>`;
-  });
-  feed.innerHTML = html;
+function field(label, val) {
+  return `<div class="field"><div class="label">${label}</div><div class="val ${val ? '' : 'none'}">${val ? esc(val) : '—'}</div></div>`;
 }
 
 function renderDetail() {
-  const item = ITEMS.find(i => i.id === activeId);
-  if (!item) return;
-  document.getElementById('detail').innerHTML = `
-    <button class="btn back-btn" onclick="closeDetail()">← Back to feed</button>
-    <div class="detail-meta">${esc(item.source)} · ${esc(item.date)}</div>
-    <div class="detail-title">${esc(item.title)}</div>
-    <div class="detail-sub"><strong>${item.type === 'muni' ? 'Government document' : 'News article'}</strong> · ${esc(item.source)}</div>
-    <div class="actions">
-      <a class="btn primary" href="waitlist.html">View Original ↗</a>
-      <a class="btn" href="waitlist.html">Save</a>
-      <a class="btn" href="waitlist.html">Set Alert</a>
-      <a class="btn" href="waitlist.html">Share</a>
+  const r = ROWS.find(x => x.id === activeId);
+  const el = document.getElementById('detail');
+  if (!r) { el.innerHTML = ''; return; }
+  const head = `
+    <button class="btn back-btn" onclick="closeDetail()">← Back to list</button>
+    <div class="detail-meta">${esc(r.municipality)} · first seen ${esc(fmtDate(r.first_seen))} · last activity ${esc(fmtDate(r.last_seen))}</div>
+    <div class="detail-title">${esc(r.name)}</div>
+    <div class="tags" style="margin-bottom:22px"><span class="tag cat">${esc(r.category)}</span><span class="tag stage">${esc(r.stage)}</span><span class="tag">${r.mentions} meeting${r.mentions === 1 ? '' : 's'}</span></div>`;
+  if (!member) {
+    el.innerHTML = head + `
+      <div class="fields blur">${field('Address', '1234 Example Road')}${field('Parcel', 'X00-0000-000')}${field('Applicant', 'Example Holdings LLC')}${field('Zoning', 'XX-0')}</div>
+      <div class="lock"><h3>Member detail</h3><p>Address, parcel, owner, applicant, zoning, acreage, the full meeting timeline and links to the source documents.</p><a class="btn primary" href="waitlist.html">Get early access</a></div>`;
+    return;
+  }
+  const tl = (r.timeline || []).slice().sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+  const link = t => {
+    const u = (t.url || '').includes('webapi.legistar.com') ? t.source_page : (t.url || t.source_page);
+    return u ? `<a href="${esc(u)}" target="_blank" rel="noopener">Source document ↗</a>` : '';
+  };
+  el.innerHTML = head + `
+    ${r.request ? `<div class="ai-box"><div class="label">✦ Latest request</div><div class="ai-text">${esc(r.request)}</div>${r.outcome ? `<div class="re-note">${esc(r.outcome)}</div>` : ''}</div>` : ''}
+    <div class="fields">
+      ${field('Address', r.address)}${field('Parcel', r.parcel)}${field('Plan / case #', (r.plan_numbers || []).join(', '))}
+      ${field('Applicant', r.applicant)}${field('Owner', r.owner)}${field('Zoning', r.zoning)}
+      ${field('Use', r.use)}${field('Acres', num(r.acres))}${field('Square feet', num(r.square_feet))}
+      ${field('Size', r.size)}${field('Boards', (r.boards || []).join(', '))}${field('Stage', r.stage)}
     </div>
-    <div class="ai-box">
-      <div class="label">✦ AI Summary</div>
-      <div class="ai-text">${esc(item.summary)}</div>
-      ${item.reNote ? `<div class="re-note">${esc(item.reNote)}</div>` : ''}
-    </div>
-    <div class="section">
-      <div class="label">Tags</div>
-      <div class="tags">${item.tags.map(t => `<span class="tag">${esc(t)}</span>`).join('')}</div>
-    </div>
-    <div class="section">
-      <div class="label">Document Text</div>
-      <div class="doc-text">${esc(item.docText)}</div>
-    </div>
-    <div class="section">
-      <div class="label">Related Items</div>
-      <div class="related">
-        ${item.related.map(r => `<div class="related-item"><div class="src">${esc(r.source)}</div><div class="ttl">${esc(r.title)}</div></div>`).join('')}
-      </div>
-    </div>`;
+    <div class="section"><div class="label">Timeline</div><div class="tl">
+      ${tl.map(t => `<div class="tl-item"><div class="tl-date">${esc(fmtDate(t.date))}</div>
+        <div class="tl-board">${esc(t.board)} · ${esc(t.kind)}</div>
+        ${t.request ? `<div class="tl-req">${esc(t.request)}</div>` : ''}
+        ${t.outcome ? `<div class="tl-out">${esc(t.outcome)}</div>` : ''}
+        ${link(t)}</div>`).join('')}
+    </div></div>`;
 }
 
 function selectItem(id) {
-  activeId = id;
-  renderFeed();
-  renderDetail();
+  activeId = id; renderFeed(); renderDetail();
   if (window.innerWidth <= 768) {
     document.body.classList.add('show-detail');
     window.scrollTo({ top: document.querySelector('.workspace').offsetTop - 12 });
   }
 }
-
 function closeDetail() {
   document.body.classList.remove('show-detail');
   window.scrollTo({ top: document.querySelector('.workspace').offsetTop - 12 });
@@ -500,11 +436,12 @@ document.getElementById('filter-group').addEventListener('click', e => {
   document.querySelectorAll('.filter-btn').forEach(x => x.classList.remove('active'));
   b.classList.add('active'); activeFilter = b.dataset.filter; renderFeed();
 });
-document.getElementById('search').addEventListener('input', renderFeed);
-document.getElementById('township').addEventListener('change', renderFeed);
+['search', 'township', 'hide-minor'].forEach(id =>
+  document.getElementById(id).addEventListener(id === 'search' ? 'input' : 'change', renderFeed));
 
-renderFeed();
-renderDetail();
+loadStats();
+sb.auth.getSession().then(({ data }) => loadData(data.session));
+sb.auth.onAuthStateChange((event, session) => { if (event === 'SIGNED_IN' || event === 'SIGNED_OUT') loadData(session); });
 </script>
 </body>
 </html>
