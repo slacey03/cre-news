@@ -1,23 +1,23 @@
-"""One-off research: what MyTown (CC BY 4.0 dataset, credit MyTown / theboringparts.com) covers in Pennsylvania."""
-import csv, gzip, os, shutil, sqlite3, urllib.request
-URL = "https://huggingface.co/datasets/jazzypajamas/mytown-local-gov-meetings/resolve/main/mytown.db.gz"
-urllib.request.urlretrieve(URL, "mytown.db.gz")
-print("downloaded", os.path.getsize("mytown.db.gz") // 1_000_000, "MB")
-with gzip.open("mytown.db.gz") as f, open("mytown.db", "wb") as o:
-    shutil.copyfileobj(f, o)
-db = sqlite3.connect("mytown.db")
+"""One-off research: what MyTown (CC BY 4.0 dataset, credit MyTown / theboringparts.com) covers in Pennsylvania.
+Step 1: list the dataset's files and table schemas without downloading them."""
+import json, os, urllib.request
+import duckdb
+API = "https://huggingface.co/api/datasets/jazzypajamas/mytown-local-gov-meetings/tree/main/data?recursive=true"
+files = json.load(urllib.request.urlopen(API))
 os.makedirs("research/out", exist_ok=True)
-schema = open("research/out/schema.txt", "w")
-for (t,) in db.execute("select name from sqlite_master where type in ('table','view') order by name"):
-    cols = [r[1] for r in db.execute(f'pragma table_info("{t}")')]
-    n = db.execute(f'select count(*) from "{t}"').fetchone()[0]
-    schema.write(f"{t} ({n} rows): {', '.join(cols)}\n")
-    state_col = next((c for c in cols if c.lower() in ("state", "state_code", "state_abbr", "region", "province")), None)
-    if state_col:
-        rows = db.execute(f'select * from "{t}" where upper("{state_col}") in ("PA","PENNSYLVANIA")').fetchall()
-        if rows:
-            with open(f"research/out/pa_{t}.csv", "w", newline="") as fh:
-                w = csv.writer(fh); w.writerow(cols); w.writerows(rows[:20000])
-            schema.write(f"   -> {len(rows)} Pennsylvania rows saved\n")
-schema.close()
-print(open("research/out/schema.txt").read())
+con = duckdb.connect(); con.execute("install httpfs; load httpfs;")
+out = open("research/out/files.txt", "w")
+for f in files:
+    if f.get("type") != "file": continue
+    line = f"{f['path']}  {f.get('size',0)//1_000_000} MB"
+    if f["path"].endswith(".parquet"):
+        url = "https://huggingface.co/datasets/jazzypajamas/mytown-local-gov-meetings/resolve/main/" + f["path"]
+        try:
+            cols = con.execute(f"describe select * from read_parquet('{url}')").fetchall()
+            line += "\n    cols: " + ", ".join(f"{c[0]}:{c[1]}" for c in cols)
+            n = con.execute(f"select count(*) from read_parquet('{url}')").fetchone()[0]
+            line += f"\n    rows: {n}"
+        except Exception as e:
+            line += f"\n    error: {e}"
+    out.write(line + "\n"); print(line, flush=True)
+out.close()
