@@ -1,4 +1,38 @@
 {
+ "agenda_governing-body_2026-08-04_23c397e06c": {
+  "board": "Governing Body",
+  "chars": 873,
+  "collected_at": "2026-11-07T02:37:15+00:00",
+  "context": "BOS Budget Agenda",
+  "county": "Lehigh",
+  "kind": "agenda",
+  "meeting_date": "2026-08-04",
+  "municipality": "North Whitehall Township",
+  "ocr": false,
+  "pages": 1,
+  "rolling": true,
+  "sha256": "23c397e06c148f50713c22849bd995d6b2475aa3742610525d741ce8affb5888",
+  "source_page": "https://www.northwhitehall.org/boards_commissions/agendas_and_minutes.php",
+  "text": "BOS-Budget-Agenda.pdf",
+  "url": "https://www.northwhitehall.org/Documents/Agenda and Minutes/Board of Supervisors/2026/BOS-Budget-Agenda.pdf?t=202608251641090"
+ },
+ "agenda_governing-body_2026-08-10_4c6d0713fa": {
+  "board": "Governing Body",
+  "chars": 2552,
+  "collected_at": "2026-11-07T02:37:10+00:00",
+  "context": "BOS agenda",
+  "county": "Lehigh",
+  "kind": "agenda",
+  "meeting_date": "2026-08-10",
+  "municipality": "North Whitehall Township",
+  "ocr": false,
+  "pages": 2,
+  "rolling": true,
+  "sha256": "4c6d0713fa56161ffb0a260972a0897e55a7d97f42f1dd1d64acf1912a4a2799",
+  "source_page": "https://www.northwhitehall.org/boards_commissions/agendas_and_minutes.php",
+  "text": "bos-agenda.pdf",
+  "url": "https://www.northwhitehall.org/Documents/Agenda and Minutes/Board of Supervisors/2026/bos-agenda.pdf?t=202608251642180"
+ },
  "agenda_governing-body_2026-11-09_9ae68ec868": {
   "board": "Governing Body",
   "chars": 2980,
