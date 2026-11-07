@@ -6,7 +6,7 @@ on:
       limit: { default: "1000" }
   push:
     branches: [main]
-    paths: ["tools/extract.py", "tools/link_projects.py"]
+    paths: ["tools/extract.py", "tools/link_projects.py", "db/**"]
   workflow_run:
     workflows: ["Load Supabase"]
     types: [completed]

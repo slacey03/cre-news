@@ -41,3 +41,12 @@ create or replace view public.pipeline_stats as
          (select max(loaded_at) from documents) as updated_at;
 revoke all on public.pipeline_teaser, public.pipeline_stats from anon, authenticated;
 grant select on public.pipeline_teaser, public.pipeline_stats to anon, authenticated;
+
+-- Login gate before launch: the login page only sends a sign-in link to emails on the members list.
+create or replace function public.can_login(email text) returns boolean
+  language sql stable security definer set search_path = public as $$
+  select exists (select 1 from members
+                 where email_hash = encode(sha256(convert_to(lower(trim(coalesce(email, ''))), 'UTF8')), 'hex'))
+$$;
+revoke all on function public.can_login(text) from public;
+grant execute on function public.can_login(text) to anon, authenticated;

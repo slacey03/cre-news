@@ -200,6 +200,15 @@
   .blur { filter: blur(4px); user-select: none; }
   .more { padding: 14px 22px; text-align: center; }
   @media (max-width: 768px) { .controls.member { grid-template-columns: 1fr; } .auth-bar input { min-width: 0; width: 100%; } }
+
+  /* Log in / Sign up in the nav */
+  .brand-nav { align-items: center; }
+  .brand-nav a.nav-login { border: 1px solid var(--rule); padding: 7px 12px 6px; border-radius: 3px; color: var(--ink-soft); }
+  .brand-nav a.nav-login:hover { border-color: var(--primary); color: var(--primary); }
+  .brand-nav a.nav-signup { background: var(--primary); color: #fff; padding: 7px 12px 6px; border-radius: 3px; border-bottom: none; }
+  .brand-nav a.nav-signup:hover { background: var(--primary-dark, #1f3f2a); color: #fff; }
+  .brand-nav a.nav-login.active, .brand-nav a.nav-signup.active { border-bottom: none; }
+  @media (max-width: 768px) { .brand-nav { flex-wrap: wrap; row-gap: 10px; } }
 </style>
 </head>
 <body>
@@ -222,8 +231,9 @@
     <nav class="brand-nav">
       <a href="/" class="active">Dashboard</a>
       <a href="newstracker.html">NewsTracker</a>
-      <a href="waitlist.html">Early Access</a>
       <a href="about.html">About</a>
+      <a href="login.html" class="nav-login" id="nav-login">Log in</a>
+      <a href="waitlist.html" class="nav-signup">Sign up</a>
     </nav>
   </div>
 
@@ -268,7 +278,7 @@
 
   <div class="colophon">
     <span>Updated daily from public municipal records</span>
-    <span><a href="waitlist.html">Get early access →</a></span>
+    <span><a href="waitlist.html">Sign up for the waitlist →</a></span>
     <span>Powered by ZoningTrack · Dashboard v0.2</span>
   </div>
 </div>
@@ -309,17 +319,13 @@ async function loadStats() {
 
 function renderAuth(session) {
   const bar = document.getElementById('auth-bar');
+  const nl = document.getElementById('nav-login');
+  if (nl) { nl.textContent = session ? 'Log out' : 'Log in'; nl.onclick = session ? (e => { e.preventDefault(); sb.auth.signOut(); }) : null; }
   if (!session) {
     bar.innerHTML = `<span><strong>Preview:</strong> the latest notable projects. Members see every project with address, parcel, applicant, timeline and source documents.</span>
-      <form id="login"><input type="email" id="email" placeholder="you@company.com" required><button class="btn primary">Email me a sign-in link</button></form>`;
-    document.getElementById('login').onsubmit = async e => {
-      e.preventDefault();
-      const email = document.getElementById('email').value.trim();
-      const { error } = await sb.auth.signInWithOtp({ email, options: { emailRedirectTo: location.origin + location.pathname } });
-      bar.querySelector('form').outerHTML = `<span class="auth-msg">${error ? 'Could not send link: ' + esc(error.message) : 'Check your inbox for a sign-in link.'}</span>`;
-    };
+      <span style="display:flex;gap:8px;flex-wrap:wrap"><a class="btn primary" href="waitlist.html">Sign up for the waitlist</a><a class="btn" href="login.html">Log in</a></span>`;
   } else if (!member) {
-    bar.innerHTML = `<span>Signed in as <strong>${esc(session.user.email)}</strong>. Your access isn't active yet. <a href="waitlist.html">Request early access</a>.</span>
+    bar.innerHTML = `<span>Signed in as <strong>${esc(session.user.email)}</strong>. Your access isn't active yet. <a href="waitlist.html">Join the waitlist</a>.</span>
       <button class="btn" onclick="sb.auth.signOut()">Sign out</button>`;
   } else {
     bar.innerHTML = `<span>Signed in as <strong>${esc(session.user.email)}</strong> · full access</span>
@@ -375,7 +381,7 @@ function renderFeed() {
       <div class="tags"><span class="tag cat">${esc(r.category)}</span><span class="tag stage">${esc(r.stage)}</span>${r.mentions > 1 ? `<span class="tag">${r.mentions} meetings</span>` : ''}</div>
     </div>`).join('')
     + (list.length > 400 ? `<div class="more">Showing 400 of ${list.length}. Narrow with search or filters.</div>` : '')
-    + (!member ? `<div class="lock"><h3>Hundreds more projects</h3><p>Sign in above, or join early access, to see every project with full details.</p><a class="btn primary" href="waitlist.html">Get early access</a></div>` : '');
+    + (!member ? `<div class="lock"><h3>Hundreds more projects</h3><p>Join the waitlist to be first in line when full access opens.</p><a class="btn primary" href="waitlist.html">Sign up for the waitlist</a></div>` : '');
 }
 
 function field(label, val) {
@@ -394,7 +400,7 @@ function renderDetail() {
   if (!member) {
     el.innerHTML = head + `
       <div class="fields blur">${field('Address', '1234 Example Road')}${field('Parcel', 'X00-0000-000')}${field('Applicant', 'Example Holdings LLC')}${field('Zoning', 'XX-0')}</div>
-      <div class="lock"><h3>Member detail</h3><p>Address, parcel, owner, applicant, zoning, acreage, the full meeting timeline and links to the source documents.</p><a class="btn primary" href="waitlist.html">Get early access</a></div>`;
+      <div class="lock"><h3>Member detail</h3><p>Address, parcel, owner, applicant, zoning, acreage, the full meeting timeline and links to the source documents.</p><a class="btn primary" href="waitlist.html">Sign up for the waitlist</a></div>`;
     return;
   }
   const tl = (r.timeline || []).slice().sort((a, b) => (b.date || '').localeCompare(a.date || ''));

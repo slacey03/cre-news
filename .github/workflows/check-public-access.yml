@@ -27,4 +27,7 @@ jobs:
             echo "$t: $r"
             [ "$r" = "0" ] || [ "$r" = '"refused"' ] || { echo "FAIL: $t is readable with the public key"; fail=1; }
           done
+          c=$(curl -s -X POST -H "apikey: $KEY" -H "Content-Type: application/json" -d '{"email":"nobody@example.com"}' "$URL/rpc/can_login")
+          echo "can_login(unknown email): $c"
+          [ "$c" = "false" ] || { echo "FAIL: login gate let an unknown email through"; fail=1; }
           exit $fail

@@ -142,6 +142,15 @@
     .section-title { font-size: 44px; }
     .contact { padding: 24px 20px; }
   }
+
+  /* Log in / Sign up in the nav */
+  .brand-nav { align-items: center; }
+  .brand-nav a.nav-login { border: 1px solid var(--rule); padding: 7px 12px 6px; border-radius: 3px; color: var(--ink-soft); }
+  .brand-nav a.nav-login:hover { border-color: var(--primary); color: var(--primary); }
+  .brand-nav a.nav-signup { background: var(--primary); color: #fff; padding: 7px 12px 6px; border-radius: 3px; border-bottom: none; }
+  .brand-nav a.nav-signup:hover { background: var(--primary-dark, #1f3f2a); color: #fff; }
+  .brand-nav a.nav-login.active, .brand-nav a.nav-signup.active { border-bottom: none; }
+  @media (max-width: 768px) { .brand-nav { flex-wrap: wrap; row-gap: 10px; } }
 </style>
 </head>
 <body>
@@ -164,8 +173,9 @@
     <nav class="brand-nav">
       <a href="/">Dashboard</a>
       <a href="newstracker.html">NewsTracker</a>
-      <a href="waitlist.html">Early Access</a>
       <a href="about.html" class="active">About</a>
+      <a href="login.html" class="nav-login" id="nav-login">Log in</a>
+      <a href="waitlist.html" class="nav-signup">Sign up</a>
     </nav>
   </div>
 
