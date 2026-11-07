@@ -2,6 +2,8 @@
 Reads data/<key>/documents.json + text files. Idempotent: safe to run after every collection."""
 import glob, json, os, sys
 import psycopg
+sys.path.insert(0, os.path.dirname(__file__))
+from db import connect
 from psycopg.types.json import Jsonb
 
 ROOT = os.path.join(os.path.dirname(__file__), "..")
@@ -17,30 +19,7 @@ def clean(x):
 
 
 def main():
-    url = os.environ.get("SUPABASE_DB_URL", "").strip()
-    if not url.startswith(("postgresql://", "postgres://")):
-        sys.exit(f"SUPABASE_DB_URL must start with postgresql:// (present={bool(url)})")
-    # parse by hand so any symbols in the password are fine (no percent-encoding needed)
-    rest = url.split("://", 1)[1]
-    cred, _, hostpart = rest.rpartition("@")
-    user, _, pw = cred.partition(":")
-    hostport, _, dbname = hostpart.partition("/")
-    host, _, port = hostport.partition(":")
-    dbname = (dbname.split("?")[0] or "postgres")
-    print(f"DB target: host={host} port={port or 5432} db={dbname} user_set={bool(user)} "
-          f"password_set={bool(pw)} brackets_around_password={pw.startswith('[') and pw.endswith(']')}")
-    tries = [pw] + ([pw[1:-1]] if pw.startswith("[") and pw.endswith("]") else [])
-    for i, p in enumerate(tries):
-        try:
-            conn = psycopg.connect(host=host, port=int(port or 5432), dbname=dbname, user=user, password=p,
-                                   sslmode="require", prepare_threshold=None, connect_timeout=30)
-            if i: print("Connected after removing the [ ] around the password - consider updating the secret.")
-            break
-        except psycopg.OperationalError as e:
-            msg = str(e).replace(p, "***") if p else str(e)
-            print(f"Connect attempt {i+1} failed: {msg[:300]}")
-            if i == len(tries) - 1:
-                sys.exit(1)
+    conn = connect()
     with conn:
         conn.execute(open(os.path.join(ROOT, "db", "schema.sql")).read())
         n = 0

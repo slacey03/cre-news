@@ -59,3 +59,4 @@ create index if not exists projects_muni on projects (municipality_key, meeting_
 alter table municipalities enable row level security;
 alter table documents      enable row level security;
 alter table projects       enable row level security;
+alter table projects add column if not exists category text;
