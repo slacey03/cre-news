@@ -1,0 +1,23 @@
+name: Detect municipal websites (registry)
+on:
+  workflow_dispatch:
+  push:
+    paths: ["registry/detect.py", "registry/lehigh_valley.json"]
+permissions:
+  contents: write
+jobs:
+  detect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests beautifulsoup4
+      - run: python registry/detect.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add registry/out
+          git commit -m "Registry detection results $(date -u +%F)" || exit 0
+          for i in 1 2 3; do git pull --rebase origin main && git push && break; sleep 5; done
