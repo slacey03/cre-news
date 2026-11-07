@@ -6,7 +6,7 @@ on:
       limit: { default: "1000" }
   push:
     branches: [main]
-    paths: ["tools/extract.py"]
+    paths: ["tools/extract.py", "tools/link_projects.py"]
   workflow_run:
     workflows: ["Load Supabase"]
     types: [completed]
@@ -27,3 +27,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL }}
           WAIT_MIN: "55"
+      - name: Link mentions into one record per project
+        run: python tools/link_projects.py
+        env:
+          SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL }}
