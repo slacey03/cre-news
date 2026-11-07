@@ -191,11 +191,11 @@
       <span class="wordmark">ZoningTrack</span>
     </a>
     <nav class="brand-nav">
-      <a href="dashboard.html">Dashboard</a>
-      <a href="newstracker.html">NewsTracker</a>
-      <a href="about.html">About</a>
-      <a href="login.html" class="nav-login" id="nav-login">Log in</a>
-      <a href="waitlist.html" class="nav-signup active">Sign up</a>
+      <a href="/dashboard">Dashboard</a>
+      <a href="/newstracker">NewsTracker</a>
+      <a href="/about">About</a>
+      <a href="/login" class="nav-login" id="nav-login">Log in</a>
+      <a href="/waitlist" class="nav-signup active">Sign up</a>
     </nav>
   </div>
 
@@ -364,7 +364,7 @@
 
   <div class="colophon">
     <span>© 2026 ZoningTrack · Pennsylvania</span>
-    <span><a href="dashboard.html">See the dashboard preview →</a></span>
+    <span><a href="/dashboard">See the dashboard preview →</a></span>
     <span>Powered by ZoningTrack</span>
   </div>
 </div>
@@ -387,7 +387,19 @@
     document.getElementById('step1').style.display = 'none';
     document.getElementById('step2').classList.add('active');
     document.getElementById('mce-FNAME').focus();
+    // make step 2 its own history step, so Back returns to the email step
+    if (!(history.state && history.state.step === 2)) history.pushState({ step: 2 }, '', '#details');
   }
+
+  function showStep1() {
+    document.getElementById('step2').classList.remove('active');
+    document.getElementById('step1').style.display = '';
+  }
+  window.addEventListener('popstate', function(e) {
+    if (!(e.state && e.state.step === 2)) showStep1();
+  });
+  // a reload or shared link on #details starts cleanly at step 1
+  if (location.hash === '#details') history.replaceState(null, '', location.pathname + location.search);
 
   heroEmail.addEventListener('keydown', function(e) {
     if (e.key === 'Enter') { e.preventDefault(); goToStep2(); }

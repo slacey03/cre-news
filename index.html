@@ -262,11 +262,11 @@
       <span class="wordmark">ZoningTrack</span>
     </a>
     <nav class="brand-nav">
-      <a href="dashboard.html">Dashboard</a>
-      <a href="newstracker.html">NewsTracker</a>
-      <a href="about.html">About</a>
-      <a href="login.html" class="nav-login" id="nav-login">Log in</a>
-      <a href="waitlist.html" class="nav-signup">Sign up</a>
+      <a href="/dashboard">Dashboard</a>
+      <a href="/newstracker">NewsTracker</a>
+      <a href="/about">About</a>
+      <a href="/login" class="nav-login" id="nav-login">Log in</a>
+      <a href="/waitlist" class="nav-signup">Sign up</a>
     </nav>
   </div>
 
@@ -276,8 +276,8 @@
       <h1>See what's being built <span class="green">before it breaks ground.</span></h1>
       <p class="lead">ZoningTrack reads planning commission, zoning hearing board and council agendas from local governments every day, and follows each project from first sketch to final vote.</p>
       <div class="ctas">
-        <a class="cta primary" href="waitlist.html">Sign up for the waitlist</a>
-        <a class="cta" href="dashboard.html">See the live dashboard →</a>
+        <a class="cta primary" href="/waitlist">Sign up for the waitlist</a>
+        <a class="cta" href="/dashboard">See the live dashboard →</a>
       </div>
       <div class="live-now"><span class="dot"></span>Live now in the Lehigh Valley · expanding across Pennsylvania</div>
     </div>
@@ -314,7 +314,7 @@
     <div class="block-kicker">Moving through the boards right now</div>
     <h2>Recent projects from the <span class="green">live feed.</span></h2>
     <div class="teaser" id="teaser"><div class="tz"><div class="tz-name">Loading…</div></div></div>
-    <a class="more-link" href="dashboard.html">Open the dashboard →</a>
+    <a class="more-link" href="/dashboard">Open the dashboard →</a>
   </section>
 
   <section class="block">
@@ -341,7 +341,7 @@
         <li><span>Lehigh Valley: municipal planning, zoning & council records</span><span class="st on">Live · daily</span></li>
         <li><span>Lehigh Valley Planning Commission regional reviews</span><span class="st on">Live · daily</span></li>
         <li><span>Project timelines, stages & outcomes</span><span class="st on">Live</span></li>
-        <li><span>Local real estate news (<a href="newstracker.html" style="color:var(--primary)">NewsTracker</a>)</span><span class="st on">Live · hourly</span></li>
+        <li><span>Local real estate news (<a href="/newstracker" style="color:var(--primary)">NewsTracker</a>)</span><span class="st on">Live · hourly</span></li>
         <li><span>Weekly email digest & custom alerts</span><span class="st next">Coming at launch</span></li>
         <li><span>More Pennsylvania counties, then statewide</span><span class="st next">Next</span></li>
         <li><span>Additional states</span><span class="st next">Planned</span></li>
@@ -354,12 +354,12 @@
       <h2>Be first in line when ZoningTrack opens.</h2>
       <p>Join the waitlist for early access.</p>
     </div>
-    <a class="cta" href="waitlist.html">Sign up for the waitlist</a>
+    <a class="cta" href="/waitlist">Sign up for the waitlist</a>
   </section>
 
   <div class="colophon">
     <span>© 2026 ZoningTrack · Pennsylvania</span>
-    <span><a href="about.html">About ZoningTrack →</a></span>
+    <span><a href="/about">About ZoningTrack →</a></span>
     <span>Built from public municipal records</span>
   </div>
 </div>
@@ -367,8 +367,12 @@
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
 <script>
 // A sign-in link from an older email may land here: pass it on to the dashboard.
-if (/access_token|type=magiclink|code=/.test(location.hash + location.search)) location.replace('/dashboard.html' + location.search + location.hash);
+if (/access_token|type=magiclink|code=/.test(location.hash + location.search)) location.replace('/dashboard' + location.search + location.hash);
 const sb = supabase.createClient('https://jrlircehkzivwkcauzdt.supabase.co', 'sb_publishable_BwmJpTu23Omlk5F8ZfXW7A__UnnnEyX');
+sb.auth.getSession().then(({ data }) => {
+  const nl = document.getElementById('nav-login');
+  if (data.session && nl) { nl.textContent = 'Log out'; nl.onclick = e => { e.preventDefault(); sb.auth.signOut().then(() => location.reload()); }; }
+});
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const num = n => n == null ? '–' : Number(n).toLocaleString('en-US');
 const fmt = d => d ? new Date(d + 'T12:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric' }) : '';
@@ -383,7 +387,7 @@ sb.from('pipeline_teaser').select('*').then(({ data }) => {
   const el = document.getElementById('teaser');
   if (!data || !data.length) { el.innerHTML = '<div class="tz"><div class="tz-name">See the dashboard for the latest projects.</div></div>'; return; }
   el.innerHTML = data.slice(0, 6).map(r => `
-    <a class="tz" href="dashboard.html">
+    <a class="tz" href="/dashboard">
       <div class="tz-meta"><span class="town">${esc(r.municipality)}</span><span>${esc(fmt(r.last_seen))}</span></div>
       <div class="tz-name">${esc(r.name)}</div>
       <span class="tag cat">${esc(r.category)}</span>${r.stage && r.stage !== 'other' ? `<span class="tag stage">${esc(r.stage)}</span>` : ''}

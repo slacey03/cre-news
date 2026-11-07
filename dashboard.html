@@ -229,11 +229,11 @@
       <span class="wordmark">ZoningTrack</span>
     </a>
     <nav class="brand-nav">
-      <a href="dashboard.html" class="active">Dashboard</a>
-      <a href="newstracker.html">NewsTracker</a>
-      <a href="about.html">About</a>
-      <a href="login.html" class="nav-login" id="nav-login">Log in</a>
-      <a href="waitlist.html" class="nav-signup">Sign up</a>
+      <a href="/dashboard" class="active">Dashboard</a>
+      <a href="/newstracker">NewsTracker</a>
+      <a href="/about">About</a>
+      <a href="/login" class="nav-login" id="nav-login">Log in</a>
+      <a href="/waitlist" class="nav-signup">Sign up</a>
     </nav>
   </div>
 
@@ -278,7 +278,7 @@
 
   <div class="colophon">
     <span>Updated daily from public municipal records</span>
-    <span><a href="waitlist.html">Sign up for the waitlist →</a></span>
+    <span><a href="/waitlist">Sign up for the waitlist →</a></span>
     <span>Powered by ZoningTrack · Dashboard v0.2</span>
   </div>
 </div>
@@ -323,9 +323,9 @@ function renderAuth(session) {
   if (nl) { nl.textContent = session ? 'Log out' : 'Log in'; nl.onclick = session ? (e => { e.preventDefault(); sb.auth.signOut(); }) : null; }
   if (!session) {
     bar.innerHTML = `<span><strong>Preview:</strong> the latest notable projects. Members see every project with address, parcel, applicant, timeline and source documents.</span>
-      <span style="display:flex;gap:8px;flex-wrap:wrap"><a class="btn primary" href="waitlist.html">Sign up for the waitlist</a><a class="btn" href="login.html">Log in</a></span>`;
+      <span style="display:flex;gap:8px;flex-wrap:wrap"><a class="btn primary" href="/waitlist">Sign up for the waitlist</a><a class="btn" href="/login">Log in</a></span>`;
   } else if (!member) {
-    bar.innerHTML = `<span>Signed in as <strong>${esc(session.user.email)}</strong>. Your access isn't active yet. <a href="waitlist.html">Join the waitlist</a>.</span>
+    bar.innerHTML = `<span>Signed in as <strong>${esc(session.user.email)}</strong>. Your access isn't active yet. <a href="/waitlist">Join the waitlist</a>.</span>
       <button class="btn" onclick="sb.auth.signOut()">Sign out</button>`;
   } else {
     bar.innerHTML = `<span>Signed in as <strong>${esc(session.user.email)}</strong> · full access</span>
@@ -351,7 +351,8 @@ async function loadData(session) {
     sel.innerHTML = '<option value="all">All Municipalities</option>' + munis.map(m => `<option>${esc(m)}</option>`).join('');
   }
   renderAuth(session);
-  activeId = ROWS[0]?.id ?? null;
+  const wanted = new URLSearchParams(location.search).get('p');
+  activeId = (wanted && ROWS.some(r => r.id === wanted)) ? wanted : (ROWS[0]?.id ?? null);
   renderFeed(); renderDetail();
 }
 
@@ -381,7 +382,7 @@ function renderFeed() {
       <div class="tags"><span class="tag cat">${esc(r.category)}</span><span class="tag stage">${esc(r.stage)}</span>${r.mentions > 1 ? `<span class="tag">${r.mentions} meetings</span>` : ''}</div>
     </div>`).join('')
     + (list.length > 400 ? `<div class="more">Showing 400 of ${list.length}. Narrow with search or filters.</div>` : '')
-    + (!member ? `<div class="lock"><h3>Hundreds more projects</h3><p>Join the waitlist to be first in line when full access opens.</p><a class="btn primary" href="waitlist.html">Sign up for the waitlist</a></div>` : '');
+    + (!member ? `<div class="lock"><h3>Hundreds more projects</h3><p>Join the waitlist to be first in line when full access opens.</p><a class="btn primary" href="/waitlist">Sign up for the waitlist</a></div>` : '');
 }
 
 function field(label, val) {
@@ -400,7 +401,7 @@ function renderDetail() {
   if (!member) {
     el.innerHTML = head + `
       <div class="fields blur">${field('Address', '1234 Example Road')}${field('Parcel', 'X00-0000-000')}${field('Applicant', 'Example Holdings LLC')}${field('Zoning', 'XX-0')}</div>
-      <div class="lock"><h3>Member detail</h3><p>Address, parcel, owner, applicant, zoning, acreage, the full meeting timeline and links to the source documents.</p><a class="btn primary" href="waitlist.html">Sign up for the waitlist</a></div>`;
+      <div class="lock"><h3>Member detail</h3><p>Address, parcel, owner, applicant, zoning, acreage, the full meeting timeline and links to the source documents.</p><a class="btn primary" href="/waitlist">Sign up for the waitlist</a></div>`;
     return;
   }
   const tl = (r.timeline || []).slice().sort((a, b) => (b.date || '').localeCompare(a.date || ''));
@@ -425,17 +426,36 @@ function renderDetail() {
     </div></div>`;
 }
 
+// Back-button friendly: the open project is kept in the address (?p=...). On phones the project detail is its
+// own history step, so Back returns to the list, and Back again to the previous page.
+const isPhone = () => window.matchMedia('(max-width: 768px)').matches;
+let listScroll = 0;
+function urlFor(id) { const u = new URL(location.href); u.hash = ''; if (id) u.searchParams.set('p', id); else u.searchParams.delete('p'); return u.pathname + u.search; }
+function showDetail(on) {
+  document.body.classList.toggle('show-detail', on);
+  if (on) window.scrollTo({ top: document.querySelector('.workspace').offsetTop - 12 });
+  else window.scrollTo({ top: listScroll });
+}
 function selectItem(id) {
   activeId = id; renderFeed(); renderDetail();
-  if (window.innerWidth <= 768) {
-    document.body.classList.add('show-detail');
-    window.scrollTo({ top: document.querySelector('.workspace').offsetTop - 12 });
+  if (isPhone()) {
+    listScroll = window.scrollY;
+    history.pushState({ p: id, detail: true }, '', urlFor(id));
+    showDetail(true);
+  } else {
+    history.replaceState({ p: id }, '', urlFor(id));
   }
 }
 function closeDetail() {
-  document.body.classList.remove('show-detail');
-  window.scrollTo({ top: document.querySelector('.workspace').offsetTop - 12 });
+  if (history.state && history.state.detail) history.back();   // popstate below updates the screen
+  else { showDetail(false); history.replaceState({ p: activeId }, '', urlFor(activeId)); }
 }
+window.addEventListener('popstate', e => {
+  const st = e.state || {};
+  const p = st.p || new URLSearchParams(location.search).get('p');
+  if (p && p !== activeId && ROWS.some(r => r.id === p)) { activeId = p; renderFeed(); renderDetail(); }
+  showDetail(!!st.detail && isPhone());
+});
 
 document.getElementById('filter-group').addEventListener('click', e => {
   const b = e.target.closest('.filter-btn'); if (!b) return;
