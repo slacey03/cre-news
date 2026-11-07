@@ -1,0 +1,941 @@
+
+
+[page 1]
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+COMPREHENSIVE PLANNING COMMITTEE MEETING 
+Tuesday, June 23, 2026, 12:00 noon  
+AGENDA 
+ 
+THE MEETING CAN BE ACCESSED AT http://www.tinyurl.com/LVPC2026 OR VIA PHONE 
+610-477-5793 Conf ID: 947 550 319# 
+ 
+Roll Call  
+ 
+Courtesy of the Floor  
+1. Welcome Stephanie Kinslow, Human Resources Manager 
+ 
+Committee Business  
+1. INFORMATION ITEM: Data Center Land Use Impacts 
+2. ACTION ITEM: South Whitehall Township – Land Use of Regional Significance – 
+Revised Project Atlas Data Center (JS, SM, CR, EG) 
+3. ACTION ITEM: Salisbury Township – 2026 Draft Comprehensive Plan (JW, CR, EG?) 
+4. ACTION ITEM: Lower Nazareth Township – Curative Amendment – Nazareth Area 
+School District (JS) 
+5. ACTION ITEM: Nazareth Borough – Zoning Map Amendment – General Commercial 
+(JW) 
+6. ACTION ITEM: Forks Township – Zoning Ordinance and Map Amendment – Growth 
+Management Overlay (JS, SM) 
+7. ACTION ITEM: Forks Township – Zoning Ordinance Amendment – Data Center 
+Decommissioning (JW) 
+8. ACTION ITEM: City of Bethlehem – Zoning Ordinance Amendment – Hotels Definition 
+(JW) 
+9. INFORMATION ITEM: Lower Nazareth Township – Land Use Assumptions Report (JS, 
+EG) 
+10. DISCUSSION ITEM: FutureLV: The Regional Plan Update Community Discussion (JW, 
+JS) 
+a. Transportation Needs Assessment 
+b. Strategy Labs 
+c. Process/Next Steps 
+11. INFORMATION ITEM: Housing Supply and Attainability Strategy (JS) 
+a. Unlocking Housing Solutions Event 
+i. August 26, 2026 8:00 AM 
+ii. DeSales University, 2755 Station Ave, Center Valley PA 18034 
+ 
+Next Comprehensive Planning Committee Meeting: 
+July 21, 2026, at 12:00 noon 
+1
+
+[page 2]
+ 
+  
+ 
+ 
+ 
+June 12, 2026 
+ 
+David Manhardt, AICP, Director of Community Development   
+South Whitehall Township 
+4444 Walbert Avenue 
+Allentown, Pennsylvania 18104 
+ 
+Re: Project Atlas Data Center Revised Plans – Land Use of Regional Significance 
+South Whitehall Township 
+Lehigh County  
+ 
+Dear Mr. Manhardt: 
+ 
+The Lehigh Valley Planning Commission (LVPC) will consider the subject application at 
+its Comprehensive Planning Committee and Full Commission meetings, pursuant to the 
+requirements of the Pennsylvania Municipalities Planning Code (MPC). Discussion on 
+agenda items largely happens during the Committee meeting. Meeting participation 
+details are below, and we encourage your participation:  
+ 
+LVPC Comprehensive Planning 
+Committee Meeting: 
+ 
+June 23, 2026, at 12:00 PM (Virtual) 
+https://lvpc.org/lvpc-meetings 
+ 
+LVPC Full Commission 
+Meeting: 
+ 
+June 25, 2026, at 7:00 PM (In-Person) 
+https://lvpc.org/lvpc-meetings 
+ 
+ 
+Background 
+The project proposes to develop a 410-acre site by constructing three data center 
+buildings totaling 1,476,855 square feet (492,285 square feet each) as well as a 40,680-
+square-foot admin building, a 39,167-square-foot warehouse, and an electric substation. 
+A new road is also proposed connecting Cedar Crest Boulevard to Mauch Chunk Road, 
+and the project includes a 10-foot wide shared use path available for public use through 
+the site. The project site is located at 2493 North Cedar Crest Boulevard, south of 
+Orefield Road between Mauch Chunk Road and North Cedar Crest Boulevard (parcel 
+number 548824698560).  
+ 
+ 
+2
+
+[page 3]
+    
+   
+ 
+ 
+ 
+FutureLV recognizes that advances in technology and the increasing demand for real-
+time information and data transmission have made digital infrastructure and connectivity 
+essential to the region’s economic competitiveness (FutureLV Future Forces Section, 
+page 42). Data centers play a critical role in supporting this modern digital infrastructure, 
+however large-scale or hyperscale data center facilities can place significant demands 
+on utility systems, particularly electric and water infrastructure, and have the potential to 
+pose impacts on community wellness, which necessitates careful evaluation and 
+coordination to mitigate land use conflicts (of Policy 1.4). 
+ 
+To support this evaluation, LVPC convened a coordination meeting with external review 
+agencies to discuss utility capacity, infrastructure considerations, and other regional 
+impacts associated with the proposal. Continued coordination among the Township, 
+service providers, and reviewing agencies will be essential to ensuring the project 
+supports public health, safety, and welfare while advancing regional goals for 
+innovation-oriented industrial development. 
+ 
+In January of 2026 the LVPC reviewed another version of the project, and the scale of 
+development has since been reduced in the current version. The applicant has 
+addressed numerous LVPC comments, improving the project’s alignment with 
+FutureLV: The Regional Plan, though several outstanding items remain that must be 
+addressed. The proposed development has the potential to align with FutureLV if it is 
+designed to minimize impacts to sensitive receptors in the vicinity; if the site 
+configuration avoids disturbing existing natural resources on the site; and if utility 
+infrastructure is demonstrated to be adequate to meet the facility’s needs without 
+adversely affecting service to existing users. 
+ 
+Approximate 
+site location 
+3
+
+[page 4]
+    
+   
+Site Suitability and Land Use 
+The project site is currently in agricultural use. Nearby existing land uses include 
+Parkland High School to the west, heavy industrial uses to the south including chemical 
+manufacturing, low-density residential to the north and agricultural uses surrounding the 
+area. 
+ 
+The project site is identified for Farmland Preservation in the General Land Use Plan of 
+FutureLV: The Regional Plan. From a regional perspective, land preservation is 
+preferred to protect the region’s existing agricultural lands. Development in the 
+proposed location in an outward creeping development pattern, combined with 
+infrastructure improvements, may increase development pressure on other nearby open 
+space areas, which does not ‘support effective farmland preservation techniques’ (of 
+Policy 3.3).  
+ 
+  
+FutureLV General Land Use Plan 
+ 
+From a local perspective, the designated Industrial Zoning District and Planned 
+Innovation, Research and Technology Overlay District were created in this location to 
+support the Township in meeting the State requirement of providing for all land uses. 
+The underlying zoning district for the project site already permitted industrial land uses, 
+and existing infrastructure is generally available in the vicinity.  
+ 
+Data centers can pose health and quality of life impacts to neighboring residents and 
+land uses if not appropriately mitigated, as a result of noise, visual, lighting, and air 
+quality: 
+ 
+• Noise: At the time of the previous review, LVPC recommended that pre-and-
+post-construction professional noise studies be conducted to verify both 
+perceived and low frequency noise levels at property lines. The applicant has 
+since provided a noise study to the Township that is being assessed by a 
+consultant. With the revised plans, that LVPC notes that the reconfigured site 
+layout has increased the setback distance between the data center buildings and 
+adjacent property lines to the north (from approximately 444 feet previously to 
+4
+
+[page 5]
+    
+   
+1,000 feet currently proposed).16-foot noise walls around the outdoor equipment 
+yards are proposed, and a wall of vegetation separates the proposed 
+development from the road and adjacent properties. These features would help 
+reduce audible noise impacts and protect the physical and mental health of the 
+community (of Policy 5.3), but their adequacy should be determined by the 
+Township. The LVPC also recommends the applicant provide additional 
+documentation demonstrating how any low-frequency inaudible sounds caused 
+by vibration (infrasound) will be mitigated to maximize protections to the public 
+health, safety and welfare. 
+ 
+• Lighting: The project utilizes full cutoff and fully shielded light fixtures in 
+compliance with the Township Zoning Ordinance, but the lighting design on the 
+site should be evaluated to ensure no glare or lighting spillover affects adjacent 
+properties, to minimize environmental impacts of development (of Policy 3.2).  
+ 
+• Air Quality: Heat exhaust from data centers can create localized temperature 
+increases that exacerbate heat stress, especially in warmer months. The LVPC’s 
+previous review recommended the applicant assess potential heat-exhaust 
+impacts from mechanical systems that can have detrimental impacts on nearby 
+agricultural areas and the adjacent school. The applicant has noted that 
+Computational Flud Dynamics (CFD) models will be conducted to determine heat 
+output from Mechanical, Electrical and Plumbing (MEP) equipment, and these 
+should be provided to the Township to minimize impacts to sensitive receptors 
+and improve air quality (of Policy 3.2). The applicant should pursue HVAC 
+system designs that convert or mitigate heat from exhaust to ‘support agriculture 
+and open space as essential components of the regional economy and identity’ 
+(of Policy 4.4) and ‘minimize environmental impacts of development’ (of Policy 
+3.2), and the LVPC recommends the Township ensure any commitments by the 
+developer are memorialized through the review process to support long-term 
+enforcement (of Policy 3.4). 
+ 
+• Visual: At the time of the previous review, LVPC recommended that the 
+buildings and generator equipment yards be aesthetically designed to minimize 
+the visual impacts of the development, and that additional vegetation be included 
+to further reduce visual impacts. The proposed landscaping may help shield the 
+view of the development from the proposed road and adjacent properties, and 
+the applicant has provided architectural elevations for the Township to evaluate 
+to ‘promote context-specific design solutions’ (of Policy 5.4).  
+ 
+Emergency Services 
+The LVPC’s previous review encouraged continued coordination between the applicant, 
+Township, local emergency service providers, and the Lehigh County Office of 
+Emergency Management to consult on the adequacy of access points, turning radii, 
+hydrant placement and fire-suppression systems. The applicant has confirmed that 
+coordination with local emergency responder agencies will take place, which is essential 
+to safeguard responders, protect critical infrastructure, and ensure that the facility can 
+5
+
+[page 6]
+    
+   
+be safely and effectively served during both routine incidents and large-scale 
+emergencies. The LVPC encourages the Township to continue to facilitate coordination 
+with both local and County/Regional service providers to ‘enhance planning and 
+emergency response efforts among emergency management personnel’ (of Policy 5.1). 
+ 
+Environment and Utility Infrastructure 
+The LVPC’s previous review noted the presence of karst conditions on the site 
+according to mapping provided by the Pennsylvania Department of Conservation and 
+Natural Resources (Bureau of Topographic and Geologic Survey), and strongly 
+recommended comprehensive geotechnical and hydrogeologic investigation of the site 
+to inform building placement, foundation design, stormwater management, and utility 
+infrastructure. The applicant has provided a geotechnical report, and noted that 
+stormwater management for the site has been designed with karst systems in mind, and 
+that the buildings will be designed to mitigate any potential risks or impacts from karst 
+systems. The Township’s evaluation of the report will determine if these measures are 
+adequate, and these factors are critical to minimize impacts of development to support 
+public health, safety, and welfare (of Policy 3.2).  
+  
+  
+LVPC GIS Mapping of Karst Geology 
+ 
+The LVPC’s previous review noted that electrical infrastructure upgrades are being 
+funded by the Applicant, and recommended that the applicant provide detail on how the 
+facility will align with industry energy-efficiency standards, including anticipated Power 
+Usage Effectiveness (PUE). The applicant provided a summarized PUE value of 1.4 for 
+the project site, where a value of 1.0 represents the theoretical ideal of zero wasted 
+energy. According to the National Laboratory of the Rockies, the U.S. Department of 
+Energy’s primary national laboratory for energy systems, studies show that the PUE 
+average for data centers tends to be 1.8, but industry leaders have been able to achieve 
+Approximate 
+site location 
+6
+
+[page 7]
+    
+   
+PUE values of 1.2 or less. The LVPC encourages the applicant to continue pursuing a 
+lower PUE value to ‘promote energy conservation and efficiency’ (of Policy 3.4). The 
+Applicant has also indicated that renewable and carbon free energy sources are being 
+considered, which support long-term sustainability and alignment with regional clean 
+energy goals (of Policy 3.4). The LVPC encourages that commitments to renewable 
+energy sources also be memorialized through the review and approval process. 
+ 
+The previously submitted Environmental Impact Assessment identified that Tier 2-
+emission standards backup generators would be used, but following LVPC’s 
+recommendation, Tier 4 backup generators are now proposed, and the applicant has 
+noted that all PA DEP permits to install generators onsite will be obtained, which serves 
+to minimize air quality impacts (of Policy 3.2). While Tier 4 generators are proposed, 
+which meet the strictest EPA emissions standards, the cumulative impacts from the 
+immense quantity of generators utilized by the project should be scrutinized. The 
+Township should require detailed specifications on fuel storage safety measures such 
+as spill-prevention and secondary containment to ensure public health and 
+environmental safety, and it is imperative that the applicant provide a generator-testing 
+plan that specifies how frequently generator testing will occur, the duration the 
+generators will run for, and the days and time of day tests would take place to help the 
+Township plan for operating hours of the facility and adequately evaluate air quality and 
+noise impacts. This information should also be shared with surrounding property owners 
+and tenants (of Policies 5.2, 5.3, and 5.4). 
+ 
+The previous LVPC review noted that septic field beds are included in the northern 
+portion of the project site, and sanitary sewer lines direct wastewater from each building 
+to discharge in the septic field area. The applicant has provided information related to 
+the project’s discharge gallons per day and has indicated the location and sizes of 
+primary and secondary drainage fields as requested in our previous review letter.  The 
+LVPC previously noted a concern regarding the extensive presence of karst geology on 
+the site, and that the wastewater disposal systems need to be properly sited and 
+designed to minimize impacts to groundwater resources, in order to protect the quality 
+and quantity of surface water and groundwater (of Policy 3.2). The applicant has noted 
+that the system will be designed to take karst geology into account. 
+ 
+While a closed-loop cooling is proposed that minimizes water usage and wastewater 
+discharge, land use needs change over time, and it is possible for approved water 
+withdrawal dockets issued by the Delaware River Basin Commission (DRBC) to be sold 
+and transferred to other property owners. If the proposed facility were to shift to a 
+different cooling system in the future with substantially greater water demands, this 
+would likely also involve coordination with Lehigh County Authority to address 
+wastewater disposal needs. The LVPC strongly recommends the Township ensure the 
+cooling system design and any aspects of the project that affect utility impacts are 
+memorialized through the review process to coordinate infrastructure investments and 
+address the long-term impacts of subdivision, development zoning and planning (of 
+Policy 4.6). 
+ 
+7
+
+[page 8]
+    
+   
+Landscaping is proposed throughout the project site along property boundaries and 
+Proposed Road ‘A’ and within parking areas. The proposed landscape schedule 
+consists primarily of Pennsylvania-native tree and shrub species which directly support 
+use of native, climate-adaptive and carbon-sequestering landscaping (of Policy 3.4).  
+ 
+The project site is located within the Coplay Creek and Jordan Creek Watersheds. 
+These watersheds have fully implemented Act 167 Stormwater Management 
+Ordinance. Comments relative to our review of the project’s stormwater management 
+plan are also uploaded to PlanLV Portal.  
+ 
+Transportation 
+A traffic impact study was submitted for the proposed project. The project is anticipated 
+to generate an average of 1,154 weekday trips, calculated using the Institute of 
+Transportation Engineers (ITE) Trip Generation Manual, 12th edition and Land Use 
+Code 160 (Data Center). These average weekday trips include 142 new trips during 
+morning peak and 126 new trips during evening peak times. 
+ 
+Access to the site is planned to be provided via three driveways, a full-access, secured 
+driveway to the new roadway, providing access to the data center campus, a proposed 
+full-access driveway to the new site roadway, providing access to the proposed 
+substation, and a proposed full-access, emergency-only access driveway to Mauch 
+Chunk Road.  
+ 
+A new township roadway is proposed to be constructed in concurrence with the 
+proposed data center connecting Cedar Crest Boulevard at Suncrest Drive to Mauch 
+Chunk Road at Mechanicsville Road (Roadway A). Signalization of the new Roadway A 
+at the intersections with the existing roadways may be necessary for the trips generated 
+by the development and to manage conflict between traffic to and from the development 
+with traffic from the adjacent land uses including Parkland High School. Coordination 
+with Pennsylvania’s Department of Transportation regarding the configuration of the 
+intersection with Mauch Chunk Road and Mechanicsville Road is needed to ‘optimize 
+traffic flow’ (of Policy 2.5).    
+ 
+The amount of parking provided in the proposed plan has been re-evaluated and right 
+sized to minimize impervious surfaces (of Policy 2.2), supporting comments LVPC 
+provided in the previous review.  
+A bridge in the vicinity of the project site along Cedar Crest Boulevard crossing over the 
+Jordan Creek is in ‘Fair’ condition according to the Pennsylvania Department of 
+Transportation Bridge Conditions Map. The bridge over Route 22 at the interchange of 
+Cedar Crest Boulevard is also in ‘Fair’ condition. These bridges should be closely 
+monitored to ‘provide a safe, well-maintained transportation network’ (of Policy 2.2) by 
+making sure they do not fall into ‘Poor’ condition with the addition of the new trips 
+generated by the development. 
+ 
+8
+
+[page 9]
+    
+   
+Sidewalks are proposed along all road frontages of the project site, which supports 
+pedestrian safety and reducing fatalities towards zero (of Policies 5.1 and 5.3). 
+Following LVPC’s comments in the previous review, electric vehicle charging spaces 
+are now proposed (of Policy 2.5). 
+ 
+The Lehigh and Northampton Transportation Authority (LANTA) does not serve the 
+project site currently has no plans to extend service to the area in the future, however 
+the pedestrian infrastructure proposed throughout the site is essential if service is 
+extended to the site in the future (of Policy 2.3).  
+ 
+The Parks, Recreation and Open Space plan of FutureLV and the Lehigh Valley Trail 
+Connection Strategy identifies a Proposed/Conceptual Commuter Trail through the 
+project site, which runs along Jordan Creek to the West, connects to Parkland High 
+School and the project property, and then rejoins Jordan Creek to the East along the 
+Whitehall Township border. LVPC’s previous review recommended including sidewalk 
+along the northeastern property boundary along Mauch Chunk Road to further facilitate 
+closing gaps in the region’s trail network (of Policy 2.1), and these sidewalks have been 
+added to the proposed plans. 
+ 
+ 
+LVPC GIS Mapping – Proposed/Conceptual Commuter Trails 
+ 
+North Cedar Crest Boulevard between Ritter Road and Walbert Avenue is identified as 
+a Congested Corridor, where existing traffic conditions already present operational 
+challenges. According to the Environmental Impact Analysis, during construction there 
+will be 400-500 construction employees and that construction will last 4 years. This 
+construction phase would generate commercial vehicle traffic at a level that would 
+further affect corridor performance. The LVPC strongly recommends requiring 
+construction traffic information such as anticipated truck volumes, designated routing, 
+and hours of operation to adequately plan for and minimize traffic demand within the 
+Transportation Impact Study. 
+ 
+Approximate 
+site location 
+9
+
+[page 10]
+    
+   
+  
+LVPC GIS Mapping – Congested Corridors 
+ 
+ 
+The LVPC has copied representatives from adjacent municipalities and review agencies 
+to ‘coordinate land use decisions across municipal boundaries’ (of Policy 1.4). 
+ 
+Municipalities, when considering land developments, should reasonably attempt to be 
+consistent with FutureLV: The Regional Plan, as required by the Pennsylvania 
+Municipalities Planning Code (MPC) [Article 1§105, Article III§303, §304 & §306(a), 
+Article VI§603(j)]. The LVPC review does not include an in-depth examination of plans 
+relative to subdivision design standards or ordinance requirements since these items 
+are covered in the municipal review. 
+ 
+Please let me know if there are any questions about this review. 
+ 
+Sincerely, 
+Approximate 
+site location 
+10
+
+[page 11]
+    
+   
+  
+Jill Seitz  
+Chief Community and Regional Planner  
+ 
+  
+Susan Myerov   
+Director of Environmental Planning  
+   
+Corinne Ruggiero  
+Environmental Planner  
+  
+Evan Gardi  
+Transportation Planner  
+ 
+cc: Anthony Tallarida, Township Engineer; CDE Acquisitions LLC, Applicant; Andrew Lohr, 
+Kimley-Horn, Project Engineer; Nate Jones, Lower Macungie Township Planning Director; Kevin 
+Murphy, North Whitehall Township Planner; Lee Rackus, Whitehall Township Planning Bureau 
+Chief; Jennifer Gomez, City of Allentown Planning Director; Meredith Keller, Upper Macungie 
+Township Planning Director; Liesel Gross, Lehigh County Authority Chief Executive Officer; 
+Garrett Cook, Lehigh County Conservation District Engineer; Fadia Halma, PA DCED Lehigh 
+Valley Regional Director; Alicia Karner, PA DCED BusinessPA Lehigh Valley Regional Office 
+Director; Dean Ritter, PA DEP Assistant Regional Director; Jane George, PPL Regional Affairs 
+Director; Joseph Lookup, PPL Vice President of Transmission & Distribution Planning & Asset 
+Management Brian Boyer, PennDot District 5; Chad Pindar, Delaware River Basin Commission 
+Water Resource Planning Section Manager; Molly Wood, LANTA Planner/Land Use Specialist; 
+Geoff Reese, LVPC Master Planner and Engineer; Denjam Khadka, LVPC Senior 
+Civil/Environmental Engineer; Peter Lantz, Environmental Engineer. 
+ 
+ 
+ 
+11
+
+[page 12]
+ 
+   
+ 
+ 
+ 
+ 
+ 
+June XX, 2026 
+ 
+Ms. Kerry Rabold, Director of Community Development 
+Salisbury Township 
+2900 South Pike Avenue 
+Allentown, PA 18103 
+  
+Re: Salisbury Township 2026 Comprehensive Plan  
+Salisbury Township 
+Lehigh County   
+  
+Dear Ms. Rabold, 
+ 
+The Lehigh Valley Planning Commission (LVPC) will consider the subject application at 
+its Comprehensive Planning Committee and Full Commission meetings, pursuant to the 
+requirements of the Pennsylvania Municipalities Planning Code (MPC). Discussion on 
+agenda items largely happens during the Committee meeting. Both meetings are virtual, 
+and we encourage your participation. The LVPC will issue a follow-up letter after the 
+Commission meeting if Commission members have any additional comments. Meeting 
+participation details are below:   
+   
+LVPC Comprehensive Planning 
+Committee Meeting:  
+  
+June 23, 2026, at 12:00 PM (Virtual)  
+https://lvpc.org/lvpc-meetings  
+  
+LVPC Full Commission  
+Meeting:  
+  
+June 25, 2026, at 7:00 PM (In-Person)  
+https://lvpc.org/lvpc-meetings  
+  
+ 
+The proposed 2026 Salisbury Township Comprehensive Plan is an update to the 2012 
+Comprehensive Plan and serves to promote several goals and policies outlined in 
+FutureLV: The Regional Plan. The 2012 Plan was written under the Lehigh Valley 2030 
+Comprehensive Plan prior to the creation of FutureLV and the 2026 update into account 
+FutureLV: The Regional Plan, Lehigh Valley Transportation Study: Coordinated Public 
+Transit Human Services Transportation Plan (2024), and their William H. Laubach 
+Memorial Park and Frank Farm Recreation Plan, which serves as a master site 
+development plan around Laubach Memorial Park. The LVPC recommends the 
+township also consider the Lehigh County Parks, Recreation and Open Space Plan 
+Livable Landscapes, and WalkRollLV, the regions active transportation plan. 
+ 
+The municipality is facing several key challenges: limited development space without 
+encroaching on open space areas, said development’s impact on the school systems, 
+improving parks, road conditions, and blighted properties, all while not increasing taxes 
+12
+
+[page 13]
+  
+   
+ 
+and pricing residents out. Community members wanted to see more parks and open 
+space development as well as shops and retail and single-family homes. Additionally, 
+the plan meets all legally required criteria outlined in the Pennsylvania Municipalities 
+Planning Code for Comprehensive Plans. The plan describes current conditions and 
+provides a vision for the area’s future with detail, data, and community input guiding the 
+plan content.  
+ 
+Housing 
+The proposed plan provides an extensive and in-depth analysis of the current housing 
+conditions in the Township, highlighting several key factors that impact the current path 
+of development. For example, the plan notes that compared to the other communities of 
+similar size and proximity, it has the highest owner-occupied housing with high median 
+home values and a majority single family homes that are aging. The plans 
+implementation strategies align with FutureLV to alleviate the impacts of the community 
+and tackle the need for increased development and redevelopment of blighted 
+properties. The first goal to use higher density growth and redevelopment along the 
+corridors and underutilized sites align with FutureLV: The Regional Plan to ‘encourage 
+reuse and redevelopment within urban areas’ and ‘encourage reuse of vacant and 
+underutilized properties’ (of Policies 1.1 & 5.4). The plan also outlines several proactive 
+strategies to promote redevelopment through municipal strategies which would ‘provide 
+a wide variety of attainable housing in locations that maximize social and economic 
+opportunities for everyone’ (of Policy 4.5). The plan also provides for a strategy for 
+additional senior housing, which reflects the aging population demographics captured in 
+the community survey for the project, as well as the changing demographics section of 
+Future Forces in FutureLV, which predicts that 21.6% of the population of the region will 
+be over the age of 65 by 2050.  
+ 
+Natural and Historic Resources 
+The plan identifies several different parks and recreation open space opportunities and 
+makes it a primary focus area of the comprehensive plan, align with FutureLV to ‘create 
+community spaces that promote physical and mental health’ (of Policy 5.3). The plan 
+also identifies several elements of the FutureLV Natural Resource Plan such as 
+Wetlands, Floodplains, and Steep Slopes. The township also has several conservation 
+easements which limit development. Together, these ‘promote sustainable stewardship 
+of natural lands, water resources, and open space’ and ‘discourage development in 
+hazard-prone areas’ (of Policies 3.1 & 3.2).  
+ 
+The natural resource planning could be improved by including several other elements 
+features in the Natural Resources Plan from FutureLV: 
+ 
+1. Pennsylvania Natural Heritage Inventory – The Pennsylvania Natural Heritage 
+Program (PNHP) details susceptible species in the National Heritage Inventory 
+(NHI) of regional significance. The NHI areas fall into two larger categories, Core 
+Habitat, areas which contain plant or animal species of concern at state or 
+federal levels, exemplary natural communities, or exception native diversity and 
+which are extremely sensitive to development activity, and Support Landscapes, 
+13
+
+[page 14]
+  
+   
+ 
+areas around the core that maintain vital ecological processes or secondary 
+habitats for sensitive natural features that may be capable of accommodating 
+low-impact development with mitigation. Salisbury Township has large areas 
+within the township identified as Core Habitat in the Walking Purchase Park, the 
+South Mountain Reserve, and Lechauweki Springs Park along Seidersville Road. 
+The protection of these areas from development aligns with FutureLV Policy 3.1 
+to ‘expand habitat connectivity’ and ‘maximize preservation of woodlands and 
+critical habitats’ 
+ 
+2. Hydrography and Riparian Buffers – Within Salisbury Township there are 
+several small tributaries of the Little Lehigh Creek and Trout Creek, all within the 
+Little Lehigh Watershed. While some areas of the tributaries are mapped 
+because of their flood risk, several sections continue and should be identified as 
+a high value natural resource as they feed directly into their respective creeks 
+and those creeks feed into the Lehigh River. Around these bodies of water are 
+Riparian Buffers, which are a vital feature for protecting waterways and 
+composed of the natural vegetation along the shore of a water body that protects 
+water quality and stabilize channels and banks, as well as impacting the canopy 
+cover, shading, nutrient inputs, and amount of large woody debris entering the 
+pond. The buffer helps reduce the amount of runoff pollutants, with forested 
+areas being the most effective form of buffer. Protecting the smaller bodies of 
+water and their riparian buffers help ‘protect the quality and quantity of surface 
+water and ground water’ and ‘manage the rate, volume and quality of storm 
+runoff’ (of Policy 3.2).  
+Mapping: DCNR, USG, PNHP, LVPC 
+14
+
+[page 15]
+  
+   
+ 
+3. Carbonate Geology (Karst) – Also, within Salisbury Township, particularly in 
+West Salisbury, mapping provided by the Bureau of Topographic and Geologic 
+Survey at the Pennsylvania Department of Conservation and Natural Resources 
+indicates the extensive presence of karsts in the form of surface depressions, 
+sinkholes, and surface mines. Development in carbonate areas can have greater 
+runoff, more variable subsurface conditions, complex drainage patterns, 
+increased risk of groundwater contamination and sinkhole formation, and impact 
+endangered species. Karst and its impact on development should be considered 
+in guiding where development is appropriate, and mitigation techniques can be 
+included in ordinance updates, all to ‘discourage development in hazard prone 
+areas’ and ‘minimize the environmental impacts of development to protect the 
+health, safety, and welfare of the public’ (of Policy 3.2).   
+ 
+The comprehensive plan also addresses strategies to improve the historic preservation 
+and identity of Salisbury Township. The plan recommends assessing the communities 
+interest in historic preservation and to expand the historic markers and interpretive 
+signage found around the Township. Pennsylvania's State Historic and Archaeological 
+Resource Exchange, or PA-SHARE, has 38 resources in the township that have either 
+been identified as historical archeological, above ground, or district resources, with 
+many as such undetermined for eligibility. Regardless of official determination, these 
+resources, and the township’s plan to better mark and analyze, help ‘promote 
+development that complements the unique history, environment, culture, and needs of 
+the Valley’ (of Policy 5.4).  
+ 
+Transportation 
+The plan provides a detailed description of the existing infrastructure for the road 
+network, air, public transit, and the pedestrian and bicycle networks. While the section 
+on pedestrian and bicycle network outlines the existing infrastructure, the LVPC 
+recommends adding into the considerations in the parks and recreation planning efforts 
+that the trail infrastructure, sidewalk infrastructure, and bicycle infrastructure as key 
+factors for maintaining the parks to ‘provide a safe, well maintained transportation 
+network to move people and goods efficiently, while capitalizing on existing 
+infrastructure’ (of Policy 2.2).  
+ 
+From a transportation viewpoint, the LVPC also commends the inclusion of the mixed-
+use corridors along Emmaus Ave, Susquehanna St, and Broadway. There is currently 
+no transit service along Emmaus Ave. and coordination with LANTA should be pursued 
+to determine if connection along Emmaus Ave. is plausible. Especially with the 
+connections to the schools, parks/rec/open space, and high density residential along 
+Emmaus Ave, this consideration would ‘encourage enhanced transit connections to 
+improve mobility and job access’ by ‘improving connections between mass transit and 
+walk/roll infrastructure’ (of Policy 2.3).  
+ 
+Community Facilities 
+The plan outlines several different types of community facilities and considerations that 
+align with FutureLV: The Regional Plan. The plan recommends consideration of 
+15
+
+[page 16]
+  
+   
+ 
+whether current resources provided to fire and police are sufficient and should be 
+monitored long term, which ‘enhances planning and emergency response efforts among 
+emergency management personnel’ and ‘promotes and secure community design and 
+emergency management’ (of Policy 5.1). Similarly, the consideration to notify the school 
+district of development and demographic shifts helps ‘facilitate discussion among 
+residents, stakeholders, appoint officials and elected representatives’ (of Policy 1.4).  
+ 
+The LVPC also commends the consideration of directing the high intensity development 
+towards area where there’s public sewage which aligns with FutureLV Policy 1.1 to 
+‘match development intensity with sustainable infrastructure capacity’. The 
+implementation items also included an update to the township’s Act 537 Plan which 
+helps ‘strengthen public sewer and water in centers and along corridors, as needed’ (of 
+Policy 3.2). The LVPC recommends the township consider adding an implementation 
+item related to the 400 active and inactive wells to survey and prepare a maintenance 
+plan of any well that may be contaminating the aquafer in order to ‘plan for the reliable 
+supplyof water, considering current and future water resources availability, uses and 
+limitations, including provisions adequate to protect water supply sources’ 
+(Municipalities Planning Code Section 301b).  
+ 
+Future Land Use and Zoning 
+The plan provides a Future Land Use Map to lay out the areas where future growth is to 
+be directed and what types of development will go there as per the MPC. Upon review, 
+there were several areas identified for future growth that may require additional 
+transition and consideration in the Future Land Use Map while still supporting the core 
+goals of the comprehensive plan. Section 301(a)(5) of the MPC states the plan must 
+include A statement indicating that the existing and proposed development of the 
+municipality is compatible with the existing and proposed development and plans in 
+contiguous portions of neighboring municipalities, or a statement indicating measures 
+which have been taken to provide buffers or other transitional devices between 
+disparate uses’.  
+ 
+Along the border with South Whitehall, Cedar Crest Boulevard has been identified as an 
+area for increased commercial and medium density development, while South Whitehall 
+has those areas zone for low-density density development with little to no commercial 
+until Hamilton Boulevard. Consideration should be made for a buffer area between 
+these borders while still allowing for development.  
+ 
+Similar considerations should be made for the border with Lower Macungie, which 
+identifies most of the area west of South Cedar Crest Boulevard as Open Space Area. 
+Additionally, South Cedar Crest Boulevard south of 78 has been identified as a 
+congested corridor and in FutureLV as farmland preservation area as well as significant 
+amount of surface depressions from karst geology. The township should consider 
+requiring developers to plan for congestion mitigation along this corridor as 
+development is proposed, as well as proper geotechnical testing.  
+ 
+16
+
+[page 17]
+  
+   
+ 
+Most of the border with Upper Saucon Township is categorized as South Mountain 
+Conservation Zone on the Saucon side, and is identified in FutureLV: The Regional 
+Plan as Exurban, having few of the factors necessary for development and 
+recommended for low-intensity development, and Character-Defining Area, which 
+represents the natural and scenic character of the Lehigh Valley and is also 
+recommended for limited scape development the preserves natural and scenic 
+resources. Additionally, the section of 145 leading up to this area has been identified as 
+a high crash corridor and any development would need to take into consideration the 
+safety risks of pedestrian, vehicle, and bicycle movement. This area also lacks public 
+water facilities.  
+ 
+The plan also identifies the waterfront area of the Lehigh River as a potential 
+development area as an implementation item and a future growth area. Given the 
+proximity to the core habitat areas, and the lack of public sewer and water available at 
+the site, any proposed traditional neighborhood development (TND) should consider the 
+limiting factors of development to ‘minimize the environmental impacts of development’ 
+(of Policy 3.2) 
+ 
+Community Development Objectives and Strategies 
+ 
+The plan outlines four specific community development focus areas to guide the 
+comprehensive plan. Focus Area #1 is ‘growing strategically from financial benefits’ 
+which utilizes strategies to ‘support mixed use development along key corridors’, ‘target 
+residential densification along Lehigh Street’, ‘coordinate a joint corridor study along 
+Lehigh St.’ and ‘allow modest density increases to support senior housing near medical 
+facilities.’ This focus area and strategies directly align with FutureLV: The Regional 
+Plan, like Policy 1.2 to ‘direct growth by establishing mixed-use centers and mixed-
+transportation corridors’ by ‘increasing density of residential and mixed-use 
+development in centers’ which includes Lehigh St, and Policy 4.5: ‘provide a wide 
+variety of attainable housing in locations that maximize social and economic 
+opportunities for everyone’ by ‘increasing housing density in centers and along 
+corridors’. Additionally, by prioritizing a multi-municipal corridor, the plan increases the 
+likelihood that transportation funding is allocated for improvements. Focus Area #2 
+‘preventing property disinvestment’ and its associated strategies also align with the 
+previous policies, as well as Policy 1.1 to ‘encourage reuse and redevelopment within 
+urban areas’ and Policy 4.2 to ‘reduce blight to improve safety, quality of life and 
+promote sustainable economic activity’.  
+ 
+Focus Area #3 is ‘Building a Connected Community’ which includes strategies to 
+‘evaluate feasibility of recreation amenities across from municipal facilities’ at the top of 
+South Mountain where the public works department is located aligns with Policy 4.1 to 
+‘encourage local institutions to invest in their surrounding communities’ while the other 
+strategies, to increase township presence digitally and host community events ‘increase 
+social, cultural and artistic opportunities’ while ‘creating community spaces that promote 
+physical and mental health’ (of Policy 5.3). Focus Area #4 expands on policy 5.3 by 
+17
+
+[page 18]
+  
+   
+ 
+prioritizing ‘sustaining & enhancing parks & open space’ by ‘prioritizing additional parks 
+and trail master planning’.  
+ 
+Focus Area #4 also furthers Policy 2.1 to ‘connect regional trails to centers and 
+corridors’ and ‘establish mixed-transportation corridors’. The LVPC recently published 
+The Lehigh Valley Trail Connection Strategy which identifies he Southwestern Lehigh 
+County Trail Network as an Elevated Trail Gap in Salisbury Township, noted as a 
+regionally impactful trail gap. It also identifies the Saucon Region Trail Network as a 
+Supporting Trail Gap in Salisbury Township and the Martin Luther King Jr. Drive Trail as 
+a critical priority gap. The township should make note of these in their comprehensive 
+plan and consider the Lehigh Valley Trail Connection Strategy during its Trail Master 
+Planning.  
+ 
+Implementation 
+Many of the specific implementation items align with FutureLV: The Regional Plan by 
+putting the goals and policies outlined above into practice. One strength of this plan that 
+we’d commend is the identifying of potential funding sources for projects with capital 
+costs. The LVPC recommends all funding sources for implementation items be listed to 
+identify gaps in funding opportunities. Additionally, the existing list of grants applicable 
+to each section should be expanded for any project, all of which ‘promotes the fiscal 
+health and sustainability of municipalities’ (of Policy 4.6).  
+ 
+Additionally, the implementation plan includes updating the Subdivision and Land 
+Development Ordinance (SALDO) and Zoning Ordinance to improve the site design to 
+help improve walkability and encourage mixed use development align with FutureLV 
+Policy 1.2 to ‘direct growth by establishing a network of mixed-use centers and mixed-
+transportation corridors’. The LVPC recommends also updating the Official Map to 
+include the listed natural resources above, as well as the corridors for expansion and 
+planned parks and recreation spaces to ‘conserve and manage natural lands and water 
+resources for environmental and recreational benefits’ (of Policy 3.1).  
+ 
+Additional Considerations 
+The township’s current plan takes into consideration many aspects of FutureLV: The 
+Regional Plan and meets all the MPC requirements outlined under the ordinance. 
+However, there were several elements of FutureLV that could also be considered by the 
+township to ‘encourage an efficient development process that is responsive to regional 
+needs’ (of Policy 1.4). The LVPC recommends the township consider the following 
+elements: 
+• Future Forces – The Future Forces section of FutureLV (page 42) looks at 
+emerging technologies and land uses that could shape how the Lehigh Valley will 
+change, and promote proactive planning within the comprehensive plan, and 
+several elements of the section, like Artificial Intelligence, the impact of 
+demographics changes, rapid urbanization, and climate change have all 
+increased in impact over time. The Township’s comprehensive plan could look at 
+potential future forces like electric vehicle charging and proactively plan for their 
+impact, to ‘encourage an efficient development process that is responsive to 
+18
+
+[page 19]
+  
+   
+ 
+regional needs’ (of Policy 1.4).  
+ 
+• Climate Change – while addressed in Future Forces, FutureLV also looks at 
+climate change and green infrastructure broadly in order to ‘reduce climate 
+change impacts through mitigation and adaptation’ (of Policy 3.4). The township 
+can improve several aspects of the existing plan by adding requirements or 
+implementation of these mitigation and adaptation strategies, like ‘advocating for 
+use of native, climate-adaptive and carbon sequestering landscaping’, 
+‘supporting renewable energy and diversification of sources’ and ‘incorporating 
+environmentally sensitive transportation technologies’ (of Policy 3.4).  
+o Additionally, Section 301.1 of the MPC allows a comprehensive plan to 
+include elements that ‘promote energy conservation and the effective 
+utilization of renewable energy sources and analyzes the impact of each 
+other component and element of the comprehensive plan on the present 
+and future use of energy in the municipality, details specific measures 
+contained in the other plan elements designed to reduce energy 
+consumption and proposes other measures that the municipality may take 
+to reduce energy consumption and to promote the effective utilization of 
+renewable energy sources.’ This would align with FutureLV: The Regional 
+Plan by ‘encouraging reuse, sustainable building, site design and 
+community design practices’ (of Policy 3.4) 
+ 
+• Freight Impacts – FutureLV takes into consideration the impact of freight on the 
+region to ‘strengthen freight mobility to minimize quality of life impacts to 
+residents’ (of Policy 2.4). The feedback from the public identifies road conditions 
+as a key issue within the Township and should consider proactive planning of 
+their impacts on local roads to ‘locate freight facilities with available and planned 
+transportation capacity’ and ‘consider transportation-based facilities impact on 
+the infrastructure system, economy, tax base, environment and community’ (of 
+Policy 2.4).  
+ 
+The LVPC is supportive of Salisbury Township as it looks to implement its 
+comprehensive plan and is available as a resource if Township staff would like to 
+discuss plan revisions or implementation strategies.   
+ 
+Municipalities, when considering comprehensive plans and updates, should reasonably 
+attempt to be consistent with FutureLV: The Regional Plan, as required by the 
+Pennsylvania Municipalities Planning Code (MPC) [Article 1§105, Article III§303, §304 
+& §306(a), Article VI§603(j)]. Please send a final copy of the adopted comprehensive 
+plan per requirements of the MPC. 
+ 
+If you have any questions regarding  
+ 
+Sincerely,  
+ 
+19
+
+[page 20]
+  
+   
+ 
+Jacob Weinberg 
+Community and Regional Planner 
+ 
+   
+Susan Myerov    
+Director of Environmental Planning   
+    
+Corinne Ruggiero   
+Senior Environmental Planner   
+   
+Evan Gardi   
+Senior Transportation Planner   
+  
+ 
+ 
+ 
+20
+
+[page 21]
+ 
+   
+ 
+  
+ 
+ 
+ 
+June xx, 2026 
+ 
+Lori Seese, Planning Director 
+Lower Nazareth Township 
+623 Municipal Drive 
+Nazareth, PA 18064 
+ 
+Re: Curative Amendment – Nazareth Area School District 
+Lower Nazareth Township 
+Northampton County 
+ 
+Dear Ms. Seese, 
+ 
+The Lehigh Valley Planning Commission (LVPC) will consider the subject application at 
+its Comprehensive Planning Committee and Full Commission meetings, pursuant to the 
+requirements of the Pennsylvania Municipalities Planning Code (MPC). Discussion on 
+agenda items largely happens during the Committee meeting. Meeting participation 
+details are below, and we encourage your participation:  
+   
+LVPC Comprehensive Planning 
+Committee Meeting: 
+ 
+June 23, 2026, at 12:00 PM (Virtual) 
+https://lvpc.org/lvpc-meetings 
+ 
+LVPC Full Commission 
+Meeting: 
+ 
+June 25, 2026, at 7:00 PM (In-Person) 
+https://lvpc.org/lvpc-meetings 
+ 
+The Pennsylvania Municipalities Planning Code outlines procedures for landowners 
+who desire to challenge, on substantive grounds, the validity of a zoning 
+ordinance, map or any provision thereof which prohibits or restricts the use or 
+development of land in which they have an interest (§609.1 and §916.1).  
+ 
+The applicant alleges that the Township Zoning Ordinance is deficient because the land 
+use ‘School, Primary and Secondary’ is permitted in a disproportionately small area. 
+The submitted cure for the deficiency proposes to amend the Township Zoning 
+Ordinance to permit ‘School, Primary and Secondary’ as a conditional use in all zoning 
+districts where it is not currently permitted. The applicant also asserts that the Township 
+has no reasonable grounds for requiring schools to be served only by public sewer, and 
+proposes to amend the conditional use standards governing water and sewer service so 
+that public sewer would be required only where available pursuant to the Township's 
+Official Act 537 Plan, with on-site sewage disposal permitted where feasibility can be 
+demonstrated.  
+ 
+21

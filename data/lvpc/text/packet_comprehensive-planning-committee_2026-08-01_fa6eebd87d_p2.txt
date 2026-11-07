@@ -1,0 +1,180 @@
+
+
+[page 23]
+  
+   
+ 
+The LVPC notes that the ordinance preamble states that ‘House Bill 1834 of the 2025-2026 
+Pennsylvania legislative session established regulatory duties for commercial data centers’. 
+House Bill 1834 remains pending legislation and has not been enacted. Because the 
+Township's authority to establish land use regulations for Data Centers does not depend upon 
+enactment of House Bill 1834, the LVPC recommends removing this reference prior to 
+ordinance adoption. Removing the reference would avoid the need to account for future 
+amendments or changes in the status of the legislation. 
+ 
+Utilities 
+The amendment appropriately requires disclosure of anticipated electrical, water and 
+wastewater demand and documentation from the applicable service providers. These provisions 
+directly support ‘matching development intensity with sustainable infrastructure capacity’ (of 
+Policy 1.1) and expanding and reinforcing electric utility capacity to prepare for future 
+technology and jobs (of Policy 2.5). 
+ 
+However, the proposed standards also require the applicant to demonstrate that a Data Center 
+will cause no adverse impact to electrical service throughout the Township or to water and 
+sewer availability, flow or pressure within a two-mile radius. A utility or authority is generally in 
+the best position to determine whether adequate system capacity exists and what improvements 
+may be necessary to provide service. The ordinance should instead require documentation from 
+the applicable service provider confirming that the anticipated project demand has been 
+disclosed, identifying whether adequate capacity is available or can be made available and 
+identifying any known project-related improvements necessary to provide service. The 
+Township can then evaluate the land use impacts associated with those improvements. The 
+Township Solicitor should review these provisions to ensure that the ordinance maintains an 
+appropriate distinction between municipal land use regulation and matters assigned to utilities 
+and other regulatory agencies. The Pennsylvania Municipalities Planning Code expressly 
+preserves Pennsylvania Public Utility Commission authority over the implementation, location, 
+construction and maintenance of public utility facilities and does not authorize municipal 
+regulation of water allocation or withdrawal where those matters are otherwise regulated (MPC 
+§608.1(d) and (f)). Refining requirements to focus on information that can reasonably be 
+demonstrated through the land use review process supports best practices in land use and land 
+development regulation (of Policy 1.4). 
+ 
+Environmental Impacts 
+The Environmental Impact Study requirement provides an important framework for evaluating 
+the potential resource and environmental impacts of Data Center development. Requirements 
+addressing water consumption, wastewater generation, stormwater, energy demand, backup 
+power and related operational impacts support conserving natural and water resources (of 
+Policy 3.1) and ‘minimize environmental impacts of development to protect the health, safety 
+and welfare of the public’ (of Policy 3.2). 
+ 
+The ordinance appropriately requires the Environmental Impact Study to identify emissions and 
+other environmental impacts associated with auxiliary and backup power facilities. The LVPC 
+recommends that this analysis consider the cumulative emissions associated with the number 
+and capacity of generators proposed, including routine testing as well as emergency operation, 
+and document any applicable Pennsylvania Department of Environmental Protection air-quality 
+permits. Addressing these impacts supports FutureLV’s direction to ‘improve regional air quality’ 
+and ‘minimize and mitigate the impacts of utility expansion associated with technological 
+advancements, population and business growth’ (of Policy 3.2).  
+Data Centers generate substantial heat that must be continuously removed through cooling and 
+23
+
+[page 24]
+  
+   
+ 
+heat-rejection systems. The LVPC recommends expanding the Environmental Impact Study 
+requirement to identify proposed heat-rejection equipment and evaluate whether exhaust could 
+result in localized ambient temperature increases on adjacent properties. Where impacts are 
+identified, applicants should describe measures to dissipate, mitigate or beneficially reuse waste 
+heat. Addressing thermal impacts further supports minimizing environmental impacts to protect 
+public health, safety and welfare (of Policy 3.2). The Township may also encourage cool roofs, 
+shade trees, vegetated areas and other strategies that reduce heat absorption and localized 
+heat-island effects to ‘encourage reuse, sustainable building, site design and community design 
+practices’ (of Policy 3.4). 
+ 
+The amendment requires all Data Centers to utilize closed-loop cooling systems that conserve 
+and minimize water use. While the intent of this provision strongly supports resource 
+conservation, the LVPC recommends establishing a performance standard rather than requiring 
+a particular cooling technology. Data center technology is evolving rapidly, and newer systems 
+may provide equivalent or superior water conservation while using different cooling methods. A 
+better practice is to regulate measurable land use impacts and performance outcomes rather 
+than prescribe particular mechanical or engineering methods, especially where those systems 
+may also be subject to other technical or construction codes. 
+ 
+Because the amendment requires applicants to disclose anticipated electrical consumption and 
+report electricity use annually, the Township may also wish to require applicants to identify 
+measures proposed to improve energy efficiency. An industry-recognized efficiency measure, 
+such as Power Usage Effectiveness or an equivalent metric appropriate to the facility, could 
+provide additional context for evaluating how effectively energy is being utilized. Encouraging 
+energy-efficient facility design, renewable or lower-impact energy sources where feasible, 
+climate-adaptive landscaping and other sustainable site practices advances FutureLV’s 
+direction to ‘promote energy conservation and efficiency,’ ‘support renewable energy and 
+diversification of sources’ and ‘reduce climate change impacts through mitigation and 
+adaptation’ (of Policy 3.4). 
+ 
+Setbacks and Buffers 
+The proposed ordinance requires Data Center structures to be located at least 1,000 feet from 
+any residence, school, place of worship, life-care facility or day-care facility, including structures 
+located in neighboring municipalities. This requirement applies in addition to a ten-acre 
+minimum lot area and a 50-foot landscaped buffer along rear and side property lines. These 
+measures minimize environmental and quality-of-life impacts (of Policy 3.2) and promote 
+context-specific design solutions (of Policy 5.4). 
+Prior to adoption, the LVPC encourages the Township to conduct a parcel-level GIS analysis to 
+confirm that a meaningful opportunity remains for the use after applying the combined 
+dimensional standards. Pennsylvania courts have historically recognized that zoning standards 
+may result in a de facto exclusion where dimensional requirements make an otherwise 
+permitted legitimate land use effectively impossible. 
+ 
+Noise and Operational Impacts 
+The LVPC supports requiring a sound study at the conditional use stage, compliance with the 
+Township’s established noise requirements and post-construction monitoring. Data center 
+mechanical equipment and backup generation can operate differently from conventional 
+industrial uses, and measurable performance standards are important to minimizing 
+environmental and quality-of-life impacts (of Policy 3.2). 
+24
+
+[page 25]
+  
+   
+ 
+The proposed annual reporting provision also provides a useful mechanism for comparing 
+actual conditions with those anticipated during the development review process. The LVPC 
+recommends ensuring the ordinance clearly specifies the methodology for quarterly sound 
+measurements, including measurement locations, operating conditions and applicable 
+measurement standards. Routine operations, scheduled generator testing and actual 
+emergency operations should be distinguished where they create materially different sound 
+conditions. 
+The Township should also consider requiring applicants to provide the number and capacity of 
+any proposed backup generators, anticipated routine testing duration and frequency and 
+whether units may be tested simultaneously. Routine testing standards can then be structured 
+to minimize impacts on surrounding properties while maintaining necessary facility reliability. 
+Emergency Preparedness 
+The amendment requires an Emergency Preparedness Plan, and requires the applicant to 
+demonstrate that the facility will not create a substantial risk to first responders. The LVPC 
+recommends expressly requiring coordination with Township emergency service providers and, 
+where appropriate, the Lehigh County Office of Emergency Management. Data Centers often 
+include high-voltage electrical infrastructure, batteries, fuel storage, specialized fire-suppression 
+systems and other equipment that require facility-specific emergency response planning. 
+Coordination between the applicant and emergency service providers helps ‘enhance planning 
+and emergency response efforts among emergency management personnel’ (of Policy 5.1). 
+The LVPC encourages the Township to consider decommissioning provisions, including 
+procedures for the safe removal, recycling or disposal of any servers, batteries, electronic waste 
+and related materials when equipment is replaced or a facility ceases operation. This would 
+‘provide environmentally responsible and economical solid, electronic and hazardous waste 
+disposal and recycling’ (of Policy 3.2). 
+Miscellaneous Revisions 
+The proposed definition of Bed and Breakfast includes uses commonly referred to as Airbnb or 
+VRBO, and permits a property owner to reside elsewhere and rent the entire dwelling as a 
+single unit. This combines two land uses that may have different operational characteristics: a 
+traditional Bed and Breakfast, where an operator generally occupies or manages the property 
+and may provide guest services, and a whole-dwelling Short-Term Rental. The LVPC 
+recommends establishing separate definitions for Short-Term Rental and Bed-and-Breakfast 
+uses, to allow clearly established standards appropriate to each use. 
+The amendment adds clarification to the Township’s existing Cluster Housing Development 
+Option. Cluster development provides an alternative to conventional residential development 
+patterns by allowing homes to be arranged more efficiently while preserving shared open space 
+and creating additional choices in neighborhood design, which expands housing choice and 
+accommodates a variety of housing needs while guiding development to appropriate locations 
+(of Policies 4.5 and 1.1). 
+ 
+Additional amendments included in the proposal generally clarify existing zoning provisions 
+relating to Triplexes and mixed-use buildings, Day-Care Centers, fences and walls, swimming 
+pools and driveway standards. In particular, allowing a permitted nonresidential use at street 
+level with two dwelling units within the same building provides additional flexibility for small-
+scale mixed-use development where otherwise appropriate under the Zoning Ordinance. 
+25
+
+[page 26]
+  
+   
+ 
+Municipalities, when considering zoning ordinance amendments, should reasonably attempt to 
+be consistent with FutureLV: The Regional Plan, as required by the Pennsylvania Municipalities 
+Planning Code (MPC) [Article 1§105, Article III§303, §304 & §306(a), Article VI§603(j)]. 
+ 
+Sincerely,  
+  
+Jill Seitz  
+Chief Community and Regional Planner   
+ 
+cc: Cathy Gorman, Township Manager 
+26

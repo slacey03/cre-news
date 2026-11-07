@@ -1,0 +1,738 @@
+
+
+[page 1]
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+COMPREHENSIVE PLANNING COMMITTEE MEETING 
+Tuesday, October 27, 2026, 12:00 noon  
+AGENDA 
+ 
+THE MEETING CAN BE ACCESSED AT http://www.tinyurl.com/LVPC2026 OR VIA PHONE 
+610-477-5793 Conf ID: 947 550 319# 
+ 
+Roll Call  
+ 
+Courtesy of the Floor  
+ 
+Committee Business  
+1. ACTION ITEM: Land Use of Regional Significance – Bethlehem Township - Moravian 
+Academy Athletic Field Renovations (JW) 
+2. ACTION ITEM: Northampton Borough – Zoning Ordinance Amendment – Data 
+Centers (JS) 
+3. ACTION ITEM: Lowhill Township – Zoning Ordinance Amendment – Digital 
+Infrastructure Facilities (JS) 
+4. ACTION ITEM: City of Easton – Zoning and Subdivision and Land Development 
+Ordinance Amendments – Miscellaneous Amendments (JW) 
+5. INFORMATION ITEM: Update on WorkshopLV: Land Use - Data Centers (JW) 
+6. INFORMATION ITEM: Glendon Borough Municipal Support (JS) 
+ 
+ 
+Next Comprehensive Planning Committee Meeting: 
+November 17, 2026, at 12:00 noon 
+1
+
+[page 2]
+ 
+ 
+ 
+ 
+ 
+October XX, 2026  
+  
+Samantha Smith, Community Development Director 
+Bethlehem Township 
+4225 Easton Avenue 
+Bethlehem, PA 18020 
+   
+Re: Moravian Academy Athletic Field Renovations – Land Use of Regional Significance 
+Bethlehem Township 
+Northampton County    
+   
+Dear Ms. Smith, 
+ 
+The Lehigh Valley Planning Commission (LVPC) will consider the subject application at its 
+Comprehensive Planning Committee and Full Commission meetings, pursuant to the 
+requirements of the Pennsylvania Municipalities Planning Code (MPC). Discussion on agenda 
+items largely happens during the Committee meeting. Both meetings will be virtual, and we 
+encourage your participation. The LVPC will issue a follow-up letter after the Commission 
+meeting if Commission members have any additional comments. Meeting participation details 
+are below:   
+  
+LVPC Comprehensive Planning Committee 
+Meeting:    
+   
+October 27, 2026, at 12:00 PM (Virtual)   
+  
+https://lvpc.org/lvpc-meetings   
+LVPC Full Commission   
+Meeting:   
+   
+October 29, 2026, at 7:00 PM (Virtual) 
+ 
+  
+https://lvpc.org/lvpc-meetings   
+ 
+The application proposes improvements to the Moravian Academy Athletic Field at 4313 Green 
+Pond Road (PIN: L7 14 1) with the conversion of two natural grass athletic fields to infilled 
+synthetic turf athletic fields, and construction of athletic lighting, Americans with Disabilities Act 
+(ADA) accessible walkways, storage buildings, and stormwater improvements. The site is 
+identified in FutureLV: The Regional Plan General Land Use plan as Development Area and has 
+most or all the factors needed to support growth, such as sewer and transportation 
+infrastructure capacity and contiguity to existing uses. The redevelopment of the site 
+'encourages reuse and redevelopment in urban areas' (of Policy 1.1).  
+ 
+The improvements to the athletic facilities help ‘create community spaces that promote physical 
+and mental health’ by ‘diversifying park programing’ (of Policy 5.3).  A bicycle rack is 
+recommended to be included near the parking area to support a safe, healthy, inclusive and 
+livable community (FutureLV: The Regional Plan Goal 5). The addition of a bicycle rack helps to 
+ensure transportation accessibility for all persons, integrates mixed transportation into public 
+space design, and it ‘improves connections between bus stops and pedestrian and bicycle 
+infrastructure’ (of Policy 5.2). The ADA improvements further these policies.  
+ 
+2
+
+[page 3]
+Municipalities, when considering subdivision/land developments, should reasonably attempt to 
+be consistent with FutureLV: The Regional Plan, as required by the Pennsylvania Municipalities 
+Planning Code (MPC) [Article 1§105, Article III§303, §304 & §306(a), Article VI§603(j)]. The 
+LVPC review does not include an in-depth examination of plans relative to subdivision design 
+standards or ordinance requirements since these items are covered in the municipal review.  
+ 
+Sincerely,  
+ 
+Jacob Weinberg 
+Community and Regional Planner 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3
+
+[page 4]
+ 
+ 
+ 
+ 
+October 9, 2026 
+Brian Welsko, Borough Manager 
+Northampton Borough 
+1401 Laubach Avenue 
+Northampton, PA 18067 
+Re: Zoning Ordinance Amendment – Data Centers 
+Northampton Borough 
+Northampton County 
+Dear Mr. Welsko: 
+The Lehigh Valley Planning Commission (LVPC) will consider the proposed ordinance 
+amendment at its Comprehensive Planning Committee and Full Commission meetings, 
+pursuant to the requirements of the Pennsylvania Municipalities Planning Code (MPC). 
+Discussion on agenda items largely occurs during the Committee meeting. Meeting participation 
+details are below, and we encourage any participation: 
+LVPC Comprehensive Planning Committee:  
+October 27, 2026, at 12:00 PM (Virtual)  
+https://lvpc.org/lvpc-meetings  
+LVPC Full Commission:  
+October 29, 2026, at 7:00 PM (Virtual)  
+https://lvpc.org/lvpc-meetings  
+ 
+The proposed amendment establishes regulations for Data Centers and Data Center Accessory 
+Uses and permits data centers by conditional use within the I-2 Industrial District. The 
+amendment includes standards addressing setbacks, landscaping and screening, noise and 
+vibration, water supply, geotechnical conditions, environmental impacts, electric demand, 
+emergency management, building design, parking, cooling systems and electronic waste. 
+Many of the proposed standards are measurable, directly related to potential land use impacts 
+and advance the planning direction of FutureLV: The Regional Plan by proactively addressing 
+the land use and infrastructure impacts of an emerging industrial use. Other provisions may 
+overlap responsibilities assigned to state, federal or utility regulators or extend beyond the 
+regulatory reach of municipalities in Pennsylvania.  
+The following provisions generally address legitimate planning concerns, however the LVPC 
+recommends that the Borough and Borough Solicitor further evaluate them before enactment to 
+ensure that the standards remain within municipal land use authority, are sufficiently objective 
+and do not unnecessarily overlap other regulatory systems: 
+Electric Utility Capacity, Interconnection and Rates 
+The LVPC supports requiring applicants to disclose anticipated electrical demand and identify 
+4
+
+[page 5]
+the electric infrastructure necessary to serve a proposed data center. This information supports 
+infrastructure planning and advancing sustainability (of Policies 1.1, 2.5 and 3.4).  
+However, proposed §1015(I) requires submission of an Energy Management Plan subject to 
+approval by the Borough. The LVPC recommends that the Borough evaluate this requirement 
+with the Borough Solicitor because regulation of utility service, electric capacity, interconnection 
+and rates principally involves the serving utility, Pennsylvania Public Utility Commission and 
+other state and federal regulatory systems. 
+A more legally defensible approach may be to require the submission of documentation 
+projected maximum electrical demand, identification of proposed on-site substations and other 
+infrastructure, documentation demonstrating coordination with the serving utility, and available 
+information concerning whether the required service and infrastructure can be provided. 
+The LVPC also encourages the Borough to verify whether a completed interconnection 
+agreement can reasonably be obtained at the conditional use stage. If utility processes occur 
+later in project development, the ordinance could instead require reasonable evidence of utility 
+coordination at conditional use and final documentation before the appropriate subsequent 
+approval or operation. 
+The Borough may wish to retain these items as disclosure requirements and encouragements 
+while focusing approval on measurable site and land use impacts. 
+Air Emissions and EPA Requirements 
+The amendment requires energy generation equipment to minimize air pollutant emissions, 
+meet or exceed EPA Tier 4 standards and undergo annual testing and reporting. While the 
+LVPC recognizes the Borough's objective of protecting air quality and public health, air 
+emissions are substantially regulated through federal and Commonwealth environmental 
+programs.  
+The LVPC recommends that the Borough Solicitor evaluate whether the zoning ordinance 
+should independently establish and enforce EPA emissions standards. An alternative approach 
+can be to require applicants to identify proposed generators and fuel sources, disclose 
+anticipated testing schedules and operating characteristics, and comply with Borough standards 
+addressing the local land use impacts of the equipment, including noise, vibration, location, fuel 
+storage and screening. This approach would retain the Borough's ability to evaluate local 
+impacts while reducing potential overlap with state and federal environmental regulation. 
+Prescriptive Cooling System Requirements 
+The LVPC supports the Borough's objective of minimizing water consumption. However, 
+§1015(M)(b) specifically requires all water-cooled cooling systems to operate as closed loop 
+recirculating systems and prohibits open loop, once-through and single-pass cooling. Because 
+cooling technology continues to evolve, the LVPC encourages the Borough to evaluate whether 
+the ordinance should regulate the desired performance outcome rather than require one 
+particular cooling technology. 
+5
+
+[page 6]
+Post-Construction Sound Verification and Financial Security 
+The LVPC supports requiring an as-built sound study because actual operating conditions may 
+differ from modeled conditions. Continued compliance with the Borough's established noise 
+limits is appropriately enforceable through zoning. However, proposed §1015(E)(a)(3) requires 
+the as-built study six months after issuance of the certificate of occupancy and prior to release 
+of final escrow for the applicable land development phase. The LVPC recommends that the 
+Borough Solicitor evaluate whether long term operational verification can be tied to subdivision 
+and land development financial security. Financial security under the MPC generally serves to 
+guarantee completion of improvements required through land development approval, while 
+continued operational compliance is typically addressed through zoning enforcement. 
+Water Resources  
+The ordinance references specific Delaware River Basin Commission withdrawal thresholds. 
+The LVPC encourages the Borough to consider requiring documentation of all applicable DRBC 
+approvals, permits or determinations rather than relying solely on thresholds written into the 
+zoning ordinance. This would reduce the potential for the Borough ordinance to become 
+inconsistent with future changes to outside regulatory programs. 
+Enhanced Geotechnical Investigation 
+The proposed ordinance addresses legitimate concerns including carbonate geology, karst 
+conditions, mine workings, settlement, groundwater and impacts from excavation and vibration.  
+However, §1015(G) requires the applicant to submit an enhanced geotechnical investigation for 
+the entire development site before conditional use approval and prescribes detailed 
+investigation and construction-related requirements. The LVPC recommends that the Borough 
+evaluate whether the enhanced level of investigation should be triggered by objective evidence 
+of potentially hazardous conditions, such as mapped carbonate geology or karst, known mines, 
+unstable slopes, documented subsurface voids, or other identified geological hazards. This 
+approach would maintain strong protection where geotechnical risks are present while more 
+clearly tying the requirement to site specific land use conditions. 
+The LVPC encourages the Borough Solicitor and Engineer to evaluate the proposed ordinance 
+for land suitability information needed for conditional use review, and detailed structural design 
+requirements governed through applicable construction codes. 
+Environmental Impact Assessment and Approval Standards 
+The LVPC supports requiring applicants to evaluate potential impacts involving noise, lighting, 
+stormwater, natural resources and other environmental conditions. However, the required 
+Environmental Impact Assessment also includes broad concepts such as probable future 
+effects, regional effects, alternatives analysis and consistency with municipal and county 
+comprehensive plans. 
+The LVPC recommends that the Borough evaluate whether each element of the Environmental 
+Impact Assessment clearly informs compliance with an objective ordinance standard or 
+identifies mitigation that the Borough is legally authorized to require. In particular, 
+comprehensive plan consistency is valuable planning information, but the Borough should 
+6
+
+[page 7]
+evaluate whether inconsistency with a comprehensive plan can independently determine 
+approval of a use that the zoning ordinance expressly permits by conditional use. 
+The LVPC encourages the Borough to use the Environmental Impact Assessment primarily as a 
+tool to identify impacts and appropriate mitigation under express ordinance standards. 
+Subjective Standards 
+Several provisions use standards such as an “unacceptable risk” to public health, safety, 
+welfare or infrastructure, or require emergency procedures to be “sufficiently protective” of 
+public health and safety. These concepts reflect legitimate municipal concerns, but the LVPC 
+recommends that the Borough evaluate whether they can be connected more directly to 
+measurable ordinance requirements, applicable professional standards or findings by qualified 
+professionals. Clear and objective criteria make the conditional use process easier to 
+administer, provide applicants and residents with more predictable expectations and strengthen 
+the Borough's ability to defend and enforce its decisions. 
+Technical Study Preparation 
+The ordinance appropriately requires technical studies to be prepared by professionals with 
+qualifications relevant to the work. However, the ordinance states that a professional is not 
+independent if “employed by” the applicant, developer or landowner. Because applicants 
+ordinarily retain and compensate the engineers, acoustical professionals and other consultants 
+preparing required studies, the LVPC recommends clarifying this provision. Submission of 
+technical studies that the applicant is required to prepare does not mean that the Borough must 
+accept the findings without scrutiny. 
+Permit Revocation for Noise or Vibration Violations 
+The ordinance authorizes the Borough to revoke previously issued zoning permits where noise 
+or vibration violations are not remediated (§1015(E)(c)). The LVPC recommends that the 
+Borough Solicitor evaluate the proposed permit revocation mechanism against corrective action 
+and other remedies available under the MPC, Pennsylvania court case precedent, and the 
+Borough’s ordinance. 
+FutureLV Alignment 
+Several provisions of the proposed amendment support best planning practices and advance 
+policies of FutureLV: The Regional Plan by: 
+• Permitting data centers within an industrial district and evaluating infrastructure needs 
+supports guiding the location and intensity of development and matching development 
+with sustainable infrastructure capacity (of Policy 1.1). 
+• Electrical demand disclosure and infrastructure coordination support preparing electric 
+utility infrastructure for future technologies and jobs (of Policy 2.5). 
+• Water supply analysis, stormwater considerations and environmental review support 
+conservation of natural resources and minimization of development impacts (of Policies 
+3.1 and 3.2). 
+7
+
+[page 8]
+• Measurable noise and vibration standards, landscaping and equipment screening help 
+protect surrounding properties and community quality of life (of Policies 3.2 and 5.4). 
+• Emergency response planning and coordination support safe and resilient communities 
+(of Policy 5.1). 
+• Building articulation, landscaping and objective site design requirements promote 
+context-sensitive design (of Policy 5.4). 
+• Clear, measurable and legally supportable approval standards support an efficient and 
+predictable development process (of Policy 1.4). 
+The LVPC has copied representatives of the River Central Multi-Municipal Comprehensive Plan 
+to ‘coordinate land use decisions across municipal boundaries’ (of Policy 1.4).   
+Municipalities, when considering zoning ordinance amendments, should reasonably attempt to 
+be consistent with FutureLV: The Regional Plan, as required by the Pennsylvania Municipalities 
+Planning Code (MPC) [Article I §105, Article III §§303, 304 and 306(a), and Article VI §603(j)]. 
+Sincerely, 
+ 
+Jill Seitz, AICP 
+Chief Community and Regional Planner 
+cc: Brent Green, East Allen Township Manager; Melissa Wehr, Hanover Township Manager; Tasha 
+Jandrisovits, North Catasauqua Borough Secretary; Glenn Eckhart, Catasauqua Borough Manager  
+8
+
+[page 9]
+ 
+   
+ 
+ 
+ 
+ 
+October 14, 2026 
+Jill Seymour, Secretary 
+Lowhill Township 
+7000 Herber Road 
+New Tripoli, PA 18066 
+ 
+Re: Zoning Ordinance Amendment - Data Centers 
+Lowhill Township 
+Lehigh County 
+ 
+Dear Ms. Seymour, 
+The Lehigh Valley Planning Commission (LVPC) will consider the proposed ordinance 
+amendment at its Comprehensive Planning Committee and Full Commission meetings, 
+pursuant to the requirements of the Pennsylvania Municipalities Planning Code (MPC). 
+Discussion on agenda items largely occurs during the Committee meeting. Meeting participation 
+details are below, and we encourage any participation: 
+LVPC Comprehensive Planning Committee:  
+October 27, 2026, at 12:00 PM (Virtual)  
+https://lvpc.org/lvpc-meetings  
+ 
+LVPC Full Commission:  
+October 29, 2026, at 7:00 PM (Virtual)  
+https://lvpc.org/lvpc-meetings  
+ 
+The amendment replaces Ordinance No. 2026-2 and establishes Article 1400 for Digital 
+Infrastructure Facilities. It distinguishes residential and other accessory computing systems from 
+principal Edge Computing Facilities and Hyper Digital Infrastructure Facilities, permits principal 
+facilities by conditional use in the Regional Use Overlay District 2 (RUO-2), and addresses 
+infrastructure, water, noise, screening, emergency response, thermal impacts and ongoing 
+reporting. 
+The intent of the ordinance amendment advances FutureLV: The Regional Plan by addressing 
+the impacts of an emerging land use on the environment, infrastructure, and community. 
+ Because several provisions implicate authority assigned by state law to other agencies, or 
+extend beyond customary zoning performance standards, the LVPC offers the following 
+recommendations to further strengthen the amendment and ensure that its protections remain 
+legally defensible under Pennsylvania law: 
+ 
+9
+
+[page 10]
+  
+   
+ 
+Noise Limits 
+The proposed ‘Sound Level Limits by Receiving Land Use/District’ table (§917.05) allows an 80 
+dBA Maximum Sound Level during the day and 65 dBA at night, at lot lines of a lot in a 
+residential district. While 65 dBA is similar to the noise level of household appliances 
+(refrigerator, dishwasher, etc.), 80 dBA is similar to the level of a busy highway or gas 
+lawnmower and at a continuous level would have a substantial impact on neighboring 
+properties. To ‘minimize impacts of development’ (of Policy 3.2), the LVPC recommends that 
+the Township evaluate lower limits appropriate to continuous operations and existing residential 
+conditions.  
+The proposed ordinance includes a section that allows an exception from the maximum decibel 
+levels in cases of power outages when backup generators are being used (§1412(D)), but this 
+should be reconciled with §917.03, which states that no emergency generators shall exceed the 
+specified sound levels. 
+The table also assigns both limits to Sundays and national holidays, creating conflicting 
+requirements, and should be clarified. 
+Electronic Waste Plan 
+The proposed ordinance requires applicants to submit an Electronic Waste Plan (§1418.03), 
+which supports responsible electronic and hazardous waste management (of Policy 3.2). 
+However, stating that the Electronic Waste Plan is subject to approval by the Township should 
+be evaluated with the Township Solicitor to ensure that the approval provision does not overstep 
+the Township’s purview. 
+Utility Capacity and Approvals 
+§1407.01 of the proposed ordinance addresses Electrical Demand Disclosure, Infrastructure 
+Capacity, and Impact Standards. Requiring applicants to disclose the anticipated electrical 
+demand and supporting infrastructure of the facility supports ‘expanding and reinforcing electric 
+utility capacity’ (of Policy 2.5). However, §1407.01.B. states that no facilities shall be approved 
+unless the applicant demonstrates that adequate infrastructure capacity exists, and the LVPC 
+recommends clarifying that the Township evaluates site impacts and relies on utility findings 
+rather than independently determining grid adequacy. Aspects of utility regulation may fall under 
+the jurisdiction of the Pennsylvania Public Utility Commission and legally may not be subject to 
+local zoning approval. 
+Water Study and DRBC Requirements 
+The LVPC supports evaluating water demand, supply availability and potential impacts on water 
+resources. However, the proposed ordinance (§1408.02(A)) requires the same Water 
+Resources Impact Statement regardless of whether the facility uses public water or a private 
+well. Certain requirements such as the hydrogeological study and evaluation of nearby wells, 
+surface waters and groundwater may not be relevant to every proposal. The LVPC recommends 
+that the Township and Township Solicitor distinguish information required for all proposals from 
+additional studies triggered by the proposed water source, withdrawal location, demand and 
+potential impacts. For public water proposals, documentation from the provider confirming 
+adequate supply and delivery capacity may address some requirements and support matching 
+10
+
+[page 11]
+  
+   
+ 
+development intensity with sustainable infrastructure capacity (of Policy 1.1). Additional 
+hydrogeological investigations should be tied to identified risks and relevant withdrawal 
+locations, which may differ from the facility site. This approach would maintain resource 
+protections while making submission requirements more proportional and legally supportable. 
+Section 1408.02(D) includes references water withdrawal gallons-per-day thresholds that would 
+require proof of review and approval from the Delaware River Basin Commission (DRBC). 
+Rather than directly stating thresholds which may or may not align with DRBC (current policies 
+and if policies change), requiring DRBC documentation would be clearer and more enforceable. 
+This would support protecting water resources while encouraging an efficient development 
+process responsive to regional needs (of Policies 3.2 and 1.4). 
+The LVPC also recommends that the Township Solicitor evaluate whether the Township can 
+require outside-agency approval in its review process (§1408.02(D)). Recent Pennsylvania 
+Commonwealth Court cases have indicated that municipalities are limited in their ability to allow 
+outside agency processes to impact local processes, such as final plan signatures or building 
+permit processing (PC Land LLC v. Board of Commissioners of Bethlehem Township, 320 A.3d 
+804 (PA Commonwealth 2024)). Requiring identification of applicable DRBC requirements and 
+documentation of application status could preserve agency permitting obligations without 
+making their completion a blanket prerequisite to Township approval. Clear approval 
+sequencing and coordination between municipal and agency reviews would further support an 
+efficient development process (of Policy 1.4). 
+Air Emissions and Generator Technology 
+The proposed ordinance addresses air quality standards related to backup power equipment, 
+and requires annual testing and reports provided to the Township to ensure that emissions do 
+not exceed allowable limits (§1411). Air emissions are regulated by the Pennsylvania 
+Department of Environmental Protection (DEP) and the U.S. Environmental Protection Agency 
+(EPA). The LVPC recommends that the Township Solicitor evaluate the legal basis and 
+enforcement procedures around these provisions as a best practice when regulating land uses 
+(or Policy 1.4). 
+Construction Codes 
+The proposed ordinance includes code-compliance references for specific equipment, 
+ventilation, monitoring and fire-protection requirements (§1405L, N-O, 1408.08 and 1417). The 
+LVPC recommends distinguishing zoning standards for location, access and compatibility from 
+construction and installation standards administered through the Pennsylvania Uniform 
+Construction Code (UCC). The Township should evaluate any requirements exceeding the UCC 
+through the procedures applicable under the Pennsylvania Construction Code Act Section 503, 
+governing how municipalities can change, modify, or exceed the state’s UCC as a best practice 
+when regulating land uses (or Policy 1.4). 
+Thermal Impact Mitigation 
+The LVPC supports requiring applicants to document anticipated heat generation, cooling 
+equipment, exhaust locations, operating conditions and potential impacts on neighboring 
+properties to minimize environmental impacts of development (of Policy 3.2). However, the 
+11
+
+[page 12]
+  
+   
+ 
+proposed ordinance includes cooling technology restrictions and authorizes the Township to 
+require alternative cooling systems, construction materials and other design measures 
+(§1405(G), 1415 and 1422(5)–(6)). The LVPC recommends that the Township Solicitor and 
+code officials evaluate provisions that extend beyond impact assessment and mitigation 
+planning into equipment specifications or construction methods, which may overlap with the 
+Pennsylvania Uniform Construction Code. Prescriptive requirements may also limit the use of 
+emerging technologies that achieve greater water and energy efficiency or reduce 
+environmental impacts. The Township is encouraged to focus on measurable site impacts and 
+allow applicants to demonstrate effective mitigation through professionally supported 
+approaches as a best practice when regulating land uses (or Policy 1.4). 
+Stormwater System Design Standard 1408.07 
+The LVPC recommends that the proposed section on Stormwater Standards (§1408.07) include 
+cross reference to the Township’s Stormwater Management Ordinance to ensure that 
+stormwater control measures comply with the stormwater standards and criteria (of Policy 3.2).  
+Post-Construction Verification and Financial Security 
+The proposed ordinance ties post-construction sound studies to final land development escrow 
+release (§1412(A)(3)). The LVPC recommends evaluating this linkage against Sections 509 and 
+510 of the MPC, which governs security for required improvements and its release. Completed 
+sound barriers and other required improvements can be verified through the applicable 
+improvement process, but ongoing operational noise compliance should be addressed through 
+enforceable zoning standards. 
+Reporting and Mandatory Public Dashboard 
+The proposed ordinance requires annual reports and a publicly accessible dashboard with 
+monthly utility data, energy-source information and three years of records (§1423(1) and (3)). 
+The LVPC supports information needed to verify water, noise and operating limits, but 
+recommends evaluating the authority and proportionality of mandatory public reporting. 
+Automatic Shutdown and Corrective Action 
+The proposed ordinance requires discontinued operations when reports exceed original water 
+estimates or noise limits (§1423(2)). The automatic shutdown requirement and cease-and-desist 
+authority in §1412(A)(3) should be evaluated against the MPC’s requirements for enforcement 
+notice, appeal and judicial remedy procedures (MPC Sections 616.1, 617 and 617.2) as a best 
+practice when regulating land uses (or Policy 1.4). 
+FutureLV Alignment 
+Several provisions of the proposed amendment support best planning practices and advance 
+policies of FutureLV: The Regional Plan: 
+Use Classification and Development Intensity 
+Distinguishing accessory computing from principal facilities and reviewing larger facilities by 
+conditional use supports ‘guiding development intensity and matching it with sustainable 
+infrastructure capacity’ (of Policy 1.1). Full build-out and phasing disclosures and identifying 
+separate developments that are integrated supports evaluation of cumulative site impacts. 
+12
+
+[page 13]
+  
+   
+ 
+These are appropriate planning tools when classifications and approval standards are clear 
+and tied to actual land use conditions. 
+Water Resources and Infrastructure Disclosure 
+Requiring applicants to disclose anticipated water demand, supply, wastewater, cooling 
+methods, drought procedures and potential resource impacts supports ‘protecting water 
+quantity and quality’ (of Policies 3.1 and 3.2). Requiring applicants to identify electrical 
+infrastructure, equipment locations and fiber construction impacts supports infrastructure 
+coordination and preparation for emerging technologies (of Policy 2.5).  
+Community Compatibility and Site Design 
+Requiring proposals to incorporate landscaping, buffers, equipment screening, native 
+plantings, downward-directed lighting, building articulation, and parking based on the 
+largest employee shift supports context-sensitive development and mitigation of community 
+impacts (of Policies 3.2, 3.4 and 5.4). 
+Noise Verification and Emergency Coordination 
+Requiring professional sound studies that address cumulative equipment noise, generator 
+testing schedules and continuing compliance are appropriate tools for evaluating and 
+managing local impacts (of Policies 3.2 and 5.4). Requiring emergency plans, access 
+procedures, hazard inventories and coordination with responders supports safe community 
+design and emergency management (of Policy 5.1). 
+Municipalities, when considering zoning ordinance amendments, should reasonably attempt to 
+be consistent with FutureLV: The Regional Plan, as required by the Pennsylvania Municipalities 
+Planning Code (MPC) [Article 1§105, Article III§303, §304 & §306(a), Article VI§603(j)].  
+The LVPC has copied representatives of the Northern Lehigh Multi-Municipal Comprehensive 
+Plan to ‘coordinate land use decisions across municipal boundaries’ (of Policy 1.4).  
+Sincerely,  
+  
+Jill Seitz, AICP  
+Chief Community and Regional Planner 
+  
+Susan Myerov   
+Director of Environmental Planning 
+ 
+CC: Mike Siegel, Lowhill Township Manager; Dawn Didra, Heidelberg Township Administrator; 
+Trish Burkhardt, Lynn Township Administrative Assistant; Roy Hambrecht, Slatington Borough 
+Manager; Wade Marlatt, Washington Township (LC) Manager; Brian Carl, Weisenberg 
+Township Manager. 
+13
+
+[page 14]
+ 
+ 
+ 
+ 
+ 
+ 
+October 16, 2026  
+  
+Dwayne Tilman, Director of Planning and Codes 
+City of Easton 
+123 South 3rd Street 
+Easton, PA 18013 
+   
+Re: Easton SALDO & Zoning Comprehensive Updates 
+City of Easton 
+Northampton County    
+   
+Dear Mr. Tillman, 
+ 
+The Lehigh Valley Planning Commission (LVPC) will consider the subject application at its 
+Comprehensive Planning Committee and Full Commission meetings, pursuant to the 
+requirements of the Pennsylvania Municipalities Planning Code (MPC). Discussion on agenda 
+items largely happens during the Committee meeting. Both meetings will be virtual, and we 
+encourage your participation. The LVPC will issue a follow-up letter after the Commission 
+meeting if Commission members have any additional comments. Meeting participation details 
+are below:   
+  
+LVPC Comprehensive Planning Committee 
+Meeting:    
+   
+October 27, 2026, at 12:00 PM (Virtual)   
+  
+https://lvpc.org/lvpc-meetings   
+LVPC Full Commission   
+Meeting:   
+   
+October 29, 2026, at 7:00 PM Virtual 
+  
+https://lvpc.org/lvpc-meetings   
+ 
+The application proposes amending the City’s Zoning Ordinance and Subdivision and Land 
+Development Ordinance to clean up sections of the ordinances, improve administrative clarity, 
+add new uses, codify elements of existing patterns in the City, and cover regulatory gaps 
+identified in the ordinances by staff and planning commissioners. The LVPC strongly supports 
+the City’s efforts to update its ordinances through “facilitated discussion among residents, 
+stakeholders, appointed officials and elected representatives” (of Policy 1.4). The substantial 
+update represents the achievement of many goals outlined in FutureLV: The Regional Plan by 
+“integrating efficiency measures and emerging technologies” and “supporting evolution and 
+adaptability of government” (of Policy 1.1). 
+ 
+Clarifying Amendments 
+The proposed ordinance amendment adds or removes several sections that could create 
+conflicts within the Zoning Ordinance, or whose removal would add clarity. These efforts support 
+“an efficient development process responsive to regional needs” (of Policy 1.4) by making it 
+easier for residents, developers, and officials to use the Zoning Ordinance. Some improvements 
+include making sure that all parking requirements are in the off-street parking requirements 
+section of the ordinance rather than in their specific districts, centralizing specific shopping 
+location provisions in the supplemental regulations, and clarifying the rules for measuring 
+setbacks, density, lot coverage, off-street parking, and the distance for the separation of uses. 
+14
+
+[page 15]
+ 
+ 
+ 
+Codification of Existing Patterns 
+The proposed ordinance also codifies several existing patterns in the City. Changes include 
+separating principal uses on one lot, changing fence height limits, adjusting driveway widths, 
+adjusting setback standards to consider alignment with existing buildings, lowering building 
+heights to be compatible with existing buildings, and clarifying regulations on the frequency of 
+convenience stores next to existing retail. These changes all help “promote development that 
+complements the unique history, environment, culture and needs of the valley” by “promoting 
+context specific design solutions” (of Policy 5.4). 
+ 
+Map Changes 
+As a part of the codification changes two different areas of the zoning map: 
+ 
+The first area was rezoned from the River Corridor (RC) district, which serves as the City’s 
+environmentally sensitive zoning area due to its proximity to the river, to the West Ward (WW) 
+district. It lies between North 7th Street, Bushkill Street, and Veile Street. Mapping does indicate 
+the presence of steep slopes and a riparian buffer area along the Bushkill Creek, but the 
+15
+
+[page 16]
+ 
+ 
+existing form of the neighborhood aligns better with the West Ward Zoning District. The LVPC 
+supports the City exploring, in future updates, the inclusion of a riparian buffer overlay, which 
+would allow the City to protect its waterways, “protecting high-priority natural lands and 
+resources” (of Policy 3.1) while “promoting an efficient development process responsive to 
+regional needs” (of Policy 1.4). 
+ 
+The second area, between Centre Street, West Cooper Street, Pastor Fred Davis Street, and 
+West Canal Street, changes from the South Side (SS) district to the Adaptive Reuse (AR) 
+district. The current district splits the Adaptive Reuse District, and connecting the two creates a 
+corridor where existing uses and the promoted multi-family and institutional uses would fit well 
+with neighborhood character, which would “guide location and intensity of development” and 
+“encourage reuse and redevelopment in urban areas” (of Policy 1.1). 
+ 
+New Uses 
+The proposed ordinance also adds seventeen new uses. Several of these are split out from 
+uses already codified and have greater impacts. The ordinance separates a regular bar and pub 
+from a night club, a crematorium from a burial place/cemetery, truck terminals from warehouses, 
+entertainment and gaming establishments from gambling establishments, and convenience 
+stores and grocery stores from normal retail uses. These uses are often more impact-intensive 
+and are given supplemental regulations that help mitigate these impacts. The changes help 
+“minimize impacts of Land Uses of Regional Significance” (of Policy 1.4). Many of the proposed 
+regulations help “minimize the environmental impact of development” and place these uses in 
+zones that fit their character, which helps “promote development that complements the unique 
+history, environment, culture and needs of the valley” (of Policy 5.4). Several of these changes 
+advance the policies and goals of FutureLV: The Regional Plan. 
+ 
+Electric Vehicle Charging 
+The ordinance allows electric vehicle charging both as a principal use and as an accessory use, 
+and makes the accessory use widely available throughout many of the districts in the City where 
+appropriate. These provisions help “advance deployment of advanced fueling infrastructure” and 
+“incorporate environmentally sensitive transportation technologies” (of Policies 2.5 and 3.4). 
+ 
+Solar 
+The ordinance also seeks to change how solar energy systems are regulated in the City. It 
+removes sections that are covered by other legislation and are not powers given to zoning 
+under the MPC, as well as sections that make installing solar more restrictive and factors that 
+should be determined by the installer. Easing these regulations helps make solar more 
+accessible to residents and helps “reduce climate change impacts through mitigation and 
+adaptation” (of Policy 3.4). The ordinance also includes a provision reducing the fine for 
+abandonment to $300 per day, up to a maximum of $1,000 per day. The LVPC recommends 
+that the City consult with a solicitor, as MPC Section 617.2(a) states a maximum judgment of 
+$500, with each day constituting an additional violation. 
+ 
+Warehouse and Truck Terminal Standards 
+The ordinance proposes new regulations for warehouse/logistics uses that help “strengthen 
+freight mobility to minimize quality of life impacts to residents” (of Policy 2.4). The LVPC 
+supports the inclusion of snow removal equipment for trucks; electric charging infrastructure, 
+which supports Policy 2.5; bicycle racks, which support Policies 2.2 and 5.2; native landscaping 
+and natural resource preservation, which support Policy 3.4; and truck driver amenities. The 
+truck terminal use must also meet all of those requirements, as well as additional parking 
+amenities and signage requirements that strengthen Policy 2.4 for freight-exclusive uses. 
+16
+
+[page 17]
+ 
+ 
+ 
+Data Centers 
+The ordinance also adds regulations for data centers in the City. The proposed amendment 
+includes many strong data center provisions and addresses concerns related to impacts, 
+including thermal impact mitigation plans, environmental impact assessments to measure water, 
+sewer, and electrical impacts of the development, electronic waste decommissioning plans, 
+emergency response plans, buffering, and setbacks. Because data centers operate 24/7 and 
+noise levels are unlikely to change throughout the day, the LVPC recommends that the City 
+consider setting one allowable standard each for dBA and dBC. 
+ 
+Subdivision and Land Development Ordinance 
+The ordinance proposes several changes to the Subdivision and Land Development Ordinance. 
+It adds requirements for transportation impact studies and transportation impact assessments, 
+which help “provide a safe, well-maintained transportation network” (of Policy 2.2) and “promote 
+use of cost-benefit analysis in planning, development and infrastructure decisions” (of Policy 
+4.6). The ordinance also adds a general impact assessment split into two sections: a community 
+impact assessment, based on the impact of the use on surrounding uses and its compatibility 
+with the built environment, and an environmental impact assessment, which details how the 
+proposed use would affect the environment where it is built. These assessments help “minimize 
+impacts of Land Uses of Regional Significance” (of Policy 1.4) and “minimize the environmental 
+impact of development” (of Policy 3.2). 
+ 
+Municipalities, when considering zoning ordinance amendments, should reasonably attempt to 
+be consistent with FutureLV: The Regional Plan, as required by the Pennsylvania Municipalities 
+Planning Code (MPC) [Article 1§105, Article III§303, §304 & §306(a), Article VI§603(j)]. Please 
+feel free to reach out with any questions about this review.  
+ 
+Sincerely,  
+ 
+Jacob Weinberg 
+Community and Regional Planner 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17

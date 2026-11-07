@@ -1,0 +1,886 @@
+
+
+[page 25]
+  
+   
+ 
+the projected annual electricity demand and supply source(s) should be provided. 
+The Township should also require applicants to document efforts made to 
+maximize the use of renewable and/or clean energy for their electrical and 
+cooling needs, either through on-site generation or verifiable power purchase 
+agreements. These efforts ‘reduce greenhouse gas emissions’ and ‘promote 
+energy conservation’ (of Policy 3.4). 
+ 
+• Electromagnetic Field Emissions: Including performance standards for 
+electromagnetic field (EMF) emissions is a strong feature. All data centers and 
+associated electrical transmission/distribution equipment are to comply with 
+exposure limits established by the Institute of Electrical and Electronics 
+Engineers (IEEE) Standard C956 and the International Commission on Non-
+Ionizing Radiation Protection (ICNIRP) Guidelines. Applicants will be required to 
+perform pre- and post-construction measurement and provide expected field 
+strengths, mitigation measures, and monitoring protocols as part of the 
+conditional approval. This feature of the ordinance ‘minimizes the impacts of 
+development on the health, safety and welfare  of the public’ (of Policy 3.2).  
+ 
+• Water and Sewer: All data centers shall be served by public water and sewer 
+systems. No private wells or on-lot septic systems will be permitted.  The 
+requirement to utilize public water and sewer ‘minimizes and mitigates the 
+impacts of utility expansion associated with technological advancements’ (of 
+Policy 3.2).  Requiring agreements to serve reflects FutureLV’s emphasis on 
+matching development intensity to available infrastructure (of Policy 1.1). 
+ 
+• Environmental Impact Assessment: The environmental impact 
+assessment requires demonstration of impact to other nearby projects and 
+proposals, and probable future impacts of the proposal, focused on the ‘elements 
+of the environment most likely to be affected as well as potential regional effects 
+and ecological interrelationships’, and a ‘detailed examination of public resources 
+most likely impacted by the development’. This report shall also 
+‘identify mitigation measures which may be undertaken to offset any degradation, 
+diminution, or depletion of public natural resources’. Including requirements for 
+environmental impact assessments works to ‘preserve natural resources in the 
+development process’ (of Policy 3.1).  
+ 
+• Sustainable Infrastructure/Building Design: Proposals are encouraged include 
+features like LEED certification and roof-mounted solar energy systems for Data 
+Center buildings, which supports ‘sustainable building, site design and community 
+design practices’ (of Policy 3.4).  
+ 
+• Traffic Impacts: The ordinance requires the applicant submit a traffic-impact 
+analysis to address construction-phase traffic and oversized equipment 
+deliveries, which supports the goal of FutureLV to ‘minimize quality of life 
+impacts to residents’ by ensuring adequate transportation capacity is available 
+(of Policy 2.4).   
+25
+
+[page 26]
+  
+   
+ 
+ 
+• Decommissioning and Electronic Waste Plan: The ordinance includes 
+provisions for decommissioning and site restoration, requiring that 
+upon cessation of operation, the owner or operator of the data center shall 
+‘propose methods and schedule for removal or beneficial reuse of all structures’ 
+from the property no later than 20 months after the data center is within non-
+operational status. As part of the Conditional Use application, the 
+applicant will be required to outline procedures for safe removal and disposal of 
+hazardous materials to apply when data centers are decommissioned. Taken 
+together, the decommissioning plan and electronic waste plan support the goal 
+of FutureLV to ‘enhance the long-term viability of assets’ and ‘provide 
+environmentally responsible and economical solid, electronic and hazardous 
+waste disposal and recycling’ (of Policies 1.3 and 3.2). 
+ 
+The LVPC offers additional recommendations for the Township’s consideration to further 
+strengthen its regulations and promote public health, safety and welfare:    
+  
+• Definitions: The LVPC suggests amending the definition of “Data Center 
+Equipment”. In the current proposed ordinance, Data Center Equipment (DCE) is 
+defined in relation to the noise that it generates. To support clarity, this definition 
+should focus on the function of Data Center Equipment to better identify what 
+structures or machines fall into this classification (of Policy 1.4). 
+ 
+• Heat Mitigation: Because data centers generate significant heat, the Township 
+is encouraged to require applicants to submit a Thermal Impact Mitigation 
+Plan that outlines strategies for waste heat reuse or dissipation, which minimizes 
+environmental impacts of development to protect the health, safety and welfare of 
+the public’ (of Policy 3.2). Encouraging cool roofs, green roofs/shade 
+trees, and light-colored exterior walls help to mitigate heat island 
+effect and incorporate ‘sustainable building, site design and community 
+design practices’ (of Policy 3.4).  
+ 
+• Cooling: The LVPC recommends that the applicant specify the type of cooling 
+method proposed as part of the conditional use approvals process. Considering 
+that changes to the proposed cooling method after approval is granted will alter 
+the required water/sewer and power requirements and change the required utility 
+infrastructure to support it, specifying this upfront ‘encourages an efficient 
+development process’ (of Policy 1.4).  
+ 
+ 
+Conversion of Existing Buildings into Dwelling Units 
+The ordinance amends Article 4, Section 402 to add a section allowing existing single-
+family dwellings to be converted into up to 4 dwelling units. Conversions will be allowed 
+where the appearance of the single-family dwelling does not change with respect to a 
+single front entrance. Additional entrances must be placed on the rear or the side of the 
+structure. Providing for conversions supports the goal of FutureLV to ‘provide for a wide 
+26
+
+[page 27]
+  
+   
+ 
+variety of attainable housing in locations that maximize social and economic 
+opportunities for everyone’ (of Policy 4.5).  
+ 
+Honeybee Apiaries  
+The proposed amendment complies with best management practices for the keeping of 
+honeybees. All honeybee apiaries will be required to comply with Pennsylvania Bee 
+Law, 3 Pa. C.S.A 2101 et seq. and additional regulations by the Township, including:  
+• Orienting hives away from property lines. 
+• Limiting the number of hives to two per 2,000 square feet of lot area. 
+• Establishing flyaway barriers at least six feet in height. 
+• Maintaining a supply of fresh water on the site to prevent bees from congregating 
+at swimming pools or other nearby water sources.  
+Proactively zoning for this use supports the health and safety of pollinator species, 
+promoting environmentally sensitive stewardship of natural resources and assets (of 
+Policy 3.1).  
+ 
+Municipalities, when considering zoning ordinance amendments, should reasonably 
+attempt to be consistent with FutureLV: The Regional Plan, as required by the 
+Pennsylvania Municipalities Planning Code (MPC) [Article 1§105, Article III§303, §304 
+& §306(a), Article VI§603(j)].  
+  
+Sincerely,  
+  
+  
+Mary Grace Collins  
+Community and Regional Planner   
+  
+cc:   
+Kim Mutarelli, Secretary  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+27
+
+[page 28]
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+May xx, 2025 
+ 
+Ilene Eckhart, Manager 
+Allen Township 
+4714 Indian Trail Road 
+Northampton, PA 18067 
+ 
+Re: Data Center Overlay District Map and Use Regulations 
+Allen Township 
+Northampton County  
+ 
+Dear Ms. Eckhart, 
+ 
+The Lehigh Valley Planning Commission (LVPC) will consider the subject application at its 
+Comprehensive Planning Committee and Full Commission meetings, pursuant to the 
+requirements of the Pennsylvania Municipalities Planning Code (MPC). Discussion on agenda 
+items largely happens during the Committee meeting, and we welcome your participation. 
+Meeting participation details are below:   
+  
+LVPC Comprehensive Planning 
+Committee Meeting:  
+  
+May 26, 2026, at 12:00 PM (Virtual)  
+https://lvpc.org/lvpc-meetings  
+  
+LVPC Full Commission  
+Meeting:  
+  
+May 28, 2026, at 7:00 PM (Virtual)  
+https://lvpc.org/lvpc-meetings 
+ 
+The application proposes to amend the Allen Township Zoning Ordinance to include Data 
+Centers and an overlay map where they could be located. 
+ 
+Data Centers 
+Data Centers are essential components of modern technological infrastructure, enabling 
+everyday devices to send and receive digital data needed for video streaming, online shopping, 
+cloud storage, and communicate with other devices. With the growth of digital device and 
+technology usage, hyperscale data centers have been expanding across Pennsylvania and are 
+an emerging land use in the Lehigh Valley. When sited appropriately and connected to 
+adequate infrastructure capacity, data centers can support the continuation of the region’s 
+technological evolution, economic base and resilience (of Policy 4.1). 
+ 
+Allen Township’s proposed ordinance both aligns with best practices for regulating data centers 
+and contains opportunities to improve the ordinance to support public health, safety and welfare. 
+  
+The following aspects of the proposed ordinance align with FutureLV:   
+28
+
+[page 29]
+  
+   
+ 
+ 
+  
+• Definitions: The ordinance distinguishes different types and aspects of Data 
+Storage Centers. Providing definitions encourages clarity and minimizes impacts of 
+regionally significant land uses (of Policy 1.4). Additionally, the LVPC recommends 
+adding a definition of Sensitive Receptors to help ‘create community spaces that promote 
+physical and mental health’ (of Policy 5.3).  
+ 
+• Water and Sewer Impacts: The proposed ordinance includes substantive utility and 
+infrastructure review. Requiring evidence of water and sewage service, a water 
+feasibility study, Delaware River Basin Commission (DRBC) review where applicable, 
+and an electric interconnection agreement reflects FutureLV’s emphasis on matching 
+development intensity to available infrastructure (of Policy 1.1)  and ‘minimizes impacts of 
+development to protect the health, safety and welfare of the public’ (of Policy 3.2).  
+ 
+• Cooling: The Township requires that all data centers shall utilize closed-loop cooling 
+systems. Details specifying the cooling method proposed are to be submitted as part of 
+the conditional use approvals process. Preference for closed-loop cooling ‘protects the 
+quality and quantity of surface water and groundwater’ (of Policy 3.2). It is recommended 
+that a definition of both Closed-Loop and Once-Through Cooling be included in the 
+Definition section of the ordinance. 
+ 
+• Emergency Planning: The provision requiring an Emergency Response Plan aligns 
+with FutureLV by enhancing planning and emergency response capabilities (of Policy 
+5.1). The LVPC encourages continued coordination between the applicant, Township and 
+local emergency service providers to ensure adequate site design that supports 
+preparedness and response capabilities. To further this goal, the LVPC recommends 
+additional fire suppression systems and a dedicated water line for emergency services.  
+ 
+• Environmental Impact Study: The requirement for abatement of environmental impacts 
+is a strong feature. Requiring mitigation of nuisance impacts, stormwater, emissions, and 
+energy consumption serves to ‘preserve natural resources in the land development 
+process’ (of Policy 3.1). To further this goal, the LVPC recommends the township 
+formalize these into an Environmental Impact Assessment to document the impact and 
+proposed mitigation steps. 
+o Additionally, the district overlay is in an area with several former quarries and 
+significant karsts. The LVPC recommends that an environmental impact study 
+include proper geotechnical testing prior to approval to ‘minimize the 
+environmental impact of development to protect the health, safety, and welfare of 
+the public’ (of Policy 3.2).  
+ 
+• Renewable Energy: The ordinance requires applicants for Data Centers document their 
+efforts to maximize the use of renewable energy for electrical and cooling needs and 
+implements strategies like maximizing unused roof space for solar arrays and off site 
+renewable energy generation which 'reduces climate change impacts through mitigation 
+and adaptation' (of Policy 3.4).  
+ 
+29
+
+[page 30]
+  
+   
+ 
+• Sustainable Infrastructure/Building Design: Proposals are 
+encouraged include features like  Leadership in Energy and Environmental Design 
+(LEED) certification and roof-mounted solar energy systems for Data Center buildings, 
+which supports ‘sustainable building, site design and community design practices’ (of 
+Policy 3.4). 
+ 
+• Decommissioning: The ordinance includes provisions for decommissioning and site 
+restoration to begin within one year of the closure of the facility. The LVPC recommends 
+the township consider requiring a decommissioning plan at the upfront of the plan to 
+ensure it meets the township's needs and 'enhance the long-term viability of assets' (of 
+Policy 1.3). 
+ 
+• Data Center Campus Master Plan: The ordinance includes provisions for development 
+of several data centers within one multi-phased project. The LVPC commends this 
+inclusion for ‘encouraging an efficient development process’ (of Policy 1.4).  
+The LVPC offers additional recommendations for the Township’s consideration to further 
+strengthen its regulations and promote public health, safety and welfare:    
+• Conditional Use: Permitting data centers and data center campuses as a conditional 
+use would allow the Township to evaluate project impacts on a case-by-case basis 
+to determine community needs and sensitivities and balance those needs with the 
+demand for modern technological infrastructure. This approach supports an efficient 
+development process that is responsive to regional needs and minimizes the impacts of 
+regionally significant land uses (of Policy 1.4). 
+ 
+• Setbacks: The LVPC recommends the proposed setback of 500 feet from any property 
+line for Data Center and related uses. Large setbacks, especially where the data center 
+borders any residential use, parks, sensitive receptor, or public roadway help to minimize 
+noise and visual impacts on adjacent property owners (of Policy 3.2).  
+ 
+• Noise: When proper noise abatement measures are taken by the developer (such as 
+installing sound attenuation walls), noise level at the property line can be significantly 
+reduced. Data Centers are operational 24/7, so noise levels are unlikely to change 
+throughout the day unlike other kinds of industrial uses. The LVPC recommends that 
+the Township consider lowering the permissible maximum decibel level to 55 
+dB(A) regardless of the time of day, especially where the Data Center borders residential 
+or other non-industrial uses (of Policy 3.2). The LVPC commends the Township's 
+inclusion of a sound assessment to demonstrate the decibel levels at the site.  
+ 
+• Parking: Because data centers typically have fewer employees than other types of 
+industrial uses, applying parking minimum standards that are typical of other types of 
+industrial uses may lead to overbuilt, unused impervious surfaces 
+that exacerbate stormwater impacts. The LVPC recommends a parking requirement of 
+one space per on-site employee to support best-practice contextual standards 
+that match development intensity with appropriate infrastructure capacity (of Policy 1.1) 
+and reduce impervious surfaces and protect water sources (of Policy 3.3). 
+ 
+30
+
+[page 31]
+  
+   
+ 
+• Back Up Power: The ordinance should specify that any backup power equipment 
+minimize air pollutant emissions to meet EPA Tier 4 emissions standards and require 
+annual testing to minimize air quality impacts (of Policy 3.2). Detailed specifications on 
+emissions controls and fuel storage safety measures such as spill-prevention and 
+secondary containment should also be included to ensure public health and 
+environmental safety.  
+ 
+• Aesthetics: Including aesthetic standards such as facade articulation and roofline and 
+material variation helps to minimize the visual impacts of the scale of buildings on 
+neighboring properties and ‘promote context-specific design solutions’ (of Policy 5.4).  
+ 
+• Electronic Waste: The Township may wish to include procedures for safe removal and 
+recycling or disposal of server infrastructure, hazardous materials, batteries, electronic 
+waste, and related products which supports the goal of FutureLV to ‘provide 
+environmentally responsible and economical solid, electronic and hazardous waste 
+disposal and recycling’ (of Policy 3.2).  
+ 
+• Heat Mitigation: Because Data Centers generate significant heat, the Township is 
+encouraged to require applicants to submit a Thermal Impact Mitigation Plan that 
+outlines strategies for waste heat reuse or dissipation, which minimizes environmental 
+impacts of development to protect the health, safety and welfare of the public’ (of Policy 
+3.2). Encouraging cool roofs, green roofs/shade trees, and light-colored exterior 
+walls help to mitigate heat island effect and incorporate ‘sustainable 
+building, site design and community design practices’ (of Policy 3.4). 
+Municipalities, when considering zoning ordinance amendments, should reasonably attempt to 
+be consistent with FutureLV: The Regional Plan, as required by the Pennsylvania Municipalities 
+Planning Code (MPC) [Article 1§105, Article III§303, §304 & §306(a), Article VI§603(j)].  
+  
+Sincerely,  
+  
+  
+Jacob Weinberg  
+Community and Regional Planner   
+  
+cc:   
+Stan Wojciechowski, Township Engineer;  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+31
+
+[page 32]
+ 
+   
+ 
+ 
+ 
+ 
+ 
+May XX, 2026 
+ 
+Mr. Mark Hudson, Manager 
+Hanover Township 
+3630 Jacksonville Road 
+Bethlehem, PA 18017 
+  
+Re: Zoning Ordinance Amendment – Data Centers Revision 
+Hanover Township 
+Northampton County   
+  
+Dear Mr. Hudson, 
+ 
+The application proposes amending the Hanover Township Zoning Ordinance 
+amendment on Data Centers to add additional regulations and provisions.   
+ 
+The LVPC supports Hanover Township’s proactive effort to address an emerging land 
+use before proposals arrive. That approach is consistent with FutureLV: The  
+Regional Plan’s direction to guide the location and intensity of development, match  
+development intensity with infrastructure capacity, and encourage an efficient  
+development process responsive to regional needs (of Policy 1.1). The Township 
+furthers this goal by revising the provision to include additional protections and the 
+Township’s proposed ordinance both aligns with best practices for regulating Data  
+Centers and contains opportunities to improve the ordinance to support public health,  
+safety and welfare. 
+ 
+The following aspects of the proposed ordinance align with FutureLV: 
+• Parking: The updated parking requirement of one parking spot per 1,000 square 
+feet of floor area and one per company vehicle kept on site supports best-
+practice contextual standards that match development intensity with appropriate 
+infrastructure capacity (of Policy 1.1) and reduce impervious surfaces and protect 
+water sources (of Policy 3.3).  
+ 
+• Cooling: Requiring closed-loop cooling systems ‘protects the quality and quantity 
+of surface water and groundwater’ (of Policy 3.2). It is recommended that a 
+definition of both Closed-Loop and Once-Through Cooling be included in the 
+Definition section of the ordinance. 
+ 
+• Renewable Energy: The ordinance requires applicants for Data Centers 
+document their energy sources for electrical and recommends implementing 
+renewable energy generation strategies, as well as perform regular maintenance 
+32
+
+[page 33]
+  
+   
+ 
+to these generators which 'reduces climate change impacts through mitigation 
+and adaptation' (of Policy 3.4).  
+ 
+• Emergency Planning: The updated ordinance improved emergency planning 
+efforts for Data Centers and further enhances planning and emergency response 
+capabilities (of Policy 5.1). 
+ 
+• Additional Studies and Plans: The updated proposal includes provisions for a 
+vibration study and noise study. Both help ‘minimize the environmental impacts 
+of development to protect the health, safety and welfare of the public’ (of Policy 
+3.2). Additionally, the ordinance adds requirements for plans on 
+decommissioning electronic waste and thermal impact mitigation. The 
+decommissioning plan and electronic waste plan support the goal of  FutureLV  
+to ‘enhance the long-term viability of assets’ and ‘provide environmentally 
+responsible and economical solid, electronic and hazardous waste disposal and 
+recycling’ (of Policies 1.3 and 3.2). The heat mitigation plan helps ‘minimize 
+environmental impacts of development to protect the health, safety and welfare 
+of the public’ (of Policy 3.2). Encouraging cool roofs, green roofs, shade 
+trees, and light-colored exterior walls help to mitigate heat island 
+effects and incorporate ‘sustainable building, site design and community 
+design practices’ (of Policy 3.4).  
+ 
+• Power Supply: The proposal adds a provision requiring that self-supplied energy 
+sources must be approved by the Township, which helps ‘encourage an efficient 
+development process that is responsive to regional needs’ (of Policy 1.4). The 
+LVPC recommends the Township look for energy sources that meet the U.S.  
+Environmental Protection Agency Tier 4 regulations, which is the highest tier of 
+protections for nonroad compression-ignition engines and ‘improve regional air 
+quality’ while ‘minimizing environmental impacts of development to protect the 
+health, safety, and welfare of the public’ (of Policy 3.2) 
+ 
+ 
+The LVPC is copying representatives of the Nazareth Area Plan on this review letter to 
+‘coordinate land use decisions across municipal boundaries’ as (of Policy 1.4). 
+ 
+Municipalities, when considering subdivision/land developments, should reasonably 
+attempt to be consistent with FutureLV: The Regional Plan, as required by the 
+Pennsylvania Municipalities Planning Code (MPC) [Article 1§105, Article III§303, §304 
+& §306(a), Article VI§603(j)]. The LVPC review does not include an in-depth 
+examination of plans relative to subdivision design standards or ordinance requirements 
+since these items are covered in the municipal review. 
+ 
+33
+
+[page 34]
+  
+   
+ 
+Sincerely,  
+ 
+Jacob Weinberg 
+Community and Regional Planner 
+ 
+Cc:  
+Bradford Flynn, Bath Borough Manager;  
+Belinda Roberts, Bushkill Township Manager;  
+John Defassio, Chapman Borough Secretary/Treasurer; 
+Lori Seese, Lower Nazareth Township Planning and Zoning Administrator;  
+Stephen Nowroski, Moore Township Manager;  
+Theresa Fedele, Nazareth Borough Assistant Secretary/Treasurer;  
+Candace Keller, Stockertown Borough Secretary; 
+Mark Saginario, Tatamy Borough Manager;  
+Lisa Klern, Upper Nazareth Township Manager.  
+34
+
+[page 35]
+ 
+   
+ 
+ 
+ 
+ 
+ 
+May X, 2026 
+ 
+Ms. Paige Stefanelli, Manager 
+Plainfield Township 
+6292 Sullivan Trail   
+Nazareth, Pennsylvania 18064   
+ 
+Re: Zoning Ordinance Amendment – Steep Slopes 
+Zoning Map Amendment – Solid Waste to Farm and Forest District 
+Plainfield Township 
+Northampton County 
+ 
+Dear Ms. Stefanelli: 
+ 
+The Lehigh Valley Planning Commission (LVPC) reviewed this proposal according to 
+the Goals, Policies and Actions of FutureLV: The Regional Plan, and will consider the 
+subject application at its Comprehensive Planning Committee and Full Commission 
+meetings, pursuant to the requirements of the Pennsylvania Municipalities Planning 
+Code (MPC). Discussion on agenda items largely happens during the Committee 
+meeting. Both meetings will be virtual, and we encourage your participation. The LVPC 
+will issue a follow-up letter after the Commission meeting if Commission members have 
+any additional comments. Meeting participation details are below:  
+ 
+• LVPC Comprehensive Planning Committee Meeting 
+o May 26, 2026 at 12:00 PM 
+o https://lvpc.org/lvpc-meetings 
+• LVPC Full Commission Meeting 
+o May 28, 2026 at 7:00 PM 
+o https://lvpc.org/lvpc-meetings 
+ 
+The application proposes to amend the Plainfield Township Zoning Ordinance and 
+Zoning Map to reverse portions of the Township’s recently adopted zoning changes 
+related to the Grand Central Landfill expansion. The proposal removes previously 
+rezoned lands from the Solid Waste Processing and Disposal (SW) Zoning District and 
+returns them to the Farm and Forest (FF) Zoning District, and amends ordinance 
+provisions related to landfill development and steep slope regulation. 
+ 
+35
+
+[page 36]
+    
+   
+   
+ 
+BACKGROUND 
+ 
+The LVPC previously reviewed the Township’s 2025 zoning ordinance and zoning map 
+amendments that expanded the SW District to facilitate potential landfill expansion, and 
+in 2025 LVPC also reviewed a land development application filed for the landfill 
+expansion. In those reviews, the LVPC acknowledged that expansion of the existing 
+landfill could support FutureLV objectives related to maintaining regional solid waste 
+disposal capacity and promoting fiscal sustainability, but raised substantial concerns 
+regarding farmland preservation, natural resource impacts, steep slopes, wetlands, 
+woodland removal, transportation infrastructure, and community health and wellbeing. 
+ 
+ENVIRONMENT  
+ 
+The proposal to remove the expansion area from the SW District and return it to the 
+Farm and Forest District aligns with several FutureLV objectives related to conservation 
+of rural lands and natural resources. The area proposed to be removed from the SW 
+District contains significant environmental features, including woodlands, wetlands, 
+hydric soils, riparian areas, and steep slopes identified in the FutureLV Natural 
+Resources Plan. FutureLV identifies these features as High and Medium Conservation 
+Priority resources and calls for municipalities to “preserve, protect and restore the 
+natural environment to promote resiliency” and to “conserve and manage natural lands” 
+(Policy 3.1). 
+ 
+The southern portion of the previously rezoned area is also designated as Farmland 
+Preservation in the General Land Use Plan of FutureLV. Returning these lands to the 
+Farm and Forest District supports FutureLV objectives to “preserve farmland of all sizes, 
+when possible” (Policy 3.3) and reinforces the rural and agricultural character 
+envisioned for this portion of the Township. 
+ 
+The LVPC previously identified concerns regarding the extent of woodland disturbance, 
+steep slope impacts, and potential encroachment into environmentally sensitive areas 
+associated with the proposed landfill expansion. Returning the property to the FF 
+District would reduce the likelihood of future disturbance to these resources and 
+supports FutureLV policies emphasizing long-term environmental stewardship (of Policy 
+3.1). 
+ 
+COMMUNITY 
+ 
+The LVPC’s prior reviews acknowledged that Grand Central Sanitary Landfill serves a 
+significant role in Northampton County’s solid waste management system, and the 
+proposal has implications for regional solid waste infrastructure. Maintaining local 
+disposal capacity may help reduce long-distance hauling, transportation emissions, and 
+long-term operational costs. The Northampton County Solid Waste Management Plan 
+36
+
+[page 37]
+    
+   
+   
+ 
+identifies Grand Central as one of the County’s major waste disposal facilities. FutureLV 
+recognizes landfills and solid waste facilities as regionally significant land uses because 
+they provide essential public infrastructure and services that extend beyond municipal 
+boundaries. The Township should continue to consider the potential implications of 
+limiting future landfill capacity, including increased transportation distances for waste 
+hauling, fiscal implications associated with future host fee revenue, and long-term waste 
+disposal capacity needs. These considerations do not necessarily outweigh 
+environmental and land preservation concerns, but illustrate the competing planning 
+priorities that must be balanced when evaluating regionally significant infrastructure and 
+land uses (of Policies 3.2 and 1.1). 
+ 
+The LVPC reviewed a formally submitted land development application for the Grand 
+Central Landfill East Expansion in October 2025, and encourages the Township to 
+consult its Solicitor regarding the legal effect of zoning amendments on pending or 
+previously submitted development applications. Under the Pennsylvania Municipalities 
+Planning Code (MPC), applications for subdivision and land development may obtain 
+certain protections from subsequently adopted ordinance changes for five years, once a 
+complete application has been duly filed and accepted (Section 508.4) The Township 
+may still amend its zoning ordinance prospectively as a legislative action, though the 
+amendments may not apply to previously filed or approved land development plans. 
+ 
+The LVPC has copied representatives of adjacent municipalities to ‘coordinate land use 
+decisions across municipal boundaries’ (of Policy 1.4). 
+ 
+Municipalities, when considering zoning ordinance amendments, should reasonably 
+attempt to be consistent with FutureLV: The Regional Plan, as required by the 
+Pennsylvania Municipalities Planning Code (MPC) [Article 1§105, Article III§303, §304 
+& §306(a), Article VI§603(j)].    
+ 
+Sincerely,  
+ 
+  
+Jill Seitz  
+Chief Community and Regional Planner   
+ 
+cc: Amy Kahler, Township Administrative Assistant/Secretary; Louise Firestone, Wind Gap Borough Manager; Robin 
+Zmoda, Pen Argyl Borough Manager; Sharon Cifuentes, Washington Township Secretary/Treasurer. 
+37
+
+[page 38]
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+May xx, 2025 
+ 
+Lisa Klem, Manager 
+Upper Nazareth Township 
+1001 Newport Ave 
+Nazareth, PA 18064 
+ 
+Re: Subdivision and Land Development Ordinance Revisions 
+Upper Nazareth Township 
+Northampton County  
+ 
+Dear Ms. Klem, 
+ 
+The Lehigh Valley Planning Commission (LVPC) will consider the subject application at its 
+Comprehensive Planning Committee and Full Commission meetings, pursuant to the 
+requirements of the Pennsylvania Municipalities Planning Code (MPC). Discussion on agenda 
+items largely happens during the Committee meeting, and we welcome your participation. 
+Meeting participation details are below:   
+  
+LVPC Comprehensive Planning 
+Committee Meeting:  
+  
+May 26, 2026, at 12:00 PM (Virtual)  
+https://lvpc.org/lvpc-meetings  
+  
+LVPC Full Commission  
+Meeting:  
+  
+May 28, 2026, at 7:00 PM (Virtual)  
+https://lvpc.org/lvpc-meetings 
+ 
+The application proposes to amend the Upper Nazareth Township Subdivision and Land 
+Development Ordinance (SALDO) to make several substantive changes. 
+ 
+General Provisions & Terminology  
+The proposed amendment adds several features to the general provisions clause. First, it adds 
+a general purpose for the SALDO which creates an ‘efficient and coordinated development 
+pattern’ (FutureLV Goal 1). It also clarifies and reorganizes several other parts including 
+exemptions, the interpretations, modifications and exceptions, and the resubmittal process, all of 
+which help ‘encourage an efficient development process that is responsive to regional needs’ (of 
+Policy 1.4).  Additionally, the proposed ordinance added a section with an overview of the 
+general procedures explaining when each type of submission is required, which furthers Policy 
+1.4.  
+ 
+The proposal also added or modified around 60 definitions to their terminology, clarifying 
+everything from specific ordinances referenced in the document to adding in definitions for their 
+new provisions added throughout the amended ordinance. Updating and amending definitions 
+38
+
+[page 39]
+  
+   
+ 
+help developers and engineers understand the Township’s desired development standards and 
+‘encourages an efficient development process’ (of Policy 1.4).  
+ 
+Plan Submission Procedures 
+The application proposes several revisions to the submission process and requirements for 
+applications. Generally, many of the revisions help ‘encourage an efficient development process 
+responsive to regional needs’ (of Policy 1.4), and the LVPC commends a couple specific 
+provisions that improve the proposal. First, the Township included its Environmental Advisory 
+Council as a potential reviewer for the Planning Commission, which helps ‘facilitate discussion 
+among residents, stakeholders, appointed officials, and elected representatives’ (of Policy 1.4). 
+they likewise included the Fire Chief, furthering that goal. The EAC and Fire Chief as reviewers 
+furthers FutureLV Goals 3 & 5, to have a ‘protected and vibrant environment’ and have ‘safe, 
+healthy, inclusive, and livable communities’.  
+ 
+The amended submission procedures also added several elements to be shown on plans that 
+align with FutureLV: The Regional Plan. First, they asked to identify buildings estimated to be 
+over 100 years of age that would be impacted, along with names and descriptions, which helps 
+‘promote development that complements the unique history, environment, culture and needs of 
+the Valley’ (of Policy 5.4). Second, as a part of the construction details for final plan signing, the 
+proposal requests information on street construction, stormwater and sewer structures, sidewalk 
+and street tree planting details, as well as sinkhole and ground subsidence repair details, all of 
+which support several aspects of FutureLV, all leading to an ‘efficient and coordinated 
+development pattern’ (FutureLV Goal 1).  
+ 
+Design Standards 
+The amended ordinance provides several revisions to the general design standards. First, under 
+general standards, the township’s proposal adds several criteria that align with FutureLV: The 
+Regional Plan. The amendment proposes limiting subdivision until hazardous conditions such 
+as ground subsidence, floods, or unsafe water supply have been resolved, as well as aligning 
+with the comprehensive plan, zoning, and nearby development. The amendment doubles down 
+on public safety by limiting development that would significantly threaten public health and 
+safety with groundwater, pollution, explosive or fire hazards. Together, these provisions 
+‘discourage development in hazard prone areas’ (of Policy 3.2) and ‘promote safe and secure 
+community design and emergency management’ (of Policy 5.1).  
+ 
+Another proposed amendment adds requirements for land development of scale to contact 
+either or both the school district to establish a safe location for a school bus stop, or by decision 
+of the planning commission, contact the local public transportation agency to seek an 
+appropriate location for a public bus stop. Both help ‘provide a safe, well-maintained 
+transportation network’ (of Policy 2.2), ‘promote safe routes to schools and playgrounds’ and 
+‘integrate mixed-transportation into public space designs’ (of Policy 5.2).  
+ 
+Additionally, the ordinance updates the cartway designs, disregarding the lot size and creating a 
+standard based on the type of use, requiring a 32-foot cartway for all local roads without 
+parking, 36 feet with on street parking, meaning lanes range from 16-18 feet wide. Both the 
+Federal Highway Administration and National Association of City Transportation Officials 
+recommend lanes between 10 and 12 feet wide, as wider lanes can encourage drivers to speed 
+and attempt to change lanes, which can increase likelihood of accidents. The LVPC 
+recommends the Township consider either reducing the cartways on local roads down to 24 feet 
+39
+
+[page 40]
+  
+   
+ 
+for single-family homes with 28 feet where on-street parking is permitted, and consider lowering 
+for all other uses as well, though greater widths might be appropriate for different types of 
+development. Smaller cartways would ‘provide a safe, well-maintained transportation network to 
+move people and goods efficiently, while capitalizing on existing infrastructure’ (of Policy 2.2) 
+while ‘reducing bicycle and pedestrian fatalities towards zero.’ (of Policy 5.1).  
+ 
+The proposed amendment also requires sidewalks in all subdivisions where public or private 
+streets are proposed, with sidewalks on both sides of all streets, including parking lot access 
+drives and non-residential driveways. This amendment helps ‘provide a safe-well maintained 
+transportation network’ and ‘improve connections between bus stops, pedestrians, and bicycle 
+infrastructure’ (of Policies 2.2 & 5.2).  
+ 
+The amendment also proposes extending the public water supply system to the furthest point of 
+the subdivision away from where the main enters the subdivision with the final termination point 
+of the main to be determined at the satisfaction of the Township and water system owner. This 
+policy aligns with many aspects of FutureLV: The Regional Plan by ‘strengthening public sewer 
+and water in Centers and along Corridors, as needed’ (of Policy 3.2) and both ‘improve the utility 
+infrastructure of the region’ and ‘match development intensity with sustainable infrastructure 
+capacity’ (of Policy 1.1).  
+ 
+The ordinance also makes several revisions to some of the stormwater provisions found in their 
+SALDO, while also referencing their Stormwater Management Ordinance. The LVPC commends 
+these updates for helping ‘manage the rate, volume, and quality of storm runoff’ (of Policy 3.2). 
+Additionally, the ordinance amends the requirements for detention basins to require native 
+landscaping in detention basins which advocates for use of ‘native, climate-adaptive and 
+carbon-sequestering landscaping’ (of Policy 3.4).  
+ 
+Additionally, the proposed amendment adds an extensive and comprehensive review of the 
+karst geology. The amendment proposes a three-phase process of a preliminary evaluation, 
+geologic and hydrologic reconnaissance, and a karst field study, and outlines each step, the 
+necessary mitigation and specific policy towards impacted projects. Mapping provided by the 
+Bureau of Topographic and Geologic Survey at the Pennsylvania Department of Conservation 
+and Natural Resources indicates the extensive presence of karst in Upper Nazareth Township, 
+so this amendment helps ‘minimize the environmental impacts of development to protect the 
+health, safety, and welfare of the public’ (of Policy 3.2).  
+ 
+Mapping: LVPC & USGS 
+40
+
+[page 41]
+  
+   
+ 
+Improvement Specifications 
+Finally, the Township made several updates to its improvement specifications that help 
+safeguard the community like allowing the township engineer to inspect the site to ensure work 
+is in conformance with approved plans. The section was also amended to update and expand 
+the maintenance agreement and maintenance guarantees, which should allow the township to 
+avoid any situations where a developer neglects a property or an aspect of a development. This 
+aligns with FutureLV: The Regional Plan for ‘matching development intensity with sustainable 
+infrastructure capacity’ (of Policy 1.1) and ‘promote fiscal health and sustainability of 
+municipalities’ (of Policy 4.6).  
+ 
+The members of the Nazareth Area Multi-Municipal Comprehensive Plan are being included in 
+this review letter to ‘coordinate land use decisions across municipal boundaries’ as (of Policy 
+1.4).  
+ 
+Municipalities, when considering zoning ordinance amendments, should reasonably attempt to 
+be consistent with FutureLV: The Regional Plan, as required by the Pennsylvania Municipalities 
+Planning Code (MPC) [Article 1§105, Article III§303, §304 & §306(a), Article VI§603(j)].  
+  
+Sincerely,  
+  
+  
+Jacob Weinberg  
+Community and Regional Planner   
+  
+cc:   
+Kim Mutarelli, Secretary; 
+Carroll Engineers, Township Engineer; 
+Bradford Flynn, Bath Borough, Borough Manager; 
+Belinda Roberts, Bushkill Township, Township Manager; 
+Timothy Paashaus, Chapman Borough, Borough Manager; 
+Mark Hudson, Hanover Township, Township Manager; 
+Lori Seese, Lower Nazareth Township, Planning and Zoning Administrator; 
+Stephen Nowroski, Moore Township, Township Manager; 
+Theresa Fedele, Nazareth Township, Asst. Secretary-Treasurer/ Borough Clerk; 
+Candace Keller, Stockertown Borough, Borough Secretary; 
+Mark Saginario, Tatamy Borough, Borough Manager.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+41
+
+[page 42]
+   
+1 
+ 
+STRATEGY LAB: Example SOAR 
+ 
+Issue STRENGTHS (S) 
+What makes us unique?  
+OPPORTUNITIES (O) 
+What are the new 
+trends and 
+opportunities that we 
+can take advantage 
+of? 
+ASPIRATIONS (A) 
+What does the future of 
+our region look like? 
+RESULTS (R) 
+How will we know 
+when we have 
+accomplished our 
+aspirations/goals? 
+Sample Issue and SOAR 
+Improve access to 
+training programs for 
+widget developers.  
+Lehigh Valley has a large 
+and growing widget 
+industry based on our 
+location and number of 
+widget companies. 
+There is an increasing 
+need for widgets due to 
+the projected growth of 
+products and services 
+that use widgets. 
+The Lehigh Valley will 
+become a leader in 
+widget developer 
+education to support 
+the growth of the 
+widget industry and to 
+increase the number of 
+jobs in this sector. 
+By 2050 there will be a 
+20% increase in 
+people with widget 
+degrees or 
+certifications from LV 
+institutions, and widget 
+industry employment 
+will grow by 30%. 
+ 
+42

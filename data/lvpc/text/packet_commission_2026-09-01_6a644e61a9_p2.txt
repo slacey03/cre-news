@@ -1,0 +1,1104 @@
+
+
+[page 21]
+ 
+  
+ 
+ 
+ 
+September XX, 2026 
+ 
+Jennifer Gomez, Director of Planning and Zoning 
+City of Allentown 
+435 Hamilton Street 
+Allentown, PA 18101 
+ 
+Re: 1024 North Bradford Street Data Center – Land Development 
+City of Allentown 
+Lehigh County  
+ 
+Dear Director Gomez: 
+ 
+The Lehigh Valley Planning Commission (LVPC) will consider the subject application at 
+its Comprehensive Planning Committee and Full Commission meetings, pursuant to the 
+requirements of the Pennsylvania Municipalities Planning Code (MPC). Discussion on 
+agenda items largely happens during the Committee meeting. Meeting details are 
+below, and we encourage any and all participation:   
+ 
+LVPC Comprehensive Planning 
+Committee Meeting:  
+  
+September 22, 2026, at 12:00 PM (Virtual)  
+https://lvpc.org/lvpc-meetings  
+LVPC Full Commission  
+Meeting:  
+  
+September 24, 2026, at 7:00 PM (In-
+Person)  
+https://lvpc.org/lvpc-meetings  
+ 
+ 
+Background 
+The project proposes to develop the site by constructing a 146,000-square-foot data 
+center facility. The project includes an area for an electrical substation. The project site 
+is located at 1024 North Bradford Street (parcel numbers 640758248221, 
+640759318024, 640758158799, and 640758206051).  
+ 
+The submission does not include project-specific information describing the proposed 
+facility's operational characteristics. Information was not provided identifying the cooling 
+system, anticipated water demand, total electrical demand, standby generation, whether 
+battery energy storage or other energy storage systems are proposed, mechanical 
+equipment locations, anticipated noise and vibration levels, or heat rejection 
+characteristics. Because these design and operational characteristics determine many 
+of the potential land use, environmental, utility and community impacts associated with 
+a data center, the LVPC cannot fully evaluate those impacts based on the materials 
+submitted. 
+21
+
+[page 22]
+    
+   
+ 
+ 
+ 
+ 
+ 
+Site Suitability and Land Use 
+The proposal is located in an area identified for Development in FutureLV: The Regional 
+Plan. Development areas generally contain existing development and infrastructure in 
+the area, and developing the site aligns with FutureLV by using vacant and underutilized 
+properties (of FutureLV Policy 5.4).  
+ 
+The project site is bounded by Bradford Street to the east, American Parkway to the 
+west, and Dauphin Street to the southwest. Nearby land uses include the Iron Pigs 
+baseball stadium to the northeast, Executive Education Academy Charter School to the 
+southeast as well as offices that include Workforce Board Lehigh Valley, and a 
+commercial/industrial development to the north across American Parkway.  
+ 
+Topography of the area creates natural separation between this site and the existing 
+land uses across North Bradford Street; however, data centers are industrial land uses 
+that can pose health and quality of life impacts to neighboring land uses if not 
+appropriately mitigated. The LVPC notes that no supplemental information was provided 
+with the submitted plans that analyze potential land use impacts related to the 
+development. Potential data center land use impacts to address include: 
+ 
+• A pre-construction professional noise study should be conducted for both 
+perceived and low frequency noises to support community health (of Policy 5.3).  
+Approximate 
+site location 
+22
+
+[page 23]
+    
+   
+• Based on additional utility and development characteristics, a complete noise 
+impact assessment with the potential use in full operation should be developed 
+and provided to the City to better understand impacts (of Policy 5.3). 
+• The buildings should be aesthetically designed to minimize the visual impacts of 
+the scale of buildings on nearby properties. Mechanical yards common with data 
+center land uses are not specified on the plans. Once identified, these should be 
+fully screened or enclosed to reduce visual impacts and ‘promote context-specific 
+design solutions’ (of Policy 5.4).  
+• Nighttime lighting levels should be designed to minimize glare, prevent spillover 
+onto adjacent properties and roadways, and minimize environmental impacts of 
+development (of Policy 3.2).  
+• The applicant should also assess potential heat exhaust impacts from 
+mechanical systems that may affect nearby land uses (of Policy 3.2). 
+ 
+These community impacts must be mitigated for the project to be suitable for the 
+proposed location (of Policy 1.4). These impacts will also be discussed in greater detail 
+in the following sections of this review. 
+ 
+This area is also identified in the Allentown Vision 2030 Comprehensive Plan as a 
+Strategic Planning Area in the Urban Systems and Areas of Allentown, which are future 
+areas of economic growth, redevelopment, and/or community planning efforts. Because 
+of the nearby Iron Pigs, Charter School and Workforce Board, an area of community-
+supporting services and land uses in this area would better ‘root economic development 
+strategies in the unique competitive advantages of the region’ (of Policy 4.1) and 
+‘promote development that complements the unique history, environment, culture and 
+needs of the Valley’ (of Policy 5.4).  
+ 
+Emergency Services 
+Given the unique electrical, mechanical, and security characteristics of data centers, the 
+City and applicant should coordinate early and continuously with local emergency 
+service providers to ensure adequate preparedness and response capabilities. The 
+applicant should provide fire, emergency medical services, and police departments with 
+detailed information on site access, security protocols, hazardous materials storage, 
+backup power systems, and any specialized equipment such as battery energy storage 
+systems. Emergency responders should be consulted on the adequacy of access 
+points, turning radii, hydrant placement and fire suppression systems, and should 
+receive appropriate training or orientation prior to occupancy. This coordination is 
+essential to safeguard responders, protect critical infrastructure, and ensure that the 
+facility can be safely and effectively served during both routine incidents and large-scale 
+emergencies (of Policy 5.1). 
+ 
+Environment and Utility Infrastructure 
+The submission does not provide sufficient information to evaluate the project’s full 
+electrical demand or its long-term impacts on the regional power grid. The applicant 
+should clarify the total projected electrical load at full buildout and demonstrate 
+coordination with PPL to confirm that the existing grid can reliably accommodate this 
+23
+
+[page 24]
+    
+   
+load without degrading service to current residential or commercial users. The applicant 
+should obtain written confirmation from PPL that identifies whether grid upgrades will be 
+required, such as substation expansion, new feeders, or transmission enhancements, 
+and how these improvements will be funded to promote fiscal health and sustainability 
+(of Policy 4.6).  
+ 
+Additional detail is needed on how the facility will align with industry energy efficiency 
+standards, including anticipated Power Usage Effectiveness (PUE) targets, energy 
+management audits, and reporting practices. The applicant should also identify what 
+proportion of its energy use will be met through renewable sources and whether it is 
+willing to support new renewable energy generation, rather than relying solely on 
+existing supply. Information on the developer’s interest or capacity for onsite or offsite 
+renewable energy production, such as solar, battery storage, or power purchase 
+agreements, is necessary to understand the project’s long-term sustainability and its 
+alignment with regional clean energy goals (of Policy 3.4). 
+ 
+The site plans also do not specify the number or locations of backup generators. If 
+generators are proposed, the applicant should identify their number, rated capacity, fuel 
+type, location, anticipated emissions, enclosure or sound attenuation measures, fuel 
+storage and spill containment provisions, and anticipated testing frequency and 
+duration. The applicant should identify applicable state or federal air quality permitting 
+requirements and evaluate lower emission alternatives where feasible to minimize air 
+quality impacts (of Policy 3.2). The developer should provide a generator testing plan 
+that outlines the frequency, duration, and timing of tests so the City can adequately 
+evaluate potential noise, air quality, and neighborhood impacts in coordination with 
+neighboring properties (of Policies 5.2, 5.3, and 5.4). 
+ 
+The application lacks essential information regarding the project’s water demands and 
+cooling system. The developer should identify the specific cooling technology proposed, 
+whether air cooled, water cooled, evaporative, or hybrid, as each has significantly 
+different implications for water use and infrastructure needs. The submission should 
+also clarify whether the system incorporates water reuse or heat recovery measures 
+that could reduce overall consumption. Given the region’s current drought conditions, it 
+is critical that the applicant model water use under drought stage or peak stress 
+scenarios and demonstrate long-term reliability of the proposed water supply. If 
+connection to the public water system is anticipated, immediate coordination with 
+Lehigh County Authority is recommended to evaluate capacity needs and any potential 
+infrastructure upgrades (of Policy 3.2). 
+ 
+Landscaping is proposed along the property frontages throughout the project site and 
+along the property boundary. Adequate buffers, landscaping, berms, and architectural 
+treatments are essential to ensure buildings fit in with community character and disrupt 
+the visual impact of large building mass (of Policies 3.2 and 3.4). 
+ 
+The LVPC encourages the developer to consider opportunities for incorporating 
+sustainable energy systems that reduce overhead operational costs and ‘reduce climate 
+24
+
+[page 25]
+    
+   
+change impacts through mitigation and adaptation’ (of Policy 3.4), such as geothermal 
+energy systems, green roofs, solar panels and greywater reuse for irrigation and 
+plumbing. The developer should also consider adding electrical vehicle charging spaces 
+at the site to serve the residents and ‘advance deployment of alternative fueling 
+infrastructure’ (of Policy 2.5). Green Roof systems can also provide additional 
+opportunity to 'manage the rate, volume and quality of storm runoff' and ‘minimize 
+environmental impacts of development to protect the health, safety, and welfare of the 
+public’ (of Policy 3.2). 
+ 
+The project site is located within the Catasauqua Creek watershed. This watershed has 
+a fully implemented Act 167 Stormwater Management Ordinance. Comments related to 
+our review of the project’s stormwater management plan are included with this review. 
+  
+Transportation 
+The LVPC previously reviewed another site plan at this location in a letter dated August 
+11, 2022. At the time, warehousing was the proposed land use. Data centers generally 
+involve substantially less routine freight and employee traffic than comparably sized 
+warehouse and distribution facilities. However, specific staffing, service, delivery and 
+other operational trip information was not included in the submission therefore no 
+assessment of traffic impacts could be assessed with this plan submission.   The Iron 
+Pigs stadium and Executive Education Academy Charter School developments are 
+identified as Traffic Generators. Union Boulevard is also identified as a high crash 
+corridor between Airport Road to the east and North 11th Street to the west.  
+ 
+Aspects of the site plan can be improved to better ensure adequate transportation 
+access and movement. The submitted site plan appears to retain a transportation and 
+parking layout characteristic of a more freight-intensive industrial use. The parking 
+tabulation on the plan identifies 94 passenger spaces and 36 truck spaces are 
+proposed. Because no operations narrative or project-specific transportation information 
+was submitted, the applicant should provide the anticipated number of employees, shift 
+patterns, service and delivery activity and other vehicle trips necessary to operate the 
+data center, and revise the parking and loading layout accordingly. Once the 
+appropriate amount of commercial truck parking spaces is determined, any resulting 
+changes to the site plans should clearly separate these traffic movements to minimize 
+conflicts. Electric vehicle charging capacity should be provided for both commercial and 
+passenger vehicles (of Policy 2.5). 
+ 
+Sidewalks are proposed along all road frontages of the project site, connecting to the 
+existing sidewalks on American Parkway, which supports pedestrian safety and 
+reducing fatalities towards zero (of Policies 5.1 and 5.3). North Dauphin Street and 
+North Bradford Street west of North Dauphin Street are in an area identified for trail and 
+multimodal enhancements as part of the Delaware & Lehigh National Heritage Corridor 
+trail network.  However, no connections to trails or transit are provided. Bicycle racks 
+should be included near building entrances to accommodate alternative transportation 
+options and offer a seamless network for employees to safely ride to work (of Policies 
+2.2, 2.3 and 5.3).   
+25
+
+[page 26]
+    
+   
+ 
+Conclusion 
+Overall, given the lack of information submitted with the application as identified in this 
+review letter, the LVPC is unable to reach a conclusion on this proposal’s alignment with 
+FutureLV. The LVPC strongly advises the City against approving land development 
+plans without reviewing essential information about the operational conditions or 
+impacts the project will generate. As this project moves forward and details are 
+determined by the applicant, if the submitted plans substantially change, the plans must 
+be resubmitted to LVPC for review prior to plan signing and recordation. 
+ 
+The LVPC has copied representatives from adjacent municipalities and review agencies 
+to ‘coordinate land use decisions across municipal boundaries’ (of Policy 1.4). 
+ 
+Municipalities, when considering land developments, should reasonably attempt to be 
+consistent with FutureLV: The Regional Plan, as required by the Pennsylvania 
+Municipalities Planning Code (MPC) [Article 1§105, Article III§303, §304 & §306(a), 
+Article VI§603(j)]. The LVPC review does not include an in depth examination of plans 
+relative to subdivision design standards or ordinance requirements since these items 
+are covered in the municipal review. 
+ 
+Please let me know if there are any questions about this review. 
+ 
+Sincerely, 
+  
+Jill Seitz  
+Chief Community and Regional Planner  
+  
+cc: David Petrik, Deputy Director of Public Works; Melissa Velez, Senior Planner; Brandon Jones, 
+Planner; Joseph Millick, City Engineer; Brian Hite, Assistant Planner;  Samantha Pearson, Lehigh County 
+Director of Community and Economic Development; Liesel Gross, Lehigh County Authority Chief 
+Executive Officer; Garrett Cook, Lehigh County Conservation District Engineer; Fadia Halma, PA DCED 
+Lehigh Valley Regional Director; Alicia Karner, PA DCED BusinessPA Lehigh Valley Regional Office 
+Director; Dean Ritter, PA DEP Assistant Regional Director; Jane George, PPL Regional Affairs Director; 
+Brian Boyer, PennDot District 5.
+ 
+26
+
+[page 27]
+ 
+   
+ 
+ 
+ 
+ 
+ 
+September XX, 2026 
+ 
+Cathy Fletcher, Director of Planning and Zoning 
+City of Bethlehem 
+10 E Church St 
+Bethlehem, PA 18018 
+  
+Re: 2184 Industrial Drive Data Center – Land Development 
+City of Bethlehem 
+Lehigh and Northampton Counties 
+  
+Dear Director Fletcher, 
+ 
+The Lehigh Valley Planning Commission (LVPC) considered the subject application at its 
+Comprehensive Planning Committee and Full Commission meetings, pursuant to the 
+requirements of the Pennsylvania Municipalities Planning Code (MPC). The meetings occurred 
+on:   
+ 
+LVPC Comprehensive Planning Committee 
+Meeting:  
+  
+September 22, 2026, at 12:00 PM (Virtual)  
+https://lvpc.org/lvpc-meetings  
+LVPC Full Commission  
+Meeting:  
+  
+September 24, 2026, at 7:00 PM (In-Person)  
+https://lvpc.org/lvpc-meetings  
+ 
+Background 
+The project proposes to redevelop an approximately 6.8-acre industrial property at 2184 
+Industrial Drive with a 131,380-square-foot data center. The proposed building includes two 
+floors, consisting of approximately 65,590 square feet per floor. The plans also identify 
+substantial electrical infrastructure associated with the facility, including a proposed substation 
+and medium-voltage equipment area. 
+ 
+The applicant has provided supplemental information explaining how the facility would be 
+cooled and powered, how much water and electricity it may use, what may generate noise, and 
+how potential impacts may be reduced. The applicant has indicated that several important 
+design details are still being finalized, and that additional technical documentation will be 
+provided as the design advances.  
+ 
+Site Suitability and Land Use 
+The proposal is in an area identified for Development in FutureLV: The Regional Plan. 
+Development areas generally contain existing development and infrastructure in the area. 
+Redevelopment of an existing industrial property for a new industrial use supports the efficient 
+use of previously developed land and infrastructure and the aim of FutureLV to use vacant and 
+underutilized properties (of Policy 5.4). The project site is bounded by Avenue B to the west, 
+Industrial Drive and Route 22 to the south and east, and industrial land uses to the north and 
+west. 
+27
+
+[page 28]
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+The impacts of a data center depend heavily on how it is designed and operated, including how 
+it is cooled, how much power and water it uses, whether it generates power onsite, and where 
+mechanical equipment is located. The supplemental information submitted by the applicant 
+provides considerably greater detail regarding these characteristics than the site plan alone. 
+The proposed immersion cooling system is intended to transfer heat directly from computing 
+equipment into dielectric fluid, reducing dependence on high-volume air movement and many of 
+the internal server fans associated with conventional air-cooled facilities. The LVPC notes that 
+while these design characteristics have the potential to reduce operational impacts, compatibility 
+should ultimately be evaluated based on the site-specific analyses rather than general 
+information about the technology. 
+ 
+The site is located within an established industrial area and is separated from nearby residential 
+development by Route 22. The industrial setting and highway provide meaningful separation 
+between the proposed facility and nearby homes, reducing the potential for direct land-use 
+conflicts. However, the residential development remains close enough that it should be 
+considered when evaluating noise, air emissions, lighting, heat discharge and the overall 
+visibility of the project. 
+ 
+Existing highway traffic already contributes noise and air emissions in this area. The LVPC 
+recommends that the applicant’s impact analyses and the City’s review distinguish between 
+existing background conditions and the additional effects of the data center land use.  
+ 
+The project’s industrial location is generally appropriate for the proposed use, but final 
+equipment placement, enclosures, screening and other measures should be designed to limit 
+Approximate 
+site location 
+28
+
+[page 29]
+  
+   
+ 
+additional impacts on the residential area across Route 22. This approach supports minimizing 
+the environmental and public health impacts of development and promoting compatibility 
+between different land uses (of Policies 3.2 and 5.3). 
+ 
+Building Height, Scale and Community Character 
+The proposed building height is approximately 60 feet, which is permitted under the applicable 
+zoning regulations, however it represents a substantial change from the approximately 29-foot 
+height of the existing industrial building. At 60 feet, the proposed building would be about twice 
+as tall as the existing industrial building. The taller building, large footprint and electrical 
+equipment will make the redevelopment more visually prominent than what exists today. The 
+applicant should provide building elevations and, where appropriate, visual simulations or line-
+of-sight information sufficient for the City to evaluate the appearance of the facility from 
+Industrial Drive, Avenue B, other public rights-of-way and nearby properties. 
+ 
+Architectural articulation, variation in building materials and façades, landscaping and screening 
+should be used to make the building appear less large and imposing from surrounding streets 
+and properties and promote context-specific design solutions (of Policy 5.4). Mechanical and 
+electrical equipment, whether on the roof or on the ground, should also be integrated into the 
+overall site design and appropriately screened. Exterior lighting should be designed to prevent 
+unnecessary glare and spillover onto surrounding properties and roadways to ‘minimize 
+environmental impacts of development’ (of Policy 3.2). 
+ 
+Power Demand and Electric Infrastructure 
+The applicant identifies a peak electrical demand of approximately 120 megawatts and a facility-
+wide target Power Usage Effectiveness (PUE) of approximately 1.24, where a value of 
+1.0 represents the theoretical ideal of zero wasted energy. According to the National Laboratory 
+of the Rockies, the U.S. Department of Energy’s primary national laboratory for energy 
+systems, studies show that the PUE average for data centers tends to be 1.8, but industry 
+leaders have been able to achieve PUE values of 1.2 or less. The LVPC encourages the 
+applicant to continue pursuing a lower PUE value to ‘promote energy conservation and 
+efficiency’ (of Policy 3.4). The proposed power strategy combines utility service with on-site 
+natural-gas generation, with approximately 20% of normal facility demand anticipated to be 
+provided by natural-gas generation and approximately 80% supplied by the electrical grid as 
+part of the facility’s normal power supply. A separate diesel backup system is proposed for 
+significant power interruptions or emergencies.  
+ 
+The applicant reports that a PPL will-serve letter has been received indicating capacity is 
+available to serve the site, and that approximately $70.5 million in privately funded electrical and 
+utility infrastructure improvements are anticipated. The applicant states that the electrical 
+improvements will be privately funded and may create approximately 130 megawatts of 
+electrical capacity available to other users within the industrial park. The final submission should 
+include applicable PPL documentation describing the improvements necessary to serve the 
+project, the anticipated implementation schedule and responsibility for infrastructure costs. This 
+supports maintaining reliable infrastructure and promoting long-term fiscal sustainability (of 
+Policy 4.6). 
+ 
+The applicant should identify how many generators are proposed (both diesel and natural gas), 
+where they will be located, how often they are expected to operate, how much power they will 
+produce, and their expected noise and air emissions. Continued coordination with the 
+Pennsylvania Department of Environmental Protection and other applicable regulatory agencies 
+regarding required environmental permitting is necessary to understand and minimize 
+29
+
+[page 30]
+  
+   
+ 
+environmental and public-health impacts of development (of Policy 3.2). 
+ 
+Cooling and Water Use 
+The proposed immersion cooling approach and closed-loop water-and-glycol system can 
+substantially reduce ongoing water consumption compared with systems dependent on 
+evaporative cooling after an initial system of approximately 3 million gallons of water and one 
+million gallons of glycol, as estimated by the applicant. Once filled, the system is intended to 
+recirculate that fluid, with additional water needed primarily for maintenance, cleaning and 
+limited replenishment. Ordinary building water consumption is estimated by the applicant to be 
+approximately 20,000 gallons annually. The applicant notes that the proposed generating 
+equipment may require additional water for emissions control purposes, though final 
+consumption for that process has not yet been established. The applicant should clarify whether 
+the estimated annual water consumption includes domestic water use by employees on a daily 
+basis, and document where the initial water will come from, how quickly the system will be filled, 
+how much water the facility will use each year, how much may be needed for the generators, 
+and whether the public water system can reliably meet that demand during dry periods. 
+ 
+The large initial fill should be evaluated separately from routine annual demand so that the 
+City's review accurately reflects both the one-time and continuing effects on the public water 
+system. These measures support conserving and managing water resources and minimizing 
+environmental impacts of development (of Policies 3.1 and 3.2). 
+ 
+Heat Management 
+Immersion cooling captures heat from computing equipment more directly than conventional air 
+cooling; however, the captured heat must ultimately be transferred from the facility. The 
+applicant identifies heat rejection equipment among the facility's anticipated mechanical 
+systems. The final design should specify where heat will be released, how much heat is 
+expected when the facility is fully operating, and whether it could affect nearby properties, 
+sidewalks, landscaping or equipment. Heat rejection equipment should be located and designed 
+so that exhaust does not adversely affect adjacent properties, pedestrian areas, landscaping or 
+other equipment and infrastructure. This information will allow the City to evaluate the project's 
+final thermal impacts and supports minimizing environmental impacts of development (of Policy 
+3.2). 
+ 
+Fluid Management and Environmental Protection 
+The project will utilize substantial quantities of dielectric fluid, water and glycol. The applicant 
+indicates that critical mechanical equipment will be in controlled building areas and that the final 
+design will incorporate secondary containment, leak detection, isolation controls, spill-response 
+procedures and separation between the closed cooling loop and the stormwater-management 
+system. The LVPC recommends memorializing these protections or commitments into the final 
+plans. Final documentation should identify the types and maximum quantities of fluids stored 
+on-site; containment capacity; locations of tanks and piping systems; emergency shutoff and 
+isolation procedures; and measures preventing releases from entering the stormwater system or 
+surrounding environment. These measures support protecting public health, safety and natural 
+resources (of Policy 3.2). 
+ 
+Noise and Vibration 
+The applicant indicates estimates an approximately 50-decibel acoustic benchmark due to the 
+use of immersion-cooling and acknowledges that is a general comparison rather than a 
+prediction of sound levels at this specific site. Exterior noise sources are expected to include 
+natural gas generation, diesel backup generators, pumps, transformers, heat-rejection 
+30
+
+[page 31]
+  
+   
+ 
+equipment and other supporting mechanical systems. The applicant has indicated that a sound 
+study has been conducted and that additional acoustic evaluation and mitigation design are 
+underway. 
+ 
+The final noise study should show expected sound levels at the property lines and nearby 
+properties during normal operations, generator testing and emergency conditions. It should also 
+evaluate low-frequency and tonal noise, which can be more noticeable even when overall 
+decibel levels are relatively low. Mechanical and generation equipment should be enclosed, 
+oriented and attenuated as necessary based on the final study. The LVPC also recommends 
+post-construction acoustic verification after the facility reaches normal operating conditions to 
+confirm that the completed facility performs consistently with the assumptions used in the final 
+study and to identify whether additional mitigation is necessary. These measures support 
+community health and compatibility with surrounding development (of Policy 5.3). 
+ 
+Emergency Services 
+Because the facility would contain high-voltage electrical equipment, generators, cooling fluids 
+and specialized mechanical systems, emergency responders should understand the site and its 
+equipment before the facility opens. Early and continued coordination with the City Fire 
+Department and emergency response personnel is therefore important. 
+ 
+The applicant indicates that the facility will include a fire protection system designed specifically 
+for the final equipment configuration and selected dielectric fluid and that final suppression 
+specifications will be coordinated with applicable fire codes and emergency responders.  
+The final emergency response plan should identify emergency access, equipment shutoffs, 
+utility isolation procedures, fire-suppression systems, hazardous or combustible material 
+inventories and safety data, spill response procedures, emergency contacts and responder 
+access to the substation and mechanical areas. Appropriate facility orientation and training 
+should be provided to emergency responders prior to occupancy. This coordination supports 
+effective emergency services and protection of critical infrastructure (of Policy 5.1). 
+ 
+Transportation 
+Redevelopment of the property as a data center is expected to involve substantially fewer 
+routine employee, freight and delivery trips than many comparably sized warehouse, distribution 
+or manufacturing uses. The applicant should document anticipated employment, shift 
+schedules, routine deliveries and service vehicles so the City can evaluate normal operating 
+conditions. 
+ 
+Construction of the facility and installation of major electrical equipment may also generate 
+temporary truck and oversized equipment movements substantially different from routine 
+operations. Construction access, staging and delivery routing should therefore be coordinated 
+with the City and applicable transportation agencies to minimize conflicts with surrounding 
+businesses and the regional transportation network (of Policy 2.2). 
+ 
+Community Engagement and Continued Reporting 
+The applicant has indicated an intent to maintain communication with the community and 
+reviewing agencies through informational meetings and responses to public questions and is 
+exploring an educational partnership with Lehigh University related to data-center research and 
+possible internship opportunities. The LVPC supports continued community engagement as the 
+technical design develops. 
+ 
+31
+
+[page 32]
+  
+   
+ 
+Because several of the most consequential operational characteristics remain subject to final 
+engineering, the completed water-balance analysis, acoustic study, utility documentation, air-
+quality and emissions information, thermal-impact information and emergency-response 
+materials should be made available to the City and reviewing agencies as they are completed. 
+Where these analyses materially affect potential community impacts, the information should 
+also be communicated in an accessible format to residents and other interested stakeholders. 
+ 
+Conclusion 
+The applicant has taken several steps to address common data center impacts, including 
+redeveloping an existing industrial site, proposing closed-loop immersion cooling, enclosing 
+major equipment and planning additional technical studies. The project location and 
+redevelopment approach support several goals of FutureLV: The Regional Plan. However, 
+important aspects of the facility are still being finalized. As the project proceeds, any 
+commitments that are relied upon in determining the project's compatibility should be clearly 
+documented and memorialized. If the submitted plans substantially change as this information is 
+finalized, the plans must be resubmitted to LVPC for review prior to plan signing and 
+recordation. 
+ 
+The LVPC has copied representatives from applicable review agencies to coordinate land-use 
+decisions across municipal boundaries (of Policy 1.4). 
+ 
+Municipalities, when considering land developments, should reasonably attempt to be 
+consistent with FutureLV: The Regional Plan, as required by the Pennsylvania Municipalities 
+Planning Code (MPC) [Article 1§105, Article III§303, §304 & §306(a), Article VI§603(j)]. The 
+LVPC review does not include an in-depth examination of plans relative to subdivision design 
+standards or ordinance requirements since these items are covered in the municipal review. 
+ 
+Sincerely,  
+  
+Jill Seitz  
+Chief Community and Regional Planner   
+ 
+cc: Samantha Pearson, Lehigh County Director of Community and Economic Development; Tina Smith, 
+Northampton County Director of Community and Economic Development; Garrett Cook, Lehigh County 
+Conservation District Engineer; Fadia Halma, PA DCED Lehigh Valley Regional Director; Alicia Karner, 
+PA DCED BusinessPA Lehigh Valley Regional Office Director; Dean Ritter, PA DEP Assistant Regional 
+Director; Jane George, PPL Regional Affairs Director; Brian Boyer, PennDot District 5; Molly Wood, 
+LANTA Planner/Land Use Specialist. 
+32
+
+[page 33]
+ 
+ 
+                 Project Review Summary Sheet  
+  
+Comprehensive Planning Committee                                                                                                              Date: September 2026 
+ 
+Project 
+ 
+Municipality 
+ 
+Brief Statement of Purpose 
+ 
+LVPC Comment 
+Zoning 
+Ordinance 
+Amendment 
+Tatamy 
+Borough 
+Data Centers – Adds regulations for Data 
+Centers. 
+The LVPC supports Tatamy Borough’s proactive effort to address 
+an emerging land use, and offers recommendations to strengthen 
+the amendment and ensure that its protections remain legally 
+defensible under Pennsylvania law.  Because several provisions 
+implicate authority assigned by state law to other agencies or extend 
+beyond customary performance standards, the LVPC strongly 
+recommends that the Township Solicitor specifically review the 
+proposed provisions. 
+Zoning 
+Ordinance 
+Amendment 
+City of 
+Bethlehem 
+Data Centers – Adds regulations for Data 
+Centers. 
+The proposal supports FutureLV by ‘encouraging an efficient 
+development process responsive to regional needs’ (of Policy 1.4) and 
+exemplifies the broader intent of FutureLV to prepare local regulations 
+for essential digital infrastructure while protecting public health, 
+environmental resources, infrastructure capacity and community 
+context. 
+Zoning 
+Ordinance 
+Amendment 
+Lower 
+Saucon 
+Township 
+Official Map Update – Identifies 
+Municipality-Owned Parcels, Roads and 
+Bridges, trails, railroads, streams, 
+water bodies, Floodplains, Parks, and 
+both protected and preserved farmland. 
+The proposal supports numerous aspects of FutureLV: The Regional 
+Plan such as Policies 2.2, 3.1, 3.2, 3.3, 5.2, and 5.3. 
+33
+
+[page 34]
+ 
+ 
+Project Review Summary Sheet 
+ Environment Committee                                                                                                                                        Date: September 2026 
+ 
+Project 
+ 
+Municipality 
+ 
+Statement of Purpose 
+ 
+LVPC Comment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lehigh 
+County 
+     Authority - 
+    Preliminary  
+    Capital Plan 
+(2027-2031) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ALLENTOWN 
+DIVISION 
+ 
+Water 
+• WFP Wet Lab Renovations: Expansion of the existing wet lab area into the former 
+HVAC room, which will occur once Phase 2 HVAC system upgrades are complete. The 
+existing operator’s wet lab at the Water Filtration Plant (WFP) is crowded with limited 
+space for instrumentation. 
+• City Leak Detection and Water Loss Program: The purchase and installation of leak 
+loggers and pressure sensors in strategic locations throughout the City water system to 
+improve leak detection monitoring capability. The data obtained through this effort will 
+be used to target and prioritize system repairs and main replacements. A water loss 
+study is to be performed in 2027 to identify and target areas of water loss.  
+• City East Side Transmission Main Rehabilitation: Existing East Side Transmission 
+Main conveys water from the WFP approximately 3 miles to the City’s East Side 
+Reservoir. The existing 36-inch and 30-inch cast iron lines were constructed about 70 
+years ago and exhibited areas of leakage in 2022 from a leak detection study and 
+identified areas of severe external pipe corrosion and pitting at repair sites in 2026 
+during leak repair projects. This project includes a planning phase as well as design 
+and construction of a pipeline rehabilitation project, consisting of pipe replacement, 
+internal lining or a combination of both alternatives.   
+• WFP Plate Settler Sludge Removal System Upgrade: Evaluation of the existing 
+sludge removal operation is needed to determine if a system can be installed to 
+facilitate sludge removal. Project is in the planning phase; scope of upgrades is to be 
+determined.  
+Wastewater 
+• City Manhole Inspection and Sealing Program: The City’s sanitary sewer system 
+contains approx. 7,200 public manholes, which must be investigated and addressed to 
+remove sources of wet weather inflow. A manhole inspection and rehab program is 
+outlined in LCA’s Act 537 Plan. In 2026, approximately 3,800 manholes have been 
+inspected, and a pilot rehab project of 250 manholes was completed and informed 
+future rehab projects. Trout Creek and East Side sewer basins have been targeted for 
+this work in the near term due to high peaking factors. In 2026, approx. 450 manholes 
+in Trout Creek basin will be rehabilitated. Rehab work in 2027 and 2028 will focus on 
+Trout Creek Basin manholes, with East Side basin manholes to be addressed in 2028 
+and 2029. Temporary flow metering is planned in 2026 and 2027 to determine rehab 
+effectiveness. 
+ 
+Evaluating/providing system 
+improvements to provide safe, 
+reliable and efficient service 
+supports FutureLV: The Regional 
+Plan actions to ‘improve the utility 
+and mobility infrastructure of the 
+region’ and ‘integrate efficiency 
+measures and emerging 
+technologies’ (of Policy 1.1) and 
+‘protect the quality and quantity of 
+surface water and groundwater’ (of 
+Policy 3.2). 
+34
+
+[page 35]
+ 
+ 
+ 
+ 
+Project Review Summary Sheet 
+ Environment Committee                                                                                                                                       Date: September 2026 
+ 
+Project 
+ 
+Municipality 
+ 
+Statement of Purpose 
+ 
+LVPC Comment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lehigh 
+County 
+     Authority - 
+    Preliminary  
+    Capital Plan 
+(2027-2031) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ALLENTOWN 
+DIVISION 
+Wastewater Projects Continued: 
+• WWTP Primary Clarifier Rehabilitation: Upgrades to primary clarifiers; the overall 
+scope of work to be determined. This capital plan includes the design of a project to 
+install adequately sized access hatches in the existing domes due to the existing 
+access hatches being small and difficult to navigate with ladders and equipment.    
+• WWTP Stormwater Upgrades: Upgrades to the existing stormwater system at 
+Kline’s Island WWTP. Specifically, improvements to drainage lift station #2 are 
+required as well as any improvements that may be necessary due to the NPDES 
+permit upgrades.  
+• City Interceptor Rehabilitation: LCA has started an inspection and condition 
+assessment program for the sanitary interceptor sewers in Allentown. The interceptors 
+inspected in 2024 were confined to the east side of the Lehigh River and included: 
+Hanover Trunk Line, Eastside Interceptor, Albert Street Trunk Sewer, Hanover 
+Avenue Trunk Line and the Siphon under the River. Two projects recommended to 
+reduce the risk of failure: Eastside Interceptor (~2,000 linear feet of cured in place 
+lining) and the Albert Street Trunk Line (~2,450 linear feet of cured in place lining).  
+ 
+ 
+ 
+Evaluating/providing system 
+improvements to provide safe, 
+reliable and efficient service 
+supports FutureLV actions to 
+‘improve the utility and mobility 
+infrastructure of the region’ and 
+‘integrate efficiency measures and 
+emerging technologies’ (of Policy 
+1.1) and ‘protect the quality and 
+quantity of surface water and 
+groundwater’ (of Policy 3.2).   
+35
+
+[page 36]
+ 
+ 
+Project Review Summary Sheet 
+ Environment Committee                                                                                                                                       Date: September 2026 
+ 
+Project 
+ 
+Municipality 
+ 
+Statement of Purpose 
+ 
+LVPC Comment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lehigh 
+County 
+     Authority - 
+    Preliminary  
+    Capital Plan 
+(2027-2031) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SUBURBAN 
+DIVISION 
+ 
+Water 
+• Central Lehigh System Supply Improvements: In 2024, a source water 
+assessment study for the Central Lehigh Division identified vulnerabilities in 
+emergency supply if the largest water source, Schantz Spring, be taken out of service. 
+Re-establishing the Bortz interconnect with South Whitehall Township is one option to 
+increase emergency supply. To address long-term projected demands due to 
+industrial growth in the western Central Lehigh Division, there is an urgent need to 
+develop new additional water sources and/or increase production from existing 
+sources. Additional storage in the Upper System is also needed.   
+• Small Systems Water Supply Improvements: This project includes planning and 
+design work for small Suburban Division water systems supply and distribution 
+systems with a focus on resiliency and redundancy, in particular, single point of fa ilure 
+components, single source systems and addressing supply limitations.  
+• SD Green Hills Pump Station Upgrade: Replacement of two booster pumps and 
+associated equipment at the Green Hills pump station to better serve current and 
+future water demands in LCA’s upper system due to existing pumps reaching the end 
+of their useful life.  
+• SD Automated Fill Station: Proposed automated filling station in the Central Lehigh 
+Division in order to accurately account for water consumption and reduce theft of 
+water by unauthorized operation of LCA fire hydrants. The station will consist of an 
+unmanned remote bulk water dispensing facility, housed in a weather-proof enclosure 
+with remote monitoring and control.  
+Wastewater 
+• Pretreatment Plant Long Term Planning: Long term major process modifications at 
+the LCA pretreatment plant were evaluated in 2025 and 2026 in order to 
+accommodate changes in flow and loading due to planned growth and projected 
+wastewater flows and loads in Upper Macungie Township. Sewage conveyance 
+options evaluated included bypassing all of a portion of the western Upper Macungie 
+Township flow around the pretreatment plant, with conveyance of untreated or 
+partially treated wastewater via existing sewer interceptor to Kline’s Island WWTP. 
+Long term pretreatment plant upgrade planning is required to accommodate changes 
+inorganic loading due to industrial growth in Upper Macungie Township.  
+ 
+ 
+ 
+Evaluating/providing system 
+improvements to provide safe, 
+reliable and efficient service 
+supports FutureLV actions to 
+‘improve the utility and mobility 
+infrastructure of the region’ and 
+‘integrate efficiency measures and 
+emerging technologies’ (of Policy 
+1.1) and ‘protect the quality and 
+quantity of surface water and 
+groundwater’ (of Policy 3.2).  
+36
+
+[page 37]
+ 
+ 
+ 
+Project Review Summary Sheet 
+ Environment Committee                                                                                                                                       Date: September 2026 
+ 
+Project 
+ 
+Municipality 
+ 
+Statement of Purpose 
+ 
+LVPC Comment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lehigh 
+County 
+     Authority - 
+    Preliminary  
+    Capital Plan 
+(2027-2031) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SUBURBAN 
+DIVISION 
+ 
+Wastewater Projects Continued 
+• Pretreatment Plant Solids Process Improvements: Project involves replacement of 
+sludge dewatering and conveyance equipment within the adjacent solids buildings. 
+Replacement of two gravity belt thickeners which are used to thicken waste activated 
+sludge prior to conveyance to the digesters is also proposed. The existing solids 
+dewatering system at the PTP consists of equipment that is over 36 years old and is 
+in need of replacement. Centrifuge utilization was effective in dewatering PTP sludge 
+to a higher solids content when a centrifuge study was performed in 2025 and it would 
+improve working conditions in the dewatering building. 
+• Pretreatment Plant Phase 1 Electrical System Improvements: Replacement of two 
+substations (Substation Nos. 2 and 4) due to a condition assessment of the electrical 
+distribution system, substations and main switchgear performed in 2025 that 
+considered the risk of failure for the various components and identified the need. 
+Design phase commenced in 2026 for Phase 1. Equipment procurement to be bid in 
+Q3 of 2026, and construction to occur in 2027 and 2028. 
+• Pretreatment Plant Phase 2 Electrical System Improvements: Phase 2 electrical 
+improvements will follow the Phase 1 Improvements at the PTP and consist of 
+replacement of the 37-year-old main service entrance switchgear, Substation No. 3 
+and various motor control centers throughout the facility that are in poor condition. 
+• Pretreatment Plant Aeration Basin Conversion: The current pure oxygen system of 
+the cryogenic plant was designed to treat high strength industrial waste, and the 
+existing process is very energy intensive. Retirement of the pure oxygen system and 
+conversion of the aeration decks to utilize ambient air would represent significant 
+energy savings, however, it is contingent upon the reduction of organic loading into 
+the PTP. Project assumes future industrial loading conditions that will facilitate 
+decommissioning the aging cryogenic system and converting aeration process to 
+ambient air. 
+ 
+ 
+ 
+ 
+ 
+ 
+Evaluating/providing system 
+improvements to provide safe, 
+reliable and efficient service 
+supports FutureLV actions to 
+‘improve the utility and mobility 
+infrastructure of the region’ and 
+‘integrate efficiency measures and 
+emerging technologies’ (of Policy 
+1.1) and ‘protect the quality and 
+quantity of surface water and 
+groundwater’ (of Policy 3.2).  
+37
+
+[page 38]
+ 
+ 
+ 
+ 
+Project Review Summary Sheet 
+ Environment Committee                                                                                                                                       Date: September 2026 
+ 
+Project 
+ 
+Municipality 
+ 
+Statement of Purpose 
+ 
+LVPC Comment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lehigh 
+County 
+     Authority - 
+    Preliminary  
+    Capital Plan 
+(2027-2031) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+SUBURBAN 
+DIVISION 
+Wastewater Projects Continued 
+• Pretreatment Plant Waste Receiving Station Improvements: Optimization of waste 
+receiving and directing the majority of the waste into the anaerobic digesters would 
+represent both operational and energy consumption improvements and possibly 
+enable a future energy cogeneration system for beneficial use of the digester biogas. 
+Project would include improvements to the existing dedicated Waste Receiving 
+Station, which is currently not operated due to various issues and may require 
+upsizing or complete replacement. Improvements also include a mechanical screen 
+retrofit for the grease receiving station in order to reduce operation and maintenance 
+issues and optimize grease acceptance, which may impact a decision regarding 
+beneficial biogas use.  
+• Little Lehigh Interceptor Siphon Pit Upgrade: Upgrade of four sanitary sewer 
+siphon pits at four Western Lehigh Interceptor sewer line crossings of the Little Lehigh 
+Creek. An asset management condition assessment revealed that the pits are in poor 
+condition with inoperable drain lines, two valves per pit. The addition of odor control 
+systems at each pit is also proposed. 
+• SD Relief Interceptor Projects: Project involves the eventual construction of two 
+relief interceptors identified during the 2020-2025 Act 537 Planning efforts. Two relief 
+interceptors identified: the paralleling of the Western Lehigh Interceptor and the 
+installation of the Kline’s Island Relief Interceptor. Both interceptor projects have gone 
+through preliminary engineering.  
+ 
+ 
+ 
+ 
+ 
+ 
+Evaluating/providing system 
+improvements to provide safe, 
+reliable and efficient service 
+supports FutureLV actions to 
+‘improve the utility and mobility 
+infrastructure of the region’ and 
+‘integrate efficiency measures and 
+emerging technologies’ (of Policy 
+1.1) and ‘protect the quality and 
+quantity of surface water and 
+groundwater’ (of Policy 3.2).  
+38

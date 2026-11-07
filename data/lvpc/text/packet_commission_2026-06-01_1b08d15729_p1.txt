@@ -1,0 +1,981 @@
+
+
+[page 1]
+ 
+   
+ 
+ 
+ 
+ 
+ 
+LEHIGH VALLEY PLANNING COMMISSION MEETING  
+Thursday, June 25, 2026, at 7:00 pm 
+ 
+In-Person Meeting: 
+615 Waterfront Drive Suite 201 
+Allentown, PA 18102 
+ 
+MEMBERS OF THE PUBLIC CAN ACCESS THE MEETING AT 
+http://www.tinyurl.com/LVPC2026 OR VIA PHONE 610-477-5793 Conf ID: 947 550 319# 
+ 
+AGENDA 
+ 
+Roll Call 
+ 
+Courtesy of Floor 
+1. Welcome Stephanie Kinslow, Human Resources Manager 
+ 
+Chair’s Report  
+1. Congratulations new Senior Planners, Corinne Ruggiero and Evan Gardi 
+2. National Association of Regional Councils Board of Directors Elections, Phillips 
+Armstrong, President-Elect and Becky Bradley, Executive Council  
+ 
+Minutes  
+1. ACTION ITEM: Minutes and Review of Roll Call Actions of May 28, 2026, 
+Commission Meeting   
+ 
+Comprehensive Planning Committee:  
+1. INFORMATION ITEM: Data Center Regulation Updates (JS) 
+2. ACTION ITEM: South Whitehall Township – Land Use of Regional Significance – 
+Revised Project Atlas Data Center (JS) 
+3. ACTION ITEM: Summary Sheet (S. Melnick) 
+4. INFORMATION ITEM: Housing Supply and Attainability Strategy (JS) 
+a. Unlocking Housing Solutions Event 
+i. August 26, 2026 8:00 AM 
+ii. DeSales University, 2755 Station Ave, Center Valley PA 18034 
+ 
+Environment Committee: 
+1. ACTION ITEM: Revised Pathway to a Resilient Greater Lehigh Valley Plan (SM,CR) 
+ 
+Transportation Planning Committee: 
+1. INFORMATION ITEM: Committee Report (K. Schmidt) 
+ 
+1
+
+[page 2]
+    
+   
+   
+ 
+Old Business: 
+1. INFORMATION ITEM: FutureLV: The Regional Plan Update – (Senior Staff) 
+a. Strategy Labs 
+b. Transportation Needs Assessment Survey Report  
+c. LVTS Project Selection Process Revisions and the Open Call for 
+Infrastructure Projects 
+d. Sub-Regional Community Meetings 
+ 
+New Business:  
+1. INFORMATION ITEM: LVPC Website Update (BB,CE)  
+2. INFORMATION ITEM: Municipal Officials Guide Update (BRG) 
+ 
+Executive Director’s Report:  
+1. INFORMATION ITEM: Regional Council Priorities Across the Nation 
+ 
+Monthly Reports:  
+1. INFORMATION ITEMS:  
+a. May 2026 Subdivision, Land Development, Stormwater and Municipal 
+Ordinances/Plans Report (JW, PL) 
+b. Highway Performance Monitoring System - Monthly Traffic Count 
+Report (CK) 
+  
+Communications and Engagement 
+1. INFORMATION ITEM: Lehigh Valley Government Academy (MA) 
+a. Pennsylvania Municipal Planning Education Institute, Zoning Administration 
+Course 
+ Tuesdays, 9/15, 22, 29; 5:30- 9 pm 
+ Registration at www.lvpc.org/lvga 
+b. Local Technical Assistance Program (LTAP) in-person classes at LVPC 
+ Temporary Traffic Control, 6/30 8 am – 3 pm 
+ Registration at www.gis.penndot.gov/LTAP/default.aspx  
+ Contact Hannah Milagio at hmilagio@lvpc.org or 610-264-4544 
+with questions or registration assistance 
+2. PACKET ITEM: Monthly, Plan Lehigh Valley Talk Show on WDIY, Lehigh Valley 
+Public Radio, 88.1  
+a. Aired June 1: “More than a single project with Steve Weber.” 
+b. lvpc.org; mcall.com 
+c. Next show: July 6, 6:30 pm 
+3. PACKET ITEM: GRANTS 
+a. PA Department of Community and Economic Development: Multimodal 
+Transportation Fund 
+ Application deadline: July 31 
+b. PA Department of Transportation: Automated Red-Light Enforcement 
+(ARLE) Transportation Enhancement Grants Program 
+ Pre-application scoping forms required 
+ Application deadline: June 30 
+ 
+Next Lehigh Valley Planning Commission Meeting: 
+2
+
+[page 3]
+    
+   
+   
+ 
+Thursday, July 23, 2026, at 7:00 pm 
+Virtual Meeting 
+ 
+The LVPC/LVTS website, www.lvpc.org, may be translated into multiple languages. 
+Publications and other public documents can be made available in non-English 
+languages and alternative formats, if requested.  
+3
+
+[page 4]
+ 
+ 
+ 
+ 
+ 
+ 
+LEHIGH VALLEY PLANNING COMMISSION  
+Minutes from the Thursday, May 28, 2026, Meeting 
+ 
+The LVPC held a public meeting on Thursday, May 28, 2026. The meeting was advertised in 
+the Lehigh Valley Press on January 7th, 2026.   
+ 
+LVPC Vice Chair Armando Moritz-Chapelliquen chaired the meeting.  
+ 
+Mr. Jacob Weinberg took Roll Call. 
+ 
+Members in Attendance: 
+ 
+Lehigh County  
+Phillips Armstrong, Craig Beavers, Sharon Fehlinger-Ricker, Sunny Ghai, Philip Ginder, Steven 
+Glickman, Jennifer Gomez, Kent Herman, John Inglis, Santo Napoli, Samantha Pearson, 
+Stephen Repasch and Kevin Schmidt. 
+ 
+Northampton County  
+Christopher Amato, Andrew Elliott, Charles Elliott, Cathy Fletcher, Anita Erdos Forrester, Judy 
+Haldeman, Tung-To Lam, Jack McGorry, Steve Melnick, Armando Moritz-Chapelliquen, Victoria 
+Opthof-Cordaro, Eric Shamis, Jeff Warren and Brett Webber. 
+ 
+Members Absent:  
+ 
+Lehigh County 
+Ron Beitler, Michael Drabenstott, Gary Fedorcha, Ryan Mayberry, Christina ‘Tori’ Morgan, Josh 
+Siegel and Matthew Tuerk.  
+ 
+Northampton County 
+Justin Amann, Bryan Cope, Jo Daniels, Carl Manges, Salvatore Panto, Jr., J. William Reynolds, 
+Dean Turner and Tara Zrinski.  
+ 
+Staff Present: Becky A. Bradley, Clay Karnis, Jillian Seitz, David Cohen, Matt Assad, Michele 
+Anfuso, Steven Weber, Jacob Engbert, Jacob Weinberg and Corinne Ruggiero.  
+ 
+Public Present: Anthony Melita and Jane Mellert  
+ 
+COURTESY OF THE FLOOR  
+Commissioner Amato briefed the Commission on the recently released Pope Leo XIV’s new 
+encyclical, Magnifica Humanitas, which addresses human dignity and ethical challenges posed 
+by artificial intelligence.  
+ 
+Vice Chair Moritz-Chapelliquen welcomed a new LVPC staff member to the Commission, Jacob 
+Engbert, who is the newest full-time transportation planner at the LVPC. Mr. Engbert introduced 
+himself to the Commissioners and gave a brief description of his planning and education 
+experience.  
+4
+
+[page 5]
+    
+   
+ 
+CHAIR’S REPORT 
+Vice Chair Moritz-Chapelliquen briefed the Commission that LVPC staff attended and presented 
+at the Greater Lehigh Valley Chamber of Commerce’s 2026 Energy and Environment Summit, 
+which took place on April 29th at DeSales University. The program included a presentation by 
+LVPC Director of Environmental Planning, Susan Myerov, who presented on Pathway to a 
+Resilient Greater Lehigh Valley, the regional climate action plan. Chair Morgan moderated a 
+panel discussion on the Myths, Facts and Impacts of Data Centers with four experts on the 
+panel, which included: CEO of Nuclei Data - Ben Mitton, CEO of Lehigh County Authority – 
+Liesel Gross, PPL Electric Utilities Senior Director of Government, Regulatory and External 
+Affairs – Shelby Linton Keddie and Sales Engineer of Service Electric Business and Pen Tele 
+Data – Maxwell Paine. Vice Chair Moritz-Chapelliquen noted that the panel discussion was a 
+follow-up to the webinar, “Beyond the Cloud”, which featured LVPC’s Chief Community and 
+Regional Planner, Jill Seitz as a panelist. The summit also included a presentation by Allentown, 
+Bethlehem and Easton’s sustainability coordinators, with the City of Allentown receiving the 
+Non-profit Innovator award for its extensive environmental youth initiatives program. Vice Chair 
+Moritz-Chapelliquen also noted that this was the highest attendance the Energy and 
+Environment Summit have seen and was glad to see the LVPC well-represented and that these 
+important sustainable planning issues took center stage.  
+ 
+MINUTES 
+Vice Chair Moritz-Chapelliquen asked for a motion to approve the Thursday, April 23, 2026, 
+LVPC meeting minutes. Commissioner Armstrong made a motion to approve the minutes and 
+Commissioner Glickman seconded the motion.  
+ 
+Vice Chair Moritz-Chapelliquen asked for any comments or questions. There were none. 
+ 
+Vice Chair Moritz-Chapelliquen called for affirmative votes to approve the minutes. 
+Commissioner Ginder abstained. The motion passed.   
+ 
+COMPREHENSIVE PLANNING COMMITTEE 
+INFORMATION ITEM/ACTION ITEM: Comprehensive Planning Committee Summary Sheet 
+and Ordinance Reports  
+Comprehensive Planning Committee Chair Melnick briefed the Commission of the many 
+ordinances reviews this month and that in addition to the summary sheet, staff had prepared a 
+summary presentation on data center ordinances in the region that the LVPC has received thus 
+far. Mr. Weinberg provided a quick update on data center ordinances and the 22 communities 
+that currently have adopted zoning regulations related to data centers or that are working on 
+zoning regulations related to data centers, and the 24 that are covered because they are part of 
+multi-municipal comprehensive plans with communities that are adopting regulations. Ms. 
+Bradley then briefed the Commission on the Northeast Delegation Meeting that LVPC staff had 
+participated in earlier in the day with state legislators regarding data centers regulations and the 
+Lehigh County Industrial Land Use Guide. Commissioners then had a brief discussion about the 
+state’s position and whether any anticipated action or plan was going to come from the state in 
+the short-term and discussed the importance of sharing information regarding this land use and 
+how to regulate it at both the state and local levels. 
+ 
+Chair Melnick then briefed the Commission on the Comprehensive Committee Summary Sheet 
+that featured an ordinance for a Traditional Neighborhood Development in Catasauqua 
+Borough, three data center ordinances (in Allen Township, Upper Nazareth Township and 
+Hanover Township, Northampton County), a comprehensive SALDO revision for Upper 
+5
+
+[page 6]
+    
+   
+Nazareth Township and two ordinances from Plainfield Township for their Solid Waste Zoning 
+District and Steep Slopes. 
+ 
+Commissioner Repasch made the motion to accept the staff review and Commissioner Ghai 
+seconded the motion. Vice Chair Moritz-Chapelliquen asked for any comments or questions.  
+ 
+Vice Chair Moritz-Chapelliquen asked for any comments or questions. There were none 
+ 
+Vice Chair Moritz-Chapelliquen called for affirmative votes to accept the summary sheet. The 
+motion passed.  
+ 
+ACTION ITEM: EASD Phase 2 New Easton Area High School  
+Mr. Weinberg presented the staff review of the proposed redevelopment of the current Easton 
+Area School District High School at 2601 William Penn Highway. The redevelopment would 
+demolish the existing high school and rebuild a new 250,444-square-foot building, along with 
+new parking lots. The site will maintain the two access points existing on the lot from South 25th 
+Street and the William Penn Highway. Mr. Weinberg summarized how the proposal generally 
+aligns with FutureLV: The Regional Plan as well as made recommendations such as 
+coordination with the Township on site improvements to strengthen the school-trail connection, 
+additional complete street, traffic calming and multimodal transportation infrastructure, noise 
+barriers or plantings along Route 22 as well as sustainable landscaping, specific lighting 
+standards, green stormwater measures, LEED strategies, green infrastructure and securing 
+dumpster areas to protect water quality and reduce climate change impacts.  
+ 
+Commissioner Andrew Elliott made the motion to accept the summary sheet and Commissioner 
+Melnick seconded the motion.  
+ 
+Vice Chair Moritz-Chapelliquen asked for any comments or questions. Commissioner Melnick 
+asked if the existing high school will be demolished or if the project will be phased so classes 
+can still be in session for students. Commissioner Beavers responded by stating the existing 
+school will still be present on the site and classes will be in session at the existing school as 
+they build the new school and noted that there is a lot of coordination occurring regarding 
+parking on site. 
+ 
+Vice Chair Moritz-Chapelliquen called for affirmative votes to accept the staff comments. 
+Commissioner Beavers abstained. The motion passed.  
+ 
+ACTION ITEM: Saxton Walk Mixed-Use Development    
+Ms. Seitz presented the staff review for the proposed construction of a mixed-use development 
+that includes 128 apartments, 123 single-family detached homes, and 73 townhouses for a total 
+of 324 units, with 30,000 square feet of commercial space. The project is located on Maunch 
+Chunk Road at the intersection of Cedar Crest Boulevard, approximately two-thirds of a mile 
+north of the Township’s border with South Whitehall Township. The plans project will be served 
+by public water utility. No public sewer utility is available at the project site, and a wastewater 
+treatment plant is proposed. Ms. Seitz noted that the proposal presents a complex land use and 
+infrastructure planning issue that reflects several competing, but legitimate, regional and local 
+planning objectives. On one hand, the development advances important housing goals and 
+exemplifies a walkable community in mixed-use development format. On the other hand, the 
+6
+
+[page 7]
+    
+   
+site’s environmental constraints, adjacency to an active quarry and lack of existing public sewer 
+infrastructure raise significant questions regarding infrastructure readiness and long-term 
+sustainability.  
+ 
+Ms. Seitz briefs the Commission on the substantial discussion that occurred during the 
+Comprehensive Planning Committee meeting regarding concern for the lack of sewer 
+infrastructure, environmental hazards including karsts, flood plains, and land use conflicts with 
+the adjacent quarry and surrounding agricultural areas. Ms. Seitz noted the Committee also 
+discussed whether the location and intensity of development are appropriately matched to long-
+term infrastructure and land use conditions. Ms. Seitz concluded by acknowledging how the 
+proposed project supports important housing goals, its current scale and intensity should be 
+reevaluated and refined through additional coordination, mitigation measures, infrastructure 
+planning and context-sensitive design to better align growth with long-term community 
+objectives. 
+ 
+Commissioner Repasch made the motion to accept the staff comments and Commissioner 
+Glickman seconded the motion. 
+ 
+Vice Chair Moritz-Chapelliquen asked for any comments or questions. Commissioners 
+commended staff for the review letter and the importance of acknowledging that the project 
+location is in a Farmland Preservation area in FutureLV. Commissioners also discussed 
+whether the letter should be amended to strengthen language regarding sewer concerns. 
+Ultimately, Commissioners decided not to amend the letter and that the staff letter sufficiently 
+addressed the concern. 
+ 
+Vice Chair Moritz-Chapelliquen called for affirmative votes to accept the staff comments. The 
+motion passed. 
+ 
+DISCUSSION ITEM: FutureLV: The Regional Plan Update in Context 
+Ms. Seitz led a FutureLV Update exercise to receive input as well as gauge priorities on various 
+planning passions or topics from the Commissioners, using a recent Land Use of Regional 
+Significance project, Saxton Walk Mixed-Use Development. Ms. Seitz noted the planning 
+challenges and complexities around competing policy interests that must be considered in the 
+process of updating FutureLV and that regional planning is not about choosing between 
+something good and something bad but rather choosing between multiple planning topics that 
+are all important at the same time. 
+ 
+ENVIRONMENT COMMITTEE  
+Environment Committee Chair Repasch briefed the Commission that the Environment 
+Committee discussed several information items at Tuesday’s Committee meeting, which 
+included an update on the regional climate action plan, Pathway to a Resilient Greater Lehigh 
+Valley and the upcoming updated document which will include new additions and design 
+changes that will be presented for review by the Commission at the June meetings. The 
+Environment Committee was also briefed on the recent Strategy labs that staff had convened in 
+May and participated in an abbreviated Strategy lab session where the Committee discussed 
+Agriculture/Preserved Farmland and Natural Resources and went through the Strengths 
+Opportunities Aspirations Results (SOAR) framework to provide further input and insight on 
+these important topics that impact the region and will ultimately inform FutureLV: The Regional 
+Plan. 
+ 
+Vice Chair Moritz-Chapelliquen asked for any comments or questions. There were none.  
+7
+
+[page 8]
+    
+   
+ 
+ 
+TRANSPORTATION COMMITTEE 
+Transportation Committee Chair Schmidt briefed the Commission that the Transportation 
+Committee discussed several information items at Thursday’s Committee meeting, which 
+included a discussion on the Congestion Management Plan, an update on the Route 22 study 
+and FutureLV update, which included a walkthrough of the Transportation Strategy Lab’s SOAR 
+process. Transportation Committee Chair Schmidt also briefed the Commission on PennDOT 
+announcing its statewide Transportation Alternatives Set-Aside (TASA) awards earlier in May 
+and the Lehigh Valley was fortunate to receive six awards, three of each in Lehigh and 
+Northampton Counties. Committee Chair Schmidt also noted that all three Lehigh County 
+awards and two of the three awards in Northampton County are for projects identified in the 
+recently completed Trail Connection Strategy. Total value of all six awards was about $5.9 
+million and was the highest percentage of statewide TASA funds that we have ever received. 
+ 
+Vice Chair Moritz-Chapelliquen asked for any comments or questions. There were none.  
+ 
+OLD BUSINESS: 
+ 
+INFORMATION ITEM: PlanLV Portal  
+Ms. Ruggiero, Ms. Seitz and Mr. Weinberg presented an update to Commissioners on how the 
+PlanLV Portal implementation process is going. Ms. Ruggiero provided an update on the total 
+applications received since the launch of the portal on April 30th. The LVPC has received 82 
+total applications since the launch. Mr. Weinberg cited feedback and testimonials the LVPC 
+received regarding PlanLV portal and noted how it’s been well-received from those who have 
+used the portal so far. Ms. Seitz discussed the logistics of the submittal and review process and 
+how it has allowed for easy access to materials and provides an easier and more efficient 
+streamline of communication about review timelines and when things are submitted for 
+municipalities and project review partners such as LANTA.   
+ 
+Vice Chair Moritz-Chapelliquen asked for any comments or questions. There were none.  
+ 
+NEW BUSINESS: 
+ 
+INFORMATION ITEM: Lehigh Valley Government Academy  
+Mr. Assad presented information on the upcoming Lehigh Valley Government Academy training 
+courses. Mr. Assad briefed the Commission on how the LVPC’s primary training program is 
+offered in partnership with the Pennsylvania Municipal Planning Education Institute and 
+announced the Community Planning course that was recently offered was a sold-out course 
+with 30 students and completed in April. Mr. Assad also noted the recent Subdivision and Land 
+Development course that was offered and was held on May 6th, 13th and 20th. The SALDO class 
+had 28 students attending. Mr. Assad noted that since the LVPC began offering these courses 
+in 2014, nearly 500 students have graduated, including 117 who earned the title of Certified 
+Citizen Planner for completing 3 of the 4 courses, and 28 who earned the statewide George 
+Fasic Award for attending all four. Mr. Assad also provided information on the free courses 
+through the Local Technical Assistance Program (LTAP) that are offered and how these 
+courses aim to help municipalities address infrastructure issues and ensure that their public 
+works departments are up to date on the latest information on safety and maintenance. Mr. 
+Assad noted that there is a full schedule of courses that have been booked through June 30th, 
+with upcoming classes including Winter Maintenance Planning on June 10th and Temporary 
+Traffic Control on June 30th.  
+8
+
+[page 9]
+    
+   
+ 
+Vice Chair Moritz-Chapelliquen asked for any comments or questions. There were none.  
+ 
+EXECUTIVE DIRECTOR’S REPORT:  
+Ms. Bradley briefed the Commission on how she had the opportunity to present to over 100 
+people at the Greater Lehigh Valley Chamber of Commerce’s Transportation Summit, which 
+was hosted at Mack Experience Center in Allentown. Ms. Bradley sat on an expert panel that 
+include LANTA Executive Director Owen O’Neil, Lehigh Valley International Airport Executive 
+Director Tom Stoudt and PennDOT District Executive Chris Kufro. PennDOT Secretary of 
+Transportation Michael Carroll also attended and presented at the summit. Ms. Bradley noted 
+that the Planning at Full Speed presentation from the summit included: LVTS Transportation 
+Improvement Program, FutureLV: The Regional Plan update, Congestion Management Plan, 
+Route 22 Mobility, Safety and Congestion Management Plan, and the Lehigh Valley Passenger 
+Rail Phase II project. 
+ 
+Ms. Bradley also provided a FutureLV: The Regional Plan update to Commissioners, noting the 
+Transportation Needs Assessment survey and providing a summary of how the recent series of 
+Strategy labs went and how well attended and received they were. The LVPC held nine 
+Strategy lab sessions between May 11 and May 21 and 165 people participated, resulting in a 
+tremendous amount of ideas and anticipated results for the region’s future. 
+ 
+Vice Chair Moritz-Chapelliquen asked for any comments or questions. There were none.  
+ 
+MONTHLY REPORTS 
+Vice Chair Moritz-Chapelliquen notified the Commission that monthly reports are featured in 
+each Commissioner’s packet. Mr. Weinberg gave a brief overview of the April 2026 BuildLV 
+report, specifically on residential and non-residential development data within the Subdivision 
+and Land Development Monthly Report. 
+ 
+Vice Chair Moritz-Chapelliquen asked for any comments or questions. There were none. 
+ 
+Mr. Karnis gave a brief presentation on the traffic count data throughout the Lehigh Valley, 
+which included traffic and truck volume data spanning from early February of this year through 
+the first week of May 2026, noting trends and patterns examined. 
+ 
+Vice Chair Moritz-Chapelliquen asked for any comments or questions. There were none. 
+ 
+COMMUNICATIONS AND PUBLIC ENGAGEMENT: 
+Vice Chair Moritz-Chapelliquen notified the Commission that items for communications and 
+public engagement are featured in the meeting packet. Vice Chair Moritz-Chapelliquen asked 
+for any comments or questions. There were none.  
+ 
+ADJOURNMENT: 
+Vice Chair Moritz-Chapelliquen stated that the next LVPC meeting will be on Thursday, June 
+25th at 7 pm and that this will be one of the quarterly in-person meetings. Vice Chair Moritz-
+Chapelliquen then asked if there was a motion to adjourn the meeting and Commissioner 
+Ginder made a motion to adjourn, and Commissioner Andrew Elliot seconded the motion. The 
+meeting was adjourned.  
+ 
+Submitted by: 
+Becky Bradley, AICP, Executive Director and Corinne Ruggiero, Senior Environmental Planner 
+9
+
+[page 10]
+ 
+  
+ 
+ 
+ 
+June XX, 2026 
+ 
+David Manhardt, AICP, Director of Community Development   
+South Whitehall Township 
+4444 Walbert Avenue 
+Allentown, Pennsylvania 18104 
+ 
+Re: Project Atlas Data Center Revised Plans – Land Use of Regional Significance 
+South Whitehall Township 
+Lehigh County  
+ 
+Dear Mr. Manhardt: 
+ 
+The Lehigh Valley Planning Commission (LVPC) will consider the subject application at 
+its Comprehensive Planning Committee and Full Commission meetings, pursuant to the 
+requirements of the Pennsylvania Municipalities Planning Code (MPC). Discussion on 
+agenda items largely happens during the Committee meeting. Meeting participation 
+details are below, and we encourage your participation:  
+ 
+LVPC Comprehensive Planning 
+Committee Meeting: 
+ 
+June 23, 2026, at 12:00 PM (Virtual) 
+https://lvpc.org/lvpc-meetings 
+ 
+LVPC Full Commission 
+Meeting: 
+ 
+June 25, 2026, at 7:00 PM (In-Person) 
+https://lvpc.org/lvpc-meetings 
+ 
+ 
+Background 
+The project proposes to develop a 410-acre site by constructing three data center 
+buildings totaling 1,476,855 square feet (492,285 square feet each) as well as a 40,680-
+square-foot admin building, a 39,167-square-foot warehouse, and an electric substation. 
+A new road is also proposed connecting Cedar Crest Boulevard to Mauch Chunk Road, 
+and the project includes a 10-foot wide shared use path available for public use through 
+the site. The project site is located at 2493 North Cedar Crest Boulevard, south of 
+Orefield Road between Mauch Chunk Road and North Cedar Crest Boulevard (parcel 
+number 548824698560).  
+ 
+ 
+10
+
+[page 11]
+    
+   
+ 
+ 
+ 
+FutureLV recognizes that advances in technology and the increasing demand for real-
+time information and data transmission have made digital infrastructure and connectivity 
+essential to the region’s economic competitiveness (FutureLV Future Forces Section, 
+page 42). Data centers play a critical role in supporting this modern digital infrastructure, 
+however large-scale or hyperscale data center facilities can place significant demands 
+on utility systems, particularly electric and water infrastructure, and have the potential to 
+pose impacts on community wellness, which necessitates careful evaluation and 
+coordination to mitigate land use conflicts (of Policy 1.4). 
+ 
+To support this evaluation, LVPC convened a coordination meeting with external review 
+agencies to discuss utility capacity, infrastructure considerations, and other regional 
+impacts associated with the proposal. Continued coordination among the Township, 
+service providers, and reviewing agencies will be essential to ensuring the project 
+supports public health, safety, and welfare while advancing regional goals for 
+innovation-oriented industrial development. 
+ 
+In January of 2026 the LVPC reviewed another version of the project, and the scale of 
+development has since been reduced in the current version. The applicant has 
+addressed numerous LVPC comments, improving the project’s alignment with 
+FutureLV: The Regional Plan, though several outstanding items remain that must be 
+addressed. The proposed development has the potential to align with FutureLV if it is 
+designed to minimize impacts to sensitive receptors in the vicinity; if the site 
+configuration avoids disturbing existing natural resources on the site; and if utility 
+infrastructure is demonstrated to be adequate to meet the facility’s needs without 
+adversely affecting service to existing users. 
+ 
+Approximate 
+site location 
+11
+
+[page 12]
+    
+   
+Site Suitability and Land Use 
+The project site is currently in agricultural use. Nearby existing land uses include 
+Parkland High School to the west, heavy industrial uses to the south including chemical 
+manufacturing, low-density residential to the north and agricultural uses surrounding the 
+area. 
+ 
+The project site is identified for Farmland Preservation in the General Land Use Plan of 
+FutureLV: The Regional Plan. From a regional perspective, land preservation is 
+preferred to protect the region’s existing agricultural lands. Development in the 
+proposed location in an outward creeping development pattern, combined with 
+infrastructure improvements, may increase development pressure on other nearby open 
+space areas, which does not ‘support effective farmland preservation techniques’ (of 
+Policy 3.3).  
+ 
+  
+FutureLV General Land Use Plan 
+ 
+From a local perspective, the designated Industrial Zoning District and Planned 
+Innovation, Research and Technology Overlay District were created in this location to 
+support the Township in meeting the State requirement of providing for all land uses. 
+The underlying zoning district for the project site already permitted industrial land uses, 
+and existing infrastructure is generally available in the vicinity.  
+ 
+Data centers can pose health and quality of life impacts to neighboring residents and 
+land uses if not appropriately mitigated, as a result of noise, visual, lighting, and air 
+quality: 
+ 
+• Noise: At the time of the previous review, LVPC recommended that pre-and-
+post-construction professional noise studies be conducted to verify both 
+perceived and low frequency noise levels at property lines. The applicant has 
+since provided a noise study to the Township that is being assessed by a 
+consultant. With the revised plans, that LVPC notes that the reconfigured site 
+layout has increased the setback distance between the data center buildings and 
+adjacent property lines to the north (from approximately 444 feet previously to 
+12
+
+[page 13]
+    
+   
+1,000 feet currently proposed).16-foot noise walls around the outdoor equipment 
+yards are proposed, and a wall of vegetation separates the proposed 
+development from the road and adjacent properties. These features would help 
+reduce audible noise impacts and protect the physical and mental health of the 
+community (of Policy 5.3), but their adequacy should be determined by the 
+Township. The LVPC also recommends the applicant provide additional 
+documentation demonstrating how any low-frequency inaudible sounds caused 
+by vibration (infrasound) will be mitigated to maximize protections to the public 
+health, safety and welfare. The LVPC encourages the Township to explore 
+current standards and best practices for vibration levels that minimizes 
+disturbance to residents, and establish monitoring and enforcement mechanisms 
+for these standards in the interest of promoting physical and mental health (of 
+Policy 5.3). 
+ 
+• Lighting: The project utilizes full cutoff and fully shielded light fixtures in 
+compliance with the Township Zoning Ordinance, but the lighting design on the 
+site should be evaluated to ensure no glare or lighting spillover affects adjacent 
+properties, to minimize environmental impacts of development (of Policy 3.2).  
+ 
+• Air Quality: Heat exhaust from data centers can create localized temperature 
+increases that exacerbate heat stress, especially in warmer months. The LVPC’s 
+previous review recommended the applicant assess potential heat-exhaust 
+impacts from mechanical systems that can have detrimental impacts on nearby 
+agricultural areas and the adjacent school. The applicant has noted that 
+Computational Flud Dynamics (CFD) models will be conducted to determine heat 
+output from Mechanical, Electrical and Plumbing (MEP) equipment, and these 
+should be provided to the Township to minimize impacts to sensitive receptors 
+and improve air quality (of Policy 3.2). The applicant should pursue HVAC 
+system designs that convert or mitigate heat from exhaust to ‘support agriculture 
+and open space as essential components of the regional economy and identity’ 
+(of Policy 4.4) and ‘minimize environmental impacts of development’ (of Policy 
+3.2), and the LVPC recommends the Township ensure any commitments by the 
+developer are memorialized through the review process to support long-term 
+enforcement (of Policy 3.4). 
+ 
+• Visual: At the time of the previous review, LVPC recommended that the 
+buildings and generator equipment yards be aesthetically designed to minimize 
+the visual impacts of the development, and that additional vegetation be included 
+to further reduce visual impacts. The proposed landscaping may help shield the 
+view of the development from the proposed road and adjacent properties, and 
+the applicant has provided architectural elevations for the Township to evaluate 
+to ‘promote context-specific design solutions’ (of Policy 5.4).  
+ 
+Emergency Services 
+The LVPC’s previous review encouraged continued coordination between the applicant, 
+Township, local emergency service providers, and the Lehigh County Office of 
+13
+
+[page 14]
+    
+   
+Emergency Management to consult on the adequacy of access points, turning radii, 
+hydrant placement and fire-suppression systems. The applicant has confirmed that 
+coordination with local emergency responder agencies will take place, which is essential 
+to safeguard responders, protect critical infrastructure, and ensure that the facility can 
+be safely and effectively served during both routine incidents and large-scale 
+emergencies. The LVPC encourages the Township to continue to facilitate coordination 
+with both local and County/Regional service providers to ‘enhance planning and 
+emergency response efforts among emergency management personnel’ (of Policy 5.1). 
+ 
+Environment and Utility Infrastructure 
+The LVPC’s previous review noted the presence of karst conditions on the site 
+according to mapping provided by the Pennsylvania Department of Conservation and 
+Natural Resources (Bureau of Topographic and Geologic Survey), and strongly 
+recommended comprehensive geotechnical and hydrogeologic investigation of the site 
+to inform building placement, foundation design, stormwater management, and utility 
+infrastructure. The applicant has provided a geotechnical report, and noted that 
+stormwater management for the site has been designed with karst systems in mind, and 
+that the buildings will be designed to mitigate any potential risks or impacts from karst 
+systems. The Township’s evaluation of the report will determine if these measures are 
+adequate, and these factors are critical to minimize impacts of development to support 
+public health, safety, and welfare (of Policy 3.2).  
+  
+  
+LVPC GIS Mapping of Karst Geology 
+ 
+The LVPC’s previous review noted that electrical infrastructure upgrades are being 
+funded by the Applicant, and recommended that the applicant provide detail on how the 
+facility will align with industry energy-efficiency standards, including anticipated Power 
+Usage Effectiveness (PUE). The applicant provided a summarized PUE value of 1.4 for 
+Approximate 
+site location 
+14
+
+[page 15]
+    
+   
+the project site, where a value of 1.0 represents the theoretical ideal of zero wasted 
+energy. According to the National Laboratory of the Rockies, the U.S. Department of 
+Energy’s primary national laboratory for energy systems, studies show that the PUE 
+average for data centers tends to be 1.8, but industry leaders have been able to achieve 
+PUE values of 1.2 or less. The LVPC encourages the applicant to continue pursuing a 
+lower PUE value to ‘promote energy conservation and efficiency’ (of Policy 3.4). The 
+Applicant has also indicated that renewable and carbon free energy sources are being 
+considered, which support long-term sustainability and alignment with regional clean 
+energy goals (of Policy 3.4). The LVPC encourages that commitments to renewable 
+energy sources also be memorialized through the review and approval process. 
+ 
+The previously submitted Environmental Impact Assessment identified that Tier 2-
+emission standards backup generators would be used, but following LVPC’s 
+recommendation, Tier 4 backup generators are now proposed, and the applicant has 
+noted that all PA DEP permits to install generators onsite will be obtained, which serves 
+to minimize air quality impacts (of Policy 3.2). While Tier 4 generators are proposed, 
+which meet the strictest EPA emissions standards, the cumulative impacts from the 
+immense quantity of generators utilized by the project should be scrutinized. The 
+Township should require detailed specifications on fuel storage safety measures such 
+as spill-prevention and secondary containment to ensure public health and 
+environmental safety, and it is imperative that the applicant provide a generator-testing 
+plan that specifies how frequently generator testing will occur, the duration the 
+generators will run for, and the days and time of day tests would take place to help the 
+Township plan for operating hours of the facility and adequately evaluate air quality and 
+noise impacts. This information should also be shared with surrounding property owners 
+and tenants (of Policies 5.2, 5.3, and 5.4). 
+ 
+The previous LVPC review noted that septic field beds are included in the northern 
+portion of the project site, and sanitary sewer lines direct wastewater from each building 
+to discharge in the septic field area. The applicant has provided information related to 
+the project’s discharge gallons per day and has indicated the location and sizes of 
+primary and secondary drainage fields as requested in our previous review letter.  The 
+LVPC previously noted a concern regarding the extensive presence of karst geology on 
+the site, and that the wastewater disposal systems need to be properly sited and 
+designed to minimize impacts to groundwater resources, in order to protect the quality 
+and quantity of surface water and groundwater (of Policy 3.2). The applicant has noted 
+that the system will be designed to take karst geology into account. 
+ 
+While a closed-loop cooling is proposed that minimizes water usage and wastewater 
+discharge, land use needs change over time, and it is possible for approved water 
+withdrawal dockets issued by the Delaware River Basin Commission (DRBC) to be sold 
+and transferred to other property owners. If the proposed facility were to shift to a 
+different cooling system in the future with substantially greater water demands, this 
+would likely also involve coordination with Lehigh County Authority to address 
+wastewater disposal needs. The LVPC strongly recommends the Township ensure the 
+cooling system design and any aspects of the project that affect utility impacts are 
+15
+
+[page 16]
+    
+   
+memorialized through the review process to coordinate infrastructure investments and 
+address the long-term impacts of subdivision, development zoning and planning (of 
+Policy 4.6). 
+ 
+Landscaping is proposed throughout the project site along property boundaries and 
+Proposed Road ‘A’ and within parking areas. The proposed landscape schedule 
+consists primarily of Pennsylvania-native tree and shrub species which directly support 
+use of native, climate-adaptive and carbon-sequestering landscaping (of Policy 3.4).  
+ 
+The project site is located within the Coplay Creek and Jordan Creek Watersheds. 
+These watersheds have fully implemented Act 167 Stormwater Management 
+Ordinance. Comments relative to our review of the project’s stormwater management 
+plan are also uploaded to PlanLV Portal.  
+ 
+Transportation 
+A traffic impact study was submitted for the proposed project. The project is anticipated 
+to generate an average of 1,154 weekday trips, calculated using the Institute of 
+Transportation Engineers (ITE) Trip Generation Manual, 12th edition and Land Use 
+Code 160 (Data Center). These average weekday trips include 142 new trips during 
+morning peak and 126 new trips during evening peak times. The LVPC strongly 
+recommends that the applicant coordinate all new development traffic with the adjacent 
+school traffic, including bussing and student drop-off and pickup, to minimize potential 
+traffic conflicts and ‘provide a safe transportation network’ (of Policy 2.2).  
+ 
+Access to the site is planned to be provided via three driveways, a full-access, secured 
+driveway to the new roadway, providing access to the data center campus, a proposed 
+full-access driveway to the new site roadway, providing access to the proposed 
+substation, and a proposed full-access, emergency-only access driveway to Mauch 
+Chunk Road.  
+ 
+A new township roadway is proposed to be constructed in concurrence with the 
+proposed data center connecting Cedar Crest Boulevard at Suncrest Drive to Mauch 
+Chunk Road at Mechanicsville Road (Roadway A). Signalization of the new Roadway A 
+at the intersections with the existing roadways may be necessary for the trips generated 
+by the development and to manage conflict between traffic to and from the development 
+with traffic from the adjacent land uses including Parkland High School. Coordination 
+with Pennsylvania’s Department of Transportation regarding the configuration of the 
+intersection with Mauch Chunk Road and Mechanicsville Road is needed to ‘optimize 
+traffic flow’ (of Policy 2.5). 
+ 
+The amount of parking provided in the proposed plan has been re-evaluated and right 
+sized to minimize impervious surfaces (of Policy 2.2), supporting comments LVPC 
+provided in the previous review.  
+A bridge in the vicinity of the project site along Cedar Crest Boulevard crossing over the 
+Jordan Creek is in ‘Fair’ condition according to the Pennsylvania Department of 
+16
+
+[page 17]
+    
+   
+Transportation Bridge Conditions Map. The bridge over Route 22 at the interchange of 
+Cedar Crest Boulevard is also in ‘Fair’ condition. These bridges should be closely 
+monitored to ‘provide a safe, well-maintained transportation network’ (of Policy 2.2) by 
+making sure they do not fall into ‘Poor’ condition with the addition of the new trips 
+generated by the development. 
+ 
+Sidewalks are proposed along all road frontages of the project site, which supports 
+pedestrian safety and reducing fatalities towards zero (of Policies 5.1 and 5.3). 
+Following LVPC’s comments in the previous review, electric vehicle charging spaces 
+are now proposed (of Policy 2.5). 
+ 
+The Lehigh and Northampton Transportation Authority (LANTA) does not serve the 
+project site currently has no plans to extend service to the area in the future, however 
+the pedestrian infrastructure proposed throughout the site is essential if service is 
+extended to the site in the future (of Policy 2.3).  
+ 
+The Parks, Recreation and Open Space plan of FutureLV and the Lehigh Valley Trail 
+Connection Strategy identifies a Proposed/Conceptual Commuter Trail through the 
+project site, which runs along Jordan Creek to the West, connects to Parkland High 
+School and the project property, and then rejoins Jordan Creek to the East along the 
+Whitehall Township border. LVPC’s previous review recommended including sidewalk 
+along the northeastern property boundary along Mauch Chunk Road to further facilitate 
+closing gaps in the region’s trail network (of Policy 2.1), and these sidewalks have been 
+added to the proposed plans. 
+ 
+ 
+LVPC GIS Mapping – Proposed/Conceptual Commuter Trails 
+ 
+North Cedar Crest Boulevard between Ritter Road and Walbert Avenue is identified as 
+a Congested Corridor, where existing traffic conditions already present operational 
+challenges. According to the Environmental Impact Analysis, during construction there 
+will be 400-500 construction employees and that construction will last 4 years. This 
+construction phase would generate commercial vehicle traffic at a level that would 
+further affect corridor performance. The LVPC strongly recommends requiring 
+construction traffic information such as anticipated truck volumes, designated routing, 
+Approximate 
+site location 
+17
+
+[page 18]
+    
+   
+and hours of operation to adequately plan for and minimize traffic demand within the 
+Transportation Impact Study. 
+ 
+  
+LVPC GIS Mapping – Congested Corridors 
+ 
+ 
+The LVPC has copied representatives from adjacent municipalities and review agencies 
+to ‘coordinate land use decisions across municipal boundaries’ (of Policy 1.4). 
+ 
+Municipalities, when considering land developments, should reasonably attempt to be 
+consistent with FutureLV: The Regional Plan, as required by the Pennsylvania 
+Municipalities Planning Code (MPC) [Article 1§105, Article III§303, §304 & §306(a), 
+Article VI§603(j)]. The LVPC review does not include an in-depth examination of plans 
+relative to subdivision design standards or ordinance requirements since these items 
+are covered in the municipal review. 
+ 
+Please let me know if there are any questions about this review. 
+Approximate 
+site location 
+18
+
+[page 19]
+    
+   
+ 
+Sincerely, 
+  
+Jill Seitz  
+Chief Community and Regional Planner  
+ 
+  
+Susan Myerov   
+Director of Environmental Planning  
+   
+Corinne Ruggiero  
+Environmental Planner  
+  
+Evan Gardi  
+Transportation Planner  
+ 
+cc: Anthony Tallarida, Township Engineer; CDE Acquisitions LLC, Applicant; Andrew Lohr, 
+Kimley-Horn, Project Engineer; Nate Jones, Lower Macungie Township Planning Director; Kevin 
+Murphy, North Whitehall Township Planner; Lee Rackus, Whitehall Township Planning Bureau 
+Chief; Jennifer Gomez, City of Allentown Planning Director; Meredith Keller, Upper Macungie 
+Township Planning Director; Liesel Gross, Lehigh County Authority Chief Executive Officer; 
+Garrett Cook, Lehigh County Conservation District Engineer; Fadia Halma, PA DCED Lehigh 
+Valley Regional Director; Alicia Karner, PA DCED BusinessPA Lehigh Valley Regional Office 
+Director; Dean Ritter, PA DEP Assistant Regional Director; Jane George, PPL Regional Affairs 
+Director; Joseph Lookup, PPL Vice President of Transmission & Distribution Planning & Asset 
+Management Brian Boyer, PennDot District 5; Chad Pindar, Delaware River Basin Commission 
+Water Resource Planning Section Manager; Molly Wood, LANTA Planner/Land Use Specialist; 
+Geoff Reese, LVPC Master Planner and Engineer; Denjam Khadka, LVPC Senior 
+Civil/Environmental Engineer; Peter Lantz, Environmental Engineer. 
+ 
+ 
+ 
+19
+
+[page 20]
+ 
+                 Project Review Summary Sheet  
+  
+Comprehensive Planning Committee                                                                                                              Date: June 2026 
+ 
+Project 
+ 
+Municipality 
+ 
+Brief Statement of Purpose 
+ 
+LVPC Comment 
+Comprehensive 
+Plan 
+Salisbury 
+Township 
+2026 Draft Comprehensive Plan – An update 
+to the 2012 Salisbury Township 
+Comprehensive Plan 
+The plan meets all the legal requirements outlined in the 
+Municipalities Planning Code for Comprehensive plans. Commended 
+the proposed mixed use growth along corridors (of Policy 1.2) and 
+preventing property disinvestment which ‘encourages reuse and 
+redevelopment within urban areas (of Policy 1.1). Recommended 
+listing and considering additional natural resources and ensuring 
+proper buffering between municipal borders with different uses. 
+Curative 
+Amendment 
+Lower 
+Nazareth 
+Township 
+Nazareth Area School District – Proposes to 
+permit ‘School, Primary and Secondary’ as a 
+conditional use in all zoning districts where it 
+is not currently permitted, and amends the 
+conditional use standards governing water 
+and sewer service so that public sewer 
+would be required only where available. 
+Permitting schools in zoning districts with incompatible land uses 
+could create land use conflicts over the long term and does not 
+‘encourage an efficient development process responsive to regional 
+needs’ (of Policy 1.4). Locating schools in areas without public 
+utilities increases the maintenance costs associated with school 
+operations long-term, and FutureLV ‘discourages use of packaged 
+sewage treatment plants’ (of Policy 3.2).  
+Zoning Map 
+Amendment 
+Nazareth 
+Borough  
+ 
+General Commercial – Proposes converting 
+one block, five parcels, from Light Industrial 
+to General Commercial 
+ 
+The changes includes additional uses and lowers the requirements 
+for conversions which ‘encourages reinvestment in commercial 
+areas’ (of Policy 4.6) and helps alleviate regional housing shortages 
+by providing attainable housing options(of Policy 4.5) 
+20
+
+[page 21]
+ 
+ 
+                 Project Review Summary Sheet  
+  
+Comprehensive Planning Committee                                                                                                              Date: June 2026 
+Zoning 
+Ordinance 
+Amendment 
+Forks 
+Township 
+Growth Management Overlay –  Establishes 
+two Growth Management Overlays and 
+updates provisions for agricultural 
+preservation and sets common open space 
+requirements for cluster developments. 
+Advances FutureLV by ‘matching development intensity with 
+sustainable infrastructure capacity’ and preserving agricultural and 
+natural lands (of Policy 1.1). 
+Zoning 
+Ordinance 
+Amendment 
+Forks 
+Township 
+Data Center Decommissioning – An update 
+to the Forks Township Data Center 
+Ordinance to include additional provisions.  
+LVPC commended the continued regulation of Data Centers as an 
+emerging land use, ‘minimizing the impact of Land Use of Regional 
+Significance’ (of Policy 1.4) and ‘support the evolution and 
+adaptability of government’ (of Policy 1.1). The updates include 
+amendments that ‘minimize the environmental impact of 
+development’ (of Policy 3.2). 
+Zoning 
+Ordinance 
+Amendment 
+City of 
+Bethlehem 
+Hotels Definition – Updates 
+the definitions of hotels and the time frames 
+that constitute a stay. 
+ 
+Unifying time lines provides ‘an efficient development process that is 
+responsive to regional needs’ and expanding workforce housing 
+‘provide a wide variety of attainable housing in locations that 
+maximize social and economic opportunities for everyone (of Policy 
+4.5).  
+21

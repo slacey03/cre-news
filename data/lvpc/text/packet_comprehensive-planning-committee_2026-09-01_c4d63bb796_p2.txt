@@ -1,0 +1,607 @@
+
+
+[page 20]
+  
+   
+ 
+equipment and other supporting mechanical systems. The applicant has indicated that a sound 
+study has been conducted and that additional acoustic evaluation and mitigation design are 
+underway. 
+ 
+The final noise study should show expected sound levels at the property lines and nearby 
+properties during normal operations, generator testing and emergency conditions. It should also 
+evaluate low-frequency and tonal noise, which can be more noticeable even when overall 
+decibel levels are relatively low. Mechanical and generation equipment should be enclosed, 
+oriented and attenuated as necessary based on the final study. The LVPC also recommends 
+post-construction acoustic verification after the facility reaches normal operating conditions to 
+confirm that the completed facility performs consistently with the assumptions used in the final 
+study and to identify whether additional mitigation is necessary. These measures support 
+community health and compatibility with surrounding development (of Policy 5.3). 
+ 
+Emergency Services 
+Because the facility would contain high-voltage electrical equipment, generators, cooling fluids 
+and specialized mechanical systems, emergency responders should understand the site and its 
+equipment before the facility opens. Early and continued coordination with the City Fire 
+Department and emergency response personnel is therefore important. 
+ 
+The applicant indicates that the facility will include a fire protection system designed specifically 
+for the final equipment configuration and selected dielectric fluid and that final suppression 
+specifications will be coordinated with applicable fire codes and emergency responders.  
+The final emergency response plan should identify emergency access, equipment shutoffs, 
+utility isolation procedures, fire-suppression systems, hazardous or combustible material 
+inventories and safety data, spill response procedures, emergency contacts and responder 
+access to the substation and mechanical areas. Appropriate facility orientation and training 
+should be provided to emergency responders prior to occupancy. This coordination supports 
+effective emergency services and protection of critical infrastructure (of Policy 5.1). 
+ 
+Transportation 
+Redevelopment of the property as a data center is expected to involve substantially fewer 
+routine employee, freight and delivery trips than many comparably sized warehouse, distribution 
+or manufacturing uses. The applicant should document anticipated employment, shift 
+schedules, routine deliveries and service vehicles so the City can evaluate normal operating 
+conditions. 
+ 
+Construction of the facility and installation of major electrical equipment may also generate 
+temporary truck and oversized equipment movements substantially different from routine 
+operations. Construction access, staging and delivery routing should therefore be coordinated 
+with the City and applicable transportation agencies to minimize conflicts with surrounding 
+businesses and the regional transportation network (of Policy 2.2). 
+ 
+Community Engagement and Continued Reporting 
+The applicant has indicated an intent to maintain communication with the community and 
+reviewing agencies through informational meetings and responses to public questions and is 
+exploring an educational partnership with Lehigh University related to data-center research and 
+possible internship opportunities. The LVPC supports continued community engagement as the 
+technical design develops. 
+ 
+20
+
+[page 21]
+  
+   
+ 
+Because several of the most consequential operational characteristics remain subject to final 
+engineering, the completed water-balance analysis, acoustic study, utility documentation, air-
+quality and emissions information, thermal-impact information and emergency-response 
+materials should be made available to the City and reviewing agencies as they are completed. 
+Where these analyses materially affect potential community impacts, the information should 
+also be communicated in an accessible format to residents and other interested stakeholders. 
+ 
+Conclusion 
+The applicant has taken several steps to address common data center impacts, including 
+redeveloping an existing industrial site, proposing closed-loop immersion cooling, enclosing 
+major equipment and planning additional technical studies. The project location and 
+redevelopment approach support several goals of FutureLV: The Regional Plan. However, 
+important aspects of the facility are still being finalized. As the project proceeds, any 
+commitments that are relied upon in determining the project's compatibility should be clearly 
+documented and memorialized. If the submitted plans substantially change as this information is 
+finalized, the plans must be resubmitted to LVPC for review prior to plan signing and 
+recordation. 
+ 
+The LVPC has copied representatives from applicable review agencies to coordinate land-use 
+decisions across municipal boundaries (of Policy 1.4). 
+ 
+Municipalities, when considering land developments, should reasonably attempt to be 
+consistent with FutureLV: The Regional Plan, as required by the Pennsylvania Municipalities 
+Planning Code (MPC) [Article 1§105, Article III§303, §304 & §306(a), Article VI§603(j)]. The 
+LVPC review does not include an in-depth examination of plans relative to subdivision design 
+standards or ordinance requirements since these items are covered in the municipal review. 
+ 
+Sincerely,  
+  
+Jill Seitz  
+Chief Community and Regional Planner   
+ 
+cc: Samantha Pearson, Lehigh County Director of Community and Economic Development; Tina Smith, 
+Northampton County Director of Community and Economic Development; Garrett Cook, Lehigh County 
+Conservation District Engineer; Fadia Halma, PA DCED Lehigh Valley Regional Director; Alicia Karner, 
+PA DCED BusinessPA Lehigh Valley Regional Office Director; Dean Ritter, PA DEP Assistant Regional 
+Director; Jane George, PPL Regional Affairs Director; Brian Boyer, PennDot District 5; Molly Wood, 
+LANTA Planner/Land Use Specialist. 
+21
+
+[page 22]
+ 
+   
+ 
+ 
+ 
+ 
+ 
+September 11, 2026  
+  
+Mark Saginario, Manager 
+Tatamy Borough 
+423 Broad Street PO Box 218   
+Tatamy, PA 18085 
+   
+Re: Data Center Ordinance 
+Tatamy Borough 
+Northampton County    
+   
+Dear Mr. Saginario, 
+ 
+The Lehigh Valley Planning Commission (LVPC) considered the subject application at 
+its Comprehensive Planning Committee and Full Commission meetings, pursuant to the 
+requirements of the Pennsylvania Municipalities Planning Code (MPC). Meeting 
+participation details are below:     
+    
+LVPC Comprehensive Planning 
+Committee Meeting:    
+    
+September 22, 2026, at 12:00 
+PM (Virtual)    
+https://lvpc.org/lvpc-meetings  
+LVPC Full Commission    
+Meeting:    
+    
+September 24, 2026, at 7:00 PM (In-
+Person)    
+https://lvpc.org/lvpc-meetings   
+ 
+The application proposes amending the Tatamy Borough Zoning Ordinance to regulate 
+Data Centers. LVPC supports Tatamy Borough’s proactive effort to address emerging 
+land use before proposals arrive. The LVPC offers the following recommendations to 
+further strengthen the amendment and ensure that its protections remain legally 
+defensible under Pennsylvania law. Because several provisions implicate authority 
+assigned by state law to other agencies or extend beyond customary performance 
+standards, the LVPC strongly recommends that the Township Solicitor specifically 
+review the provisions identified below prior to enactment.  
+ 
+The following aspects of the proposed ordinance align with FutureLV: 
+ 
+• Definitions: The ordinance distinguishes different types and aspects of Data 
+Storage Center, as well as the borough’s definition of Net-Zero operational 
+Utilities.  Providing definitions encourages clarity and minimizes impacts of 
+regionally significant land uses (of Policy 1.4). 
+ 
+22
+
+[page 23]
+  
+   
+ 
+• Special Exception Use: The ordinance proposes allowing Micro Data Centers 
+and Mini Data Centers by Special Exception in their Main Street Commercial 
+District and Business Overlay District. Use by Special Exception allows the 
+borough to evaluate project impacts on a case-by-case basis to determine 
+community needs and sensitivities and balance those needs with the demand for 
+modern technological infrastructure. This approach supports an efficient 
+development process that is responsive to regional needs and minimizes the 
+impacts of regionally significant land uses (of Policy 1.4). Additionally, the LVPC 
+recommends removing the provision stating “No data center of any tier shall be 
+permitted as a use-by-right in any zoning district within the Borough of Tatamy” 
+as the allowance within those districts clarifies where a data center may go and 
+the additional provision is unnecessary and may lead to confusion.  
+• Aesthetics:  The aesthetic and architectural standards included in the ordinance 
+help to minimize the visual impacts of the scale of buildings on neighboring 
+properties and ‘promote context-specific design solutions’ (of Policy 5.4).  
+ 
+• Noise: The proposed noise limit of 45 dBA at the property during day hours and 
+40 dBA during night hours, as well as the specific humming lower permitted noise 
+level and acoustic modeling study serve to ‘minimize the environmental impacts 
+of development to protect the health, safety and welfare of the public’ (of Policy 
+3.2). The LVPC recommends that because Data Centers are operation 24/7, 
+noise levels are unlikely to change throughout the day unlike other kinds of 
+industrial uses, the borough consider placing a standard decibel level regardless 
+of the time of day to further Policy 3.2.  
+ 
+• Buffering: The ordinance proposes sufficient buffering to offset any potential 
+impacts of noise and visual impact and ‘minimizes the environmental impact of 
+development’ (of Policy 3.2). The LVPC recommends in the vegetated screening, 
+the borough require ‘native, climate adaptative landscaping’ (of Policy 3.4).  
+ 
+• Mandatory Sanitary Sewer Interconnection: The ordinance requires that the 
+data center operator connect to the existing municipal sanitary sewer system 
+which the LVPC supports for ‘matching development intensity with sustainable 
+infrastructure capacity’ (of Policy 1.1).  
+ 
+The LVPC offers additional recommendations for the Township’s consideration to further 
+strengthen its regulations and promote public health, safety and welfare:  
+ 
+• Net-Zero Generation Mandate: The ordinance outlines that data centers ‘must 
+provide 100% of their normal and peak electricity consumption through 
+dedicated, on-site or directly connected clean energy systems’ and limits public 
+electric utility grid connection to only emergency and backup systems. The LVPC 
+supports ‘energy conservation and efficiency’ and ‘supporting renewable energy 
+23
+
+[page 24]
+  
+   
+ 
+and diversification of sources’ (of Policy 3.4), and ‘encourage reuse, sustainable 
+building, site design and community design practices’. However, a 100% 
+mandated sustainable energy and a limitation on connection may be legally 
+dubious. MPC Section 910.2 specifies variances for unnecessary hardships and 
+MPC Section 916.1 allows for challenges of the validity of an ordinance that 
+prohibits or restricts the use or development of land. Additionally, interconnection 
+to grid systems is regulated by the state Pennsylvania Public Utilities 
+Commission (PUC) and provisions preempting the state authority could be 
+challenged.  
+ 
+• Closed-Loop System Mandate: The ordinance requires a closed-loop cooling 
+system be used by data centers. The LVPC recommends against setting any 
+specific cooling system requirements as the technology behind cooling systems 
+evolve frequently and the specified evaporative-recirculation cooling method may 
+not be the most efficient and effective solution to mitigate water impact in the 
+future. Instead, the LVPC recommends setting specific performance standards to 
+achieve the same goal while allowing developers to use better techniques and 
+‘support the evolution and adaptability of government’ and ‘integrate efficiency 
+measures and emerging technologies’ (of Policy 1.1).  
+ 
+• Water withdrawal: The ordinance proposes prohibiting data centers from 
+drawing public municipal water or extracting local underlying aquifers and 
+requires the installation of four permanent, dedicated groundwater monitoring 
+wells. The intent of the ordinance provisions addressing water supply, 
+groundwater, cooling water, stormwater and process water support conserving 
+water resources (of Policy 3.1). Pennsylvania law permits zoning provisions 
+addressing the availability of a reliable and adequate water supply. The 
+ordinance should therefore remain focused on demonstrating the availability of 
+water, evaluating local land use and environmental impacts, and documenting 
+compliance with outside regulatory approvals rather than independently 
+regulating the amount of a withdrawal. The MPC does not authorize 
+municipalities to regulate water allocation or withdrawal where those matters are 
+otherwise regulated by the PUC or state or federal agencies.    
+ 
+• Bonds: The ordinance requires a performance and infrastructure protection bond 
+equal to 110% of the total estimated construction cost. The LVPC supports 
+efforts to ‘promote fiscal health and sustainability of municipalities’ (of Policy 4.6), 
+however, the MPC outlines in Section 509(a) that financial securities sufficient to 
+cover the costs of site improvements that may be required are permitted, but total 
+estimated construction cost may fall outside of the scope of this provision and not 
+be legal.  
+ 
+• Parking Requirements: The ordinance requires one off street parking space per 
+1,500 square feet of total gross floor area that is designed and intended to be 
+accessible regularly by daily operational employees and a minimum of two 
+spaces for temporary IT contractor services, plus one additional space per 
+24
+
+[page 25]
+  
+   
+ 
+maximum shift employee present on site during peak operations. Because data 
+centers typically have fewer employees than other types of industrial 
+uses, applying parking minimum standards that are typical of other types of 
+industrial uses may lead to overbuilt, unused impervious surfaces 
+that exacerbate stormwater impacts. Additionally, these standards exceed those 
+found for other industrial uses including warehouses in the borough’s existing 
+requirements. The LVPC recommends setting a specific parking requirement, 
+such as one space per on-site employee, which supports best-practice 
+contextual standards that match development intensity with appropriate 
+infrastructure capacity (of Policy 1.1) and reduce impervious surfaces and protect 
+water sources (of Policy 3.3).  
+ 
+o Truck Parking: The LVPC supports the inclusion of a truck parking spot 
+for the unloading of equipment with the intent to avoid idling at the site for 
+‘strengthening freight mobility to minimize quality of life impacts to 
+residents’ (of Policy 2.4).  
+ 
+• Full-Scale Minimum Acreage and Statutory Acknowledgement of Land 
+Capacity: The ordinance outlines that Full-Scale Data Centers must have a 
+minimum contiguous lot area of 40 acres and acknowledges that no such area 
+exists within the borough where Mini Data Centers and Micro Data Centers are 
+permitted by Special Exception.  
+The LVPC recommends consulting with the township’s solicitor whether this 
+creates a sufficiently unnecessary hardship under the previous MPC sections 
+mentioned above.  Additionally, the LVPC recommends removing Section F (2) 
+as only permitting micro and mini data centers within those zones establishing 
+the same restrictions.  
+ 
+• Additional Provisions: The ordinance covers a wide range of topics, but there 
+are several additional provisions that could be considered in the ordinance to 
+strengthen the provisions and provide additional insight: 
+ 
+o Decommissioning and Electronic Waste: The ordinance could include 
+provisions for decommission and site restoration as well as recycling of 
+the decommissioned data center and any electronic waste generated by 
+the site. Taken together, a decommissioning plan and electronic waste 
+plan support the goal of FutureLV to ‘enhance the long-term viability of 
+assets’ and ‘provide environmentally responsible and economical solid, 
+electronic and hazardous waste disposal and recycling’ (of Policies 1.3 
+and 3.2). 
+ 
+o Environmental Impact: The borough may consider requiring an 
+environmental impact assessment be submitted by applicants to (1) 
+evaluate impacts of data center developments and (2) to propose 
+mitigation strategies for any adverse effects to air, soil, water quality, 
+groundwater sources, wildlife and habitat, and greenhouse gas emissions. 
+25
+
+[page 26]
+  
+   
+ 
+These may be modelled under regular and adverse conditions such as 
+drought, extended power outages and extreme heat. Including these 
+features in the ordinance serves to ‘preserve natural resources in the land 
+development process’ and promotes stewardship of the Township’s and 
+the region’s natural resources (of Policy 3.1) 
+ 
+o Emergency Planning: the borough could also consider requiring an 
+Emergency Response Plan and coordination with local emergency 
+services on the plan which would ‘enhance planning and emergency 
+response capabilities’ (of Policy 5.1).  
+ 
+o Heat Mitigation: Because data centers generate significant heat, the 
+borough is encouraged to require applicants to submit a Thermal Impact 
+Mitigation Plan that outlines strategies for waste heat reuse or 
+dissipation, which minimizes environmental impacts of development to 
+protect the health, safety and welfare of the public’ (of Policy 
+3.2). Encouraging cool roofs, green roofs/shade trees, and light-colored 
+exterior walls help to mitigate heat island 
+effect and incorporate ‘sustainable building, site design and community 
+design practices’ (of Policy 3.4). 
+o Sustainable Infrastructure/Building Design: As the above provisions for 
+100% net-zero impact may not be possible, there are other avenues the 
+borough can take to help ‘minimize the environmental impact of 
+development’ (of Policy 3.2). The LVPC recommends the borough 
+encourage features like LEED certification and roof-mounted solar energy 
+systems which provide specific standards and align more closely with 
+what is permitted under the MPC.  
+ 
+Municipalities, when considering zoning ordinance amendments, should reasonably 
+attempt to be consistent with FutureLV: The Regional Plan, as required by the 
+Pennsylvania Municipalities Planning Code (MPC) [Article 1§105, Article III§303, §304 
+& §306(a), Article VI§603(j)]. Please feel free to reach out with any questions about this 
+review. 
+ 
+Sincerely,  
+ 
+Jacob Weinberg 
+Community and Regional Planner 
+ 
+  
+ 
+ 
+ 
+26
+
+[page 27]
+ 
+   
+ 
+ 
+ 
+ 
+ 
+September 17, 2026 
+ 
+Cathy Fletcher, Director of Planning and Zoning 
+City of Bethlehem 
+10 E Church St 
+Bethlehem, PA 18018 
+  
+Re: Zoning Ordinance Amendment – Data Centers 
+City of Bethlehem 
+Lehigh and Northampton Counties 
+  
+Dear Director Fletcher, 
+ 
+The Lehigh Valley Planning Commission (LVPC) will consider the subject application at its 
+Comprehensive Planning Committee and Full Commission meetings, pursuant to the 
+requirements of the Pennsylvania Municipalities Planning Code (MPC). Discussion on agenda 
+items largely happens during the Committee meeting. Meeting details are below, and we 
+encourage any and all participation:   
+ 
+LVPC Comprehensive Planning Committee 
+Meeting:  
+  
+September 22, 2026, at 12:00 PM (Virtual)  
+https://lvpc.org/lvpc-meetings  
+LVPC Full Commission  
+Meeting:  
+  
+September 24, 2026, at 7:00 PM (In-Person)  
+https://lvpc.org/lvpc-meetings  
+ 
+The amendment establishes a definition for Data Center, permits the use by special exception in 
+the Industrial (IN) Zoning District, and creates a comprehensive set of related requirements that 
+address environmental conditions, water use, wastewater disposal, electric demand, energy 
+efficiency, electronic waste and decommissioning, emergency response, waste heat, noise, 
+vibration, lighting, parking, dimensional standards, buffers and screening. The proposed 
+requirements also include substantial setback requirements that would distance any proposals 
+from existing sensitive receptors such as houses, schools, child and adult day cares, parks, 
+hospitals and community recreation centers. 
+ 
+The City has undertaken a deliberate process to develop the proposed ordinance that involved 
+consulting regional guidance, sharing best practices with other communities, and translating that 
+information into clear local standards. The proposed ordinance is comprehensive, legally 
+defensible, and supports FutureLV: The Regional Plan by ‘encouraging an efficient development 
+process responsive to regional needs’ (of Policy 1.4). 
+ 
+Land Use and Review Process 
+Permitting Data Centers by special exception in the Industrial Zoning District ‘matches 
+development intensity with sustainable infrastructure capacity’ (of Policy 1.1) and provides a 
+structured process for proposals on a case-by-case basis. The proposed regulations require all 
+applicable plans, studies, assessments and mitigation strategies with the zoning permit or land 
+27
+
+[page 28]
+  
+   
+ 
+development application, whichever is submitted first, which is a strong administrative practice 
+because it brings the information needed to evaluate impacts into the review process at the 
+earliest applicable stage, supporting an efficient, predictable development process (of Policy 
+1.4). 
+ 
+Utilities and Infrastructure 
+The ordinance appropriately requires applicants to document anticipated water use, wastewater 
+generation and electric demand so that infrastructure needs can be understood as part of the 
+land use review. These requirements provide a basis for transparent and consistent review and 
+directly support efforts to ‘improve the utility infrastructure of the region’ (of Policy 1.1). 
+ 
+Environmental Impacts and Sustainability 
+The ordinance requires an Environmental Impact Assessment, Water Utilization Report, 
+wastewater documentation and electronic waste provisions. Together, these provisions support 
+protecting the quality and quantity of surface water and groundwater, environmentally 
+responsible disposal and recycling, improved air quality and minimizing impacts associated with 
+utility expansion and technological advancement (of Policy 3.2). 
+ 
+The ordinance also directly addresses waste heat and energy efficiency. Requiring thermal 
+mitigation information recognizes that heat-rejection systems can create localized environmental 
+effects, while the Power Usage Effectiveness provisions establish a measurable basis for 
+understanding facility energy efficiency. These standards strongly support sustainable building 
+and site-design practices, energy conservation and efficiency and business practices that 
+mitigate climate impacts (of Policy 3.4). 
+ 
+Setbacks, Buffers and Screening 
+The proposed ordinance requires 1,000-foot setbacks from residentially zoned properties and 
+sensitive receptors such as dwellings, institutional uses with residential components, schools, 
+child and adult day cares, parks, hospitals and community recreation centers. The requirements 
+for fencing, evergreen screening and equipment screening provide strong protection against 
+potential visual, noise and operational conflicts. These provisions support context-specific 
+design solutions responsive to Bethlehem’s established neighborhoods, institutions, parks and 
+historic urban character (of Policy 5.4). The LVPC notes that the City’s proposed Data Center 
+definition identifies that a Data Center facility “may also include air handlers, backup power 
+generators, water cooling and storage facilities, utility substations,” etc., and that based on this 
+definition, these accessory components should also comply with setback requirements. 
+ 
+Noise and Operational Impacts 
+The proposed noise standards represent a particularly well-developed response to the 
+continuous and low-frequency sound characteristics that can distinguish Data Centers from 
+other industrial uses. Rather than relying on a single uniform sound threshold, the City 
+establishes direct daytime and nighttime dBA and dBC limits, a pure-tone adjustment and 
+extensive pre- and post-construction testing requirements. This provides objective, measurable 
+standards for evaluating both modeled and actual operating conditions and directly supports 
+minimizing environmental and quality of life impacts of development (of Policy 3.2). 
+ 
+Emergency Preparedness 
+The emergency response plan, hazardous material disclosures, site access requirements and 
+first responder training provisions strongly advance safe and secure community design. These 
+materials when submitted should be provided to the City’s fire department and emergency 
+management personnel through the existing interdepartmental review process outlined in the 
+28
+
+[page 29]
+  
+   
+ 
+City’s Subdivision and Land Development Ordinance (SALDO) to ‘enhance planning and 
+emergency response efforts among emergency-management personnel’ (of Policy 5.1). 
+ 
+Construction and Parking 
+The proposed ordinance requires 1.2 vehicle parking spaces per employee or five parking 
+spaces if the number of employees is unknown, which supports right-sizing parking 
+requirements helps avoid unnecessary impervious coverage (of Policy 2.2). The LVPC supports 
+the City in retaining administrative flexibility where documented operating conditions may 
+demonstrate materially different parking needs. 
+ 
+Decommissioning and Electronic Waste 
+The required electronic waste and decommissioning plan provides a mechanism for addressing 
+equipment replacement and the eventual cessation of operations, advancing environmentally 
+responsible electronic and hazardous waste disposal and recycling (of Policy 3.2). The City’s 
+approach appropriately establishes expectations for long-term site management planning. 
+ 
+Overall, the proposed amendment represents a thoughtful and intentional response to a 
+complex land use. The City’s work exemplifies the broader intent of FutureLV to prepare local 
+regulations for essential digital infrastructure while protecting public health, environmental 
+resources, infrastructure capacity and community context, and the LVPC commends the City for 
+its commitment to evidence-based planning and sound land use administration. 
+ 
+Municipalities, when considering zoning ordinance amendments, should reasonably attempt to 
+be consistent with FutureLV: The Regional Plan, as required by the Pennsylvania Municipalities 
+Planning Code (MPC) [Article 1§105, Article III§303, §304 & §306(a), Article VI§603(j)]. The 
+LVPC review does not include an in-depth examination of plans relative to subdivision design 
+standards or ordinance requirements since these items are covered in the municipal review. 
+ 
+Sincerely,  
+  
+Jill Seitz  
+Chief Community and Regional Planner   
+ 
+cc: Tad Miller, City Clerk 
+29
+
+[page 30]
+ 
+   
+ 
+ 
+ 
+ 
+ 
+September 17, 2026  
+  
+Jay Finnigan, Acting Manager 
+Lower Saucon Township 
+3700 Old Philadelphia Pike 
+Bethlehem, PA 18015 
+   
+Re: Official Map Update 
+Lower Saucon Township 
+Northampton County    
+   
+Dear Mr. Finnigan, 
+ 
+The Lehigh Valley Planning Commission (LVPC) will consider the subject application at its 
+Comprehensive Planning Committee and Full Commission meetings, pursuant to the 
+requirements of the Pennsylvania Municipalities Planning Code (MPC). Discussion on agenda 
+items largely happens during the Committee meeting. Both meetings will be virtual, and we 
+encourage your participation. The LVPC will issue a follow-up letter after the Commission 
+meeting if Commission members have any additional comments. Meeting participation details 
+are below:  
+ 
+LVPC Comprehensive Planning Committee 
+Meeting:   
+  
+September 22, 2026, at 12:00 PM (Virtual)  
+ 
+https://lvpc.org/lvpc-meetings  
+LVPC Full Commission  
+Meeting:  
+  
+September 24, 2026, at 7:00 PM (In-Person) 
+615 Waterfront Drive, Allentown 
+ 
+https://lvpc.org/lvpc-meetings  
+ 
+ 
+Official Maps are implementation tools that support the community’s vision outlined in the 
+comprehensive plan by identifying locations of existing and planned public lands and facilities 
+such as transportation infrastructure, parks and trails, and open space. An official map 
+expresses a municipality’s interest in acquiring lands for public purposes sometime in the future, 
+and the creation of the map serves to notify the public of this interest. The LVPC encourages 
+municipalities to adopt official maps as a way of fulfilling the intent of FutureLV: The Regional 
+Plan to coordinate efficient development processes (Policy 1.4), and to provide an avenue for a 
+municipality to promote its fiscal health and sustainability (of Policy 4.6). 
+ 
+The Township’s Draft Official Map identifies Township, Hellertown Borough Owned Parcels, 
+Road Classification, State and Local Bridges, existing trails, railroads and their right-of-ways, 
+streams, water bodies, FEMA - 100 Year Floodplain, Public Parks, and both preserved farmland 
+and farmland in agricultural security areas. Highlighting these features support numerous 
+aspects of FutureLV: The Regional Plan such as Policies 2.2, 3.1, 3.2, 3.3, 5.2, and 5.3.  
+ 
+The LVPC recommends the Township consider incorporating the following additional  
+items to build upon the Draft Official Map: 
+30
+
+[page 31]
+  
+   
+ 
+• The LVPC encourages the Township to identify transportation improvement projects that 
+can be submitted to the Lehigh Valley Transportation Study for inclusion in the Long-
+Range Transportation Plan (LRTP) to support use of transportation funds to maximize 
+available financial resources and support the fiscal health and sustainability of the 
+Township (of FutureLV: The Regional Plan, Policy 2.6 and 4.6) 
+ 
+• The LVPC recommends the Township include symbology for proposed and conceptual 
+trails. The Lehigh Valley Trail Connection Strategy identifies several conceptual trails 
+that could expand the Saucon Region Trail Network, including a connection from 
+Interstate 78 and several different existing rights-of-way from the D&L Trail in Bethlehem 
+down to the opposite side of Lower Saucon.  
+ 
+Municipalities, when considering ordinances and official maps, should reasonably attempt to be 
+consistent with FutureLV: The Regional Plan, as required by the Pennsylvania Municipalities 
+Planning Code (MPC) [Article 1§105, Article III§303, §304 & §306(a), Article VI§603(j)]. Please 
+send a copy of any final amendments that are adopted, per the requirements of the MPC.  
+ 
+Sincerely,  
+ 
+Jacob Weinberg 
+Community and Regional Planner 
+31

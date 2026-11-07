@@ -1,0 +1,1433 @@
+
+
+[page 22]
+ 
+ 
+ 
+ 
+ 
+Resolution No. 06-25-26-A 
+OF THE LEHIGH VALLEY PLANNING COMMISSION 
+PATHWAY TO A RESILIENT GREATER LEHIGH VALLEY 
+ 
+WHEREAS, The Lehigh Valley Planning Commission (LVPC) is organized by the Counties of 
+Lehigh and Northampton to promote the health, safety, and general welfare of the 
+two-county region in accordance with the provisions of the Pennsylvania 
+Municipalities Planning Code, Pennsylvania Stormwater Management Act of 1978, 
+among other statutes both state and federal; and 
+ 
+WHEREAS, The Lehigh Valley Transportation Study (“LVTS”) was created in 1964 to serve as the 
+Metropolitan Planning Organization for the Lehigh Valley pursuant to Title 23 of the 
+United States Code and to implement provisions of the Infrastructure Investment and 
+Jobs Act, among other federal statutes; and 
+ 
+WHEREAS,   Section 60114 of the Inflation Reduction Act authorized the US Environmental Protection  
+Agency (EPA) under the Climate Pollution Reduction Grants (CPRG) program to provide 
+$5 billion in grants to states, local governments, tribes, and territories to develop and 
+implement ambitious plans for reducing greenhouse gas emissions and other harmful air 
+pollution; and  
+  
+WHEREAS, CPRG is a two-phase program provides $250 million for noncompetitive planning grants 
+to the largest metropolitan areas in the US, and approximately $4.6 billion for competitive 
+implementation grants; and  
+ 
+WHEREAS,  The LVPC received a $1 million EPA Planning Grant to develop a Priority Climate Action 
+Plan by March 1, 2024, and a Regional Climate Action Plan by December 1, 2025 for the 
+Allentown-Bethlehem-Easton PA/NJ Metropolitan Statistical Area (MSA), which includes 
+Warren County, NJ and Carbon County, PA in addition to Lehigh and Northampton 
+Counties, PA; and 
+ 
+WHEREAS,  LVPC along with the LVTS, have prepared a draft regional Climate Action Plan known as 
+Pathway to a Resilient Greater Lehigh Valley focused on decarbonization of the region’s 
+major carbon emission sectors in accordance with EPA’s CPRG program guidance; and  
+ 
+WHEREAS,  LVPC/LVTS utilized the open, inclusive, public WorkshopLV: Environment to discuss, 
+guide and draft priorities.  Workshops included residents, businesses, and a variety of 
+partner organizations, agencies, and authorities, who worked create the Pathway to a 
+Resilient Greater Lehigh Valley; and  
+ 
+WHEREAS,  LVPC/LVTS also, met with Carbon County, PA and Warren County, NJ officials, 
+agencies, and stakeholders to engage in the development of the Pathway to a Resilient 
+Greater Lehigh Valley; and   
+ 
+WHEREAS,  The intent of the Pathway to a Resilient Greater Lehigh Valley Plan is to reduce carbon  
+related emissions thereby improving air-quality and improving human and environmental 
+health, reduce hazards and decrease vulnerabilities, and support community and 
+economic development in the interest of the public health, safety and general welfare of 
+22
+
+[page 23]
+    
+   
+ 
+the region.   This broad goal is consistent with FutureLV: The Regional Plan, 
+Walk/RollLV: Active Transportation Plan, Northampton County Livable Landscapes Plan, 
+Lehigh County Livable Landscapes Plan, Lehigh, and Northampton Transportation 
+Authority’s (LANTA) Moving LANTA Forward Regional Transit Plan and LANTA’s 
+Enhanced Bus/Bus Rapid Transit planning; and 
+ 
+WHEREAS,  Pathway to a Resilient Greater Lehigh Valley Plan is consistent with the LVPC and LVTS 
+adopted resolutions to include Health in All policies (Resolutions 9-19-19-A and 10-2-19-
+B, respectively) and LVTS Vision Zero policy ( Resolution 11-15-23-B), as well as, 
+supports meeting LVTS adopted Performance Measures. 
+ 
+WHEREAS,     The LVPC forwarded Pathways to a Resilient Greater Lehigh Valley Plan to the EPA in 
+December, 2025 and received requested minor revisions to the plan, and those changes 
+have been made. 
+  
+ 
+NOW, THEREFORE, BE IT RESOLVED, that the LVPC in a public meeting, adopts the revised Pathway 
+to a Resilient Greater Lehigh Valley.  
+ 
+Adopted by the Lehigh Valley Planning Commission on the 25th day of June 2026. 
+ 
+ 
+ 
+LEHIGH VALLEY PLANNING COMMISSION 
+ 
+ 
+ 
+ 
+________________________________  ________________________________ 
+Christina V. Morgan, Chair   Armando Moritz-Chapelliquen, Vice Chair 
+LVPC      LVPC 
+ 
+ 
+ 
+ 
+ 
+ 
+ATTEST: 
+ 
+ 
+ 
+________________________________ 
+Becky Bradley, AICP, Executive Director 
+LVPC   
+ 
+ 
+ 
+ 
+23
+
+[page 24]
+ 
+   
+ 
+ 
+ 
+ 
+MEMORANDUM 
+DATE: June 18, 2026 
+TO: Lehigh Valley Planning Commission and Lehigh Valley Transportation Study 
+FROM: Susan Myerov, AICP, Director of Environmental Planning   
+REGARDING: Changes to Pathways to a Resilient Greater Lehigh Valley 
+ 
+This memorandum summarizes changes made to the above referenced document adopted by 
+LVPC at its meeting of November 20, 2025 and subsequently submitted to the U.S. Environmental 
+Protection Agency.  Per request of EPA, LVPC has made the following changes and additions to 
+the plan: 
+ 
+Page 28 – Added description of interagency and intergovernmental coordination. 
+Page 58-59 – Added general information on leveraging funding resources to supplement funding 
+sources information included in each emission sector description. 
+Pages 153-157 – Provided detailed co-pollutant emissions estimates reflecting a disaggregation 
+of co-pollutant data found in each of the emission sector descriptions. 
+Minor changes included updating page numbers, table of contents, and acknowledgements. 
+ 
+ 
+24
+
+[page 25]
+to a Resilient Greater Lehigh Valley 
+Carbon, Lehigh and Northampton Counties, PA with Warren County, NJ
+PREPARED BY THE 
+Lehigh Valley Planning Commission25
+
+[page 26]
+2
+Translation Services
+26
+
+[page 27]
+PATHWAY TO A RESILIENT GREATER LEHIGH VALLEY
+27
+
+[page 28]
+4
+ 28
+
+[page 29]
+PATHWAY TO A RESILIENT GREATER LEHIGH VALLEY
+Prepared by the Lehigh Valley Planning Commission in partnership with 
+the Lehigh Valley Transportation Study, the counties of Carbon, Lehigh and 
+Northampton in Pennsylvania, and Warren in New Jersey, in the interest of 
+the public health, safety and general welfare of the region.
+5
+Plan adopted: November 12, 2025 
+Plan revisions adopted: June 25th, 2026
+29
+
+[page 30]
+6
+COMMISSIONERS
+Armando Moritz-Chapelliquen
+Vice Chair (Northampton County)
+Christina V. Morgan
+Chair (Lehigh County)
+Philips Armstrong
+Treasurer (Lehigh County)
+Josh Siegel 
+Samantha Pearson (alt.) 
+Matthew Tuerk 
+Jennifer Gomez (alt.) 
+Ron Beitler 
+Santo Napoli 
+Craig Beavers 
+Michael Drabenstott 
+Gary Fedorcha 
+Sharon Fehlinger-Ricker 
+Sunny Ghai 
+Philip Ginder 
+Steven Glickman, RA 
+Kent Herman, Esq. 
+John Inglis III 
+Ryan Mayberry 
+LEHIGH COUNTY
+Tara Zrinski 
+Bryan Cope (alt.) 
+Salvatore Panto, Jr. 
+Carl Manges (alt.) 
+Jeff Warren 
+Dr. Christopher Amato 
+Jo Daniels 
+Andrew Elliott 
+Charles W. Elliott, Esq. 
+Anita Erdős Forrester 
+NORTHAMPTON COUNTY
+Judy Haldeman 
+Tung-To Lam 
+John McGorry 
+Steve Melnick 
+Victoria Opthof-Cordora 
+Eric Shamis
+Dean Turner
+Brett Webber
+LEHIGH AND NORTHAMPTON COUNTIES
+J. William Reynolds
+Cathy Fletcher (alt.)
+Justin Amann
+Thank you to 2025 LVPC Commissioners: Percy H. Dougherty, PhD, Bob Elbich, Jamie Johnson, Dennis Klusaritz, Diane Kelly, 
+Lamont McClure, Tina Smith, Jena Versteeg, John Gallagher, Rachel Leon, Scott Minnich, Edward Nelson, Crystal Rose,  
+Jessica Wiean-Cope, and Kenneth Kraft.
+30
+
+[page 31]
+PATHWAY TO A RESILIENT GREATER LEHIGH VALLEY
+7
+TECHNICAL COMMITTEE
+Ryan Meyer, Chair (Lehigh and Northampton Airport Authority) 
+Nick Raio, Vice Chair (PennDOT Central Office) 
+Becky Bradley, Secretary (LVPC) 
+Matt Tuerk (City of Allentown) 
+David Petrik (Alternate – City of Allentown) 
+J. William Reynolds (City of Bethlehem) 
+Cathy Fletcher (Alternate – City of Bethlehem) 
+Salvatore Panto, Jr. (City of Easton) 
+David Hopkins (Alternate – City of Easton) 
+Brendan Cotter (Lehigh and Northampton Transportation 
+Authority) 
+Jennifer Ruth (PennDOT District 5) 
+Nyomi Nonnemaker (Alternate – PennDOT Central Office) 
+COORDINATING COMMITTEE
+Owen O’Neil, Chair (Lehigh and Northampton Transportation Authority) 
+Chris Kufro, Vice Chair (PennDot District 5) 
+Becky Bradley, Secretary (LVPC) 
+Josh Siegel (Lehigh County) 
+Andrew Elliott (Alternate – Lehigh County) 
+Tara Zrinski (Northampton County) 
+Michael Emili (Alternate – Northampton County) 
+Matt Tuerk (City of Allentown) 
+David Petrik (Alternate – City of Allentown) 
+J. William Reynolds (City of Bethlehem) 
+Michael Alkhal (Alternate – City of Bethlehem) 
+Salvatore Panto, Jr. (City of Easton) 
+David Hopkins (Alternate – City of Easton) 
+Thomas Stoudt (Lehigh Northampton Airport Authority) 
+Mark Tobin (PennDOT Central Office) 
+Nick Raio (Alternate – PennDOT Central Office) 
+MEMBERS
+LEHIGH COUNTY , PA 
+COMMISSIONERS  
+Geoff Brace - Chair 
+Sheila Alvarado 
+Ron Beitler 
+Zach Cole-Borghi 
+Jeffrey Dutt 
+Sarah Fevig  
+Dan Hartzell 
+Jon Irons 
+Antonio Pineda 
+April Riddick
+NORTHAMPTON COUNTY , PA 
+COMMISSIONERS  
+Ken Kraft - President 
+Jason Boulette 
+Theresa Fadem 
+Thomas Giovanni 
+Lori Vargo Heffner 
+David Holland 
+Kelly Keegan 
+Nadeem Qayyum 
+Jeff Warren 
+CARBON COUNTY , PA  
+COMMISSIONERS  
+Rocky Ahner 
+Mike Sofranko 
+Wayne E. Nothstein 
+April Riddick
+WARREN COUNTY , NJ  
+COMMISSIONERS  
+Lori Ciesla 
+James R. Kern II 
+Jason J. Sarnoski
+Thank you to 2025 LVTS Members Richard Molchany, 
+Lamont McClure, James Mosca, and Basel Yandem
+Thank you to 2025 Northampton County Council Commissioners John Brown, 
+Jeffery Corpora, John Goffredo and Ronald Heckman
+31
+
+[page 32]
+Acknowledgements
+WORKSHOP LV  
+ENVIRONMENT  
+PARTICIPANTS 
+Sarah Alexander
+Claire Arcaro
+Craig Beavers
+Carmen Bell
+Pat Butler
+Autumn Canfield
+Max Carlson
+Peg Church
+Ryan Conklin
+Abby Cooley
+Shannon Crooker
+Dave Dech
+Sarah DeGrendel
+Carlee Dietterick
+John Dowling
+Holly Edinger
+Bob Elbich
+Carol Etheridge
+Manny Feris
+Brandon Fogal
+Patrick Foose
+Lauren Fosbenner
+Susan Gallagher
+Michael Gibson
+Nick Gorski
+Corey Gray
+Liesel Gross
+Maria Gruber
+Abbie Guardiani
+Joe Guardiani
+Huda Hagos 
+Lexi Handelman
+Sarah Hare
+Jason Hasker
+Beth Hehn
+Christina Helms
+Brian Hillard
+Margaret Huettner
+Naimul Islam
+Tinku Khanwalker
+Ian Kindle
+Jon Knittel
+Brit Kondravy
+Jennifer Kruegel
+Lee Kunkle
+Dan Kunkle
+Mike Loew
+Ali Long
+Elizabeth MacKinnon  
+Elizabeth Martinez
+Nan Mason
+Chris McCormick
+Scott McDonald
+Rob Melosky
+Laurel Napolitani
+Rob Neitz
+Josephine Noone
+Kevin Noone
+Maria Ocasio
+Steve Olshevski
+Frank Petrocelli
+Kerry Pflugh
+Matt Polsky
+Sean Pressman
+Tom Pritchett
+Emily Pugliese
+Christa Reeves
+Stephen Repasch
+Blaise Richburg
+Maria Rodale
+Mary Rooney
+Kyle Ropski
+Elliot Ruga
+Robert Sala
+George Samuelson
+Kara Scott
+Sara Seipel
+Samantha Semsel
+Anna Shigo
+Scott Slingerland
+Monica Sobon
+Mary Soto
+Michelle St. Andre
+Chris Strohler
+Brandon Sullivan
+8 32
+
+[page 33]
+PATHWAY TO A RESILIENT GREATER LEHIGH VALLEY
+Larry Supp
+Russell Sutton
+Jennifer Swann
+David Taylor
+Arlene Tishak
+Kathie Todd
+Trevor Tormann
+Melissa Velez
+Jean Versteeg
+Robert Vetrecin
+Veronika Vostinak
+Ben Yaskulka
+Miles Zakos
+Xuehua Zhang
+Tara Zrinski 
+ 
+INDUSTRIAL SECTOR  
+ROUNDTABLE PARTICIPANTS  
+ Sean Pressman   
+PPL Electric Utilities
+Kate Arnold  
+PPL Electric Utilities
+Bryan Bell   
+Silibrico
+Cody White   
+Bethlehem Landfill 
+Lorraine Faccenda  
+Holcim
+Joe Uliana  
+Holcim 
+Delicia Nahman  
+Lafayette College
+Aidan Niggel   
+Victaulic
+SPECIAL THANKS TO
+Dave Dech 
+Warren County Planning Department
+Ryan Conklin  
+Warren County Planning Department 
+Anna Shigo  
+Carbon County Office of Planning and 
+Development 
+Susan Gallagher  
+Carbon County Environmental Center 
+ Mid-America Regional Council 
+Kansas City, MO
+David Bodnar 
+Carbon County Office of Planning and 
+Development 
+Dan Szekeres  
+Michael Baker International
+Ron Ying  
+HDR, Inc. 
+Mrinalini Verma, AIA, ASLA  
+OJB Landscape Architecture Firm 
+Allison Harvey, ASLA, PLA 
+OJB Landscape Architecture Firm 
+ Cathy Tulley  
+Southwestern Pennsylvania Commission
+  
+933
+
+[page 34]
+Acknowledgements 
+Executive Summary 
+Introduction
+Regional Plan Context
+Timeline
+Community and Stakeholder Engagement
+Interagency and Intergovernmental Coordination
+Local Impact of Carbon Emissions
+Greater Lehigh Valley Greenhouse Gas Inventory
+Near- and Long-Term Emission Reduction Targets
+System Linkages
+Table of Contents
+10
+8
+12
+16
+18
+24
+26
+28
+30
+32
+37
+38
+34
+
+[page 35]
+PATHWAY TO A RESILIENT GREATER LEHIGH VALLEY
+Action Plan
+ ■ Cross-Cutting Implementation Strategies
+ ■ Emission Reduction Strategies
+ − Leveraging Funding Resources
+ − Healthy + Resilient Homes and Buildings
+ − Community Greening
+ − Food Systems
+ − Transportation
+ − Industry + Energy Generation
+ − Waste Management
+ − Water and Wastewater
+ ■ Regional Benefits Analysis
+ − Co-Pollutant Analysis
+ − Workforce Planning Analysis
+ ■ Conclusion
+11
+42
+44
+48
+58
+60
+72
+90
+97
+127
+136
+144
+151
+151
+159
+162
+35
+
+[page 36]
+Executive 
+Summary
+36
+
+[page 37]
+PATHWAY TO A RESILIENT GREATER LEHIGH VALLEY
+The Greater Lehigh Valley is a dynamic region that is  
+growing in population and businesses, but the challenges 
+and opportunities that come with growth have the potential 
+to threaten the environmental resoures that make the 
+region so attractive.   
+This Pathway to a Resilient Greater Lehigh Valley (RGLV) 
+is a strategic and comprehensive approach designed to 
+protect and improve the Greater Lehigh Valley’s environment 
+through identifying and implementing strategies that will 
+reduce carbon emissions, improve air quality, and enhance 
+resiliency against significant weather events.
+Economically diverse and centrally located within the 
+Northeast commercial corridor, the Greater Lehigh Valley 
+is projected to add another 112,000 people and 78,000 jobs 
+by 2050. Planning for resiliency will support sustainable 
+growth, regional competitiveness and economic 
+development, and will include goals and proposed actions 
+that will improve the health and well-being of the region. 
+This plan is a blueprint to offset 
+the impacts of our growth 
+and reduce emissions by:
+Executive Summary
+*
+*
+*metric tons of carbon dioxide equivalent
+1337
+
+[page 38]
+Annually, the Greater Lehigh Valley emits 12.7 million metric 
+tons of carbon dioxide equivalent (MTCO2e), a unit to compare 
+the warming impact of different atmospheric gases. Those 
+emissions may grow to nearly 13.9 MTCO2e if proactive  
+measures are not taken soon. Carbon dioxide (CO2) is a gas 
+that can be emitted into the atmosphere by human activities. 
+CO2 helps the atmosphere trap heat, so when there is more 
+of it in the atmosphere, the earth’s climate warms. This plan 
+is a blueprint to offset the impacts of our growth and reduce 
+emissions by 1.4 million MTCO 2e by 2030 and 5 million  
+MTCO2e by 2050.
+The changing weather patterns experienced in this region 
+show why this effort is so important to our economy, health and 
+daily lives. The Greater Lehigh Valley has endured significant 
+weather events such as Superstorm Sandy in 2012, Tropical 
+Storm Isaias in 2020, the Canadian wildfires of 2023 that 
+blanketed the Lehigh Valley region with smoke, and the Blue 
+Mountain wildfire of 2024. Increasing temperatures, flooding 
+and more extreme rainfall and heat events are projected to 
+continue to occur more frequently, affecting everything from 
+human health, agriculture, infrastructure design, recreation, 
+environment and the economy. However, we can mitigate and 
+avert the worst effects of weather-related events that impact 
+the region. This plan will work alongside ongoing efforts at 
+local, regional, state and federal levels.
+The plan establishes goals, policies and implementation 
+strategies across 10 sectors. These goals were selected for 
+their direct impact on reducing emissions and their additional 
+benefits to the communities of which they are a part. Analyzing 
+these benefits can reveal broader improvements in areas such 
+14
+as air quality, public health and economic growth, making 
+the case for decarbonization even stronger.  Implementation 
+of the strategies and recommendations will rely upon the 
+intersection of collaborative regional solutions with locally 
+appropriate action. This plan creates opportunities to work 
+together at a range of scales to make progress everywhere 
+as quickly as possible. 
+Additionally, the plan includes cost and savings estimates 
+for the proposed policies to provide helpful context for  
+selecting, prioritizing and communicating about the measures 
+for implementation actions described in this plan, a review 
+of the authority to implement policies ensuring legal and 
+administrative feasibility, and progress indicators to be used 
+in future monitoring are also included. 
+The LVPC will work with its community and business  
+partners to create a robust monitoring plan to track and share  
+progress on the plan strategies, which is the third phase of the  
+Environmental Protection Agency (EPA) Climate Pollution 
+Reduction Grant (CPRG) program.
+The commitment to regional emission reductions through this 
+plan reflects a forward-thinking approach to resiliency, balancing  
+environmental imperatives with public health improvements, 
+reduced energy costs and economic impact.  
+For this plan, the ‘Greater Lehigh Valley’ refers to the four 
+county region of Lehigh, Northampton and Carbon counties in  
+Pennsylvania and Warren County, NJ., which also makes 
+up the Allentown-Bethlehem-Easton Metropolitan Statistical 
+Area (MSA). The term ‘Lehigh Valley’ alone refers to Lehigh 
+and Northampton counties.
+38
+
+[page 39]
+PATHWAY TO A RESILIENT GREATER LEHIGH VALLEY
+15
+Future Net Estimated Carbon Emissions (MTCO2e)
+NET EMISSIONS (MTCO2E)
+YEAR
+BASE YEAR
+12,721,374 BUSINESS-AS-USUAL
+12,880,058
+PLAN IMPLEMENTATION
+11,321,374
+PLAN IMPLEMENTATION
+7,721,374
+BUSINESS-AS-USUAL
+13,910,029
+39
+
+[page 40]
+Introduction
+40
+
+[page 41]
+PATHWAY TO A RESILIENT GREATER LEHIGH VALLEY
+Introduction
+The 2022 Inflation Reduction Act authorized the United States 
+Environmental Protection Agency (EPA) to allocate funding to 
+states, local governments, tribes and territories to reduce carbon 
+gas emissions and other harmful air pollutants. Many of the 
+largest metropolitan areas in the US received funding, including 
+the Allentown-Bethlehem-Easton Metropolitan Statistical Area 
+(MSA), for which the Lehigh Valley Planning Commission (LVPC) 
+is the lead organization and official planning commission of 
+Lehigh and Northampton counties.
+Under this program, LVPC completed a Priority Climate Action 
+Plan (PCAP), with this a comprehensive emissions reduction 
+plan to follow, and will then report on plan progress and  
+monitoring. This Pathway to a Resilient Greater Lehigh 
+Valley serves as the comprehensive emissions reduction 
+plan and focuses on reducing carbon emissions on an  
+economywide scale across the MSA, also known as the Greater  
+Lehigh Valley region. 
+1741
+
+[page 42]
+18
+Regional Plan Context
+This plan focuses on all major 
+significant emissions sectors of the  
+Allentown-Bethlehem-Easton 
+PA-NJ Metropolitan Statistical 
+Area (MSA), including Lehigh, 
+Northampton and Carbon  
+Counties in Pennsylvania,  
+and Warren County in  
+New Jersey.
+Greater Lehigh Valley Region
+Allentown-Bethlehem-Easton, PA-NJ 
+Metropolitan Statistical Area
+42
+
+[page 43]
+PATHWAY TO A RESILIENT GREATER LEHIGH VALLEY
+The Pathway Plan Includes:
+This Pathway to a Resilient 
+Greater Lehigh Valley 
+(RGLV) is a strategic and 
+comprehensive approach 
+designed to reduce carbon 
+and related emissions  
+effectively within the  
+Greater Lehigh Valley 
+region. The RGLV plan 
+includes:
+A comprehensive emissions inventory, providing a detailed baseline and business-as-usual projection 
+of emissions from all major sectors. The inventory sets the stage for targeted interventions, offers insights 
+into potential future emission trends and estimates the impacts of various decarbonization strategies.
+Economywide emission reduction targets,  setting goals for near-term (2030) and long-term  
+(2050) reductions.
+Goals, policies and implementation actions  to reduce emissions across all sectors, including 
+implementation authorities, partners and metrics, community benefits, funding and alignment with  
+existing plans. 
+Cost and savings estimates to provide helpful context for selecting, prioritizing and communicating about 
+the measures for implementation described in this plan.
+Regionwide co-pollutant benefits analysis to understand impacts from commonly emitted air pollutants 
+including carbon monoxide (CO), ammonia (NH 3), particulate matter 2.5 & 10 (PM 2.5 & PM 10), sulfur 
+dioxide (SO2) and volatile organic compounds (VOCs). They do not create the same warming effects as 
+carbon dioxide (CO2), but can cause negative health impacts, particularly to the respiratory system. With 
+the reduction of CO2, these pollutants are also inherently reduced, improving air quality.
+Workforce planning analysis to identify and analyze the region’s green workforce and associated 
+workforce development initiatives.
+Implementation/Monitoring strategies  to set structure and policy that oversees and tracks steps  
+towards meeting regional emission reduction goals. 
+Greater Lehigh Valley Region
+1943
+
+[page 44]
+Carbon County, PA
+Carbon County is situated in northeastern Pennsylvania 
+and is largely rural with some urbanized areas. It is the least  
+populous county in the greater region, with an estimated 65,018 
+residents in 2022. The county sits on the southern extent of 
+the Pocono Plateau and is the only county in the MSA that is 
+officially designated as part of the Appalachian region of the 
+United States. 
+Lehigh County, PA
+Lehigh County is the most populous county in the Greater 
+Lehigh Valley, with 374,110 residents in 2022. It also contains 
+the City of Allentown, the region’s largest city, with 124,871 
+residents in 2023. The county has diverse municipality types, 
+including the urban core of Allentown, with surrounding 
+boroughs and suburban townships and the rural, agricultural 
+townships to the north and south of the urbanized area. The 
+county is named for the Lehigh River, which enters the county 
+in the north at the Lehigh Gap and Appalachian Trail and  
+travels through the urban corridor of Allentown and Bethlehem. 
+20
+ 44
+
+[page 45]
+PATHWAY TO A RESILIENT GREATER LEHIGH VALLEY
+Lehigh County, PA Northampton County, PA
+Northampton County is the second-most populous county in 
+the Greater Lehigh Valley with 314,299 residents in 2022. It has 
+a mix of urban areas like the cities of Bethlehem and Easton, 
+historic boroughs, suburban townships and rural townships. 
+The Lehigh and Delaware rivers converge in Easton, which 
+historically brought industry to the county, as natural resources 
+could be brought down from the Poconos, and manufactured 
+goods could easily be moved downstream to Philadelphia. 
+One of the world’s largest steel companies, Bethlehem Steel, 
+was headquartered in Bethlehem until its liquidation in 2003, 
+and other nationally recognized manufacturers such as Just 
+Born candies and Crayola are still based in Northampton 
+County today. Slate quarrying and cement manufacturing also  
+contributed to the industrial rise of the county and remain 
+prominent industries.
+Warren County, NJ
+Warren County has a population of 109,739, which is  
+second least in the MSA. It is one of the most rural counties in  
+New Jersey. The county’s largest city, Phillipsburg, lies  
+directly across the Delaware River from Easton, PA.  
+Similar to the Pennsylvania counties in the greater region, 
+Warren County grew in its early days from industrialization, 
+including mining and metal refining activities as well as the  
+transportation of goods occurred along the Morris Canal, to and 
+from Jersey City. Today, Warren County experiences similar 
+industrial development pressures to other areas in the MSA, as 
+it contains both Interstates 78 and 80, connecting the county 
+to the New York City metropolitan area and Pennsylvania. It is 
+also the only county in the region with passenger rail service.
+21
+45
+
+[page 46]
+22
+Local Programs and Planning 
+Pennsylvania’s Local Climate Action Program provides free 
+technical and personnel assistance to local governments 
+that want to reduce emissions and adapt to environmental 
+changes. The following Greater Lehigh Valley municipalities 
+and institutions have participated in this program:
+ ■ City of Allentown
+ ■ City of Easton
+ ■ Lower Macungie Township
+ ■ Palmer Township
+ ■ Lehigh Valley Planning Commission
+ ■ Muhlenberg College
+ ■ Moravian University
+The cities of Bethlehem and Easton, as well as Palmer  
+Township, have adopted Climate Action Plans. Allentown’s 
+plan is underway and Lower Macungie Township has  
+completed a communitywide emissions inventory. The State 
+of New Jersey adopted Senate Bill No. 2607 in 2021 to enact 
+an amendment to the New Jersey Municipal Land Use Law 
+(MLUL) requiring that municipalities include in the land use 
+plan element of their master plans a “climate related hazard 
+vulnerability assessment” which shall analyze “current and 
+future threats to, and vulnerabilities of, the municipality  
+associated with climate related natural hazards.”
+Resilient NJ’s Municipal Assistance Program (MAP) is a  
+technical assistance program directed at providing  
+municipalities with support to develop municipal resilience 
+action plans and environmental hazard vulnerability  
+assessments consistent with the State’s Municipal Land Use  
+Law (MLUL).
+46
+
+[page 47]
+PATHWAY TO A RESILIENT GREATER LEHIGH VALLEY
+2347
+
+[page 48]
+Cities, towns and counties are well suited to develop and 
+implement plans that address environmental change,  
+adaptation, resilience and mitigation. The following 
+regional plans explicitly address environmental change 
+Timeline
+30
+2013
+CARBON COUNTY  
+COMPREHENSIVE PLAN 
+AND GREENWAY PLAN
+2014
+CLIMATE + ENERGY 
+ELEMENT
+2014
+LEHIGH VALLEY  
+RETURN ON  
+ENVIRONMENT
+WALK/ROLL LV
+2016
+PRIORITY CLIMATE  
+ACTION PLAN
+2017
+GREATER LEHIGH  
+VALLEY GREENHOUSE 
+GAS INVENTORY
+2018
+24
+LIVABLE LANDSCAPES: 
+AN OPEN SPACE PLAN 
+FOR NORTHAMPTON 
+COUNTY
+GREEN  
+INFRASTRUCTURE  
+GUIDELINES
+LIVABLE LANDSCAPES:  
+A PARK, RECREATION, OPEN 
+SPACE, AGRICULTURAL  
+AND HISTORIC LANDS PLAN 
+FOR LEHIGH COUNTY
+through policies and actions. These plans also promote  
+principles of smart growth, economic savings, natural  
+resource protection, green infrastructure and sustainability, 
+among others. 
+48
+
+[page 49]
+PATHWAY TO A RESILIENT GREATER LEHIGH VALLEY
+31
+2018
+WARREN COUNTY  
+OPEN SPACE AND  
+RECREATION PLAN
+2019
+`
+2020
+WALK/ROLLLV: 
+ACTIVE  
+TRANSPORTATION  
+PLAN
+WALK/ROLL LV
+2021
+PRIORITY CLIMATE  
+ACTION PLAN
+2024
+GREATER LEHIGH  
+VALLEY GREENHOUSE 
+GAS INVENTORY
+2024
+GREATER LEHIGH  
+VALLEY GREENHOUSE 
+GAS INVENTORY
+2018
+25
+LEHIGH VALLEY  
+HAZARD MITIGATION  
+PLAN
+CLIMATELV: 
+A REGIONAL CLIMATE 
+ACTION ASSESSMENT
+LEHIGH VALLEY  
+PRIORITY CLIMATE  
+ACTION PLAN
+LEHIGH VALLEY  
+HAZARD MITIGATION 
+PLAN
+FUTURELV:  
+THE REGIONAL PLAN
+49
+
+[page 50]
+The LVPC established public working groups in 2018 after an 
+extensive Access to Opportunity Analysis, supporting the update 
+of FutureLV: The Regional Plan. The resulting WorkshopLV groups 
+are subject-area, open task forces on a variety of issues from the 
+environment to freight and housing to multimodal transportation. 
+Any person participating becomes a decision-maker, resulting 
+in a comprehensive and collaborative process. As a result, 
+WorkshopLV meetings and outreach provided better access to 
+communities in the Lehigh Valley. 
+Throughout the development of the Pathway to a Resilient 
+Greater Lehigh Valley, LVPC staff used the WorkshopLV format 
+to receive feedback on emission reduction goals from residents 
+and stakeholders of Carbon, Lehigh and Northampton counties, 
+PA and Warren County, NJ. These workshops provided a forum 
+to share CPRG and RGLV information and receive input and 
+ideas directly from participants. Invitations to the workshops 
+were sent to municipal officials, municipal environmental advisory 
+councils (EACs), LVPC and LVTS members, non-profit groups, 
+faith groups, colleges/universities, health networks, water and 
+sewer authorities, engineers, commercial and industrial real 
+estate interests, county farmland preservation boards, county 
+conservation districts, manufacturers and citizens, among 
+many others. The workshops were also promoted on the LVPC 
+website, as well as on multiple social media platforms. Warren 
+County and Carbon County also helped promote meetings in 
+their service areas through existing media and contact lists. 
+LVPC provided additional opportunities for input through a public 
+survey, local government survey and comment portal at lvpc.
+org. These additional engagement opportunities were promoted 
+online, through social media platforms, and during WorkshopLV 
+Environment meetings. 
+Community and  
+Stakeholder Engagement 
+26
+Community and Stakeholder  
+Engagement Summary
+WORKSHOP LV 
+ENVIRONMENT MEETINGS
+MEETING 
+ DATE
+MEETING 1 AT LVPC OFFICE JANUARY 22, 2025
+MEETING 2 AT WARREN COUNTY EAC MARCH 19, 2025
+MEETING 3 AT LVPC OFFICE MARCH 26, 2025
+MEETIGN 4 AT CARBON COUNTY APRIL 21, 2025
+MEETING 5 AT LVPC OFFICE APRIL 23, 2025
+126
+People
+from across the 
+Greater Lehigh Valley 
+attended the five 
+workshops and 
+completed a 
+regionwide survey.
+50
+
+[page 51]
+PATHWAY TO A RESILIENT GREATER LEHIGH VALLEY
+The roundtable discussion with leaders from the industrial sector 
+fostered a conversation where sustainability priorities, efforts 
+and goals currently in place at these organizations as well as 
+the role the LVPC could play in helping highlight these efforts 
+in this plan were discussed and how collaboration between 
+organizations is key for the region to mitigate and adapt to the 
+impacts of carbon emissions.
+The LVPC looks forward to continuing to collaborate and 
+coordinate with these industry partners.
+All participants during the community and stakeholder engagement 
+process contributed to the vision, focus and goals of this regional 
+plan, helping make this plan more meaningful and robust.  
+In March 2025, LVPC staff and various industrial sector experts 
+met virtually to discuss ongoing sustainability initiatives at 
+these industry’s facilities. Representatives included Sean 
+Pressman and Kate Arnold from PPL, Bryan Bell from Silbrico, 
+Cody White from the Bethlehem Landfill, Lorraine Faccenda 
+and Joe Uliana representing Holcim, and Delicia Nahman 
+of Lafayette College. A separate discussion was held with  
+Aidan Niggel - Director of Sustainability for Victaulic Industries.   
+During the roundtable structured meeting, LVPC asked the 
+industry leaders to respond to the following three questions:
+1. What are the current initiatives that your company/
+organization are doing in terms of sustainability/
+emission reduction in the region?
+2. Can you describe obstacles or challenges related to 
+those initiatives that your company/organization are 
+facing? Are there ways that the LVPC can help?
+3. Any there any policies or measures that you would like 
+to see included in this regional plan?
+A total of five in-person workshop meetings were conducted. 
+Three of those five workshops were held at the LVPC Office’s 
+Conference Center. One was held in Warren County, NJ during 
+the Warren County Environmental Advisory Council’s regular 
+public meeting, and another workshop was held in Carbon 
+County, PA. At each workshop, participants were given an 
+overview of the CPRG program, background information on the 
+impact of carbon emissions on the environment and specific 
+emission inventory data for the entire region by sector. 
+27
+Sector Expert  
+Roundtable Engagement 
+Community and Stakeholder  
+Engagement Summary
+WORKSHOP LV 
+ENVIRONMENT MEETINGS
+MEETING 
+ DATE
+MEETING 1 AT LVPC OFFICE JANUARY 22, 2025
+MEETING 2 AT WARREN COUNTY EAC MARCH 19, 2025
+MEETING 3 AT LVPC OFFICE MARCH 26, 2025
+MEETIGN 4 AT CARBON COUNTY APRIL 21, 2025
+MEETING 5 AT LVPC OFFICE APRIL 23, 2025
+51
+
+[page 52]
+The LVPC represents the 62 municipalities and two counties 
+comprising the Lehigh Valley. Under a series of state and 
+federal statutes, the LVPC is responsible for all coordination and 
+collaborations on environmental, housing, economic, land use, 
+farmland and open space preservation, parks and recreation, 
+public facilities and utilities, water, sewer and transportation 
+issues for the bi-county area.  As such, the LVPC and its sister 
+organization, the Lehigh Valley Transportation Study (LVTS), bring 
+together governmental entities, authorities, boards, commissions, 
+non-profits and for-profit entities in the interests of the public 
+health, safety and general welfare of the Lehigh Valley.  
+Current relationships and partnerships with Carbon County, 
+(Carbon County Commissioners and  Planning Commission), 
+Warren County NJ (Warren County Commissioners and 
+Planning Commission), Workforce Board Lehigh Valley, Greater 
+Lehigh Valley Chamber of Commerce Energy and Environment 
+Committee, Wildlands Conservancy, Pennsylvania Department 
+of Environmental Protection, Pennsylvania Department of 
+Transportation, United Way of the Greater Lehigh Valley, Nurture 
+Nature Center, City Mayor’s Coalition, Municipal Environmental 
+Advisory Council Network, Lehigh Valley Partnership, other 
+Interagency and Intergovernmental Coordination
+municipal planning organizations such as Southwestern 
+Pennsylvania Commission and Delaware Valley Regional 
+Planning Commission, and many others have supported 
+the development and implementation of this plan. This work 
+happened through standing committees within partner 
+organizations, through the WorkshopLV public engagement 
+working groups as well as through other coordination meetings.  
+ 
+The plan was vetted and refined through the public participation 
+process. Following the completion of the plan, the LVPC will begin 
+monitoring progress on the plan strategies, which is the third phase 
+of the EPA CPRG program.  
+Overall, it is the intent of this effort to support the creation of a 
+‘green ribbon team’ from among the various WorkshopLV, LVPC, 
+General Assembly and LVTS participants and to develop a 
+permanent infrastructure to further carbon emission reductions 
+past the CPRG effort.  
+28 52
+
+[page 53]
+PATHWAY TO A RESILIENT GREATER LEHIGH VALLEY
+2953
+
+[page 54]
+The Earth’s climate is largely controlled by a natural process 
+where heat-trapping gases that naturally exist in the Earth’s 
+atmosphere act as a blanket around the planet, warming it to a 
+temperature that can support life. Without this natural warming 
+process, the Earth would be uninhabitable. However, the 
+concentration of carbon dioxide (CO2) and other heat-trapping 
+gases is currently well above historic averages, resulting in 
+higher global temperatures and altered weather patterns.
+Scientists use atmospheric CO 2 concentrations as an 
+accurate measure of the Earth’s climate. The Earth’s 
+climate in the distant past can be understood by examining 
+preserved air samples in ice sheets that are hundreds of 
+thousands of years old. Research has shown that for the 
+last 800,000 years, atmospheric CO 2 concentrations have 
+fluctuated between 170 and 300 parts per million (ppm). 
+However, since the industrial revolution of the 19th century, 
+CO2 concentrations have risen far above the historic range. 
+Today on average, there is more carbon dioxide in Earth’s 
+atmosphere than at any previous time in human history.  
+ 
+Carbon dioxide traps heat in the atmosphere, raising 
+temperatures across the globe. These effects are also 
+being felt locally, as the annual average temperature in the 
+greater region has increased by 2.5 degrees Fahrenheit 
+since the 1950s. In the future, average daily temperatures 
+in Pennsylvania and the Greater Lehigh Valley are 
+expected to increase by 6.7°F (3.7°C) by 2050 and up  
+to 10.4°F (5.8°C) by 2100.
+Local Impact of Carbon Emissions 
+30 54
+
+[page 55]
+PATHWAY TO A RESILIENT GREATER LEHIGH VALLEY
+Local Impact of Carbon Emissions 
+31
+The 2024 Pennsylvania Climate Impact Assessment 
+identifies that flooding, and significantly higher average 
+temperatures are the two greatest environmental hazards 
+that are facing Pennsylvania. The Greater Lehigh Valley 
+has endured extreme weather events which may have 
+been influenced by changes in the atmosphere, such as 
+Superstorm Sandy in 2012, Tropical Storm Isaias in 2020, 
+the Canadian wildfires of 2023 and the Blue Mountain 
+wildfire of 2024. 
+These extreme weather event trends are projected to 
+continue with an increase in severity and frequency and 
+will affect nearly every aspect of the Greater Lehigh 
+Valley’s economy, health and natural environment. 
+However, it is possible to mitigate or avoid the worst 
+of these impacts, through implementing impactful 
+emissions reduction strategies. The purpose of this 
+plan is to bolster ongoing efforts at local, regional and  
+state levels.
+Change in Average 
+Temperature (°F) in 
+the Lehigh Valley 
+WINTER
+SPRING
+SUMMER
+FALL
++3.9°
++2.6°
++1.9°
++1.7°
+1951-2023
+55
+
+[page 56]
+The LVPC prepared the Greater Lehigh Valley Greenhouse 
+Gas Inventory in 2024. This regional inventory update 
+provides baseline emission estimates and a business-as-
+usual scenario projection of emissions through 2050. The 
+emission estimates and projections are based on activities 
+within the entire Allentown-Bethlehem-Easton, PA-NJ 
+Metropolitan Statistical Area (MSA), with 2022 serving as 
+the baseline year. 
+Sectors included industrial, transportation, residential and 
+commercial energy, solid waste, agriculture, and water and 
+wastewater. 
+The inventory results provide a detailed profile of emission 
+sources within the Greater Lehigh Valley region — information 
+that is key to guiding regional and local reduction efforts. This 
+data will also provide a baseline against which the region will 
+be able to compare future performance and demonstrate 
+progress in reducing emissions. 
+Greater Lehigh Valley  
+Greenhouse Gas Inventory 
+32
+ESTIMATED TOTAL GREENHOUSE  
+GAS EMISSIONS
+9,803,367
+MTC2e
+Lehigh & Northampton Counties, PA
+1,599,755
+MTCO2e 
+Warren County, NJ
+Carbon County, PA
+Lehigh & Northampton Counties, PA
+Greater Lehigh Valley, PA
+1,318,252
+MTCO2e 
+9,803,367
+MTCO2e 
+12,721,374
+MTCO2e 
+56
+
+[page 57]
+PATHWAY TO A RESILIENT GREATER LEHIGH VALLEY
+33
+Results
+This estimate represents emissions from energy consumption, 
+as well as emissions from major carbon emitting activities 
+in the region. This data is quantified in metric tons of 
+carbon dioxide equivalent (MTCO 2e), which is a measure 
+that converts the amounts of other gases within 
+the atmosphere to the equivalent amount 
+of carbon dioxide with the same global  
+warming potential.
+The results of the regional inventory 
+indicate that most emissions are 
+generated from industrial activities 
+and electricity use, commercial and 
+residential electricity and heating and 
+vehicle miles traveled.
+Regional
+Total MTCO2e
+Emissions
+Agriculture 0.5%
+Water/Wastewater 0.3%
+Industrial 32.2%
+Solid Waste 1.8%
+Residential & Commercial 
+Transportation 32.1%
+57
+
+[page 58]
+Industrial sector emissions consist of electricity and natural 
+gas consumption of industrial users, as well as point source 
+emissions at specific facilities.
+Emissions from electricity and natural gas consumption are 
+estimated by using the emissions factor for the region’s power 
+grid. This sector requires large amounts of grid electricity and 
+produces emissions from various unique industrial processes. 
+Industrial activities, which include cement production, iron and 
+steel forging, manufacturing and food and beverage processing,  
+create the most emissions in the greater region.
+Emissions attributed to the transportation sector result from 
+fuel combustion during on-road vehicle travel within the 
+Greater Lehigh Valley.
+The data within this sector was provided by the Lehigh 
+Valley Planning Commission’s Travel Demand Model, the 
+US Environmental Protections Agency (EPA) Motor Vehicle 
+Emission Simulator (MOVES) and the EPA’s National 
+Emissions Inventory (NEI). Despite improvements in vehicle 
+fuel efficiency and the increasing adoption of electric vehicles, 
+emissions from this sector remain high, and will continue to 
+increase, due in part to increasing regional population and 
+vehicle miles traveled (VMT), the emergence of the Lehigh 
+Valley as a logistics hub with heavy tractor-trailer traffic, and 
+historic car-centric planning practices. More information on 
+transportation emissions in the region can be found in the 
+Lehigh Valley Priority Climate Action Plan for Transportation 
+Decarbonization.
+Industrial Energy And Processes Transportation 
+34
+The INDUSTRIAL SECTOR  
+is the region’s largest source  
+of carbon emissions, releasing 
+4,094,165 
+MTCO2e each year. The TRANSPORTATION SECTOR is the region’s 2nd 
+largest source of carbon 
+emissions, releasing 
+4,083,797 
+MTCO2e each year.
+58
+
+[page 59]
+PATHWAY TO A RESILIENT GREATER LEHIGH VALLEY
+The Commercial Energy sector includes electricity and natural 
+gas consumption for commercial buildings, and emissions 
+are calculated using the emissions factor for the region’s  
+power grid.
+Energy usage in the commercial sector is often for 
+space heating and cooling, ventilation and lighting. The 
+largest consumers of commercial energy include offices, 
+educational institutions, retail businesses and malls, lodging  
+and warehousing.
+Residential emissions generally stem from electricity demand 
+for air conditioning, water heating, lighting, and appliances and 
+natural gas usage for space and water heating.
+Commerical Energy Residential Energy
+35
+The COMMERCIAL ENERGY 
+SECTOR is the region’s 3rd 
+largest source of carbon 
+emissions, releasing 
+2,685,808
+MTCO2e each year.
+The RESIDENTIAL ENERGY 
+SECTOR is the region’s 4th 
+largest source of carbon 
+emissions, releasing 
+1,530,452
+MTCO2e each year.
+59
+
+[page 60]
+Emissions in this sector represent the total emissions from 
+the four active landfills in the region. This inventory strictly 
+measures the gross emissions from landfills within the greater 
+region and does not consider where the waste in these landfills 
+originated, nor waste generated in the Greater Lehigh Valley 
+that is landfilled elsewhere.
+Emissions in this sector consider emissions from agricultural 
+fertilizer application and combustion from agricultural 
+equipment and machinery. Fertilizer application can 
+cause excess nitrogen to escape into the atmosphere  
+as nitrous oxide. 
+This sector measures the emissions associated with the  
+treatment of potable water and wastewater.
+Solid Waste 
+Agriculture
+Potable Water and Wastewater
+38
+The SOLID WASTE SECTOR  
+is the region’s 6th largest source  
+of carbon emissions, releasing 
+223,609
+MTCO2e each year.
+The POTABLE WATER AND 
+WASTEWATER is the region’s 
+smallest source of carbon 
+emissions, releasing 
+37,749
+MTCO2e each year.
+The AGRICULTURE SECTOR  
+is the region’s 5th largest source  
+of carbon emissions, releasing 
+65,794
+MTCO2e each year.
+36 60
+
+[page 61]
+PATHWAY TO A RESILIENT GREATER LEHIGH VALLEY
+The business-as-usual forecast represents an estimate 
+of future emissions, based on regional population growth 
+rates, and if further policies and technologies to reduce  
+emissions are not implemented. It demonstrates what regional  
+emissions may look like through 2050 if environmental  
+resiliency action is not taken. Regional population growth 
+rates, fuel efficiency standards and changes in county  
+cropland acres form the basis for this forecast.
+Individually, six of the seven emissions sectors within the 
+inventory are expected to increase through 2050, with the 
+exception being agriculture. Assuming current land use 
+trends continue, the agriculture sector will see the largest 
+percent reduction in emissions, as total cropland acreage in 
+the region is projected to decline. Transportation emissions 
+are forecast to shrink into the 2030s, largely due to fuel 
+efficiency standards that require reduced fuel consumption 
+and better efficiency for passenger cars and heavy-duty 
+vehicles like trucks. However, without implementing  
+reduction policies, emissions are projected to begin  
+increasing after the mid-2030s, as increasing vehicle miles 
+traveled may reverse the decline from emission reductions 
+seen from improved fuel standards. By 2050, transportation 
+emissions are predicted to pass the 2022 baseline level.
+Business As Usual Scenario 
+39
+181
+Greater Lehigh Valley Business-as-Usual  
+Emissions Projection
+NET EMISSIONS (MTCO 2E)
+YEAR
+37
+12,721,374 12,880,058
+13,910,029
+61
+
+[page 62]
+Carbon is part of a broader cycle of nutrient exchange and 
+storage across air, soil and water. Environmental change is 
+occurring in part because more carbon is emitted than can 
+be stored, so it continues to accumulate in the atmosphere 
+and trap heat, raising global temperatures. Places where 
+carbon is stored and kept out of the atmosphere are called 
+carbon sinks. The largest carbon sinks on the planet are 
+the ocean, plants and fungi, soil and rocks. This section 
+estimates the amount of carbon that is sequestered annually 
+and stored by some of the largest sinks in the Greater 
+Lehigh Valley, which include forests, agricultural lands  
+and wetlands.
+Sequestration and Carbon Storage
+All trees store carbon and established old-growth forests do 
+so more efficiently than other types of tree habits. The Greater 
+Lehigh Valley has large swaths of carbon sequestering forests 
+in the Poconos and on the Kittatinny Ridge, also known as 
+Blue Mountain. Urban tree plantings also take in carbon 
+dioxide  and improve local air quality while providing shade. 
+Agricultural land stores carbon in plant matter and soil. 
+Soil carbon can be lost to the atmosphere by tilling and 
+other agricultural practices which disturb the soil. Carbon 
+sequestration of agricultural land through best management 
+practices (BMPs) that maximize carbon uptake, keeping land 
+in agricultural use, and expanding BMP usage, presents an 
+opportunity for potential net emission reductions.
+Tree Cover
+Agricultural Land
+38
+ 62
+
+[page 63]
+PATHWAY TO A RESILIENT GREATER LEHIGH VALLEY
+39
+Setting targets helps define why actions are needed, 
+including improving our region’s resiliency to extreme events, 
+reducing energy use and cost, and improving air and water 
+quality. The Greater Lehigh Valley Greenhouse Gas Inventory 
+includes a “Business as Usual” projection, which shows that 
+if the greater region continues on the same population and 
+growth trajectory, without any additional reduction measures, 
+regional emissions could increase by 9.3% by 2050.
+The reduction targets consider various factors, including 
+the region’s baseline emissions date, the business-as-
+usual emissions trajectory, and alignment with established 
+Pennsylvania and New Jersey state targets that have been 
+based on climate science or technical/economic feasibility. 
+The LVPC reviewed several guidance documents to help with 
+this target setting including the Mitigation Goal Standard, US 
+EPA’s Local Action Framework, and the American Planning 
+Association’s 7 Principles of Strong Climate Planning. 
+Pennsylvania reduction targets utilize 2005 as a base year, 
+whereas New Jersey uses 2021 as its base year. 
+Near and Long-Term  
+Emission Reduction Targets
+As described in the previous chapter, the Greater Lehigh 
+Valley Greenhouse Gas Inventory utilized 2022 as its base 
+year for calculating existing emissions and as its baseline for 
+emission reduction goals.  
+Striking a balance between goals that are ambitious and 
+those that are attainable, LVPC recommends aligning with 
+the PA Statewide targets. Our targets reflect the PA Statewide 
+targets, adjusted for the difference in Greater Lehigh Valley 
+emission baseline year of 2022 vs. the state emissions 
+baseline year of 2005. 
+63
+
+[page 64]
+System Linkages
+This analysis reflects the evaluation of individual emissions 
+reduction measures and more broadly these measures within 
+a regional context, with a focus to improve access to clean 
+transportation, energy efficiency assistance, and funding. 
+Ideally, every proposed solution will address more than one 
+problem at a time, creating a long list of benefits for people, 
+nature and the economy. 
+These goals, policies and implementation strategies, coupled 
+with ongoing improvements in clean fuel technologies and 
+other climate sector emission reduction measures will benefit 
+the Greater Lehigh Valley’s communities, environment and 
+economy. Considering that the Lehigh Valley’s population is 
+projected to grow by 15.9%, job growth by 23.9%, and Vehicle 
+Miles Traveled (VMT) by 23% by 2050, the actual reduction in 
+emissions is much more significant for each sector. Typically, 
+emissions reduction strategies work together across sectors, 
+compounding their effects. 
+42
+40 64
+
+[page 65]
+PATHWAY TO A RESILIENT GREATER LEHIGH VALLEY
+43
+4165
+
+[page 66]
+Action Plan 
+66

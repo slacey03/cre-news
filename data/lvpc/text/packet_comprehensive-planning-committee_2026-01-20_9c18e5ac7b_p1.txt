@@ -1,0 +1,953 @@
+
+
+[page 1]
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+COMPREHENSIVE PLANNING COMMITTEE MEETING 
+Tuesday, January 20, 2026, 12:00 noon  
+AGENDA 
+ 
+THE MEETING CAN BE ACCESSED AT http://www.tinyurl.com/LVPC2026 OR VIA PHONE 
+610-477-5793 Conf ID: 947 550 319# 
+ 
+Roll Call  
+ 
+Courtesy of the Floor  
+1. New Staff Introductions  
+2. Beth Ritter-Guth, Director of Research & Innovation  
+ 
+Committee Business  
+1. ACTION ITEM: South Whitehall Township – Land Use of Regional Significance – 
+Project Atlas Data Center Campus (JS, SMyerov) 
+2. ACTION ITEM: Upper Saucon Township – Zoning Ordinance Amendment – Data 
+Center Ordinance (MGC) 
+3. ACTION ITEM: North Whitehall Township – Zoning Ordinance Amendment – Data 
+Center Ordinance (MGC) 
+4. INFORMATION ITEM: Final Lehigh County Industrial Land Use Guide + Training (JS) 
+a. Municipal Training ---- January 29, 12 PM OR 6 PM 
+i. Register at https://www.eventbrite.com/e/new-emerging-industrial-
+land-use-guide-training-tickets-1975589950724?aff=oddtdtcreator 
+ 
+ 
+Next Comprehensive Planning Committee Meeting: 
+February 24, 2026, at 12:00 noon 
+1
+
+[page 2]
+ 
+  
+ 
+ 
+ 
+January 7, 2026 
+ 
+David Manhardt, AICP, Director of Community Development   
+South Whitehall Township 
+4444 Walbert Avenue 
+Allentown, Pennsylvania 18104 
+ 
+Re: Atlas Industrial Data Center – Land Use of Regional Significance 
+South Whitehall Township 
+Lehigh County  
+ 
+Dear Mr. Manhardt: 
+ 
+The Lehigh Valley Planning Commission (LVPC) will consider the subject application at its 
+Comprehensive Planning Committee and Full Commission meetings, pursuant to the 
+requirements of the Pennsylvania Municipalities Planning Code (MPC). Discussion on agenda 
+items largely happens during the Committee meeting. Meeting participation details are below, 
+and we encourage your participation:  
+ 
+LVPC Comprehensive Planning 
+Committee Meeting: 
+ 
+January 20, 2026, at 12:00 PM (Virtual) 
+https://lvpc.org/lvpc-meetings 
+ 
+LVPC Full Commission 
+Meeting: 
+ 
+January 22, 2026, at 7:00 PM (Virtual) 
+https://lvpc.org/lvpc-meetings 
+ 
+ 
+Background 
+The project proposes to develop a vacant 410-acre site by constructing six data center buildings 
+totaling 5,038,100 square feet. The project site is located at 2493 North Cedar Crest Boulevard, 
+south of Orefield Road between Mauch Chunk Road and North Cedar Crest Boulevard (parcel 
+number 548824698560). 
+ 
+ 
+Approximate 
+site location 
+2
+
+[page 3]
+    
+   
+ 
+The proposal is considered a Land Use of Regional Significance under FutureLV: The Regional 
+Plan as a Major Industrial Development. The Township’s designated zoning for the site is 
+Industrial as a base zoning district, and Planned Innovation, Research and Technology (PIRT) 
+as an overlay district. The PIRT District was established to ‘provide a controlled and protected 
+environment for the orderly growth and development of research and technology-related 
+businesses’ (Township Zoning Ordinance §350-33(b)). The Township has intentionally directed 
+this type of development to the PIRT District and updated its zoning regulations in anticipation of 
+interest in data center development, demonstrating proactive planning and regulatory alignment 
+with emerging industrial land uses. 
+ 
+FutureLV recognizes that advances in technology and the increasing demand for real-time 
+information and data transmission have made digital infrastructure and connectivity essential to 
+the region’s economic competitiveness (FutureLV Future Forces Section, page 42). Data 
+centers play a critical role in supporting this modern digital infrastructure, however large-scale or 
+hyperscale data center facilities can place significant demands on utility systems, particularly 
+electric and water infrastructure, which necessitates careful evaluation and coordination. 
+ 
+To support this evaluation, LVPC convened a coordination meeting with external review 
+agencies to discuss utility capacity, infrastructure considerations, and other regional impacts 
+associated with the proposal. Continued coordination among the Township, service providers, 
+and reviewing agencies will be essential to ensuring the project supports public health, safety, 
+and welfare while advancing regional goals for innovation-oriented industrial development. 
+ 
+Site Suitability and Land Use 
+The project site is vacant and undeveloped agricultural land. Nearby land uses include Parkland 
+High School to the west, heavy industrial uses to the south including chemical manufacturing, 
+low-density residential to the north and agricultural uses surrounding the area. 
+ 
+The project site is identified for Farmland Preservation in the General Land Use Plan of 
+FutureLV: The Regional Plan, with nearby Preservation Buffer and Exurban designations. From 
+a regional perspective, land preservation is preferred in these areas to protect the region’s 
+existing open space, direct development to areas with existing infrastructure, and to minimize 
+development pressures from creeping outwards from Development areas.  
+ 
+  
+FutureLV General Land Use Plan 
+3
+
+[page 4]
+    
+   
+ 
+From a local perspective, the designated Industrial Zoning District and Planned Innovation, 
+Research and Technology Overlay District were created to target development at the site, and 
+existing infrastructure is generally accessible in the vicinity. The proposed development has the 
+potential to align with FutureLV if it is designed to minimize impacts to adjacent properties; if the 
+site configuration avoids disturbing existing natural resources on the site; and if utility 
+infrastructure is demonstrated to be adequate to meet the facility’s needs without adversely 
+affecting service to existing users. 
+ 
+Data centers can pose health and quality of life impacts to neighboring residents and land uses 
+if not appropriately mitigated. Potential impacts include: 
+ 
+• Noise: The proposed site layout orients the yards containing generator equipment away 
+from Parkland School, and sound attenuation walls are also proposed along the 
+generator equipment areas. These noise abatement design features support public 
+health and welfare (of Policy 5.3). Pre-and-post-construction professional noise studies 
+should be conducted to verify both perceived and low frequency noise levels at a 
+maximum of 55 decibels measured at the project property line per LVPC’s 
+recommendation, or at a level acceptable to the Township.  
+• Visual: The buildings should be aesthetically designed to minimize the visual impacts of 
+the scale of buildings on neighboring properties. While the generator equipment yards 
+indicate they will be enclosed by the sound attenuation walls, the LVPC encourages the 
+Township to request renderings from the applicant that illustrate what the facility will look 
+like from different roadways and vantage points. Additional vegetation along the 
+development areas could further reduce visual impacts and ‘promote context-specific 
+design solutions’ (of Policy 5.4).  
+• Lighting: The project utilizes full cutoff and fully shielded light fixtures in compliance with 
+the Township Zoning Ordinance, and site lighting designed to prevent glare and lighting 
+spillover onto adjacent properties, which minimizes environmental impacts of 
+development (of Policy 3.2).  
+• Air Quality: Because data centers rely on continuous mechanical cooling systems that 
+exhaust significant amounts of waste heat, heat exhaust can create localized 
+temperature increases that exacerbate heat stress in warmer months. These impacts 
+can worsen long-term if development of additional paved surfaces continues in the area 
+long-term. The LVPC recommends the applicant assess potential heat-exhaust impacts 
+from mechanical systems that may affect nearby development or pedestrian areas (of 
+Policy 3.4). 
+ 
+Emergency Services 
+During partner agency engagement in the review process, the Township noted that emergency 
+responder training on serving the development is anticipated, given the scale of the site and 
+proposed buildings and the unique electrical, mechanical, and security characteristics of data 
+centers. The LVPC encourages continued coordination between the applicant, Township and 
+local emergency service providers to ensure adequate site design that supports preparedness 
+and response capabilities. The applicant should provide fire, Emergency Medical Services, and 
+police departments with detailed information on site access, security protocols, hazardous 
+materials storage, backup power systems, and any specialized equipment such as battery 
+energy storage systems. Emergency responders should be consulted on the adequacy of 
+access points, turning radii, hydrant placement and fire-suppression systems, and should 
+receive appropriate training or orientation prior to occupancy. This coordination is essential to 
+4
+
+[page 5]
+    
+   
+safeguard responders, protect critical infrastructure, and ensure that the facility can be safely 
+and effectively served during both routine incidents and large-scale emergencies (of Policy 5.1). 
+ 
+Environment and Utility Infrastructure 
+Mapping provided by the Pennsylvania Department of Conservation and Natural Resources 
+(Bureau of Topographic and Geologic Survey) indicates the extensive presence of karsts in the 
+form of surface depressions throughout the site, as well as surface mines towards the 
+southwestern property boundary. Karst conditions can result in subsurface instability and 
+warrant careful considerations for large-scale land-intensive development with heavy structural 
+loads. Hyperscale data centers involve significant concentrations of structural and equipment 
+loading, which has the potential to exacerbate subsurface voids or contribute to land gradually 
+caving in throughout the area.  
+ 
+Additionally, karst systems are highly sensitive to stormwater management practices and utility 
+installation. Improperly managed infiltration, altered groundwater recharge patterns, or leakage 
+from underground utilities may further increase the risk of sinkhole formation. Given these 
+conditions, LVPC strongly recommends comprehensive geotechnical and hydrogeologic 
+investigation of the site to inform building placement, foundation design, stormwater 
+management, and utility infrastructure. Consideration of these factors is critical to minimize 
+impacts of development to support public health, safety, and welfare (of Policy 3.2).  
+  
+  
+LVPC GIS Mapping of Karst Geology 
+ 
+The project’s full electrical demand and long-term impacts on the regional power grid is being 
+coordinated between the Applicant and PPL Electric. The project proposes the addition of a 
+substation to support electricity distribution to each proposed building as well as additional 
+infrastructure upgrades. These upgrades are being funded by the Applicant, which alleviates the 
+burden on taxpayers and other grid users and promotes fiscal health and sustainability (of 
+Policy 4.6).  
+ 
+5
+
+[page 6]
+    
+   
+As this project progresses, the applicant should provide detail on how the facility will align with 
+industry energy-efficiency standards, including anticipated Power Usage Effectiveness (PUE) 
+targets, energy-management audits, and reporting practices as they are identified. Additionally, 
+once the Applicant identifies the proportion of its energy use that will be met through renewable 
+sources, that information should also be provided to support understanding of the project’s long-
+term sustainability and its alignment with regional clean energy goals (of Policy 3.4). 
+ 
+The submitted Environmental Impact Assessment identifies that Tier 2-emission standards  
+backup generators are proposed on site. The LVPC strongly recommends that Tier 4 backup 
+generators be utilized instead, to minimize air quality impacts (of Policy 3.2). The Applicant 
+should provide the Township with detailed specifications on emissions controls and fuel storage 
+safety measures such as spill-prevention and secondary containment to ensure public health 
+and environmental safety. The Applicant should also provide a generator-testing plan that 
+outlines the frequency, duration, and timing of tests to be shared with surrounding property 
+owners and tenants and the Township to adequately evaluate and/or prepare for potential noise 
+disturbances (of Policies 5.2, 5.3, and 5.4). 
+ 
+The project is currently proposing an air-cooled system, which requires much less water usage 
+and disposal on-site compared to other cooling technologies. The submission should clarify 
+whether the system incorporates water-reuse or heat-recovery measures that could further 
+reduce overall consumption.  
+ 
+Any future change to the proposed cooling system that requires greater water withdrawal or 
+wastewater discharge would raise significant concerns. Increased water demand could place 
+additional stress on local water supplies and would be particularly challenging to accommodate 
+in an area with extensive karst geology. The Applicant should model water use under various 
+scenarios, such as drought-stage, summer months, and any peak-stress conditions and 
+demonstrate the long-term reliability of the proposed water supply based on the cooling system 
+as described. Continued coordination with the Township as the water provider, as well as 
+Lehigh County Authority, is recommended to evaluate potential infrastructure needs and confirm 
+that the ultimate approach to system cooling does not result in adverse impacts to existing users 
+or regional systems. 
+  
+The plans depict eight septic field beds located in the northern portion of the project site, and 
+sanitary sewer lines direct wastewater from each building to discharge in the septic field area. 
+The adequacy of this design requires the proposal’s discharge gallons per day to be assessed. 
+If septic fields are to remain the method for disposal, primary and secondary fields should be 
+identified. Due to the extensive presence of karst geology on the site, it is paramount that the 
+project wastewater disposal system be designed to minimize impacts to groundwater resources, 
+in order to protect the quality and quantity of surface water and groundwater (of Policy 3.2). 
+ 
+6
+
+[page 7]
+    
+   
+ 
+ 
+Landscaping is proposed to shield the building from adjacent properties and external roadways, 
+including North Cedar Crest Boulevard north of the Parkland High School driveway, along the 
+northern property boundary, and along a portion of Mauch Chunk Road until the project’s 
+proposed Private Road A just south of Mechanicsville Road. Additional landscaping is proposed 
+within the parking areas. 
+ 
+The project site is located within the Coplay Creek and Jordan Creek Watersheds. These 
+watersheds have fully implemented Act 167 Stormwater Management Ordinance. Comments 
+relative to our review of the project’s stormwater management plan are included as Attachment 
+1.  
+ 
+Transportation 
+A traffic impact study was submitted for the proposed project. The project is anticipated to 
+generate an average of 3,865 weekday trips, calculated using the Institute of Transportation 
+Engineers (ITE) Trip Generation Manual, 12th edition and Land Use Code 160 (Data Center). 
+These average weekday trips include 371 new trips during morning peak and 265 new trips 
+during evening peak times. 
+ 
+Access to the site is planned to be provided via two driveways, a full-access, secured driveway 
+to the new township roadway, and a proposed full-access, emergency access driveway to North 
+Cedar Crest Boulevard opposite Suncrest Drive. 
+ 
+7
+
+[page 8]
+    
+   
+A new township roadway is proposed to be constructed in concurrence with the proposed data 
+center connecting Cedar Crest Boulevard opposite the Parkland High-School driveway and to 
+Mauch Chunk Road just south of the existing Mechanicsville Road Intersection. The LVPC 
+recommends coordination with the school district to minimize potential traffic interactions 
+between students, guardians, and school buses and the traffic generated from the site.  
+ 
+Aspects of the site plan can be improved to better ensure adequate transportation access and 
+movement. There appears to be substantially more passenger vehicle parking spaces than 
+typically required for data center land uses. The amount of provided parking should be re-
+evaluated and right-sized to minimize impervious surfaces (of Policy 2.2). Once the appropriate 
+amount of passenger vehicle and commercial truck parking spaces is determined, any resulting 
+changes to the site plans should clearly separate these traffic movements to minimize conflicts. 
+Any truck traffic generated from the site will most likely be traveling South from the site to Route 
+22. They will cross over Jordan Creek on North Cedar Crest Boulevard. The bridge over the 
+Jordan Creek is in ‘Fair’ condition according to the Pennsylvania Department of Transportation 
+Bridge Conditions Map. The bridge over Route 22 at the interchange of Cedar Crest Boulevard 
+is also in ‘Fair’ condition. These bridges should be closely monitored to ‘provide a safe, well-
+maintained transportation network’ (of Policy 2.2) by making sure they do not fall into ‘Poor’ 
+condition with the addition of the new trips generated by the development. 
+ 
+Sidewalks are proposed along all road frontages of the project site, which supports pedestrian 
+safety and reducing fatalities towards zero (of Policies 5.1 and 5.3). The LVPC recommends 
+including safe connections to proposed buildings and parking lots, with bicycle racks at each 
+building, to support alternative transportation options and offer a seamless network for 
+employees to safely commute to work using alternative modes (of Policies 2.2, 2.3 and 5.3). 
+Electric vehicle charging capacity should be provided for both commercial and passenger 
+vehicles (of Policy 2.5). 
+ 
+The Lehigh and Northampton Transportation Authority (LANTA) does not serve the project site 
+or vicinity and currently has no plans to extend service to the area in the future. However, as the 
+Lehigh Valley grows and potential for additional development in the vicinity remains, more 
+people will need access to public transit. The developer should consider implementing the 
+infrastructure for a future bus stop such as a concrete pad and benches along the frontage of 
+the sidewalk on the new township road, potentially at the intersection of the Parkland High 
+School Rd which would provide access to both the school property and the proposed site. The 
+benches would still be able to be used even when there is no service from LANTA (of Policy 
+2.3). 
+ 
+The Parks, Recreation and Open Space plan of FutureLV identifies a Proposed/Conceptual 
+Commuter Trail through the project site, which runs along Jordan Creek to the West, connects 
+to Parkland High School and the project property, and then rejoins Jordan Creek to the East 
+along the Whitehall Township border. The included sidewalks throughout the site support 
+fulfilling this trail, however the LVPC strongly recommends including sidewalk along the 
+northeastern property boundary along Mauch Chunk Road to further facilitate closing gaps in 
+the region’s trail network (of Policy 2.1). 
+ 
+8
+
+[page 9]
+    
+   
+ 
+LVPC GIS Mapping – Proposed/Conceptual Commuter Trails 
+ 
+North Cedar Crest Boulevard between Ritter Road and Walbert Avenue is identified as a 
+Congested Corridor, where existing traffic conditions already present operational challenges. 
+Given the scale of the proposed development, the construction phase is likely to generate 
+commercial vehicle traffic at a level that would further affect corridor performance. The LVPC 
+strongly recommends requiring construction traffic information such as anticipated truck 
+volumes, designated routing, and hours of operation to adequately plan for and minimize traffic 
+demand. 
+ 
+  
+LVPC GIS Mapping – Congested Corridors 
+ 
+ 
+The LVPC has copied representatives from adjacent municipalities and review agencies to 
+‘coordinate land use decisions across municipal boundaries’ (of Policy 1.4). 
+ 
+Municipalities, when considering land developments, should reasonably attempt to be 
+consistent with FutureLV: The Regional Plan, as required by the Pennsylvania Municipalities 
+Planning Code (MPC) [Article 1§105, Article III§303, §304 & §306(a), Article VI§603(j)]. The 
+LVPC review does not include an in-depth examination of plans relative to subdivision design 
+standards or ordinance requirements since these items are covered in the municipal review. 
+ 
+Please let me know if there are any questions about this review. 
+ 
+9
+
+[page 10]
+    
+   
+Sincerely, 
+  
+Jill Seitz  
+Chief Community and Regional Planner  
+ 
+  
+Susan Myerov   
+Director of Environmental Planning  
+   
+Corinne Ruggiero  
+Environmental Planner  
+  
+Evan Gardi  
+Transportation Planner  
+ 
+cc: Anthony Tallarida, Township Engineer; CDE Acquisitions LLC, Applicant; Andrew Lohr, 
+Kimley-Horn, Project Engineer; Nate Jones, Lower Macungie Township Planning Director; North 
+Whitehall; Lee Rackus, Whitehall Township Planning Bureau Chief; Jennifer Gomez, City of 
+Allentown Planning Director; Meredith Keller, Upper Macungie Township Planning Director; 
+Liesel Gross, Lehigh County Authority Chief Executive Officer; Garrett Cook, Lehigh County 
+Conservation District Engineer; Fadia Halma, PA DCED Lehigh Valley Regional Director; Alicia 
+Karner, PA DCED BusinessPA Lehigh Valley Regional Office Director; Dean Ritter, PA DEP 
+Assistant Regional Director; Jane George, PPL Regional Affairs Director; Joseph Lookup, PPL 
+Vice President of Transmission & Distribution Planning & Asset Management Brian Boyer, 
+PennDot District 5; Chad Pindar, Delaware River Basin Commission Water Resource Planning 
+Section Manager; Molly Wood, LANTA Planner/Land Use Specialist; Geoff Reese, LVPC 
+Master Planner and Engineer; Denjam Khadka, LVPC Senior Civil/Environmental Engineer; 
+Peter Lantz, Environmental Engineer. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+10
+
+[page 11]
+ 
+ 
+  
+ 
+ 
+ 
+ 
+January xx, 2026  
+ 
+ 
+Thomas Beil, Manager 
+Upper Saucon Township 
+5500 Camp Meeting Road 
+Center Valley, PA 18020 
+ 
+Re: Data Center Zoning Ordinance Amendment 
+Upper Saucon Township 
+Lehigh County 
+ 
+Dear Mr. Beil, 
+ 
+The Lehigh Valley Planning Commission (LVPC) will consider the subject application at 
+its Comprehensive Planning Committee and Full Commission meetings, pursuant to the 
+requirements of the Pennsylvania Municipalities Planning Code (MPC). Discussion on 
+agenda items largely happens during the Committee meeting. Meeting participation 
+details are below, and we encourage your participation:  
+ 
+LVPC Comprehensive Planning 
+Committee Meeting: 
+ 
+January 20, 2026, at 12:00 PM (Virtual) 
+https://lvpc.org/lvpc-meetings 
+ 
+LVPC Full Commission 
+Meeting: 
+ 
+January 22, 2026, at 7:00 PM (Virtual) 
+https://lvpc.org/lvpc-meetings 
+ 
+ 
+The proposal amends the Upper Saucon Township Zoning Ordinance by adding Data 
+Centers as a conditional use within the Industrial (I) Zone and the Enterprise Overlay 
+Zone (EOZ).  
+ 
+Data Centers are essential components of modern technological infrastructure, enabling 
+everyday devices to send and receive digital data needed for video streaming, online 
+shopping, cloud storage, and communicate with other devices. With the growth of digital 
+device and technology usage, hyperscale data centers have been expanding across 
+Pennsylvania and are an emerging land use in the Lehigh Valley. When sited 
+appropriately and connected to adequate infrastructure capacity, data centers support 
+the continuation of the region’s technological evolution, economic base and resilience 
+(of Policy 4.1). The Township’s proposed ordinance both aligns with best practices and 
+contains opportunities to further support public health, safety and welfare.  
+  
+11
+
+[page 12]
+    
+   
+ 
+The following aspects of the proposed ordinance amendment align with best 
+practices for regulating data centers:  
+  
+• Conditional Use: Permitting data centers as a conditional use allows the 
+Township to evaluate project impacts on a case-by-case basis 
+to determine community needs and sensitivities and balance those needs with 
+the demand for modern technological infrastructure. This approach supports an 
+efficient development process that is responsive to regional needs and minimizes 
+the impacts of regionally significant land uses (of Policy 1.4).  
+ 
+• Definitions: The ordinance distinguishes between Data Centers and Data 
+Center Accessory Uses and includes a definition for Sensitive Receptors. The 
+definition for Sensitive Receptors includes uses such as residences, uses for the 
+care of children or the elderly, and public spaces such as parks, community 
+centers, or places of worship. Providing definitions encourages clarity and 
+minimizes impacts of regionally significant land uses (of Policy 1.4).   
+ 
+• Landscaping: Including landscaped buffer yards helps break up the visual 
+impact of data centers, manage rainwater runoff and mitigate flooding, reduce 
+heat island effect, and improve quality of life in the community (of Policies 3.1, 
+3.2, 3.4, and 5.3). The ordinance indicates that existing invasive species be 
+removed and that landscaping buffers be planted with native species. The LVPC 
+notes that some of the species specified in this section – Green Giant Arborvitae 
+and Norway Spruce – are not native to Pennsylvania and suggests specifying 
+Eastern White Pine or similar Pennsylvania native species to ‘advocate for the 
+use of native, climate adaptive and carbon sequestering landscaping’ (of Policy 
+3.4).  
+ 
+• Environmental Impacts: While data centers are a particularly resource-intense 
+land use, the proposed ordinance includes specific standards for the protection of 
+air quality, water and sewer impacts, and energy management which ‘minimizes 
+impacts of development to protect the health, safety and welfare of the public’ (of 
+Policies 5.4 and 3.2). 
+ 
+• Air Quality: The ordinance requires all backup power equipment to 
+minimize air pollutant emissions in accordance with EPA Tier 4 emissions 
+standards and requires annual testing. 
+ 
+• Water and Sewer: The ordinance requires a Water Resources Impact 
+Report that identifies the source of water to be used and whether an 
+adequate supply is available, proof of review and approval from the 
+Delaware River Basin Commission (DRBC) or a user agreement from a 
+public water source, and a demonstration of adequate means of 
+wastewater disposal that includes all necessary approvals. The LVPC 
+recommends that this report also include modeling of water use at peak-
+stress conditions to ensure year-round feasibility. The additional oversight 
+12
+
+[page 13]
+    
+   
+ 
+of a Water Resources Impact Report supports the ‘protection of the quality 
+and quantity of surface water and groundwater’ for a consumptive land 
+use (of Policy 3.2).  
+ 
+• Energy Use: The ordinance requires that an Energy Management Plan be 
+submitted that details the projected annual electricity demand, the supply 
+source(s), documentation of agreements with utility providers to serve potential 
+data centers where applicable and indication of known impacts on rates or 
+availability for other users. Proper understanding of energy impacts prior to 
+construction mitigates system constraints and enhances the long-term viability of 
+assets (of Policy 1.3). The Energy Management Plan also requires 
+documentation of the efforts made to maximize the use of renewable or clean 
+energy, either through on-site generation or verifiable power purchase 
+agreements. These efforts ‘reduce greenhouse gas emissions’ and ‘promote 
+energy conservation’ (of Policy 3.4). 
+ 
+• Parking: Because data centers typically have fewer employees than other types 
+of industrial uses, applying parking minimum standards that are typical of other 
+types of industrial uses may lead to overbuilt, unused impervious 
+surfaces that exacerbate stormwater impacts. The proposed parking requirement 
+of one space per on-site employee supports best-practice contextual standards 
+that match development intensity with appropriate infrastructure capacity (of 
+Policy 1.1) and reduce impervious surfaces and protect water sources (of Policy 
+3.3).   
+ 
+• Aesthetics:  The aesthetic standards included in the ordinance help to minimize 
+the visual impacts of the scale of buildings on neighboring properties and 
+‘promote context-specific design solutions’ (of Policy 5.4).  
+  
+• Emergency Planning: The added provision requiring an Emergency Response 
+Plan aligns with FutureLV by enhancing planning and emergency response 
+capabilities (of Policy 5.1). The LVPC encourages continued coordination 
+between the applicant, Township and local emergency service providers to 
+ensure adequate site design that supports preparedness and response 
+capabilities. 
+ 
+ 
+The LVPC offers additional recommendations for the Township’s 
+consideration to further strengthen its regulations and promote public health, safety and 
+welfare:  
+ 
+• Dimensional Standards: The proposed height limits for data centers are 80 
+feet, while those in the Industrial and Enterprise Overlay Zones are limited to 60 
+feet with an additional 15 feet allowed for roof features. The LVPC 
+recommends that the Township ensure that height limits are compatible 
+with height limits in the Industrial and Enterprise Overlay Districts to promote 
+13
+
+[page 14]
+    
+   
+ 
+context-specific design solutions and promote development that complements 
+existing industrial uses (of Policy 5.4).  It is also recommended that setbacks be 
+increased to 500 feet, especially where the data center borders any residential 
+use, sensitive receptor, or public roadway to minimize noise and visual impacts 
+on adjacent property owners (of Policy 3.2).  
+ 
+• Noise: The proposed ordinance limits the sound generated by a Data Center and 
+any Data Center Accessory Use to a maximum decibel level of 70 dB(A). When 
+proper noise abatement measures are taken by the developer (such as installing 
+sound attenuation walls), noise level at the property line can be significantly 
+reduced. The LVPC recommends that the Township consider lowering the 
+permissible maximum decibel level to 55 dB(A), especially where the Data 
+Center borders residential uses or other Sensitive Receptors (of Policy 3.2). 
+ 
+• Cooling: As part of the conditional use approvals process, the applicant should 
+specify the type of cooling method to be used, whether predominantly water-
+cooled or air-cooled, to ‘encourage an efficient development process’ (of Policy 
+1.4). Changes to the proposed cooling method after approval is granted will alter 
+the required water/sewer and power requirements and change the required utility 
+infrastructure to support it.  
+ 
+• On-site Energy Generation: The LVPC recommends including provisions for 
+on-site power generation uses such as fuel-cell power stations, geothermal, and 
+solar photovoltaics. These are viable alternative and supplemental energy 
+options for technology-based land uses which are highly energy-consumptive. 
+By regulating on-site energy generation, the Township can further ‘integrate 
+efficiency measures and emerging technologies’, ‘improve the utility and mobility 
+infrastructure of the region’ (of Policy 1.1), and ‘minimize and mitigate the 
+impacts of utility expansion associated with technological advancements’ (of 
+Policy 3.2).  
+ 
+• Sustainable Infrastructure/Building Design:  The LVPC recommends adding 
+language to the proposed ordinance that encourages sustainable infrastructure 
+and design practices for data center buildings, such as green roofs or LEED 
+certification, which ‘encourages reuse, sustainable building, site design and 
+community design practices’ (of Policy 3.4).  
+ 
+ 
+Municipalities, when considering zoning ordinance amendments, should reasonably 
+attempt to be consistent with FutureLV: The Regional Plan, as required by the 
+Pennsylvania Municipalities Planning Code (MPC) [Article 1§105, Article III§303, §304 
+& §306(a), Article VI§603(j)].  
+ 
+Sincerely, 
+ 
+ 
+14
+
+[page 15]
+    
+   
+ 
+ 
+Mary Grace Collins 
+Community and Regional Planner  
+ 
+  
+Susan Myerov, AICP  
+Director of Environmental Planning  
+ 
+ 
+cc:  
+Patricia Lang, Director of Community Development plang@uppersaucon.org 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+15
+
+[page 16]
+ 
+   
+ 
+ 
+ 
+ 
+January xx, 2025 
+ 
+Randy Cope, Manager 
+North Whitehall Township 
+3256 Levans Road 
+Coplay, PA 18037 
+ 
+Re: Data Center Zoning Ordinance Amendment 
+North Whitehall Township  
+Lehigh County 
+ 
+Dear Mr. Cope, 
+ 
+The Lehigh Valley Planning Commission (LVPC) will consider the subject application at 
+its Comprehensive Planning Committee and Full Commission meetings, pursuant to the 
+requirements of the Pennsylvania Municipalities Planning Code (MPC). Discussion on 
+agenda items largely happens during the Committee meeting. Meeting participation 
+details are below, and we encourage your participation:  
+ 
+LVPC Comprehensive Planning 
+Committee Meeting: 
+ 
+January 20, 2026, at 12:00 PM (Virtual) 
+https://lvpc.org/lvpc-meetings 
+ 
+LVPC Full Commission 
+Meeting: 
+ 
+January 22, 2026, at 7:00 PM (Virtual) 
+https://lvpc.org/lvpc-meetings 
+ 
+ 
+The proposal amends the North Whitehall Zoning Ordinance by adding Data Centers as 
+a conditional use in the Light Industrial/Business (LI/B) and Mineral Extraction/Industrial 
+(ME/I) Zoning Districts.  
+ 
+Data Centers are essential components of modern technological infrastructure, enabling 
+everyday devices to send and receive digital data needed for video streaming, online 
+shopping, cloud storage, and communicate with other devices. With the growth of digital 
+device and technology usage, hyperscale data centers have been expanding across 
+Pennsylvania and are an emerging land use in the Lehigh Valley. When sited 
+appropriately and connected to adequate infrastructure capacity, data centers support 
+the continuation of the region’s technological evolution, economic base and resilience 
+(of Policy 4.1). The Township’s proposed ordinance both aligns with best practices and 
+contains opportunities to further support public health, safety and welfare.  
+  
+16
+
+[page 17]
+  
+   
+ 
+The following aspects of the proposed ordinance amendment align with best 
+practices for regulating data centers:  
+ 
+• Conditional Use: Permitting data centers as a conditional use allows the 
+Township to evaluate project impacts on a case-by-case basis 
+to determine community needs and sensitivities and balance those needs with 
+the demand for modern technological infrastructure. This approach supports an 
+efficient development process that is responsive to regional needs and minimizes 
+the impacts of regionally significant land uses (of Policy 1.4).  
+ 
+• Definitions: The ordinance distinguishes between Data Centers and Data 
+Center Accessory Uses and includes a definition for Sensitive Receptors. The 
+definition for Sensitive Receptors includes uses such as residences, uses for the 
+care of children or the elderly, and public spaces such as parks, community 
+centers, or places of worship. Providing definitions encourages clarity and 
+minimizes impacts of regionally significant land uses (of Policy 1.4).   
+ 
+• Parking: Because data centers typically have fewer employees than other types 
+of industrial uses, applying parking minimum standards that are typical of other 
+types of industrial uses may lead to overbuilt, unused impervious 
+surfaces that exacerbate stormwater impacts. The proposed parking requirement 
+of one space per on-site employee supports best-practice contextual standards 
+that match development intensity with appropriate infrastructure capacity (of 
+Policy 1.1) and reduce impervious surfaces and protect water sources (of Policy 
+3.3).   
+ 
+• Emergency Planning: The added provision requiring an Emergency Response 
+Plan aligns with FutureLV by enhancing planning and emergency response 
+capabilities (of Policy 5.1). The LVPC encourages continued coordination 
+between the applicant, Township and local emergency service providers to 
+ensure adequate site design that supports preparedness and response 
+capabilities. 
+ 
+• Landscaping: The ordinance ‘advocates for the use of native, climate-adaptive 
+and carbon-sequestering landscaping’, which contributes a number of benefits, 
+including buffering visual impacts of industrial development, managing rainwater 
+runoff and mitigating flooding, reduce heat island effect, and improve quality of 
+life in the community (of Policies 3.1, 3.2, 3.4, and 5.3).  
+ 
+• Environmental Impacts: While data centers are a particularly resource-intense 
+land use, the proposed ordinance includes specific standards for protection from 
+water and sewer impacts, which ‘minimizes impacts of development to protect 
+the health, safety and welfare of the public’ (of Policies 5.4 and 3.2). The 
+ordinance requires a water feasibility study be submitted that identifies the 
+source of water and whether an adequate supply is available, proof of review and 
+approval from the Delaware River Basin Commission (DRBC) or a user 
+17
+
+[page 18]
+  
+   
+ 
+agreement from a public water source, and a demonstration of adequate means 
+of wastewater disposal that includes all necessary approvals. The LVPC 
+recommends that this report also include modeling of water use at peak-stress 
+conditions to ensure year-round feasibility. The additional oversight of water 
+feasibility study supports the ‘protection of the quality and quantity of surface 
+water and groundwater’ for a consumptive land use (of Policy 3.2).  
+ 
+The LVPC offers additional recommendations for the Township’s 
+consideration to further strengthen its regulations and promote public health, safety and 
+welfare:  
+ 
+• Definitions: The LVPC recommends that the proposed language included in the 
+‘Table of Permitted Uses by district’ be clarified, particularly the phrase ‘High 
+Impact Data Centers’. The term ‘High Impact Data Center’ is not mentioned 
+elsewhere in the ordinance, nor are there any additional regulations that 
+differentiate it from Data Centers. If the Township does not intend to regulate 
+High Impact Data Centers differently, then this language should be removed. 
+Alternatively, if the Township intends ‘High Impact Data Centers’ to indicate what 
+is referred to as a hyperscale data center, reference to hyperscale data centers 
+may be made in the definition section of the ordinance. The regulations 
+contained in the ordinance are generally applicable to hyperscale data centers 
+already, and differentiating between ‘Data Centers’ and ‘High Impact Data 
+Centers’ may introduce confusion. 
+ 
+• End Users: The ordinance requires that the proposed end user(s) and the 
+specific purpose or function of the data center be identified as part of the 
+conditional use approval process. The Township should consult with their 
+solicitor to ensure that this is a legally defensible requirement that can be justified 
+in the support of the health and safety of the public (of Policy 1.4).  
+ 
+• Setbacks: The LVPC recommends that setbacks be increased to 500 feet, 
+especially where the data center borders any residential use, sensitive receptor, 
+or public roadway to minimize noise and visual impacts on adjacent property 
+owners (of Policy 3.2).  
+ 
+• Noise: The proposed ordinance limits the sound generated by a Data Center and 
+any Data Center Accessory Use to a maximum daytime decibel level of 67 dB(A) 
+and a maximum nighttime and weekend decibel level of 57 dB(A). When proper 
+noise abatement measures are taken by the developer (such as installing sound 
+attenuation walls), noise level at the property line can be significantly reduced. 
+Data Centers are operational 24/7, so noise levels are unlikely to change 
+throughout the day unlike other kinds of industrial uses. The LVPC recommends 
+that the Township consider lowering the permissible maximum decibel level to 55 
+dB(A) regardless of the time of day, especially where the Data Center borders 
+residential uses or other Sensitive Receptors (of Policy 3.2). 
+ 
+18
+
+[page 19]
+  
+   
+ 
+• Aesthetic Standards: The LVPC suggests that aesthetic standards be included 
+in the ordinance to help minimize the visual impacts of the scale of buildings on 
+neighboring properties and ‘promote context-specific design solutions’ (of Policy 
+5.4).  
+ 
+• Power Supply: The ordinance requires that documentation be submitted of 
+agreement with utility providers to serve potential data centers where applicable, 
+and the details of any known impacts on rates or availability for other users. In 
+addition to these requirements, documentation of the projected annual electricity 
+demand and supply source(s) should be provided. The Township should also 
+require applicants to document efforts made to maximize the use of renewable 
+and/or clean energy for their electrical and cooling needs, either through on-site 
+generation or verifiable power purchase agreements. These efforts ‘reduce 
+greenhouse gas emissions’ and ‘promote energy conservation’ (of Policy 3.4). 
+ 
+• Back Up Power: The ordinance should require any backup power equipment 
+to minimize air pollutant emissions in accordance with EPA Tier 4 emissions 
+standards and require annual testing to minimize air quality impacts (of Policy 
+3.2). Detailed specifications on emissions controls and fuel storage safety 
+measures such as spill-prevention and secondary containment should also be 
+included to ensure public health and environmental safety. 
+ 
+• Cooling: As part of the conditional use approvals process, the applicant 
+should specify the type of cooling method proposed, whether predominantly 
+water-cooled or air-cooled, to ‘encourage an efficient development process’ 
+(of Policy 1.4). Changes to the proposed cooling method after approval is 
+granted will alter the required water/sewer and power requirements and 
+change the required utility infrastructure to support it.  
+ 
+• On-site Energy Generation: The LVPC recommends including provisions for 
+on-site power generation uses such as fuel-cell power stations, geothermal, and 
+solar photovoltaics. These are viable alternative and supplemental energy 
+options for technology-based land uses which are highly energy-consumptive. 
+By regulating on-site energy generation, the Township can further ‘integrate 
+efficiency measures and emerging technologies’, ‘improve the utility and mobility 
+infrastructure of the region’ (of Policy 1.1), and ‘minimize and mitigate the 
+impacts of utility expansion associated with technological advancements’ (of 
+Policy 3.2).  
+ 
+• Sustainable Infrastructure/Building Design:  The LVPC recommends adding 
+language to the proposed ordinance that encourages sustainable infrastructure 
+and design practices for data center buildings, such as green roofs or LEED 
+certification, which ‘encourages reuse, sustainable building, site design and 
+community design practices’ (of Policy 3.4).  
+ 
+  
+19
+
+[page 20]
+  
+   
+ 
+Municipalities, when considering zoning ordinance amendments, should reasonably 
+attempt to be consistent with FutureLV: The Regional Plan, as required by the 
+Pennsylvania Municipalities Planning Code (MPC) [Article 1§105, Article III§303, §304 
+& §306(a), Article VI§603(j)].  
+  
+Sincerely,  
+  
+  
+  
+Mary Grace Collins  
+Community and Regional Planner   
+  
+  
+Susan Myerov, AICP 
+Director of Environmental Planning  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20
+
+[page 21]
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21

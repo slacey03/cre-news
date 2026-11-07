@@ -1,0 +1,510 @@
+
+
+[page 1]
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+COMPREHENSIVE PLANNING COMMITTEE MEETING 
+Tuesday, July 21, 2026, 12:00 noon  
+AGENDA 
+ 
+THE MEETING CAN BE ACCESSED AT http://www.tinyurl.com/LVPC2026 OR VIA PHONE 
+610-477-5793 Conf ID: 947 550 319# 
+ 
+Roll Call  
+ 
+Courtesy of the Floor  
+ 
+Committee Business  
+1. ACTION ITEM: Lehigh Township – Zoning Ordinance Amendment – Data Centers (JW) 
+2. ACTION ITEM: Upper Nazareth Township – Zoning Ordinance Amendment – Thermal 
+Impact Mitigation Amendment (JW) 
+3. ACTION ITEM: Williams Township – Zoning Map Amendment – 900 Island Park Road 
+(Agriculture to Limited Commercial) (JS) 
+4. ACTION ITEM: Upper Saucon Township – Zoning Map Amendment – 3537 and 3519 
+Preston Lane (Village Commercial Overlay) (JS) 
+5. PRESENTATION AND DISCUSSION ITEM: Housing Supply and Attainability Strategy (JS, 
+JW) 
+a. Unlocking Housing Solutions Event 
+i. August 26, 2026 at 8:00 AM 
+ii. DeSales University – University Center 
+iii. 2755 Station Avenue, Center Valley, PA 18034 
+ 
+Next Comprehensive Planning Committee Meeting: 
+August 25, 2026, at 12:00 noon 
+1
+
+[page 2]
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+July XX, 2026 
+ 
+Lori Lambert, Planning and Zoning Secretary 
+Lehigh Township  
+1069 Municipal Road 
+Walnutport, PA 18088 
+ 
+Re: Zoning Ordinance Amendment – Data Centers 
+Lehigh Township 
+Northampton County 
+ 
+Dear Ms. Lambert, 
+ 
+The Lehigh Valley Planning Commission (LVPC) will consider the subject application at its 
+Comprehensive Planning Committee and Full Commission meetings, pursuant to the requirements of the 
+Pennsylvania Municipalities Planning Code (MPC). Discussion on agenda items largely happens during 
+the Committee meeting, and we welcome your participation. Meeting participation details are below:   
+  
+LVPC Comprehensive Planning 
+Committee Meeting:  
+  
+July 21, 2026, at 12:00 PM (Virtual)  
+https://lvpc.org/lvpc-meetings  
+LVPC Full Commission  
+Meeting:  
+  
+July 23, 2026, at 7:00 PM (Virtual)  
+ https://lvpc.org/lvpc-meetings  
+ 
+The application proposes to amend the Township Zoning Ordinance to regulate Data Centers and 
+associated uses in the Industrial (I) Zoning District in Lehigh Township 
+ 
+Data Centers are essential components of modern technological infrastructure, enabling everyday 
+devices to send and receive digital data needed for video streaming, online shopping, cloud storage, and 
+communicate with other devices. With the growth of digital device and technology usage, digital 
+infrastructure facilities like hyperscale data centers have been expanding across Pennsylvania and are 
+an emerging land use in the Lehigh Valley. When sited appropriately and connected to adequate 
+infrastructure capacity, data centers can support the continuation of the region’s technological evolution, 
+economic base and resilience (of Policy 4.1). The Township’s proposed ordinance both aligns with best 
+practices for regulating data centers and contains opportunities to improve the ordinance to support 
+public health, safety and welfare.  
+   
+The following aspects of the proposed ordinance align with FutureLV: The Regional Plan and best 
+practices for regulating data centers:  
+ 
+• Definitions: The ordinance distinguishes between Data Centers and Data Center Accessory 
+Uses and includes a definition for Sensitive Receptors. The definition for Sensitive 
+Receptors includes uses such as residences, uses for the care of children or the elderly, and 
+public spaces such as parks, community centers, or places of worship. Providing definitions 
+encourages clarity and minimizes impacts of regionally significant land uses (of Policy 1.4).  
+ 
+2
+
+[page 3]
+  
+   
+ 
+• Conditional Use: Permitting data centers as a conditional use enables the Township 
+to establish substantial submission criteria and thoroughly evaluate project impacts on a case-by-
+case basis, supporting ‘an efficient development process that is responsive to regional needs’ (of 
+Policy 1.4). 
+ 
+• Buffering: Large buffer yards and robust plant material regulations for vegetated screening are 
+strong features. These requirements support compatibility with surrounding uses and protection of 
+community character and quality of life by ‘promoting context-specific design solutions’ (of Policy 
+5.4).  The LVPC recommends specifying that buffer yards and berms be planted with ‘native, 
+carbon-sequestering, and climate-adaptive species’ as a best practice (of Policy 3.4). 
+ 
+• Utilities: The proposed ordinance includes substantive utility and infrastructure review. Requiring 
+evidence of water and sewage service, a water resources impact study, Delaware River Basin 
+Commission (DRBC) and Department of Environmental Protection (DEP) review where 
+applicable, and an electric interconnection agreement reflects FutureLV’s emphasis on matching 
+development intensity to available infrastructure (of Policy 1.1) and ‘minimizes impacts of 
+development to protect the health, safety and welfare of the public’ (of Policy 3.2) 
+ 
+o Annual Reporting: The ordinance also requires annual reports from data center 
+operators regarding the quantity of withdrawals, groundwater levels at monitoring wells, 
+precipitation, historical reporting, and any other information the township may need to 
+determine whether data center’s water withdrawal adversely impacts water supply. Water 
+withdrawal in Pennsylvania is a highly regulated process and the exact amount of water 
+withdrawn is regulated by the DRBC who tracks the above figures and serves as the 
+primary regulatory authority for the basin. Utilizing the DRBC’s specialized hydrologic 
+expertise and data collection provides a scientifically rigorous, third-party framework that 
+effectively complements local oversight while streamlining regulatory processes. 
+ 
+o Cooling: Preference for closed-loop cooling systems ‘protects the quality and quantity of 
+surface water and groundwater’ (of Policy 3.2). It is recommended that a definition of both 
+Closed-Loop and Once-Through Cooling be included in the Definition section of 
+the ordinance. 
+ 
+• Emergency Planning: The provision requiring an Emergency Response Plan aligns 
+with FutureLV by enhancing planning and emergency response capabilities (of Policy 5.1).  
+ 
+• Environmental Impact Study: The requirement for an environmental impact assessment is a 
+strong feature. Requiring analysis of nuisance impacts, stormwater, emissions, and energy 
+consumption serves to ‘preserve natural resources in the land development process’ (of Policy 
+3.1). Other sections of the ordinance, such as the PNDI study further this policy.  
+ 
+• Aesthetics: The aesthetic standards included in the ordinance help to minimize the visual 
+impacts of the scale of buildings on neighboring properties and ‘promote context-specific 
+design solutions’ (of Policy 5.4).  
+ 
+• Parking: Because data centers typically have fewer employees than other types of industrial 
+uses, applying parking minimum standards that are typical of other types of industrial uses may 
+lead to overbuilt, unused impervious surfaces that exacerbate stormwater impacts. The proposed 
+parking requirement of one and a half spaces per on-site employee or one space per 8,000 
+square feet, whichever is lesser, supports best-practice contextual standards 
+that match development intensity with appropriate infrastructure capacity (of Policy 
+1.1) and reduce impervious surfaces and protect water sources (of Policy 3.3).  
+ 
+3
+
+[page 4]
+  
+   
+ 
+• Traffic Impacts: The ordinance requires the applicant submit a traffic-impact analysis to address 
+construction-phase traffic and oversized equipment deliveries, which supports the goal 
+of FutureLV to ‘minimize quality of life impacts to residents’ by ensuring adequate transportation 
+capacity is available (of Policy 2.4). 
+ 
+• Sustainable Design: The ordinance also strongly recommend that the developer seek LEED 
+(Leadership in Energy and Environmental Design ) certification for the project. The LVPC 
+recommends encouraging the developer to consider opportunities for incorporating sustainable 
+energy systems that reduce overhead operational costs and ‘reduce climate change impacts 
+through mitigation and adaptation’ (of Policy 3.4), such as geothermal energy systems, green 
+roofs, solar panels and greywater reuse for irrigation and plumbing.. The developer should also 
+consider adding electrical vehicle charging spaces at the site to serve the residents and ‘advance 
+deployment of alternative fueling infrastructure’ (of Policy 2.5). Green Roof systems can also 
+provide additional opportunities to ‘manage the rate, volume and quality of storm runoff’ and 
+‘minimize environmental impacts of development to protect the health, safety, and welfare of the 
+public’ (of Policy 3.2) 
+ 
+• Decommissioning Plan: The ordinance includes provisions for decommissioning and site 
+restoration, requiring that upon cessation of operation, the owner or operator of the DIF ‘shall 
+remove all generators, tanks, battery systems, electrical infrastructure, and related improvements’ 
+from the property ‘no later than 3 years following the commencement of removal activities’. The 
+decommissioning plan support the goal of FutureLV to ‘enhance the long-term viability of assets’ 
+and ‘provide environmentally responsible and economical solid, electronic and hazardous waste 
+disposal and recycling’ (of Policies 1.3 and 3.2). 
+ 
+ 
+The LVPC offers additional recommendations for the Township’s consideration to further 
+strengthen its regulations and promote public health, safety and welfare:   
+ 
+• Dimensional Standards: The proposed ordinance establishes a minimum The ordinance 
+includes a minimum lot acreage of five acres and a height limit of sixty feet (including equipment), 
+alongside a requirement for a fourteen-foot above-grade berm with a minimum top width of ten 
+feet. The LVPC recommends the township consider evaluating these criteria in relation to the 
+standard set for comparable industrial zone uses such as the requirements governing heavy 
+industrial manufacturing, recycling facilities or salvage facilities which would further the shared 
+objective to ‘minimize impacts of land uses of regional significance’ (of Policy 1.4). 
+ 
+• Noise: The proposed ordinance limits the sound generated by a Data Center and any Data 
+Center Accessory Use to a maximum daytime decibel level of 67 dB(A) and a maximum nighttime 
+and weekend decibel level of 57 dB(A). When proper noise abatement measures are taken by the 
+developer (such as installing sound attenuation walls), noise level at the property line can be 
+significantly reduced. Data Centers are operational 24/7, so noise levels are unlikely to change 
+throughout the day unlike other kinds of industrial uses. The LVPC recommends that the 
+Township consider lowering the permissible maximum decibel level to 55 dB(A) regardless of the 
+time of day, especially where the Data Center borders residential uses or other Sensitive 
+Receptors (of Policy 3.2).  
+ 
+• Electronic Waste: The Township may wish to include procedures for safe removal and recycling 
+or disposal of server infrastructure, hazardous materials, batteries, electronic waste, and related 
+products which supports the goal of FutureLV to ‘provide environmentally responsible and 
+economical solid, electronic and hazardous waste disposal and recycling’ (of Policy 3.2).  
+ 
+4
+
+[page 5]
+  
+   
+ 
+• Heat Mitigation: Because data centers generate significant heat, the Township is encouraged to 
+require applicants to submit a Thermal Impact Mitigation Plan that outlines strategies for waste 
+heat reuse or dissipation, which minimizes environmental impacts of development to protect the 
+health, safety and welfare of the public’ (of Policy 3.2). Encouraging cool roofs, green roofs/shade 
+trees, and light-colored exterior walls help to mitigate heat island 
+effect and incorporate ‘sustainable building, site design and community design practices’ (of Policy 
+3.4). 
+ 
+• Power Supply: The LVPC recommends adding requirements for any backup power equipment, 
+such as minimizing air pollutant emissions in accordance with EPA Tier 4 emissions standards 
+and requiring annual testing to minimize air quality impacts (of Policy 3.2). Detailed specifications 
+on emissions controls and fuel storage safety measures such as spill-prevention and secondary 
+containment should also be included to ensure public health and environmental safety. The LVPC 
+also recommends including requirements for on-site power generation uses such as fuel-cell 
+power stations, geothermal, and solar photovoltaics. The technology facility industry is moving in 
+the direction of on-site generation, and the City can further ‘integrate efficiency measures and 
+emerging technologies’, ‘improve the utility and mobility infrastructure of the region’ (of Policy 
+1.1), and ‘minimize and mitigate the impacts of utility expansion associated with 
+technological advancements’ (of Policy 3.2).  
+ 
+• Setbacks: The LVPC recommends setbacks of 200 to 500 feet for hyperscale data center 
+facilities, especially where the data center borders any residential use, sensitive receptor, or 
+public roadway to minimize noise and visual impacts on adjacent property owners (of Policy 3.2). 
+ 
+Municipalities, when considering zoning ordinance amendments, should reasonably attempt to be 
+consistent with FutureLV: The Regional Plan, as required by the Pennsylvania Municipalities Planning 
+Code (MPC) [Article 1§105, Article III§303, §304 & §306(a), Article VI§603(j)]. Please feel free to reach 
+out with any questions about this review. 
+ 
+Sincerely,  
+ 
+Jacob Weinberg 
+Community and Regional Planner 
+  
+ 
+5
+
+[page 6]
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+July XX, 2026 
+ 
+Lisa Klem, Manager 
+Upper Nazareth Township  
+10001 Newport Ave 
+Nazareth, PA 18064 
+ 
+Re: Zoning Ordinance Amendment – Thermal Impact Mitigation  
+Upper Nazareth Township 
+Northampton County 
+ 
+Dear Ms. Klem, 
+ 
+The Lehigh Valley Planning Commission (LVPC) will consider the subject application at its 
+Comprehensive Planning Committee and Full Commission meetings, pursuant to the requirements of the 
+Pennsylvania Municipalities Planning Code (MPC). Discussion on agenda items largely happens during 
+the Committee meeting, and we welcome your participation. Meeting participation details are below:   
+  
+LVPC Comprehensive Planning 
+Committee Meeting:  
+  
+July 21, 2026, at 12:00 PM (Virtual)  
+https://lvpc.org/lvpc-meetings  
+LVPC Full Commission  
+Meeting:  
+  
+July 23, 2026, at 7:00 PM (Virtual)  
+ https://lvpc.org/lvpc-meetings  
+ 
+The application proposes to amend the Township Zoning Ordinance to require a Thermal Impact 
+Mitigation Plan (TIMP) as a requirement in their data center ordinance amendment. The proposal also 
+changes the parking requirements for off-street parking for public recreation.  
+ 
+Upper Nazareth Township sent previously comprehensive data center regulations to the Lehigh Valley 
+Planning Commission in April of 2026 and the proposed regulations include additional measures. As 
+Data Centers are an emerging land use with evolving impacts, the Township’s continued updates to their 
+regulations align with FutureLV to ‘minimize impacts of Land Use of Regional Significance’ (of Policy 
+1.4) and ‘support the evolution and adaptability of government’ (of Policy 1.1).   
+ 
+The ordinance outlines an in-depth process for the measurement, applicability, and standards for a 
+thermal impact mitigation plan. It includes additional definitions, specific contents of the plan such as 
+cooling systems and heat impacts on water and emergency operations, and the required mitigation 
+measures and third-party peer reviews for the above results. Together, these measures ‘minimize the 
+environmental impact of development to protect the health, safety and welfare of the public’ (of Policy 
+3.2). Additionally, the ordinance specifically outlines the use of green infrastructure as one of the 
+mitigation techniques, as well as other techniques that incorporate ‘sustainable building, site design and 
+community design practices’ (of Policy 3.4) 
+ 
+The ordinance also adjusts the total required off street parking for recreation facilities in the township, 
+supporting best-practice contextual standards that match development intensity with appropriate 
+6
+
+[page 7]
+  
+   
+ 
+infrastructure capacity (of Policy 1.1) and reduces impervious surfaces and protect water sources (of 
+Policy 3.3).  
+ 
+Municipalities, when considering zoning ordinance amendments, should reasonably attempt to be 
+consistent with FutureLV: The Regional Plan, as required by the Pennsylvania Municipalities Planning 
+Code (MPC) [Article 1§105, Article III§303, §304 & §306(a), Article VI§603(j)]. Please feel free to reach 
+out with any questions about this review. 
+ 
+Sincerely,  
+ 
+Jacob Weinberg 
+Community and Regional Planner 
+ 
+Cc:  
+Kim Mutarelli, Township Secretary; 
+Carroll Engineers, Township Engineer. 
+  
+ 
+7
+
+[page 8]
+ 
+   
+ 
+ 
+ 
+ 
+July XX, 2026 
+ 
+Melody Ernst, Manager 
+Williams Township  
+655 Cider Press Road 
+Easton, PA 18042  
+ 
+Re: Zoning Map Amendment – 900 Island Park Road 
+Williams Township 
+Northampton County 
+ 
+Dear Ms. Ernst, 
+ 
+The Lehigh Valley Planning Commission (LVPC) will consider the subject application at its 
+Comprehensive Planning Committee and Full Commission meetings, pursuant to the 
+requirements of the Pennsylvania Municipalities Planning Code (MPC). Discussion on agenda 
+items largely happens during the Committee meeting, and we welcome your participation. 
+Meeting participation details are below:   
+  
+LVPC Comprehensive Planning 
+Committee Meeting:  
+  
+July 21, 2026, at 12:00 PM (Virtual)  
+https://lvpc.org/lvpc-meetings  
+LVPC Full Commission  
+Meeting:  
+  
+July 23, 2026, at 7:00 PM (Virtual)  
+ https://lvpc.org/lvpc-meetings  
+ 
+The application proposes to amend the Township Zoning Map by rezoning a 1.2-acre lot from 
+Agricultural Zoning District (A) to Local Commercial Zoning District (LC). The property is located 
+at 900 Island Park Road (parcel number N8 12 27). LVPC Geographic Information System 
+(GIS) mapping indicates that the site is undeveloped and contains natural features such as 
+woodlands, hydrography and riparian buffers, steep slopes, and Natural Heritage Inventory 
+Supporting Habitats. Nearby land uses include residential dwellings along Island Park Road and 
+Berger Road. 
+ 
+The site is within an area identified for Exurban development in the General Land Use Plan 
+of FutureLV: The Regional Plan. Exurban areas have few or no factors necessary for substantial 
+development and are recommended to remain at a rural level of intensity and character. 
+Rezoning the subject site would facilitate a range of low-intensity commercial uses that could be 
+compatible with nearby residential uses while also providing opportunities for economic 
+diversification (of Policy 4.2) and increasing locally available businesses and services that meet 
+daily needs for all people (of Policy 5.2). The subject property is located immediately adjacent to 
+Interstate 78, making it unsuitable for residential development, and rezoning to Local 
+Commercial Zoning District would facilitate better use of the site. 
+ 
+A primary factor for consideration is the lack of public sewer and water infrastructure in the area, 
+with the closest existing service area 3 miles away to the northeast. The low-intensity 
+8
+
+[page 9]
+  
+   
+ 
+commercial uses permitted in the Local Commercial Zoning District are suitable for this context 
+and serve to match development intensity with available infrastructure capacity (of Policy 1.1). 
+Municipalities, when considering zoning ordinance amendments, should reasonably attempt to 
+be consistent with FutureLV: The Regional Plan, as required by the Pennsylvania Municipalities 
+Planning Code (MPC) [Article 1§105, Article III§303, §304 & §306(a), Article VI§603(j)]. Please 
+feel free to reach out with any questions about this review. 
+ 
+Sincerely,  
+  
+Jill Seitz  
+Chief Community and Regional Planner  
+  
+ 
+9
+
+[page 10]
+ 
+   
+ 
+ 
+ 
+ 
+July XX, 2026 
+ 
+Patricia Lang, Director of Community Development 
+Upper Saucon Township  
+5500 Camp Meeting Road 
+Center Valley, PA 18020  
+ 
+Re: Zoning Map Amendment – 3537 and 3519 Preston Lane 
+Upper Saucon Township 
+Lehigh County 
+ 
+Dear Ms. Lang, 
+ 
+The Lehigh Valley Planning Commission (LVPC) will consider the subject application at its 
+Comprehensive Planning Committee and Full Commission meetings, pursuant to the 
+requirements of the Pennsylvania Municipalities Planning Code (MPC). Discussion on agenda 
+items largely happens during the Committee meeting, and we welcome your participation. 
+Meeting participation details are below:   
+  
+LVPC Comprehensive Planning 
+Committee Meeting:  
+  
+July 21, 2026, at 12:00 PM (Virtual)  
+https://lvpc.org/lvpc-meetings  
+LVPC Full Commission  
+Meeting:  
+  
+July 23, 2026, at 7:00 PM (Virtual)  
+ https://lvpc.org/lvpc-meetings  
+ 
+The application proposes to amend the Township Zoning Map by applying the Village 
+Commercial Overlay Zone (VC) to two parcels designated as Suburban Residential Zone (R-2). 
+The two properties are located at 3537 Preston Lane and 3519 Preston Lane (parcel numbers 
+642426590952 and 642427603178). Both lots currently contain an existing single-family 
+detached dwelling. Nearby land uses include school, park and municipal facilities, a restaurant 
+and other commercial uses to the east, and residential dwellings along Preston Lane and Route 
+378. 
+ 
+The properties are located within the Development area identified in the General Land Use Plan 
+of FutureLV: The Regional Plan. Development areas contain infrastructure and development 
+characteristics necessary to accommodate future growth and are appropriate for a variety of 
+residential, commercial and other uses. The location is served by public water and public sewer 
+infrastructure and is adjacent to Route 378, an arterial transportation corridor. Directing 
+additional commercial opportunities to an area planned for development and served by existing 
+infrastructure supports the efficient use of land and helps match development intensity with 
+infrastructure capacity (of Policy 1.1). Additionally, the Upper Saucon Township Comprehensive 
+Plan identifies this area for Village Center development, and applying the Village Commercial 
+Overlay implements the Township’s planned land use vision. 
+ 
+The R-2 Zoning District accommodates medium-density residential development in areas with 
+sufficient supporting infrastructure. Applying the proposed Village Commercial Overlay would 
+10
+
+[page 11]
+  
+   
+ 
+provide opportunities for small-scale retail, service and entertainment businesses, support local 
+economic activity and meet evolving community and consumer needs (of Policy 4.2). 
+ 
+The Village Commercial Overlay supports a mix of locally oriented commercial and residential 
+uses that promote walkable communities, and the location along Route 378 provides access to 
+an established arterial transportation corridor with multiple transportation modes available 
+nearby, although fragmented. As the area continued to grow, future development should 
+incorporate mixed-transportation infrastructure to increase walkability and close gaps in the trail 
+and sidewalk network (of Policies 1.2 and 2.2). 
+ 
+Municipalities, when considering zoning ordinance amendments, should reasonably attempt to 
+be consistent with FutureLV: The Regional Plan, as required by the Pennsylvania Municipalities 
+Planning Code (MPC) [Article 1§105, Article III§303, §304 & §306(a), Article VI§603(j)]. Please 
+feel free to reach out with any questions about this review. 
+ 
+Sincerely,  
+  
+Jill Seitz  
+Chief Community and Regional Planner  
+  
+ 
+11
