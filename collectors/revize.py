@@ -89,9 +89,14 @@ def kind_of(text, fname, context):
 
 def page_links(html, page_url):
     soup = BeautifulSoup(html, "html.parser")
+    base_tag = soup.find("base", href=True)
+    base = urljoin(page_url, base_tag["href"]) if base_tag else page_url
+    root = "{0.scheme}://{0.netloc}/".format(urlparse(page_url))
     out = []
     for a in soup.find_all("a", href=True):
-        url = urljoin(page_url, a["href"].strip())
+        href = a["href"].strip()
+        # Revize serves "Documents/..." from the site root even when linked from a sub-folder page
+        url = urljoin(root, href) if (not base_tag and re.match(r"(?i)documents/", href)) else urljoin(base, href)
         if not re.search(r"\.pdf(\?|$)", url, re.I):
             continue
         par = a.find_parent(["tr", "li", "p"])
