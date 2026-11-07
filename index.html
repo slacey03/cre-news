@@ -3,8 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>ZoningTrack — Lehigh Valley development intelligence</title>
-<meta name="description" content="ZoningTrack reads planning commission, zoning hearing board and council agendas across the Lehigh Valley and tracks each development project from first sketch to final vote.">
+<title>ZoningTrack — Development intelligence for Pennsylvania</title>
+<meta name="description" content="ZoningTrack reads planning commission, zoning hearing board and council agendas across Pennsylvania municipalities and tracks each development project from first sketch to final vote.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,700&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -219,6 +219,8 @@
   .cov-list .st.on { color: var(--primary); }
   .cov-list .st.next { color: var(--warn); }
 
+  .live-now { margin-top: 18px; font-family: 'DM Mono', monospace; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-faded); display: flex; align-items: center; gap: 8px; }
+  .live-now .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--accent); box-shadow: 0 0 0 4px rgba(74, 140, 97, 0.15); }
   .closing { margin: 56px 0 8px; padding: 44px 40px; background: var(--primary); color: #fff; border-radius: 4px; display: flex; justify-content: space-between; align-items: center; gap: 28px; flex-wrap: wrap; }
   .closing h2 { font-family: 'Playfair Display', serif; font-weight: 800; font-size: clamp(26px, 3vw, 36px); line-height: 1.1; max-width: 640px; }
   .closing p { opacity: 0.85; margin-top: 8px; font-size: 15px; }
@@ -236,7 +238,9 @@
     .stat:nth-child(2) { border-right: none; }
     .stat:nth-child(1), .stat:nth-child(2) { border-bottom: 1px solid var(--rule); }
     .audience { grid-template-columns: 1fr; }
-    .closing { padding: 32px 24px; }
+    .live-now { margin-top: 18px; font-family: 'DM Mono', monospace; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-faded); display: flex; align-items: center; gap: 8px; }
+  .live-now .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--accent); box-shadow: 0 0 0 4px rgba(74, 140, 97, 0.15); }
+  .closing { padding: 32px 24px; }
   }
 </style>
 </head>
@@ -268,13 +272,14 @@
 
   <section class="hero">
     <div>
-      <div class="kicker">Lehigh Valley development intelligence</div>
+      <div class="kicker">Development intelligence for Pennsylvania</div>
       <h1>See what's being built <span class="green">before it breaks ground.</span></h1>
-      <p class="lead">ZoningTrack reads planning commission, zoning hearing board and council agendas across the Lehigh Valley every day, and follows each project from first sketch to final vote.</p>
+      <p class="lead">ZoningTrack reads planning commission, zoning hearing board and council agendas from local governments every day, and follows each project from first sketch to final vote.</p>
       <div class="ctas">
         <a class="cta primary" href="waitlist.html">Sign up for the waitlist</a>
         <a class="cta" href="dashboard.html">See the live dashboard →</a>
       </div>
+      <div class="live-now"><span class="dot"></span>Live now in the Lehigh Valley · expanding across Pennsylvania</div>
     </div>
     <div class="hero-card" aria-label="Example project timeline">
       <div class="hc-head"><span>Project timeline</span><span class="live">Live example</span></div>
@@ -314,7 +319,7 @@
 
   <section class="block">
     <div class="block-kicker">Who it's for</div>
-    <h2>Built by a Lehigh Valley commercial broker, for the people who <span class="green">need to know first.</span></h2>
+    <h2>Built by a commercial real estate broker, for the people who <span class="green">need to know first.</span></h2>
     <div class="audience">
       <div class="aud"><h3>Brokers</h3><p>Spot new retail pads, land plays and tenant moves before the signs go up.</p></div>
       <div class="aud"><h3>Developers</h3><p>Watch competing projects, rezonings and what boards are approving.</p></div>
@@ -328,17 +333,18 @@
     <div class="block-kicker">Coverage</div>
     <div class="coverage">
       <div>
-        <h2>The Lehigh Valley today. <span class="green">Pennsylvania next.</span></h2>
-        <p>ZoningTrack collects directly from municipalities across Lehigh and Northampton counties, and from the Lehigh Valley Planning Commission, which reviews significant projects and ordinance changes in all 62 municipalities.</p>
-        <p>Coverage grows every month, county by county.</p>
+        <h2>Starting in Pennsylvania. <span class="green">Built to go nationwide.</span></h2>
+        <p>Every municipality runs its own boards, posts its own PDFs and uses its own website. ZoningTrack is built to read them all the same way, so new counties can be added quickly.</p>
+        <p>Our first region is live: Lehigh and Northampton counties, collected directly from municipalities and from the Lehigh Valley Planning Commission's regional reviews. Pennsylvania comes next, county by county.</p>
       </div>
       <ul class="cov-list">
-        <li><span>Municipal planning, zoning & council records</span><span class="st on">Live · daily</span></li>
-        <li><span>LVPC regional project & ordinance reviews</span><span class="st on">Live · daily</span></li>
+        <li><span>Lehigh Valley: municipal planning, zoning & council records</span><span class="st on">Live · daily</span></li>
+        <li><span>Lehigh Valley Planning Commission regional reviews</span><span class="st on">Live · daily</span></li>
         <li><span>Project timelines, stages & outcomes</span><span class="st on">Live</span></li>
         <li><span>Local real estate news (<a href="newstracker.html" style="color:var(--primary)">NewsTracker</a>)</span><span class="st on">Live · hourly</span></li>
         <li><span>Weekly email digest & custom alerts</span><span class="st next">Coming at launch</span></li>
-        <li><span>Neighboring counties, then statewide</span><span class="st next">Next</span></li>
+        <li><span>More Pennsylvania counties, then statewide</span><span class="st next">Next</span></li>
+        <li><span>Additional states</span><span class="st next">Planned</span></li>
       </ul>
     </div>
   </section>
@@ -352,7 +358,7 @@
   </section>
 
   <div class="colophon">
-    <span>© 2026 ZoningTrack · Lehigh Valley, Pennsylvania</span>
+    <span>© 2026 ZoningTrack · Pennsylvania</span>
     <span><a href="about.html">About ZoningTrack →</a></span>
     <span>Built from public municipal records</span>
   </div>
