@@ -9,6 +9,6 @@ rows = conn.cursor(row_factory=dict_row).execute("""
          p.owner, p.applicant, p.request, p.zoning, p.size, p.acres::float, p.square_feet::float, p.use, p.category, p.stage, p.outcome,
          d.kind, d.municipality
   from projects p join documents d on d.id = p.document_id order by p.municipality_key, p.meeting_date""").fetchall()
-os.makedirs("out", exist_ok=True)
-json.dump(rows, open("out/projects.json", "w"), indent=0, default=str)
+for r in rows:
+    print("ROW " + json.dumps(r, default=str, ensure_ascii=False))
 print(len(rows), "rows exported")

@@ -13,5 +13,3 @@ jobs:
       - run: pip install "psycopg[binary]" && python tools/export_projects.py
         env:
           SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL }}
-      - uses: actions/upload-artifact@v4
-        with: { name: projects, path: out/projects.json, retention-days: 1 }
