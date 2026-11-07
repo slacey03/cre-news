@@ -10,15 +10,30 @@ COLS = {"municipality", "county", "board", "kind", "meeting_date", "url", "sourc
 
 def main():
     url = os.environ.get("SUPABASE_DB_URL", "").strip()
-    # safe format check (never prints the password)
-    from urllib.parse import urlsplit
-    sp = urlsplit(url) if "://" in url else None
-    print(f"SUPABASE_DB_URL: present={bool(url)} length={len(url)} starts={url[:13]!r} "
-          f"host={sp.hostname if sp else None} port={sp.port if sp else None} user_set={bool(sp and sp.username)} "
-          f"password_set={bool(sp and sp.password)} placeholder_left={'YOUR-PASSWORD' in url}")
     if not url.startswith(("postgresql://", "postgres://")):
-        sys.exit("SUPABASE_DB_URL must start with postgresql://")
-    with psycopg.connect(url, prepare_threshold=None) as conn:
+        sys.exit(f"SUPABASE_DB_URL must start with postgresql:// (present={bool(url)})")
+    # parse by hand so any symbols in the password are fine (no percent-encoding needed)
+    rest = url.split("://", 1)[1]
+    cred, _, hostpart = rest.rpartition("@")
+    user, _, pw = cred.partition(":")
+    hostport, _, dbname = hostpart.partition("/")
+    host, _, port = hostport.partition(":")
+    dbname = (dbname.split("?")[0] or "postgres")
+    print(f"DB target: host={host} port={port or 5432} db={dbname} user_set={bool(user)} "
+          f"password_set={bool(pw)} brackets_around_password={pw.startswith('[') and pw.endswith(']')}")
+    tries = [pw] + ([pw[1:-1]] if pw.startswith("[") and pw.endswith("]") else [])
+    for i, p in enumerate(tries):
+        try:
+            conn = psycopg.connect(host=host, port=int(port or 5432), dbname=dbname, user=user, password=p,
+                                   sslmode="require", prepare_threshold=None, connect_timeout=30)
+            if i: print("Connected after removing the [ ] around the password - consider updating the secret.")
+            break
+        except psycopg.OperationalError as e:
+            msg = str(e).replace(p, "***") if p else str(e)
+            print(f"Connect attempt {i+1} failed: {msg[:300]}")
+            if i == len(tries) - 1:
+                sys.exit(1)
+    with conn:
         conn.execute(open(os.path.join(ROOT, "db", "schema.sql")).read())
         n = 0
         for idx in sorted(glob.glob(os.path.join(ROOT, "data", "*", "documents.json"))):
