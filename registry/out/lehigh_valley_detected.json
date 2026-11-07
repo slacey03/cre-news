@@ -18,7 +18,9 @@
   "doc_page_profile": null,
   "robots": "",
   "notes": [
-   "https://www.allentownpa.gov: ConnectionError"
+   "https://www.allentownpa.gov: ConnectionError",
+   "http://www.allentownpa.gov: ConnectionError",
+   "https://allentownpa.gov: ConnectionError"
   ]
  },
  {
@@ -67,7 +69,9 @@
    "has_2026": true
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "easton",
@@ -77,19 +81,55 @@
   "urls": [
    "https://www.easton-pa.gov"
   ],
-  "reachable": false,
-  "final_url": null,
-  "status": null,
+  "reachable": true,
+  "final_url": "https://www.easton-pa.com/",
+  "status": 200,
   "blocked": false,
-  "cms": [],
-  "vendors": {},
-  "links": {},
-  "doc_page": null,
-  "doc_page_profile": null,
-  "robots": "",
+  "cms": [
+   "CivicPlus"
+  ],
+  "vendors": {
+   "YouTube (video)": [
+    "youtube.com/@cityofeaston/streams",
+    "youtube.com/channel/uc6ysswnrkvpbyyw8cwprs7q"
+   ]
+  },
+  "links": {
+   "agendas": [
+    "https://www.easton-pa.com/AgendaCenter"
+   ],
+   "minutes": [
+    "https://www.easton-pa.com/AgendaCenter"
+   ],
+   "meetings": [
+    "https://www.easton-pa.com/AlertCenter.aspx",
+    "https://www.easton-pa.com/calendar.aspx?CID=14",
+    "https://www.easton-pa.com/CivicAlerts.aspx?AID=220",
+    "https://www.easton-pa.com/",
+    "https://www.easton-pa.com/calendar.aspx?view=list&year=2026&month=11&day=7&CID=26",
+    "https://www.easton-pa.com/calendar.aspx?view=list&year=2026&month=11&day=8&CID=26"
+   ],
+   "planning": [
+    "https://www.easton-pa.com/163/Code-Enforcement-Planning-Office"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Agenda Center",
+   "url": "https://www.easton-pa.com/AgendaCenter"
+  },
+  "doc_page_profile": {
+   "pdf_links": 248,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present; blocks AI crawlers",
   "notes": [
    "https://www.easton-pa.gov: ConnectionError"
-  ]
+  ],
+  "generator": "",
+  "credit": "",
+  "agenda_center": "https://www.easton-pa.com/AgendaCenter"
  },
  {
   "key": "alburtis",
@@ -130,7 +170,9 @@
    "has_2026": true
   },
   "robots": "no robots.txt",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": "the Alburtis Area Community Center. Acces"
  },
  {
   "key": "catasauqua",
@@ -166,8 +208,8 @@
   },
   "doc_page": {
    "kind": "agendas",
-   "text": "Agendas & Minutes",
-   "url": "https://www.catasauqua.org/165/Agendas-Minutes"
+   "text": "Agenda Center",
+   "url": "https://www.catasauqua.org/AgendaCenter"
   },
   "doc_page_profile": {
    "pdf_links": 0,
@@ -175,7 +217,10 @@
    "has_2026": false
   },
   "robots": "robots.txt present; blocks AI crawlers",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": "",
+  "agenda_center": "https://www.catasauqua.org/AgendaCenter"
  },
  {
   "key": "coopersburg",
@@ -196,7 +241,9 @@
   "doc_page_profile": null,
   "robots": "",
   "notes": [
-   "https://www.coopersburgborough.org: SSLError"
+   "https://www.coopersburgborough.org: SSLError",
+   "http://www.coopersburgborough.org: robots-disallowed",
+   "https://coopersburgborough.org: SSLError"
   ]
  },
  {
@@ -236,7 +283,9 @@
    "has_2026": true
   },
   "robots": "no robots.txt",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "emmaus",
@@ -276,8 +325,8 @@
   },
   "doc_page": {
    "kind": "agendas",
-   "text": "Agendas & Minutes",
-   "url": "https://www.emmauspa.gov/agendacenter"
+   "text": "Agenda Center",
+   "url": "https://www.emmauspa.gov/AgendaCenter"
   },
   "doc_page_profile": {
    "pdf_links": 98,
@@ -285,7 +334,10 @@
    "has_2026": true
   },
   "robots": "robots.txt present; blocks AI crawlers",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": "",
+  "agenda_center": "https://www.emmauspa.gov/AgendaCenter"
  },
  {
   "key": "fountain-hill",
@@ -345,7 +397,9 @@
    "has_2026": false
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "Site Kit by Google 1.190.0",
+  "credit": ""
  },
  {
   "key": "macungie",
@@ -396,7 +450,9 @@
    "has_2026": true
   },
   "robots": "no robots.txt",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "slatington",
@@ -422,17 +478,20 @@
    ]
   },
   "doc_page": {
-   "kind": "meetings",
-   "text": "Calendar",
-   "url": "https://www.slatington.org/calendar.aspx?CID=14"
+   "kind": "agendas",
+   "text": "Agenda Center",
+   "url": "https://www.slatington.org/AgendaCenter"
   },
   "doc_page_profile": {
-   "pdf_links": 0,
+   "pdf_links": 110,
    "newest_year": 2026,
    "has_2026": true
   },
   "robots": "robots.txt present; blocks AI crawlers",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": "",
+  "agenda_center": "https://www.slatington.org/AgendaCenter"
  },
  {
   "key": "hanover-lehigh",
@@ -483,7 +542,9 @@
    "has_2026": true
   },
   "robots": "no robots.txt",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "heidelberg",
@@ -528,7 +589,9 @@
    "has_2026": false
   },
   "robots": "no robots.txt",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": "Munibit"
  },
  {
   "key": "lower-macungie",
@@ -540,57 +603,20 @@
    "https://www.lowermac.com"
   ],
   "reachable": true,
-  "final_url": "https://www.lowermac.com/",
+  "final_url": "http://www.lowermac.org/",
   "status": 200,
   "blocked": false,
-  "cms": [
-   "CivicPlus"
-  ],
-  "vendors": {
-   "YouTube (video)": [
-    "youtube.com/channel/uchxrdmsdawqp-okcufev_la"
-   ]
-  },
-  "links": {
-   "agendas": [
-    "https://www.lowermac.com/agendacenter"
-   ],
-   "minutes": [
-    "https://www.lowermac.com/agendacenter"
-   ],
-   "meetings": [
-    "https://www.lowermac.com/307/Township-Media",
-    "https://www.lowermac.com/",
-    "https://www.lowermac.com/calendar.aspx?view=list&year=2026&month=11&day=9&CID=30",
-    "https://www.lowermac.com/calendar.aspx?view=list&year=2026&month=11&day=10&CID=30",
-    "https://www.lowermac.com/calendar.aspx?view=list&year=2026&month=11&day=17&CID=30",
-    "https://www.lowermac.com/calendar.aspx?view=list&year=2026&month=11&day=19&CID=30"
-   ],
-   "planning": [
-    "https://www.lowermac.com/283/Community-Economic-Development",
-    "https://www.lowermac.com/QuickLinks.aspx?CID=56",
-    "https://www.lowermac.com/384/Application-Forms",
-    "https://www.lowermac.com/DocumentCenter/View/392/Subdivision-Land-Development-Projects-PDF",
-    "https://www.lowermac.com/Calendar.aspx?EID=2278"
-   ],
-   "zoning": [
-    "https://www.lowermac.com/CivicAlerts.aspx?AID=738"
-   ]
-  },
-  "doc_page": {
-   "kind": "agendas",
-   "text": "Agendas & Minutes",
-   "url": "https://www.lowermac.com/agendacenter"
-  },
-  "doc_page_profile": {
-   "pdf_links": 203,
-   "newest_year": 2026,
-   "has_2026": true
-  },
-  "robots": "robots.txt present; blocks AI crawlers",
+  "cms": [],
+  "vendors": {},
+  "links": {},
+  "doc_page": null,
+  "doc_page_profile": null,
+  "robots": "no robots.txt",
   "notes": [
    "https://www.lowermac.org: ConnectionError"
-  ]
+  ],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "lower-milford",
@@ -600,19 +626,56 @@
   "urls": [
    "https://www.lowermilford.org"
   ],
-  "reachable": false,
+  "reachable": true,
   "final_url": "https://www.lowermilford.org/",
   "status": 200,
-  "blocked": true,
-  "cms": [],
-  "vendors": {},
-  "links": {},
-  "doc_page": null,
-  "doc_page_profile": null,
+  "blocked": false,
+  "cms": [
+   "Wix"
+  ],
+  "vendors": {
+   "YouTube (video)": [
+    "youtube.com/@lowermilfordbos"
+   ]
+  },
+  "links": {
+   "agendas": [
+    "https://www.lowermilford.org/bos-agenda-and-minutes",
+    "https://www.lowermilford.org/planning-commission",
+    "https://www.lowermilford.org/historic-commission"
+   ],
+   "minutes": [
+    "https://www.lowermilford.org/bos-agenda-and-minutes",
+    "https://www.lowermilford.org/planning-commission"
+   ],
+   "meetings": [
+    "https://www.lowermilford.org/calendar"
+   ],
+   "planning": [
+    "https://www.lowermilford.org/zoning-and-planning",
+    "https://www.lowermilford.org/planning-commission"
+   ],
+   "zoning": [
+    "https://www.lowermilford.org/zoning-and-planning"
+   ],
+   "notices": [
+    "https://www.lowermilford.org/public-notices"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Board of Supervisors Agenda & Minutes",
+   "url": "https://www.lowermilford.org/bos-agenda-and-minutes"
+  },
+  "doc_page_profile": {
+   "pdf_links": 88,
+   "newest_year": 2026,
+   "has_2026": true
+  },
   "robots": "robots.txt present",
-  "notes": [
-   "https://www.lowermilford.org: HTTP 200 (bot protection)"
-  ]
+  "notes": [],
+  "generator": "Wix.com Website Builder",
+  "credit": ""
  },
  {
   "key": "lowhill",
@@ -632,7 +695,9 @@
   "doc_page": null,
   "doc_page_profile": null,
   "robots": "robots fetch failed (TooManyRedirects)",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "lynn",
@@ -678,7 +743,9 @@
    "has_2026": true
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "WP Rocket 3.24",
+  "credit": ""
  },
  {
   "key": "north-whitehall",
@@ -741,7 +808,9 @@
    "has_2026": false
   },
   "robots": "no robots.txt",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": "revize."
  },
  {
   "key": "salisbury",
@@ -789,7 +858,9 @@
    "has_2026": false
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": "Apptegy  Visit us to learn more"
  },
  {
   "key": "south-whitehall",
@@ -810,7 +881,9 @@
   "doc_page_profile": null,
   "robots": "no robots.txt",
   "notes": [
-   "https://www.southwhitehall.com: HTTP 403 (bot protection)"
+   "https://www.southwhitehall.com: HTTP 403 (bot protection)",
+   "http://www.southwhitehall.com: HTTP 403 (bot protection)",
+   "https://southwhitehall.com: HTTP 403 (bot protection)"
   ]
  },
  {
@@ -832,7 +905,9 @@
   "doc_page_profile": null,
   "robots": "no robots.txt",
   "notes": [
-   "https://www.uppermac.org: HTTP 403 (bot protection)"
+   "https://www.uppermac.org: HTTP 403 (bot protection)",
+   "http://www.uppermac.org: HTTP 403 (bot protection)",
+   "https://uppermac.org: HTTP 403 (bot protection)"
   ]
  },
  {
@@ -881,7 +956,9 @@
    "has_2026": false
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "upper-saucon",
@@ -937,7 +1014,9 @@
    "has_2026": true
   },
   "robots": "robots.txt present; blocks AI crawlers",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "washington-lehigh",
@@ -982,7 +1061,9 @@
    "has_2026": true
   },
   "robots": "no robots.txt",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "weisenberg",
@@ -1017,7 +1098,9 @@
    "has_2026": true
   },
   "robots": "no robots.txt",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "whitehall",
@@ -1056,7 +1139,9 @@
    "has_2026": true
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": "our Township Traffic & Consulting Enginee"
  },
  {
   "key": "bangor",
@@ -1115,7 +1200,9 @@
    "has_2026": true
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "Elementor 4.3.5; features: additional_custom_breakpoints; se",
+  "credit": ""
  },
  {
   "key": "bath",
@@ -1169,7 +1256,9 @@
    "has_2026": true
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "Elementor 4.3.5; features: additional_custom_breakpoints; se",
+  "credit": ""
  },
  {
   "key": "chapman",
@@ -1191,7 +1280,9 @@
   "doc_page": null,
   "doc_page_profile": null,
   "robots": "robots.txt present; blocks AI crawlers",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": "Squarespace"
  },
  {
   "key": "east-bangor",
@@ -1235,7 +1326,9 @@
    "has_2026": true
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "freemansburg",
@@ -1276,7 +1369,9 @@
    "has_2026": false
   },
   "robots": "no robots.txt",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "glendon",
@@ -1319,7 +1414,9 @@
    "has_2026": true
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "WordPress 7.1.4",
+  "credit": "Community Pride"
  },
  {
   "key": "hellertown",
@@ -1386,7 +1483,9 @@
    "has_2026": false
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "WordPress 7.1.4",
+  "credit": ""
  },
  {
   "key": "nazareth",
@@ -1421,7 +1520,9 @@
    "has_2026": true
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "north-catasauqua",
@@ -1463,7 +1564,9 @@
    "has_2026": false
   },
   "robots": "robots.txt present; blocks AI crawlers",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": "Squarespace"
  },
  {
   "key": "northampton-boro",
@@ -1473,19 +1576,60 @@
   "urls": [
    "https://www.northamptonboro.com"
   ],
-  "reachable": false,
+  "reachable": true,
   "final_url": "https://www.northamptonboro.com/",
   "status": 200,
-  "blocked": true,
-  "cms": [],
-  "vendors": {},
-  "links": {},
-  "doc_page": null,
-  "doc_page_profile": null,
+  "blocked": false,
+  "cms": [
+   "Wix"
+  ],
+  "vendors": {
+   "YouTube (video)": [
+    "youtube.com/@boroughofnorthampton/streams"
+   ]
+  },
+  "links": {
+   "agendas": [
+    "https://www.northamptonboro.com/borough-council-agenda",
+    "https://www.northamptonboro.com/planning-commission-agenda",
+    "https://www.northamptonboro.com/zoning-hearing-board-agenda"
+   ],
+   "minutes": [
+    "https://www.northamptonboro.com/council-meeting-minutes"
+   ],
+   "meetings": [
+    "https://www.northamptonboro.com/calendar",
+    "https://www.youtube.com/@boroughofnorthampton/streams",
+    "https://www.northamptonboro.com/special-public-hearing",
+    "https://www.northamptonboro.com/council-meeting-minutes"
+   ],
+   "planning": [
+    "https://www.northamptonboro.com/planning-commission-agenda",
+    "https://www.northamptonboro.com/history-culture"
+   ],
+   "zoning": [
+    "https://www.northamptonboro.com/zoning-hearing-board-agenda",
+    "https://www.northamptonboro.com/forms"
+   ],
+   "notices": [
+    "https://www.northamptonboro.com/special-public-hearing",
+    "https://www.northamptonboro.com/zoning-hearing-board-agenda"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Borough Council Agenda",
+   "url": "https://www.northamptonboro.com/borough-council-agenda"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": null,
+   "has_2026": false
+  },
   "robots": "robots.txt present",
-  "notes": [
-   "https://www.northamptonboro.com: HTTP 200 (bot protection)"
-  ]
+  "notes": [],
+  "generator": "Wix.com Website Builder",
+  "credit": ""
  },
  {
   "key": "pen-argyl",
@@ -1530,7 +1674,9 @@
    "has_2026": false
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "Elementor 4.3.5; features: additional_custom_breakpoints; se",
+  "credit": ""
  },
  {
   "key": "portland",
@@ -1594,7 +1740,9 @@
    "has_2026": true
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "WordPress 7.1.4",
+  "credit": "BlazeThemes ."
  },
  {
   "key": "roseto",
@@ -1642,7 +1790,9 @@
    "has_2026": false
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "Elementor 4.3.5; features: e_font_icon_svg, additional_custo",
+  "credit": ""
  },
  {
   "key": "stockertown",
@@ -1679,7 +1829,9 @@
    "has_2026": true
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "tatamy",
@@ -1717,7 +1869,9 @@
    "has_2026": false
   },
   "robots": "no robots.txt",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "walnutport",
@@ -1758,7 +1912,9 @@
    "has_2026": true
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "Elementor 4.3.5; features: additional_custom_breakpoints; se",
+  "credit": ""
  },
  {
   "key": "west-easton",
@@ -1807,7 +1963,9 @@
    "has_2026": true
   },
   "robots": "robots.txt present; blocks AI crawlers",
-  "notes": []
+  "notes": [],
+  "generator": "WordPress 7.1.4",
+  "credit": ""
  },
  {
   "key": "wilson",
@@ -1864,7 +2022,9 @@
    "has_2026": true
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "WordPress 7.1.4",
+  "credit": ""
  },
  {
   "key": "wind-gap",
@@ -1912,7 +2072,9 @@
    "has_2026": false
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "WordPress 7.1.4",
+  "credit": ""
  },
  {
   "key": "allen",
@@ -1962,7 +2124,9 @@
    "has_2026": true
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "bethlehem-twp",
@@ -2009,7 +2173,9 @@
    "has_2026": true
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "bushkill",
@@ -2049,7 +2215,9 @@
    "has_2026": true
   },
   "robots": "no robots.txt",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "east-allen",
@@ -2059,19 +2227,62 @@
   "urls": [
    "https://www.eatwp.org"
   ],
-  "reachable": false,
+  "reachable": true,
   "final_url": "https://www.eatwp.org/",
   "status": 200,
-  "blocked": true,
-  "cms": [],
-  "vendors": {},
-  "links": {},
-  "doc_page": null,
-  "doc_page_profile": null,
+  "blocked": false,
+  "cms": [
+   "Revize"
+  ],
+  "vendors": {
+   "Diligent Community": [
+    "eatwp.diligent.community"
+   ]
+  },
+  "links": {
+   "agendas": [
+    "https://www.eatwp.org/government/township_meetings/agenda___minutes.php"
+   ],
+   "minutes": [
+    "https://eatwp.diligent.community/Portal/MeetingTypeList.aspx",
+    "https://www.eatwp.org/government/township_meetings/agenda___minutes.php"
+   ],
+   "meetings": [
+    "https://www.eatwp.org/government/township_meetings/index.php",
+    "https://eatwp.diligent.community/Portal/MeetingTypeList.aspx",
+    "https://www.eatwp.org/government/township_meetings/public_notices.php",
+    "https://www.eatwp.org/government/township_meetings/agenda___minutes.php",
+    "https://www.eatwp.org/calendar.php"
+   ],
+   "planning": [
+    "https://www.eatwp.org/government/boards_commissions/planning_commission/index.php",
+    "https://www.eatwp.org/government/boards_commissions/river_central_regional_planning/index.php",
+    "https://www.eatwp.org/government/departments/planning/index.php"
+   ],
+   "zoning": [
+    "https://www.eatwp.org/government/boards_commissions/zoning_hearing_board/index.php",
+    "https://www.eatwp.org/government/departments/zoning_codes/index.php"
+   ],
+   "notices": [
+    "https://www.eatwp.org/government/township_meetings/public_notices.php",
+    "https://www.eatwp.org/government/boards_commissions/zoning_hearing_board/index.php",
+    "https://www.eatwp.org/UCC 26-001 PUBLIC NOTICE.pdf?t=202610221204580"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Agendas and Minutes",
+   "url": "https://www.eatwp.org/government/township_meetings/agenda___minutes.php"
+  },
+  "doc_page_profile": {
+   "pdf_links": 12,
+   "newest_year": 2025,
+   "has_2026": false
+  },
   "robots": "no robots.txt",
-  "notes": [
-   "https://www.eatwp.org: HTTP 200 (bot protection)"
-  ]
+  "notes": [],
+  "generator": "",
+  "credit": "revize."
  },
  {
   "key": "forks",
@@ -2116,7 +2327,7 @@
   },
   "doc_page": {
    "kind": "agendas",
-   "text": "Agendas & Minutes",
+   "text": "Agenda Center",
    "url": "https://www.forkstownship.org/AgendaCenter"
   },
   "doc_page_profile": {
@@ -2125,7 +2336,10 @@
    "has_2026": true
   },
   "robots": "robots.txt present; blocks AI crawlers",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": "",
+  "agenda_center": "https://www.forkstownship.org/AgendaCenter"
  },
  {
   "key": "hanover-northampton",
@@ -2174,7 +2388,9 @@
    "has_2026": true
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "lehigh-twp",
@@ -2214,7 +2430,9 @@
    "has_2026": true
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "lower-mount-bethel",
@@ -2260,7 +2478,9 @@
    "has_2026": true
   },
   "robots": "no robots.txt",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "lower-nazareth",
@@ -2270,19 +2490,68 @@
   "urls": [
    "https://lowernazareth.com"
   ],
-  "reachable": false,
+  "reachable": true,
   "final_url": "https://lowernazareth.com/",
   "status": 200,
-  "blocked": true,
-  "cms": [],
+  "blocked": false,
+  "cms": [
+   "Revize"
+  ],
   "vendors": {},
-  "links": {},
-  "doc_page": null,
-  "doc_page_profile": null,
+  "links": {
+   "agendas": [
+    "https://lowernazareth.com/boards_commissions/agendas___minutes.php",
+    "https://lowernazareth.com/boards_commissions/pc_agendas___minutes.php",
+    "https://lowernazareth.com/boards_commissions/zhb_agendas___minutes.php",
+    "https://lowernazareth.com/boards_commissions/eac_agendas___minutes.php",
+    "https://lowernazareth.com/boards_commissions/"
+   ],
+   "minutes": [
+    "https://lowernazareth.com/boards_commissions/agendas___minutes.php",
+    "https://lowernazareth.com/boards_commissions/pc_agendas___minutes.php",
+    "https://lowernazareth.com/boards_commissions/zhb_agendas___minutes.php",
+    "https://lowernazareth.com/boards_commissions/eac_agendas___minutes.php",
+    "https://lowernazareth.com/boards_commissions/"
+   ],
+   "meetings": [
+    "https://lowernazareth.com/Yearly Meeting Schedule 2026.pdf",
+    "https://lowernazareth.com/boards_commissions/meeting_archives.php",
+    "https://lowernazareth.com/Documents/Boards%20and%20Commissions/Yearly%20Meeting%20Schedule%202026.pdf?t=202601201034530",
+    "https://lowernazareth.com/calendar.php"
+   ],
+   "planning": [
+    "https://lowernazareth.com/boards_commissions/planning_commission.php",
+    "https://lowernazareth.com/departments/planning_zoning_permitting/index.php",
+    "https://lowernazareth.com/departments/planning_zoning_permitting/planning.php",
+    "https://lowernazareth.com/departments/planning_zoning_permitting/zoning.php",
+    "https://lowernazareth.com/departments/planning_zoning_permitting/permitting.php"
+   ],
+   "zoning": [
+    "https://lowernazareth.com/boards_commissions/zoning_hearing_board.php",
+    "https://lowernazareth.com/boards_commissions/zhb_agendas___minutes.php",
+    "https://lowernazareth.com/departments/planning_zoning_permitting/index.php",
+    "https://lowernazareth.com/departments/planning_zoning_permitting/planning.php",
+    "https://lowernazareth.com/departments/planning_zoning_permitting/zoning.php",
+    "https://lowernazareth.com/departments/planning_zoning_permitting/permitting.php"
+   ],
+   "notices": [
+    "https://lowernazareth.com/boards_commissions/zoning_hearing_board.php"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "BOS Agendas & Minutes",
+   "url": "https://lowernazareth.com/boards_commissions/agendas___minutes.php"
+  },
+  "doc_page_profile": {
+   "pdf_links": 44,
+   "newest_year": 2026,
+   "has_2026": true
+  },
   "robots": "no robots.txt",
-  "notes": [
-   "https://lowernazareth.com: HTTP 200 (bot protection)"
-  ]
+  "notes": [],
+  "generator": "",
+  "credit": "revize."
  },
  {
   "key": "lower-saucon",
@@ -2352,7 +2621,9 @@
    "has_2026": true
   },
   "robots": "no robots.txt",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": "revize"
  },
  {
   "key": "moore",
@@ -2405,7 +2676,9 @@
    "has_2026": true
   },
   "robots": "no robots.txt",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "palmer",
@@ -2441,7 +2714,9 @@
    "has_2026": false
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "plainfield",
@@ -2481,7 +2756,9 @@
    "has_2026": true
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "upper-mount-bethel",
@@ -2534,7 +2811,9 @@
    "has_2026": false
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "upper-nazareth",
@@ -2544,19 +2823,43 @@
   "urls": [
    "https://www.uppernazarethtownship.org"
   ],
-  "reachable": false,
+  "reachable": true,
   "final_url": "https://www.uppernazarethtownship.org/",
   "status": 200,
-  "blocked": true,
-  "cms": [],
+  "blocked": false,
+  "cms": [
+   "Revize"
+  ],
   "vendors": {},
-  "links": {},
-  "doc_page": null,
-  "doc_page_profile": null,
+  "links": {
+   "meetings": [
+    "https://www.uppernazarethtownship.org/calendar.php"
+   ],
+   "planning": [
+    "https://www.uppernazarethtownship.org/boards___commissions/planning_commission.php"
+   ],
+   "zoning": [
+    "https://www.uppernazarethtownship.org/boards___commissions/zoning_hearing_board.php",
+    "https://www.uppernazarethtownship.org/departments/building___zoning.php"
+   ],
+   "notices": [
+    "https://www.uppernazarethtownship.org/boards___commissions/zoning_hearing_board.php"
+   ]
+  },
+  "doc_page": {
+   "kind": "planning",
+   "text": "Planning Commission",
+   "url": "https://www.uppernazarethtownship.org/boards___commissions/planning_commission.php"
+  },
+  "doc_page_profile": {
+   "pdf_links": 35,
+   "newest_year": 2026,
+   "has_2026": true
+  },
   "robots": "no robots.txt",
-  "notes": [
-   "https://www.uppernazarethtownship.org: HTTP 200 (bot protection)"
-  ]
+  "notes": [],
+  "generator": "",
+  "credit": "Revize."
  },
  {
   "key": "washington-northampton",
@@ -2612,7 +2915,9 @@
    "has_2026": true
   },
   "robots": "no robots.txt",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "williams",
@@ -2669,7 +2974,9 @@
    "has_2026": true
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "Divi Child v.4.18.0.1665496353",
+  "credit": "GovUnity"
  },
  {
   "key": "lehigh-county",
@@ -2690,7 +2997,9 @@
   "doc_page_profile": null,
   "robots": "",
   "notes": [
-   "https://www.lehighcounty.org: SSLError"
+   "https://www.lehighcounty.org: SSLError",
+   "http://www.lehighcounty.org: SSLError",
+   "https://lehighcounty.org: SSLError"
   ]
  },
  {
@@ -2737,7 +3046,9 @@
    "has_2026": false
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "",
+  "credit": ""
  },
  {
   "key": "lvpc",
@@ -2780,6 +3091,8 @@
    "has_2026": false
   },
   "robots": "robots.txt present",
-  "notes": []
+  "notes": [],
+  "generator": "Starfield Technologies; Go Daddy Website Builder 8.0.0000",
+  "credit": ""
  }
 ]
