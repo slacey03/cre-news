@@ -1,0 +1,11 @@
+name: LVPC probe (one-off)
+on:
+  push:
+    branches: [main]
+    paths: ["tools/lvpc_probe.py"]
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install requests beautifulsoup4 && python tools/lvpc_probe.py
