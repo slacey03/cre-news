@@ -1,0 +1,23 @@
+name: Load Supabase
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["db/**", "tools/load_supabase.py"]
+  workflow_run:
+    workflows: ["Collect municipal documents"]
+    types: [completed]
+concurrency: { group: load-supabase, cancel-in-progress: false }
+jobs:
+  load:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install "psycopg[binary]"
+      - run: python tools/load_supabase.py
+        env:
+          SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL }}
