@@ -1,0 +1,322 @@
+Page 1 of 7 
+ 
+ 
+ 
+ 
+ 
+ 
+A General Meeting of the Allen Township Board of Supervisors was held on Tuesday, July 14th, 2026, 
+at 6:00 P.M. at the Allen Township Municipal Building, located at 50 Snow Hill Road, Northampton, 
+PA. Mr. Frack led the audience in the Pledge of Allegiance to the Flag. 
+ 
+1. Roll Call: 
+ 
+Present: Jason Frack; Gary Behler; Paul Link; Sean Sculley; Ilene Eckhart, Manager; B. Lincoln Treadwell, 
+Jr., Esq.; Michael Schwartz (Gilmore & Associates, Inc.) 
+ 
+Absent: Tim Paul 
+ 
+2. Announcements and/or Actions to Add New Items to the Current Agenda: Ms. Eckhart noted 
+there are no announcements and/or actions to be added. 
+ 
+3. Public Hearings: There were no public hearings.  
+ 
+4. Public to be Heard: Mr. Marc Steinberg, resident of 909 Graystone Circle, expressed several concerns 
+regarding the approved data center at 2800 Liberty Drive. He inquired about possible increases in electric 
+rates for the community, to which Mr. Link directed him to contact PP&L, as the Township holds no 
+insight into electric costs. Mr. Steinberg further asked about water usage, noting that the data center could 
+contribute to drought concerns. Mr. Link explained that the Northampton Borough Municipal Authority 
+agreed to sell water from its municipal water plant and that the Township has no authority over those 
+transactions. He also noted that water would not be supplied through wells. Mr. Sculley commented that 
+the proposed water system would be closed-loop rather than open, explaining that it would require less 
+water usage. Mr. Steinberg additionally inquired about the possibility of property taxes being lowered for 
+Township residents, as he expects the data center to generate significant tax revenue. Mr. Link confirmed 
+that no person or entity would be receiving any tax breaks within the Township, although the amount of 
+tax revenue to be received is currently unknown. Mr. Steinberg further inquired about the anticipated 
+noise from the data center. Mr. Link explained that, as a commercial and industrial electrician who has 
+worked in large data centers, the noise levels are not out of the ordinary. He noted that while generators 
+could be heard during testing, the facility would have two dedicated high-voltage feeds from the Siegfried 
+Substation, and if the generators were running due to a power outage, there would likely be no power 
+anywhere in the Township. Mr. Steinberg expressed concern regarding noise pollution from the generators 
+and asked whether they would run on diesel or propane. Ms. Eckhart noted that, as part of the conditional 
+approval, an acoustical consultant was hired to conduct a baseline study prior to the data center beginning 
+operations in order to compare anticipated noise levels. Mr. Treadwell assured that the data center would 
+  Allen Township Board of Supervisors  
+Meeting Minutes  
+           July 14th, 2026 
+6:00 P.M. 
+
+Page 2 of 7 
+ 
+ 
+be required to regulate noise levels to appropriate standards.  
+ 
+Mr. Kevin Klepeisz, resident of 1311 Atlas Lane, mentioned that he had only recently learned about the 
+proposed nearby data center. He referred to the minutes from March 24, 2026, meeting and discussion 
+previously provided by Mr. Behler, noting that he wished to address a few additional items. Mr. Klepeisz 
+explained that he is a structural engineer and has some knowledge regarding data centers. While he did not 
+specifically inquire about electric rates, he expressed uncertainty regarding PP&L’s assurance of available 
+capacity, stating that they would likely be tapping into the residential grid and that electric rates have not 
+been lowered. Regarding water usage, Mr. Klepeisz stated that he understood the closed-loop water 
+system had been compared to filling swimming pools but questioned how many pools that would equate 
+to and what the long-term water loss would be due to factors such as evaporation. Mr. Sculley referred to 
+Mr. Skyllingstad’s comments from the March 24, 2026, meeting, noting that water loss would be 
+comparable to a building full of employees utilizing restroom facilities. Mr. Link reiterated that the 
+Township has no control over electricity through PP&L or water through the Northampton Borough 
+Municipal Authority. Mr. Klepeisz stated that while he understood that, he expected Township officials to 
+relay new information as it became available. Mr. Treadwell explained that, although the data center has 
+been approved, there is currently no end user, and therefore much of the requested information remains 
+unknown. Moving on to anticipated noise, Mr. Klepeisz stated that his primary concern involved low-
+frequency noise and its potential health effects. He inquired about the distance that would be studied from 
+the data center, noting that noise can travel one to three miles under certain conditions. Mr. Treadwell 
+assured Mr. Klepeisz that the Township hired a sound expert who is fully aware of the different noise 
+levels and ranges to be evaluated. He explained that both Z-weighted and C-weighted noise levels would 
+be studied, noting that computer hum is considered C-weighted noise. Mr. Treadwell further stated that 
+the applicant would propose various study locations for the sound expert, although those details remain 
+unknown. Mr. Klepeisz mentioned having worked with a contractor involved with data centers in Virginia 
+and New Jersey and stated that he had been told about the noise generated by those facilities. Mr. 
+Treadwell explained that technology and sound attenuation measures continue to evolve. Mr. Klepeisz 
+also referenced discussion regarding anticipated vehicle trips being reduced from 900 to approximately 
+100 per day and asked whether the building is currently vacant. Mr. Treadwell explained that the property 
+at 2800 Liberty Drive was originally approved as a warehouse with the potential for 900 tractor-trailer 
+trips per day. He further explained that while the building has remained vacant, the property is not being 
+rezoned because a data center is a permitted use. Mr. Klepeisz asked whether the Township could stop the 
+data center or whether residents’ attempt to stop the project would lead anywhere. Mr. Link explained that 
+while there is no current end user, the Township has worked on a new ordinance to ensure certain items 
+are regulated. Mr. Klepeisz stated that he was not in favor of the location because it is approximately one 
+mile from a school and residential neighborhoods, noting that the site had been identified as one of the 
+best locations in the area. Mr. Treadwell explained that the property is located within an industrial 
+commercial zoning district and would not be more appropriately placed in a rural agricultural area or in 
+the middle of farmland. Mr. Link emphasized that Township officials are no happier than residents 
+regarding the proposed data center, explaining that although they are not in favor of it, they cannot deny a 
+proposal that complies with the ordinance. He further stated that all Board members are also Township 
+residents who care about the community but understand the importance of avoiding unwinnable lawsuits 
+that would be funded by taxpayer dollars. Mr. Link expressed frustration, noting that Township officials 
+have received death threats as a result of the proposed data center. Mr. Klepeisz ultimately requested that 
+information be shared with the public as it is received. Ms. Eckhart stated that updates would be posted on 
+the Township’s website as requested. Mr. Link concluded by stating that the proposed data center already 
+complies with the changes addressed in the updated ordinance.  
+ 
+
+Page 3 of 7 
+ 
+ 
+Ms. Marianne Cuth, resident of 25 Debbie Road, asked if all vacant warehouses could be turned into data 
+centers. Mr. Behler stated that if the ordinance is approved as previously discussed, the only area that 
+would allow data centers is the one currently being discussed. He noted that there are three warehouse 
+buildings within that specified area and, while two of the buildings are occupied, they could potentially 
+become data centers. He further explained that warehouses on the other side of Howertown Road or near 
+FedEx would not be permitted locations for data centers. 
+ 
+Ms. Jeanette Sak, resident of 908 Graystone Circle, emphasized that Township Board members are elected 
+representatives for all residents. She stated that Board members are in their positions to voice the concerns 
+of residents, as many chose the suburban area for its quality of life and to avoid city-like issues. Ms. Sak 
+stated that, from a sales agent perspective, proposals are developed using projections, estimates, and 
+numbers, and that being told those items are unknown causes confusion. She suggested that a proposal 
+without projections should not legally be approved, as certain specifics of the project remain known. Mr. 
+Treadwell responded that the business use of a warehouse is generally unknown upon approval and 
+explained that the project was approved simply as a data center without many operational details. Ms. Sak 
+explained that residents are interested in having details, such as anticipated water and electric 
+consumption, presented to the public. Mr. Link reiterated that the Township has not yet received drawings 
+or plans for the Township engineers to review. He explained that the applicant first inquired about the uses 
+permitted under the ordinance before moving forward with the proposal. Mr. Treadwell additionally noted 
+that a different review process would have occurred if a new warehouse were being constructed, whereas 
+this warehouse was vacant and available for lease. He stated that the data center was approved within the 
+industrial commercial zoning district and, while there may be impacts, the ordinance did not previously 
+address those issues. Mr. Treadwell further explained that although the ordinance did not include certain 
+items, the Township addressed concerns related to noise, water, generators, and electricity, despite having 
+no authority over those utilities. Ms. Sak reiterated that residents are seeking all available information and 
+again questioned the projected electric and water usage. Mr. Treadwell stated that no projections are 
+available because an end user has not yet been identified. Ms. Sak then asked what repercussions would 
+occur if post-construction noise testing failed to meet acceptable decibel levels. Mr. Treadwell explained 
+that operations would not be shut down, but sound attenuation measures would be required until 
+permissible noise levels were achieved. Ms. Sak stated that her intent in requesting detailed information is 
+due to the data center being located in the backyards of her and her neighbors, as they are trying to 
+determine how their quality of life may be impacted. She explained that residents are concerned about 
+potential utility increases and possible health effects from noise reverberation affecting both people and 
+animals. Mr. Link stated that many concerns regarding noise impacts stem from assumptions circulating 
+on social media, noting that the actual noise impacts remain uncertain. Mr. Frack added that information is 
+released as it is received. 
+ 
+Mr. Franco Grisafi, resident of 908 Graystone Circle, inquired about the proposed data center ordinance. 
+He asked whether there was a legal way to require future data center proposals within the designated area 
+to be conditional use rather than permitted by right. Mr. Behler questioned the reasoning behind that 
+option and asked what conditions would justify requiring conditional use. He explained that conditional 
+use is still an allowed use and would not permit a proposal to be denied simply because it is unpopular. He 
+further explained that a conditional use hearing would only be appropriate if there were specific conditions 
+unique to that use within the particular area. Mr. Behler asked why that option would be more favorable 
+than the proposed ordinance update, which would already require those conditions. Mr. Treadwell stated 
+that the updated ordinance, developed following the Prologis data center proposal, encourages the use of 
+solar panels or other forms of energy regeneration, although it cannot be legally mandated by the 
+Township. He further noted that the State has greater authority over those matters than local 
+
+Page 4 of 7 
+ 
+ 
+municipalities. Mr. Treadwell added that solar panel installations would also have to be evaluated for 
+structural concerns, such as whether the building’s roof could support the additional weight. Mr. Grisafi 
+inquired about the possibility of generators being used to draw excessive amounts of electricity. Mr. Link 
+explained that significant investments are being made to ensure the facility has an adequate electrical 
+supply, noting that two dedicated electrical feeds from the Siegfried Substation on Cherryville Road will 
+provide redundancy.  
+ 
+Ms. Nancy Tauschman, resident of 114 Gray Drive, stated that while the Board members make their best 
+effort, they are not always able to answer every question. She explained that although she does not have a 
+data center behind her property, she does have a junkyard. Ms. Tauschman stated that she had previously 
+sent videos to Ms. Eckhart and Ms. Averbeck and requested that they be played for the Board members 
+and residents in attendance. She explained that the videos demonstrate the noise heard from approximately 
+7:00 a.m. until 5:30 p.m. each day. Ms. Tauschman further stated that she has been unable to sit outside 
+and has nearly passed out on two occasions due to what she described as emissions coming from the 
+American Disposal site at 1438 Willowbrook Road onto her property. Mr. Link stated that he is familiar 
+with the site and its issues but that the Township is currently awaiting additional information from the 
+County Court. Ms. Tauschman acknowledged the ongoing litigation but clarified that she was simply 
+reporting that the noise, dust, and odor have worsened. She also stated that mattresses have been piled on 
+the property, which she believes is a violation. The Board agreed to view the video, and Ms. Tauschman 
+thanked the Board. 
+ 
+5. Approval of Minutes (June 9th, 2026): Mr. Link made a motion to approve the minutes; seconded by Mr. 
+Sculley. On the motion, by roll call vote, all present Supervisors voted yes.  
+ 
+6. Reports 
+ 
+A. Treasurer: Mr. Link made a motion to approve the Treasurer’s Report and the Paying of the Bills; 
+seconded by Mr. Sculley. On the motion, by roll call vote, all present Supervisors voted yes.  
+ 
+B. All Staff and Departmental Reports (On File)  
+ 
+7. Unfinished Business 
+ 
+A. Bids Received for Sale of 2009 Peterbilt 340 10 Ton Dump Truck (Municibid): Mr. Frack stated 
+that the highest amount of Municibid was accepted for $29,600. Mr. Behler made a motion to accept the bid 
+of $29,600; seconded by Mr. Link. On the motion, by roll call vote, all present Supervisors voted yes. 
+ 
+B. Bids Received for Sale of 2005 Ford Explorer (Municibid): Mr. Behler made a motion to accept 
+the bid of $5,300; seconded by Mr. Sculley. On the motion, by roll call vote, all present Supervisors voted 
+yes.  
+ 
+C. Ratification of Personnel Actions: Mr. Behler made a motion to ratify the personnel actions; 
+seconded by Mr. Link. On the motion, by roll call vote, all present Supervisors voted yes.  
+ 
+D. Allen Township Renovation Phase II, Payment Application 10 – Grace Industries, Inc. 
+$112,258.86 (Total of Original Contract with Change Orders: $1,025,482.00; Balance to Finish After 
+App 10: $57,725.08): Mr. Link made a motion to approve payment application 10 to Grace Industries, Inc. 
+of $112,258.86; seconded by Mr. Sculley. On the motion, by roll call vote, all present Supervisors voted yes.  
+
+Page 5 of 7 
+ 
+ 
+ 
+8. New Business:  
+ 
+  A.  Maintenance Worker Conditional Offer of Employment Candidate – A.N.: Mr.  Behler made a 
+motion to accept the maintenance worker conditional offer of employment for candidate A.N.; 
+seconded by Mr. Link. On the motion, by roll call vote, all present Supervisors voted yes. 
+ 
+B. PennDOT Winter Maintenance Agreement Renewal: Ms. Eckhart stated that the final version of 
+the agreement had been returned and distributed to Board members, noting several nuances and 
+revisions. She explained that changes were made to the road mileage, including additions for 
+Seemsville Road and Cesanek Road. The agreement retains the initial five-year term with a mutually 
+agreeable renewal at the end of that period, and a reminder will be placed on administrative calendars 
+to allow for future review and possible changes. She noted that Seemsville Road and Cesanek Road 
+were reconsidered because they are somewhat outside of the Township, while substantial mileage has 
+been added due to new developments. Mr. Behler suggested allowing one year without the agreement 
+to determine whether it is beneficial before entering into a new agreement. Mr. Link agreed with the 
+concerns Mr. Behler raised at the previous meeting, stating that he does not believe the agreement 
+provides a financial benefit to the Township. However, as a resident, he supports the agreement 
+because PennDOT clears and provides access to the main arterial roads. He explained that the 
+Township’s Public Works crew has plowed state roads for many years, unlike many neighboring 
+municipalities, but noted that committing to the state roads could delay plowing in residential 
+developments. One resident, who identified himself as a school bus driver, stated that the Township 
+roads are among the best in the area. Another resident expressed support for the PennDOT Winter 
+Maintenance Agreement, stating that it is the safest option. Ms. Eckhart added that many people, 
+particularly FedEx employees, depend on safe access into the Township for work. Mr. Sculley made a 
+motion to renew the PennDOT Winter Maintenance Agreement; seconded by Mr. Link. On the 
+motion, by roll call vote, all present Supervisors voted yes. 
+ 
+C. Wing Plow Retrofit (for 2024 Freightliner 114SD Tandem currently in service): EM Kutz, 
+Inc/Stengel Bros Inc. – Quote Total $39,937.43: Ms. Eckhart reported that the Township is 
+preparing for the winter season and expects to receive 600 tons of salt before the current contract 
+expires. She explained that the request was made as a backup measure and to improve operational 
+efficiency. Mr. Behler made a motion to approve the Wing Plow Retrofit quote total of $39,937.43; 
+seconded by Mr. Sculley. On the motion, by roll call vote, all present Supervisors voted yes. 
+ 
+D. Eisenhower/Tepes Drive Intersection – Request for Study: Ms. Eckhart reviewed the results of a 
+traffic concern on Eisenhower Drive near the top of Tepes Drive, where Tepes Drive intersects 
+Eisenhower Drive mid-block. She explained that the study is being requested following complaints of 
+speeding downhill on Eisenhower Drive. A radar sign was installed to monitor vehicle speeds and 
+traffic volume, recording a maximum speed of 46 MPH while showing average speeds consistent with 
+the posted percentile. Due to the unique intersection layout, she stated that a traffic study would be 
+required before considering an all-way stop. Mr. Schwartz said he would consult with Brian Harman, a 
+traffic engineer with Gilmore & Associates, Inc., to review the intersection and determine whether an 
+all-way stop could be warranted based on the roadway geometry and traffic volumes before 
+proceeding with a formal study. Although he did not believe the intersection would likely meet the 
+criteria, he agreed to prepare a proposal to begin the study. He also noted that traffic volumes are 
+expected to increase as additional homes are constructed. Ms. Eckhart suggested continuing to use 
+radar signs because they appear to encourage motorists to slow down. Mr. Behler expressed concern 
+
+Page 6 of 7 
+ 
+ 
+about drivers traveling at excessive speeds only a few feet from children using the sidewalks. Mr. Link 
+agreed, stating that the issue is not the roads themselves but the motorists driving on them. Mr. 
+Treadwell added that speed bumps cannot be used for speed control because of safety concerns, noting 
+that vehicles traveling over 50 MPH could become airborne. 
+ 
+E. Tentative Cancellation of July 28, 2026, Board of Supervisors Meeting: Ms. Eckhart 
+recommended transitioning to one meeting per month beginning in the new year, noting that the 
+reduced meeting schedule has worked well over the past several months. She explained that many 
+municipalities already operate with one monthly meeting and can schedule additional meetings as 
+needed. Mr. Frack agreed, commenting that several recent meetings had been so brief that the travel 
+time exceeded the meeting itself. Mr. Treadwell confirmed that one meeting per month satisfies the 
+minimum legal requirement, while Mr. Sculley added that having one consistent monthly meeting 
+could simplify communication compared to meeting on the second and last Tuesdays of each month. 
+Mr. Behler made a motion to cancel the meeting for July 28th, 2026; seconded by Mr. Sculley. On the 
+motion, by roll call vote, all present Supervisors voted yes. 
+ 
+Mr. Treadwell suggested discussing Item G and allowing the public to be heard before moving on to 
+Item F, as discussion regarding Item F needed to take place during executive session.  
+ 
+F. Appraisal 2026-02: Mr. Link made a motion to authorize the appraisal 2026-02; seconded by Mr. 
+Sculley. On the motion, by roll call vote, all present Supervisors voted yes. 
+ 
+G. Davidson – Well Isolation Distance Indemnification Agreement: Ms. Eckhart explained that the 
+requested waiver was necessary because the property owner could not meet the required setback, with 
+the only alternative being to classify the property as a shared lot. She noted that no public sewer is 
+available nearby. Mr. Behler stated that the proposed location is farther from the well than the original 
+location, while Mr. Treadwell clarified that it still falls within 100 feet of the well, making the waiver 
+necessary. Mr. Behler made a motion to approve the indemnification agreement for the property: L4 5 
+15D; seconded by Mr. Link. On the motion, by roll call vote, all present Supervisors voted yes. 
+ 
+H. Executive Session (Tentative Consideration to Purchase Real Estate): Mr. Treadwell confirmed 
+the executive session held would be regarding the tentative consideration to purchase real estate.  
+ 
+9. Public to be Heard: Nickolas “Nick” Takacs, resident of 202 Walker Drive, agreed with Ms. 
+Tauschman’s earlier remarks and stated that the ongoing nuisance has become just as severe as it was the 
+previous year. Although he acknowledged that additional violations have been issued by the Department 
+of Environmental Protection (DEP), he said the overall problems continue to worsen, making it difficult 
+for residents to enjoy spending time outdoors. Speaking on the proposed data center, Mr. Takacs 
+explained that he has more than 10 years of experience building, working in and installing equipment in 
+data centers. He stated that the proposed Prologis facility is expected to be a hyperscale, high-density data 
+center capable of housing as many computer systems as possible, unlike a more traditional data center. He 
+added that the proposed facility would be a much different operation due to its anticipated use of high-
+density graphics for artificial intelligence (AI) rather than traditional data center functions. 
+ 
+10. Next Meetings: Mr. Frack announced the upcoming meetings. All meetings and events will be held at the 
+Allen Township Municipal Building. These meetings and events are as follows:  
+ 
+• Planning Commission – Monday, July 20th, 2026 6:00 PM  
+
+Page 7 of 7 
+ 
+ 
+• Board of Supervisors – Tuesday, July 28th, 2026 6:00 PM (Cancelled) 
+ 
+ 
+11. Adjournment: There being no further business, the meeting adjourned at 7:30 PM. 
+ 
+ 
+Respectfully Submitted, 
+ 
+ 
+ 
+Kimberly Rodriguez-Colón 
