@@ -183,7 +183,7 @@
       <span class="wordmark">ZoningTrack</span>
     </a>
     <nav class="brand-nav">
-      <a href="/">Dashboard</a>
+      <a href="dashboard.html">Dashboard</a>
       <a href="newstracker.html">NewsTracker</a>
       <a href="about.html">About</a>
       <a href="login.html" class="nav-login active" id="nav-login">Log in</a>
@@ -218,7 +218,7 @@
 <script>
 const sb = supabase.createClient('https://jrlircehkzivwkcauzdt.supabase.co', 'sb_publishable_BwmJpTu23Omlk5F8ZfXW7A__UnnnEyX');
 const msg = document.getElementById('msg'), go = document.getElementById('go');
-sb.auth.getSession().then(({ data }) => { if (data.session) location.replace('/'); });
+sb.auth.getSession().then(({ data }) => { if (data.session) location.replace('/dashboard.html'); });
 document.getElementById('login').onsubmit = async e => {
   e.preventDefault();
   const email = document.getElementById('email').value.trim().toLowerCase();
@@ -230,7 +230,7 @@ document.getElementById('login').onsubmit = async e => {
     msg.innerHTML = 'Member logins aren\'t open yet. <a href="waitlist.html">Join the waitlist</a> and we\'ll let you know as soon as they are.';
     go.disabled = false; return;
   }
-  const { error: err } = await sb.auth.signInWithOtp({ email, options: { emailRedirectTo: location.origin + '/' } });
+  const { error: err } = await sb.auth.signInWithOtp({ email, options: { emailRedirectTo: location.origin + '/dashboard.html' } });
   if (err) { msg.textContent = 'Could not send the link: ' + err.message; go.disabled = false; return; }
   msg.className = 'msg ok';
   msg.textContent = 'Check your inbox for a sign-in link. It comes from Supabase, so check junk if you don\'t see it in a minute or two.';
