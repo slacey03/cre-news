@@ -1,0 +1,19 @@
+name: Probe na studios sites (one-off)
+on:
+  push:
+    paths: ["collectors/probe_nastudios.py"]
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests && python collectors/probe_nastudios.py
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add data/_probe_na && git commit -m "na studios probe output" || exit 0
+          for i in 1 2 3; do git pull --rebase origin main && git push && break; sleep 5; done
