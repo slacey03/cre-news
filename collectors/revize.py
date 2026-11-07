@@ -137,7 +137,8 @@ def collect(key):
             if re.search(SKIP, f"{l['text']} {fname}", re.I):
                 continue
             meeting = parse_date(l["text"], l["context"], fname)
-            current = re.search(r"current agenda|plan-agenda|^agenda\.pdf$", f"{l['text']} {fname}", re.I) is not None
+            current = re.search(r"current agenda", l["text"], re.I) is not None or \
+                (parse_date(fname) is None and re.search(r"agenda", fname, re.I) is not None)
             notice_page = board == NOTICE
             if not meeting and not current and not notice_page:
                 continue
