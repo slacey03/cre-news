@@ -1,0 +1,238 @@
+ 
+   
+ 
+ 
+ 
+ 
+ 
+August 14, 2026 
+ 
+Melissa Mastrogiovanni, Asst. Manager / Secretary / Planning Administrator 
+Lower Mount Bethel Township 
+2004 Hutchinson Avenue 
+Martins Creek, PA 18063 
+  
+Re: Zoning Ordinance Amendment – Data Centers 
+Lower Mount Bethel Township 
+Northampton County 
+  
+Dear Ms. Mastrogiovanni, 
+ 
+The Lehigh Valley Planning Commission (LVPC) will consider the subject application at its 
+Comprehensive Planning Committee and Full Commission meetings, pursuant to the 
+requirements of the Pennsylvania Municipalities Planning Code (MPC). Discussion on agenda 
+items largely happens during the Committee meeting. Meeting participation details are below, 
+and we encourage your participation:   
+ 
+LVPC Comprehensive Planning Committee 
+Meeting:  
+  
+August 25, 2026, at 12:00 PM (Virtual)  
+https://lvpc.org/lvpc-meetings  
+  
+LVPC Full Commission  
+Meeting:  
+  
+August 27, 2026, at 7:00 PM (Virtual)  
+https://lvpc.org/lvpc-meetings  
+  
+ 
+The application proposes to amend the Township Zoning Ordinance to establish regulations for 
+Digital Infrastructure Facilities. The amendment proposes to permit these by conditional use 
+within the Industrial District and establishes standards addressing land use impacts. 
+ 
+The LVPC offers the following recommendations to further strengthen the amendment and 
+ensure that its protections remain legally defensible under Pennsylvania law. Because several 
+provisions implicate authority assigned by state law to other agencies or extend beyond 
+customary zoning performance standards, the LVPC strongly recommends that the Township 
+Solicitor specifically review the provisions identified below prior to enactment. 
+ 
+Conditional Uses and End User Identification  
+The LVPC supports requiring sufficient information at the conditional use stage to understand 
+the type, scale and operational characteristics of the facility being proposed. However, the 
+requirement to identify the proposed end user should remain flexible because industrial 
+buildings and data center campuses may be developed before a specific tenant is finalized or 
+may change users over time. A more legally defensible approach may be to regulate 
+measurable operational characteristics regardless of tenant, and require applicants to identify 
+anticipated user types and conservatively estimate impacts. The ordinance could require 
+identification of the end user if known, and otherwise require an operational profile identifying 
+the facility type and function, maximum electrical demand, cooling method, backup generation, 
+water demand, anticipated employment and other characteristics necessary to demonstrate 
+
+  
+   
+ 
+compliance. This approach focuses the Township’s review on the impacts of the land use rather 
+than the identity of a particular corporation.  This approach supports the obligation of the 
+Township to provide a fair and impartial review of any and all applications.         
+ 
+Utilities 
+The amendment appropriately requires disclosure of maximum electrical demand at full 
+buildout, identification of project-related substations and other infrastructure, and documentation 
+from the serving utility concerning capacity. These requirements directly support matching 
+development intensity with infrastructure capacity (of Policy 1.1) and expanding and reinforcing 
+electric utility capacity for future technology and jobs (of Policy 2.5).  
+ 
+However, the ordinance also requires extensive documentation concerning offsite utility 
+infrastructure, all utility applications and correspondence, and alternative substation siting or 
+design alternatives. These provisions should be carefully evaluated to maintain the distinction 
+between municipal land use regulation and regulation of public utilities. The Pennsylvania 
+Municipalities Planning Code expressly preserves the Pennsylvania Public Utility Commission’s 
+(PUC) authority over the implementation, location, construction and maintenance of public utility 
+facilities (MPC §608.1(d)), and provides a process through which certain public utility buildings 
+may be exempted from local zoning following PUC review (MPC §619). The ordinance already 
+states that the Township does not regulate utility service, interconnection or energy markets; the 
+substantive standards should consistently reflect that limitation.  
+ 
+Water Resources and DRBC Coordination 
+The intent of the ordinance provisions addressing water supply, groundwater, cooling water, 
+stormwater and process water support conserving water resources (of Policy 3.1). Pennsylvania 
+law permits zoning provisions addressing the availability of a reliable and adequate water 
+supply. The ordinance should therefore remain focused on demonstrating the availability of 
+water, evaluating local land use and environmental impacts, and documenting compliance with 
+outside regulatory approvals rather than independently regulating the amount of a withdrawal. 
+The MPC does not authorize municipalities to regulate water allocation or withdrawal where 
+those matters are otherwise regulated by the PUC or state or federal agencies.   
+ 
+The ordinance currently references specific Delaware River Basin Commission (DRBC) 
+thresholds. Because DRBC jurisdiction can vary by source, type of use and regulatory program, 
+and those standards can change independently of the Township ordinance, the LVPC 
+recommends requiring documentation of all applicable DRBC approvals, permits or 
+determinations rather than codifying regulatory thresholds that may later become outdated or 
+may not apply uniformly to every project. 
+ 
+Setbacks, Buffers and Availability of the Use:  
+The LVPC supports substantial separation, screening and buffering where high-intensity 
+industrial activity is adjacent to residences, schools, public spaces and other incompatible uses. 
+These measures protect rural and scenic character (of Policy 1.3), minimize environmental and 
+quality-of-life impacts (of Policy 3.2), and implement context-specific design (of Policy 5.4). The 
+ordinance combines significant setbacks and buffers, including 500-foot residential buffers, 300-
+foot buffers from certain nonresidential Sensitive Receptors and a 1,000-foot setback for fuel 
+storage.  
+ 
+Prior to adoption of the ordinance amendment, the LVPC recommends that the Township 
+conduct a parcel-level GIS analysis to confirm that a meaningful opportunity remains for the 
+use. Where possible, the greatest separation distances should be tied to the particular impact 
+
+  
+   
+ 
+being mitigated and to incompatible or sensitive uses rather than applying the same degree of 
+separation from every compatible industrial property. Pennsylvania courts have historically 
+recognized a de facto exclusion of a land use where an ordinance imposes dimensional 
+requirements that make the use effectively impossible.  
+ 
+Land Use Performance Standards 
+FutureLV supports strong, measurable outcomes for water consumption, containment, thermal 
+impacts, noise, vibration, fire access and public safety to ‘minimize environmental impacts of 
+development’ (of Policy 3.2). However, the LVPC encourages the Township to evaluate 
+provisions that may move from regulating land use impacts toward prescribing particular 
+mechanical, cooling, electrical or fire protection design methods that may cause conflicts with 
+the Pennsylvania Uniform Construction Code (UCC). Additionally, the technology industry is 
+evolving rapidly with newer cooling systems that operate more sustainably than current options. 
+Instead, the LVPC recommends regulating the performance outcomes to maintain strong public 
+health objectives of without overlapping other regulatory systems. 
+ 
+Post-Construction Studies and Financial Security 
+Post-construction noise and vibration verification is a valuable tool because operational 
+conditions may differ from modeled conditions, and continued compliance can appropriately be 
+enforced through the Zoning Ordinance. However, the Township should carefully review the 
+proposed requirements tying post-occupancy studies or operational verification to the release of 
+subdivision and land development financial security. The MPC generally establishes financial 
+security to guarantee completion of improvements required as part of final plat approval (MPC 
+§509). Security is released as improvements are completed. Long-term operational compliance 
+is better treated through ongoing zoning enforcement. 
+ 
+Transportation 
+Requiring a traffic impact analysis addressing construction traffic, oversized equipment 
+deliveries, haul routes, staging and temporary traffic control is appropriate and supports efficient 
+infrastructure planning and protection of community quality of life. The ordinance should retain 
+clear requirements addressing site access, onsite circulation and construction management. 
+However, the provision authorizing the Township to require “reasonable traffic management or 
+mitigation measures” should be clarified so it is not interpreted as open-ended authority to 
+impose offsite roadway improvements through the conditional use decision. MPC §603(c)(2) 
+expressly provides that, in allowing a conditional use, a governing body may impose reasonable 
+additional conditions and safeguards other than those related to offsite transportation or road 
+improvements. Offsite improvements should instead be addressed through the applicable 
+subdivision and land development, PennDOT Highway Occupancy Permit, transportation impact 
+fee or other legally authorized process. 
+ 
+Decommissioning and Financial Security 
+The LVPC supports establishing a clear process for facilities that become abandoned and for 
+the safe removal and disposal of potentially hazardous infrastructure such as generators, fuel 
+systems, batteries, and other electronic equipment. This advances FutureLV’s direction to 
+‘provide environmentally responsible electronic and hazardous waste disposal’ and to enhance 
+the long-term viability of community assets (of Policies 3.2 and 1.3).  
+ 
+The LVPC recommends having the Township Solicitor identify the legal mechanism supporting 
+the long-term decommissioning financial security requirement, and establish a defensible 
+calculation methodology and enforcement process before enactment.  
+ 
+
+  
+   
+ 
+ 
+Additionally, the amendment requires removal not only of specialized equipment but of all 
+buildings, structures and improvements following prolonged cessation and requires financial 
+security sufficient to guarantee decommissioning, removal, disposal and site restoration for the 
+life of the facility. The Township should consider whether mandatory demolition of otherwise 
+reusable buildings is necessary in every circumstance or whether the standard should instead 
+prioritize restoring the property to a safe and reusable condition. Adaptive reuse of viable 
+industrial structures may better support long-term asset management and FutureLV’s emphasis 
+on efficient use of developed land. 
+ 
+Overall, the central planning direction or goal of the amendment is aligned with FutureLV: The 
+Regional Plan, as long as, above outlined legal issues and vulnerabilities are addressed.     
+ 
+In terms of overall consistency with FutureLV: The Regional Plan, the proposed ordinance 
+works to achieve the following:   
+ 
+• Permitting the use through the Industrial District and requiring evaluation at full buildout 
+helps the Township guide the location and intensity of development and ‘match 
+development intensity with sustainable infrastructure capacity’ (of Policy 1.1).  
+• Requiring disclosure of electrical demand and coordination with infrastructure providers 
+supports FutureLV’s direction to ‘expand and reinforce electric utility capacity’ while 
+preparing for future technology and jobs (of Policy 2.5).  
+• The Environmental Impact Assessment, groundwater and water supply analysis, cooling 
+water disclosure, stormwater protections, hazardous material management and 
+electronic waste provisions support the conservation of natural lands and water 
+resources and the protection of public health, safety and welfare (of Policies 3.1 and 
+3.2).  
+• Provisions establishing acceptable levels of noise, vibration, and lighting support 
+minimizing environmental impacts of development (of Policy 3.2).  
+• The substantial attention to emergency access, hazardous materials and coordination 
+with emergency responders likewise advances the goal to ‘enhance planning and 
+emergency response efforts among emergency management personnel’ (of Policy 5.1).  
+• Finally, building articulation, landscaping, equipment screening and other compatibility 
+standards support the Township’s rural character and FutureLV’s direction to preserve 
+environmental, scenic and agricultural assets and promote context-specific design (of 
+Policies 1.3 and 5.4).  
+ 
+The recommended revisions and additional legal review are intended to strengthen 
+enforceability rather than reduce those protections. Municipal ordinances should establish clear, 
+objective and enforceable standards for the land use impacts the Township has authority to 
+regulate, while recognizing the responsibilities assigned by federal and Commonwealth law to 
+other authorities. Enforceable regulations support an efficient development process, provide 
+greater clarity to applicants, and improve the Township’s ability to administer its regulations over 
+the long term (of Policy 1.4). 
+ 
+Municipalities, when considering zoning ordinance amendments, should reasonably attempt to 
+be consistent with FutureLV: The Regional Plan, as required by the Pennsylvania Municipalities 
+Planning Code (MPC) [Article 1§105, Article III§303, §304 & §306(a), Article VI§603(j)]. 
+ 
+Sincerely,  
+
+  
+   
+ 
+  
+Jill Seitz  
+Chief Community and Regional Planner   
+ 
+cc:  
+Justin Coyle, Township Engineer; 
+Nick Graziano, Upper Mount Bethel Township Manager; 
+Sharon Cifuentes, Washington Township Secretary/Treasurer; 
+Paige Stefanelli, Plainfield Township Manager; 
+Donna Asure, Forks Township Manager; 

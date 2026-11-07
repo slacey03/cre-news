@@ -1,0 +1,1904 @@
+TOWNSHIP OF LOWER MOUNT BETHEL
+NORTHAMPTON COUNTY, PENNSYLVANIA
+ORDINANCE #2026- 01
+
+AN ORDINANCE OF THE TOWNSHIP OF LOWER MOUNT BETHEL, NORTHAMPTON
+COUNTY, PENNSYLVANIA AMENDING CHAPTER 27 (ZONING) OF THE CODE OF
+LOWER MOUNT BETHEL PROVIDING FOR THE REGULATION OF DIGITAL
+INFRASTRUCTURE FACILITIES, HYPER DIGITAL INFRASTRUCTURE FACILITIES,
+AND DIGITAL INFRASTRUCTURE ACCESSORY USES; PROVIDING DEFINITIONS,
+CONDITIONAL USE REQUIREMENTS, AND PERFORMANCE STANDARDS AND
+
+RELATED REGULATIONS.
+SECTION 1—STATEMENT OF LEGISLATIVE FINDINGS
+
+WHEREAS, the Township of Lower Mount Bethel, Northampton County, Pennsylvania
+(the “Township’’) is a Pennsylvania township of the second class organized and existing under and
+pursuant to the Second-Class Township Code and various other laws of the Commonwealth of
+Pennsylvania and is governed by a five (5) member Board of Supervisors (the “Board of
+Supervisors”); and
+
+WHEREAS, the Pennsylvania Municipalities Planning Code , Act of Jul. 31, 1968, P.L.
+805, No. 247, as reenacted and amended, 53 P.S. §10601 et seq. (the “MPC”), including Article VI
+thereof, authorizes the Supervisors to enact, amend, and repeal zoning ordinances applicable
+within the Township; and
+
+WHEREAS, the Township’s Comprehensive Plan, dated December 12, 2022, prepared in
+conformance with FUTURELV: The Regional Plan, adopted by the Lehigh Valley Planning
+Commission in November 2019, promotes the preservation of prime agricultural land, the
+protection of natural and environmental resources, the compatibility of future land uses with
+existing agricultural operations, and the preservation of the Township’s rural character through
+thoughtful land planning; and
+
+WHEREAS, the Board of Supervisors recognizes that, in accordance with applicable law,
+municipalities may not unreasonably exclude lawful land uses and that the appropriate exercise of
+zoning authority is to provide for such uses in a controlled manner, subject to objective
+performance standards and public review; and
+
+WHEREAS, permitting Digital Infrastructure Facilities only as a Conditional Use within
+the Industrial District ensures that each proposal is evaluated on a site-specific basis, with full
+consideration of cumulative impacts, infrastructure capacity, emergency services, and
+compatibility with surrounding land uses while allowing the supervisors to impose conditions of
+approval which further the purposes of the MPC and the Township’s zoning ordinance and mitigate
+potential deleterious effects of such Digital Infrastructure Facilities on the public health, safety,
+and welfare of the community; and
+
+978501 784.3
+
+
+. WHEREAS, the Board of Supervisors finds that Conditional Use review and approval is
+the appropriate mechanism for determining whether a Digital Infrastructure Facility can satisfy
+mandatory performance standards; and
+
+WHEREAS, the Board of Supervisors find that permitting Digital Infrastructure Facilities
+only by Conditional Use within the Township’s Industrial District ensures that each proposal is
+evaluated on a site-specific basis, with full consideration of cumulative impacts, infrastructure
+capacity, emergency services, and compatibility with surrounding land uses while allowing the
+imposition of conditions of approval which further the purposes of the MPC and the Township’s
+Zoning Ordinance (as defined below) mitigates potential deleterious effects of such Digital
+Infrastructure Facilities on the public health, safety, and welfare of the community; and
+
+WHEREAS, the Board of Supervisors finds that the adoption of detailed, objective, and
+enforceable performance standards governing Digital Infrastructure Facilities is necessary to
+ensure that the Township retains regulatory control, protects public health, safety, and-welfare, and
+fulfills the Township’s planning obligations and goals under the Township’s comprehensive plan;
+and
+
+WHEREAS, pursuant to Article VI of the MPC, by Ordinance No. 2022-02, adopted on
+July 11, 2022, the Board of Supervisors enacted the Lower Mount Bethel Zoning Ordinance (the
+“Zoning Ordinance”); and
+
+WHEREAS, the Board of Supervisors deems it to be in the best interest and general
+welfare of Township residents to update and amend provisions of the Zoning Ordinance to provide
+definitions and regulations for Digital Infrastructure Facilities and Digital Infrastructure Facility
+Accessory Uses (as such terms are defined in Section herein); and
+
+WHEREAS, the Board of Supervisors finds that Digital Infrastructure Facilities can create
+land-use impacts materially different in character and intensity from traditional office, warehouse,
+manufacturing, logistics, and light industrial uses, including but not limited to substantial electrical
+infrastructure needs, backup power generation, fuel storage, cooling infrastructure, noise, lighting,
+and emergency response planning; and
+
+WHEREAS, the Board of Supervisors finds that the Township is a rural municipality with
+limited roadway capacity, limited emergency response resources, public utility infrastructure, and
+water resources in certain areas, and, due to these local conditions, the Board of Supervisors finds
+it necessary to ensure that any such Digital Infrastructure Facilities use is designed, located, and
+operated to protect the health, safety, and welfare of Township residents; and
+
+WHEREAS, the Board of Supervisors finds that objective performance standards and
+Conditional Use standards addressing, among other matters, noise, setbacks, buffering, stormwater
+management, traffic, emergency access, utility infrastructure, and decommissioning obligations
+constitute a reasonable exercise of the Township's authority to regulate land uses and the intensity
+thereof pursuant to Article IV;
+
+978501784.3
+
+
+WHEREAS, large-scale cooling systems and water demands associated with certain
+Digital Infrastructure Facilities may affect groundwater resources, private wells, baseflow in the
+local watersheds, and related environmental resources depending upon site-specific
+hydrogeologic conditions, including fractured bedrock and karst limestone aquifers, making
+sustainable groundwater withdrawal a necessary consideration in evaluating proposed Digital
+Infrastructure Facilities;
+
+WHEREAS, ithe Board of Supervisors finds that requiring applicants to disclose
+maximum designed electrical demand at full build-out is necessary to evaluate land-use impacts,
+cumulative infrastructure effects, and compatibility with surrounding uses, and to prevent phased
+or modular development from ‘obscuring the ultimate intensity of the proposed land use as the
+Township’s electrical distribution system is rural in character, served primarily by radial feeders
+and limited substation capacity, therefore, unmanaged concentrations of high-load facilities could
+require off-site transmission updates that could create reliability risks and generate land- use
+impacts. from substations, switchyards, and emergency generation for the Township;.
+
+WHEREAS, rural electric grid capacity, groundwater yield, roadway capacity, and
+emergency response capability vary throughout the Township and must be evaluated on a site-
+specific basis and finds that permitting Digital Infrastructure Facilities only by Conditional Use
+within the Industrial District is necessary to allow site-specific evaluation of land-use impacts
+while preserving the Township’s rural character and protecting neighboring properties; and:
+
+WHEREAS, the Board of Supervisors finds that emergency services coordination, fire
+protection planning, and hazardous materials response planning are necessary due to the presence
+of lithium battery systems, fuel storage, electrical equipment, and continuous operations
+commonly associated with Digital Infrastructure Facilities and present unique hazards to the
+Township which has limited emergency response resources; and
+
+WHEREAS, the Board of Supervisors finds that financial security for decommissioning
+and site restoration is necessary to ensure that obsolete or abandoned Digital Infrastructure
+Facilities and associated infrastructure are removed and the property restored without imposing
+financial burdens upon the Township or its taxpayers; and
+
+WHEREAS, the Board of Supervisors desires to add provisions to the Zoning Ordinance
+relating to Digital Infrastructure Facilities and Digital Infrastructure Facility Accessory Uses and
+have determined that Digital Infrastructure Facilities constitute a distinct land use that warrants
+specific definitions, locational limitations, and performance standards within the Zoning
+Ordinance; and
+
+WHEREAS, the Board of Supervisors further determines that this Ordinance represents a
+balanced and reasonable implementation of the Township's planning obligations by allowing
+Digital Infrastructure Facilities in a limited location, subject to rigorous land-use standards, while
+preserving the Township’s rural character and protecting residents and taxpayers, and that the
+adoption of this Ordinance constitutes a reasonable exercise of the Township’s authority to
+regulate land uses and the impacts thereof; and
+
+978501784.3
+
+
+NOW, THEREFORE, BE IT HEREBY ENACTED AND ORDAINED by the Board of
+Supervisors of the Township of Lower Mount Bethel. Northampton County, Pennsylvania, as
+
+follows:
+
+SECTION 2 — ENTS TO CHAPTER 27 (Z
+
+Chapter 27 (Zoning) of the Code of the Township of Lower Mount Bethel is hereby amended
+
+as follows:
+
+21
+
+978501784.3
+
+Section 27-202 (Definitions) is hereby amended by adding the following
+definitions, which shall be inserted alphabetically:
+
+dB(C) means an unweighted measure of the intensity of the sound regardless of
+frequency or wavelength.
+
+DIGITAL INFRASTRUCTURE FACILITY (DIF)..A. principal use.of land
+consisting of one or more buildings or structures primarily designed and used for
+the housing, operation, and maintenance of computer servers, data storage
+equipment, or digital processing hardware, together with associated support
+infrastructure necessary to maintain continuous digital operations, including but
+not limited to electrical distribution equipment, backup power generation systems,
+battery energy storage systems, fuel storage, cooling systems, and water
+withdrawal infrastructure. This term shall include all types of data centers,
+including crypto mining, and shall not include:
+
+1. Customary office uses where data processing is incidental to administrative
+functions;
+
+2. Personal or consumer telecommunications equipment accessory to
+residential or commercial uses;
+
+3. Facilities regulated as public utilities under Pennsylvania law; or
+
+4, Wireless communication facilities regulated under federal
+telecommunications laws for commercial uses.
+
+DIGITAL INFRASTRUCTURE FACILITY ACCESSORY USE. Ancillary
+uses or structures secondary and incidental to Digital Infrastructure Facility or
+Hyper-Digital Infrastructure Facility uses, including, but not limited to:
+administrative, logistical, fiber optic, storage, and security buildings or structures;
+sources of electrical power such as generators used to provide temporary power
+when the main source of power is interrupted; electrical substations; utility lines;
+domestic and non-contact cooling water and wastewater treatment facilities; water
+holding facilities; pump stations; water towers; environmental controls (air
+condition or cooling towers, fire suppression, and related equipment); security
+features, provided such Digital Infrastructure Facility Accessory uses/structures
+are located on the same tract or assemblage of adjacent parcels developed as a
+unified development with a Digital Infrastructure Facility or Hyper Digital
+Infrastructure Facility use, The use shall not include energy generation systems
+
+4
+
+
+used or intended to be used to supply power to the Digital Infrastructure Facility
+or Hyper Digital Infrastructure Facility during normal operations.
+
+HYPER DIGITAL INFRASTRUCTURE FACILITY (HYPER-DIF). A
+Digital Infrastructure Facility with a maximum designed electrical demand at full
+build-out of fifty (50) megawatts or greater, including all IT load, cooling systems,
+and supporting infrastructure. For purposes of zoning and land development
+review, classification as a Hyper Digital Infrastructure Facility or Digital
+Infrastructure Facility shall be based on the maximum designed electrical demand
+disclosed by the applicant, regardless of phased construction or initial deployment.
+A Hyper-DIF is characterized by:
+
+1. The potential requirement for new or expanded electrical substations or
+transmission infrastructure;
+
+2, Large- scale backup power generation and ‘fuel storage systems;
+
+3. Continuous 24-hour operations; and/or
+
+4, Site impacts that materially exceed those of traditional office, warehouse,
+or light industrial uses.
+
+SENSITIVE RECEPTORS means all residential uses, agricultural uses including
+farm animals and wildlife, schools (including commercial schools), preschools,
+daycare facilities, nursing homes and assisted living facilities, recreational facilities
+(public or private), places of worship, public parks (including trails), campgrounds,
+restaurants with outdoor dining, municipal/government facilities with outdoor
+recreation facilities, and scenic byways.
+
+22 Section 27-1002.3 is hereby amended as follows:
+
+DD. Digital Infrastructure Facility and Hyper Digital Infrastructure Facility
+subject to §27-
+
+EE, Any lawful use not otherwise listed in any zoning district schedule.
+
+Part
+
+DIGITAL INFRASTRUCTURE FACILITIES
+§27- Applicability.
+
+A. The provisions of this Part shall apply to all property located within the Industrial
+District.
+
+B. Except as expressly modified by this Part, all applicable requirements of the
+underlying Industrial District and all other applicable provisions of Chapter 27
+shall remain in full force and effect.
+
+978501784.3
+
+
+C, The term Digital Infrastructure Facility and DIF, as used herein, shall be interpreted
+to include Hyper Digital Infrastructure Facilities. Additional requirements
+applicable solely to Hyper Digital Infrastructure Facilities are indicated in §27- .
+
+. In the event of a conflict between the provisions of this Part and the regulations
+applicable to the Industrial District, the provisions of this Part shall govern with
+respect to Digital Infrastructure Facilities, Hyper Digital Infrastructure Facilities,
+and Digital Infrastructure Accessory Uses.
+
+. Nothing in this Part shall be construed to relieve any applicant, property owner, or
+operator from compliance with all applicable federal, state, county, or local laws,
+regulations, permits, or other legal requirernents.
+
+§27- Authorized Uses.
+
+A. The following uses shall be permitted within the Industrial District only asa
+
+Conditional Use, subject to the requirements of this Part and all other
+applicable provisions of Chapter 27:
+
+1. Digital Infrastructure Facilities
+2. Hyper Digital Infrastructure Facilities
+
+. Digital Infrastructure Accessory Uses shall be permitted only as accessory uses
+
+customarily incidental and subordinate to an approved Digital Infrastructure
+Facility or Hyper Digital Infrastructure Facility and shall not be established as
+independent principal uses or require separate Conditional Use approval unless
+otherwise required by this Chapter.
+
+. Nothing in this Part shall alter the uses permitted within the underlying
+
+Industrial District except as specifically provided for Digital Infrastructure
+Facilities, Hyper Digital Infrastructure Facilities, and Digital Infrastructure
+Accessory Uses.
+
+. The provisions of this Part apply only to Digital Infrastructure Facilities, Hyper
+
+Digital Infrastructure Facilities, and Digital Infrastructure Accessory Uses.
+Except as expressly provided herein, all other uses and regulations applicable
+to the underlying Industrial District shall remain in full force and effect.
+
+§27- Conditional Use Approval.
+
+978501784.3
+
+A. Digital Infrastructure Facilities and Hyper Digital Infrastructure Facilities
+
+require Conditional Use approval by the Board of Supervisors in accordance
+with this Part, the general Conditional Use standards contained in Chapter 27,
+and the MPC, and provided that the applicant has:
+
+
+1, Identified during the conditional use approval process, the proposed
+end user(s), if any, and the specific purpose and/or function of the
+Digital Facility use and/or Digital Infrastructure Facility Accessory
+Use(s); and
+
+2. Met its burden of proof that the proposed use meets all applicable
+regulations contained within this Part, including but not limited to the
+general criteria for all Conditional Use approvals.
+
+B, The applicant shall bear the burden of proving, at the Conditional Use hearing
+
+stage, that the proposed use can satisfy.all performance standards set forth
+herein... Where development is proposed in phases, the applicant shall
+
+' demonstrate compliance with the applicable requirements of this Part for each
+
+phase of development and for the proposed facility at full build-out, unless a
+particular--standard. expressly -applies--only-to -an- individual. phase. -If-the -
+applicant fails to affirmatively demonstrate compliance with any required
+standard through competent, substantial, and credible evidence, the proposed
+use shali be deemed not permitted in the Industrial District, and the Conditional
+Use application shall be denied. Demonstration of future or speculative
+compliance, promises of future compliance, or reliance on potential third-party
+upgrades not contractually secured shall not satisfy this requirement.
+
+. The Board of Supervisors shall approve a Conditional Use application only
+
+upon determining, based upon the record, that the applicant has demonstrated
+compliance with the applicable provisions of this Part, the general Conditional
+Use standards contained in § 27-1705, and all other applicable provisions of
+Chapter 27.
+
+. Approval of a Conditional Use under this Part shall not relieve the applicant of
+
+the obligation to obtain all other permits, approvals, and authorizations
+required by applicable federal, state, county, or local laws, ordinances, or
+regulations, nor shall such approval relieve the applicant of the obligation to
+comply with all applicable provisions of this Chapter.
+
+§27- Development and Performance Standards. The following Development and
+
+Performance standards shall apply to all Digital Infrastructure Facilities, Hyper Digital
+Infrastructure Facilities, and Digital Infrastructure Accessory Uses.
+
+978501784,3
+
+A. General Compliance. Digital Infrastructure Facilities, Hyper Digital
+
+Infrastructure Facilities, and associated Digital Infrastructure Accessory Uses
+shall comply with the standards set forth in this Section, in addition to all other
+applicable provisions of the Zoning Ordinance. The standards of this Section
+are continuing requirements and shall be maintained throughout the operation
+of the facility unless otherwise expressly provided herein.
+
+7
+
+
+978501 784.3
+
+B. Scope and Intent. The Development and Performance standards contained in
+
+this Section are intended to establish objective and uniformly applicable land
+use regulations governing the location, design, construction, operation,
+expansion, and decommissioning of Digital Infrastructure Facilities, Hyper
+Digital Infrastructure Facilities, and associated Digital Infrastructure
+Accessory Uses, These standards are intended solely to regulate land use and
+land development impacts and shall not be construed to regulate
+telecommunications services, utility rates, electric generation, electric
+transmission, or energy markets, which are governed by applicable federal and
+state law.
+
+. Demonstration of Compliance. Compliance with the Development and
+
+Performance standards of this Section shall be demonstrated through theplans,
+studies, reports, analyses, certifications, and other information required by this
+Part and shall be evaluated as part of the Conditional Use application.
+
+D. Electrical Demand, Infrastructure Capacity, and Impact Standard.
+
+1. The applicant shall provide the total electrical demand of the proposed
+facility at full build-out, regardless of phasing, expressed in megawatts
+(MW), including IT load, cooling systems, and all other supporting
+infrastructure,
+
+2. Electrical demand information shall be used solely for evaluating land-
+use impacts, infrastructure planning, and compliance with this Part and
+shall not constitute approval or denial of utility service. The Township
+shall evaluate adequacy with phased energization based on utility
+capacity confirmation.
+
+3. The applicant shall demonstrate, through competent evidence, that
+adequate electrical infrastructure capacity is available or will be
+available to serve the proposed facility at full build-out without creating
+adverse impacts to public health, safety, or welfare in the Township.
+Such demonstration shall include documentation from the applicable
+electric utility, together with any supporting engineering analyses
+necessary to evaluate the anticipated land use impacts of the proposed
+development.
+
+4. Compliance with this subsection shall be demonstrated through the
+Electrical Utility Impact Study required by § 27- and any
+supporting documentation required by this Part.
+
+E. Utility Infrastructure Improvements.
+
+8
+
+
+§27-__
+
+978501784.3
+
+1. The applicant shall identify any required new or expanded electrical
+substations, transmission lines, utility upgrades, and other utility
+improvements necessary to serve the proposed development.
+
+2. The applicant shall provide written documentation identifying the
+financial responsibility for such improvements and any known or
+anticipated infrastructure capacity constraints.
+
+- 3. Nothing in this Part shall be construed to require the Township to
+approve or deny utility interconnections, utility service, or utility
+infrastructure owned or regulated by another T governmental agency
+or public utility.
+
+F, Traffic and Construction Impacts. The applicant shall submit a traffic impact
+
+analysis addressing construction-phase traffic; including oversized equipment
+deliveries. Where impacts are identified, the Township may require reasonable
+traffic management or mitigation measures.
+
+. Emergency Services Coordination Plan. The applicant shall submit an
+
+emergency services coordination plan addressing fire protection, HAZMAT
+response, battery systems, and fuel storage. Site design shall provide adequate
+emergency access and safety features consistent with applicable adopted
+Township codes.
+
+. Compliance with Ordinance Requirements. The applicant shall demonstrate
+
+compliance with all applicable provisions of this Part and Chapter 27 governing
+Digital Infrastructure Facilities, Hyper Digital Infrastructure Facilities, and
+Digital Infrastructure Accessory Uses.
+
+Environmental Impact Assessment.
+
+A. Assessment Required. An Environmental Impact Assessment ("EIA") shall
+
+be prepared and submitted as part of the Conditional Use application for a —
+Digital Infrastructure Facility or Hyper Digital Infrastructure Facility. The
+Environmental Impact Assessment shall be prepared by a qualified
+professional, including a professional engineer, ecologist, environmental
+planner, or other individual possessing expertise appropriate to the matters
+addressed in the assessment.
+
+. The Environmental Impact Assessment shall include a description of the
+
+proposed use, including its location, relationship to surrounding development
+and other existing or proposed infrastructure, and sufficient data and analysis
+to evaluate the anticipated environmental impacts of the proposed
+development. The assessment shall also include a comprehensive description
+of the existing environmental conditions, the probable environmental effects
+
+9
+
+
+978501784.3
+
+of the proposal, and appropriate mitigation measures. The assessment shall
+focus on those environmental resources most likely to be affected by the
+proposed development, including potential cumulative impacts and ecological
+interrelationships.
+
+Minimum Contents. At a minimum, the Environmental Impact Assessment
+shall include an analysis of the following:
+
+1,
+
+Air Quality. Air pollution impacts associated with primary and backup
+power sources, electrical equipment, cooling equipment, vehicle
+operations, and construction activities, including truck idling. The
+applicant shall identify all stationary and mobile sources of fine particulate
+matter (PM2.5), volatile organic compounds (VOC), nitrogen oxides
+(NOx), and other regulated pollutants. The assessment shall identify best
+
+“management ‘practices proposed to minimize air emissions. The applicant
+
+shall submit copies of all air quality permit applications submitted to any
+federal or state agency as part of the Conditional Use application and shall
+provide copies of all final permits prior to commencement of operations
+requiring such permits.
+
+Public Nuisance Impacts. Potential impacts associated with facility
+operations and construction activities, including truck traffic, noise, glare,
+lighting, visual impacts, dust, vibration, and other potential nuisances
+affecting adjacent properties.
+
+Stormwater Management. A Stormwater Management Plan
+demonstrating compliance with the Township's Stormwater Management
+Ordinance and Act 167 Stormwater Management Plan.
+
+A PA-SHARE Report identifying potential impacts to historic,
+archaeological, and cultural resources.
+
+Comprehensive Plan Consistency. An assessment of the consistency of
+the proposed development with the goals and objectives of the Township
+and County Comprehensive Plans. Where inconsistencies are identified,
+the applicant shall describe proposed mitigation measures to minimize
+adverse impacts upon public resources.
+
+Additional Considerations. The following shall also be addressed:
+
+i Alternative analysis. A description of alternatives to the
+impacts,
+
+ii Adverse impacts. A statement of any adverse impacts that
+cannot be avoided.
+
+10
+
+
+ii, Impact minimization. Environmental protection measures,
+procedures, and schedules to minimize damage to critical
+impact areas during and after construction, including design
+alternatives.
+
+7. Critical Environmental Resources. Identification and evaluation of
+environmentally sensitive resources, including but not limited toy
+floodplains, riparian buffers, streams, wetlands, slopes exceeding 15%,
+highly erodible or highly acidic soils, hydric soils, areas of seasonal high
+groundwater, aquifer recharge and discharge areas, and mature stands of
+native vegetation,
+
+'. The assessment shall describe the anticipated impacts to such resources,
+identify adverse impacts that cannot reasonably be avoided, and describe
+proposed measures to avoid, minimize, or mitigate such impacts.
+
+D. Threatened and Endangered Species.
+
+1, The applicant shall submit a Pennsylvania Natural Diversity Inventory
+(PNDI) receipt dated not more than two (2) years prior to submission
+of the first application for either Conditional Use approval or
+subdivision and land development approval, whichever occurs first,
+together with all. agency correspondence and-clearance letters required
+by the PNDI review process.
+
+2. The applicant shall comply with all avoidance, minimization,
+mitigation, monitoring, or other requirements imposed by the
+applicable reviewing agencies.
+
+E Relationship to Other Requirements. Submission of an Environmental
+Impact Assessment shall not relieve the applicant of the obligation to
+demonstrate compliance with all other applicable provisions of this Part,
+including all applicable development standards, performance standards,
+operational standards, and application requirements.
+
+§27- Dimensional Standards.
+
+978501784.3
+
+A. General. Digital Infrastructure Facilities, Hyper’ Digital Infrastructure
+Facilities, and Digital Infrastructure Accessory Uses shall comply with the
+dimensional standards applicable to the underlying Industrial District set forth
+in § 27-1003 of Chapter 27, except as modified or supplemented by this Section.
+Where the standards of this Section conflict with those of the underlying
+Industrial District, the standards of this Section shall control.
+
+11
+
+
+B. Maximum Height of Digital Infrastructure Accessory Uses.
+
+1, The maximum height of any Digital Infrastructure Accessory Use shall
+not exceed twenty-five (25) feet, inclusive of all roof-mounted
+equipment, including, but not limited to, cooling systems, ventilation
+equipment, HVAC units, cooling towers, and similar appurtenances.
+
+2. In no event shall a Digital Infrastructure Accessory Use exceed the
+height of the principal building to which the use is accessory.
+
+C. Minimum Setback. Digital Infrastructure Facilities, Hyper Digital
+Infrastructure Facilities, and Digital Infrastructure Accessory Uses shall be
+located no closer than five hundred (500) feet from any property line.
+
+§27- Parking and Loading.
+
+A. Off-Street Parking. Digital Infrastructure Facilities and Hyper Digital
+Infrastructure Facilities shall provide off-street parking in the lesser of the
+following amounts:
+
+1. One (1) parking space for each employee assigned to the facility; or
+
+2. One and two-tenths (1.2) parking spaces for each employee on-site
+__ during the largest work shift.
+
+B. Design Standards. All parking areas, loading areas, drive aisles, and associated
+improvements shall comply with the applicable requirements of Chapter 27 and the
+Township Subdivision and Land Development Ordinance (SALDO), as each may
+be amended.
+
+§27- Signage. All signs associated with a Digital Infrastructure Facility, Hyper Digital
+Infrastructure Facility, or associated Digital Infrastructure Accessory Uses shall comply with the
+applicable sign regulations of Chapter 27.
+
+§27-_Water and Sewer Service Standards.
+
+A. Public Water Supply. Where a proposed Digital Infrastructure Facility or
+Hyper Digital Infrastructure Facility will, be served by a public water supply,
+the applicant shall submit written documentation from the public water
+authority providing such service certifying that adequate water service is
+available and will be provided to the proposed development.
+
+B, Private Water Supply. Where a public water supply is unavailable or is not
+proposed, the applicant shall submit a Water Feasibility Study prepared by a
+qualified independent licensed professional geologist. The Water Feasibility
+Study shall include, at a minimum, the following:
+
+12
+
+978501784.3
+
+
+978501 784.3
+
+1, The projected water demand of the proposed use.
+
+13
+
+
+2. Identification of each proposed source or sources of water together with
+a description of the anticipated water uses, including the amount or
+proportion of water to be used for cooling, humidity control, fire
+suppression, domestic use, and any other significant purpose.
+
+3. Because portions of the Township are underlain by fractured bedrock
+and karst limestone geology, any proposal utilizing high-capacity
+groundwater withdrawal wells shall include a hydrogeologic
+investigation prepared by an independent licensed geologist
+demonstrating that the proposed withdrawals will not create an
+unreasonable tisk of sinkhole formation, groundwater depletion, or
+other adverse hydrogeologic impacts.
+
+~4, Avdetermination’ of the long-term safe yield of the proposed water
+source, including an aquifer study where necessary to evaluate
+sustainable groundwater withdrawal.
+
+5. Adescription of the amount or proportion of withdrawn water that will
+be recycled, consumptively used, or discharged, together with the
+proposed method of discharge or disposal.
+
+6. A hydrogeologic map and report extending at least one (1) mile from
+the boundaries of the property.
+
+7. The location of all existing and proposed wells within one thousand
+(1,000) feet of the property boundaries, together with the reported
+capacity of all known high-capacity wells.
+
+8. The location of all surface waters within one thousand (1,000) feet of
+the property boundaries, including perennial and intermittent streams, .
+rivers, lakes, reservoirs, ponds, wetlands, springs, natural seeps, and
+similar water resources.
+
+9. A determination of the effects of the proposed water supply system on
+the quality and quality of water in wells, surface waters, and the
+groundwater table located within one thousand (1000) feet of the
+property boundaries.
+
+10. The Water Feasibility Study shall bear the signature and professional
+seal of the independent licensed professional geologist who prepared
+the study and shall be reviewed by the Township Engineer.
+
+C. Delaware River Basin Commission. Where applicable, the applicant shall
+demonstrate compliance with all applicable Delaware River Basin
+
+14
+
+978501784,3
+
+
+§27-
+
+978501784.3
+
+Commission (DRBC) requirements by providing documentation of any
+required approvals for:
+
+1. Water withdrawals averaging one hundred thousand (100,000) gallons
+per day or more over any consecutive thirty (30) day period from any
+source or combination of sources within the Delaware River Basin; or
+
+2. Consumptive water use averaging twenty thousand (20,000) gallons
+per day or more over any consecutive thirty (30) day period from any
+water source.
+
+D. Domestic. Wastewater Disposal. The applicant shall demonstrate that
+
+adequate means of domestic wastewater disposal have been provided and
+approved’ by the Township Sewage E Enforcement Officer or other agency
+having jurisdiction. an
+
+. Industrial Process Water and Cooling Water Disposal. The applicant shall
+
+demonstrate that adequate means have been provided for the treatment, reuse,
+recycling, or disposal of industrial process water, cooling water, and similar
+wastewater streams and shall provide documentation of all approvals required
+by the Pennsylvania Department of Environmental Protection (PADEP) and
+any other agency having jurisdiction.
+
+Utility Infrastructure Coordination.
+
+A. Infrastructure Identification. The applicant shall identify all existing,
+
+proposed, or required utility infrastructure improvements necessary to serve the
+proposed Digital Infrastructure Facility, Hyper Digital Infrastructure Facility,
+or associated Digital Infrastructure Accessory Uses, including, but not limited
+to, electrical substations, transmission facilities, distribution facilities, on-site
+electrical yards, and interconnection facilities.
+
+Infrastructure Adequacy Determination. The applicant shall demonstrate
+that adequate utility infrastructure capacity is available or will be available to
+serve the proposed development. Such demonstration shall be based upon
+objective evidence, including written confirmation from the serving electric
+utility identifying the available electrical capacity at the proposed
+interconnection point and any anticipated or required system upgrades
+necessary to serve the proposed development.
+
+. Furnishing of Information Concerning Applications or Requests to Utility
+
+Providers. The applicant, property owner, or operator of the proposed Digital
+Infrastructure Facility or Hyper Digital Infrastructure Facility, as applicable,
+shall provide to the Township copies of all applications, requests, engineering
+studies, and written correspondence submitted to or received from any utility
+
+15
+
+
+provider relating to requests for new, expanded, or modified utility service for
+the proposed Digital Infrastructure Facility or Hyper Digital Infrastructure
+Facility.
+
+. Expansion of Approved Electrical Demand. Any expansion of a Digital
+
+Infrastructure Facility or Hyper Digital Infrastructure Facility that increases the
+maximum approved electrical demand beyond that approved as part of the
+Conditional Use shall require amendment of the Conditional Use approval in
+accordance with the requirements of this Chapter.
+
+Non-Regulation of Utilities. Nothing herein shall be construed to regulate
+utility service provision, interconnection approval, or energy markets, which
+remain under the jurisdiction of applicable utility providers and regulatory
+agencies.
+
+§27- Electrical Utility Impact Study.
+
+978501784.3
+
+A. Study Requirement. The applicant shall submit an Electrical Utility Impact
+
+Study prepared by a qualified independent professional engineer or qualified
+utility consultant. The study shall demonstrate compliance with the electrical
+demand, infrastructure capacity, and utility infrastructure requirements of this
+Part.
+
+. Minimum Study Contents. At a minimum, the Electrical Utility Impact Study
+
+shall include:
+
+1. The maximum designed electrical demand of the proposed Digital
+Infrastructure Facility or Hyper Digital Infrastructure Facility at
+full build-out, expressed in megawatts (MW),
+
+2. Identification of all required new or expanded electrical
+substations, switching stations, transmission facilities, distribution
+facilities, interconnection facilities, on-site electrical yards, or other
+utility infrastructure necessary to serve the proposed development.
+
+3. The location, size, and land area requirements of all proposed
+substations, switching stations, on-site electrical yards, and other
+major electrical infrastructure.
+
+4. Adescription of the anticipated construction activities, construction
+
+sequencing, and estimated duration associated with the installation
+of the proposed electrical infrastructure.
+
+16
+
+
+5. An evaluation of the potential land use, noise, visual, traffic, public
+safety, and other impacts associated with the proposed electrical
+infrastructure,
+
+C. Hyper Digital Infrastructure Facilities. In addition to the requirements of
+subsection B, an Electrical Utility Impact Study for a Hyper Digital
+Infrastructure Facility shall:
+
+1. Evaluate the cumulative impacts of all proposed electrical
+infrastructure at full build-out.
+
+2. Identify alternative substation sitting or design options where
+applicable. -
+
+3, ~Address-redundancy -and resiliency infrastructure with potential
+land-use impacts,
+
+§27- Fiber and Telecommunications Infrastructure Disclosures.
+
+A. Disclosure Requirement. The applicant shall provide information concerning
+all on-site and off-site fiber-optic infrastructure necessary to serve the proposed
+Digital Infrastructure Facility, Hyper Digital Infrastructure Facility, or
+associated Digital Infrastructure Accessory Uses.
+
+B. Minimum Disclosures. At a minimum, the applicant shall identify:
+
+1. Proposed fiber routes, conduits, vaults, handholes, interconnection
+points, and related telecommunications infrastructure.
+
+2. The location of any new or expanded fiber corridors within Township
+rights-of-way or utility easements,
+
+3. Proposed construction methods, including trenching, directional
+boring, aerial installation, or other installation techniques.
+
+4. Anticipated impacts upon public roads, sidewalks, drainage facilities,
+utilities, and other public infrastructure.
+
+5. Proposed restoration methods for disturbed rights-of-way, easements,
+and private property.
+
+6. The party or parties responsible for installation, maintenance, repair,
+and restoration of the fiber infrastructure.
+
+C. Non-Regulation of Telecommunications. Nothing contained in this Part
+shall be construed to regulate telecommunications services,
+
+17
+
+978501 784.3
+
+
+telecommunications providers, or telecommunications rates. Township review
+shall be limited to the physical infrastructure and associated land-use impacts.
+
+§27- Additional Standards for Hyper Digital Infrastructure Facilities.
+
+A. Applicability. The requirements of this Section shall apply only to Hyper
+
+B.
+
+Digital Infrastructure Facilities,
+
+General Compliance. Hyper Digital Infrastructure Facilities shall comply
+with all applicable requirements governing Digital Infrastructure Facilities,
+together with the additional requirements set forth in this Section.
+
+Maximum Build-Out Disclosure. The applicant shall disclose the maximum
+designed electrical demand at full build-out, expressed in megawatts (MW),
+including all information technology equipment, cooling systems, . backup.
+power systems, and supporting infrastructure, regardless of phased
+construction, modular deployment, or initial operating capacity.
+
+Phasing Plan. Where a Hyper Digital Infrastructure Facility is proposed to be
+constructed or expanded in phases, the applicant shall submit a Phasing Plan
+identifying:
+
+1. The electrical demand associated with each phase, expressed in
+megawatts (MW).
+
+2. The anticipated timing of each phase.
+
+3. The cumulative electrical demand and anticipated site impacts at full
+build-out.
+
+§27- Backup Power Generation and Fuel Storage.
+
+A. Generator Capacity Disclosure. The applicant shall provide the following
+
+B,
+
+978501784.3
+
+information concerning all proposed backup power generation equipment:
+1. The total number of backup generators;
+
+2. The combined standby generating capacity, expressed in megawatts
+
+(MW);
+3. The location of all backup generators on the subject property.
+
+Fuel Storage Disclosure. The applicant shall provide the following
+information concerning all proposed fuel storage systems:
+
+1. The total on-site fuel storage capacity, expressed in gallons,
+
+18
+
+
+D,
+
+2. The type or types of fuel to be stored.
+
+3. The proposed fuel storage configuration, including the location and type
+of all storage tanks.
+
+C Fuel Storage Standards
+
+1. All fuel storage areas shall comply with applicable federal, state, and
+local laws and regulations.
+
+-2.. Fuel storage areas shall be located no closer than one thousand (1,000)
+feet from any property line.
+
+Natural Gas Service. Where natural gas‘is supplied by pipeline, the applicant
+
+- shall provide documentation demonstrating compliance with ‘all applicable
+
+federal and Commonwealth of Pennsylvania laws and regulations governing the
+design, construction, operation, and maintenance of natural gas transmission or
+distribution facilities. Such documentation shall be subject to review by the
+Township Engineer.
+
+E Generator Testing.
+
+1. The applicant shall identify the anticipated generator testing schedule,
+frequency, and duration.
+
+2. Routine generator testing shall comply with Township noise and
+operational standards.
+
+3. Routine generator testing shall not occur between the hours of 9:00 p.m.
+and 7:00 a.m.
+
+§27- On-Site Energy Generation and Storage.
+
+978501784.3
+
+A. Applicability. The provisions of this Section shall apply to all on-site energy
+
+generation systems associated with a Digital Infrastructure Facility, Hyper
+Digital Infrastructure Facility, or associated Digital Infrastructure Accessory
+Uses, including, but not limited to, stationary fuel cell power systems, battery
+energy storage systems, emergency generators, cogeneration systems, and
+similar energy generation or storage facilities.
+
+Fire and Life Safety Review. All proposed on-site energy generation systems
+shall be reviewed by the Fire Chief or the Fire Chief's designee as part of the
+Conditional Use and land development review processes. The applicant shall
+submit a Safety Plan in accordance with this Section.
+
+19
+
+
+978501784.3
+
+C. Safety Plan. The applicant shall submit a Safety Plan prepared by a qualified
+professional. At a minimum, the Safety Plan shall address:
+
+1.
+
+10.
+
+A description of the proposed on-site energy generation system and its
+operation.
+
+Fire protection and suppression systems.
+Hazardous materials management, including fuel storage and handling
+procedures.
+
+Battery energy storage systems, where applicable.
+
+Emergency shutdown procedures.
+Emergeticy access, emergency responder stagiiig areas, arid emergency
+vehicle circulation.
+
+Coordination procedures with local emergency service providers.
+Site-specific emergency response procedures.
+
+Emergency contact information for facility personnel responsible for
+emergency response.
+
+A demonstration that the proposed system has been designed in
+accordance with all applicable federal, state, and local laws,
+regulations, ordinances, and codes, including, where applicable,
+standards promulgated by the American National Standards Institute
+(ANSD, American Society of Mechanical Engineers (ASME), ASTM
+International (ASTM), International Electrotechnical Commission
+(IEC), the International Fire Code (IFC), the National Fire Protection
+Association (NFPA), the National Renewable Energy Laboratory
+(NREL), the National Electrical Code (NEC), and other applicable
+industry standards governing the proposed energy generation system.
+
+D, Annual Recertification. The property owner or operator shall annually certify
+
+that the Safety Plan remains accurate and current and shall permit the Fire
+Chief or the Fire Chief's designee to conduct site inspections, upon reasonable
+
+notice,
+
+for the purpose of identifying emergency response vulnerabilities and
+
+verifying continued compliance with the Safety Plan.
+
+E, Stationary Fuel Cell Power Systems.
+
+1, Stationary Fuel Cell Power Systems shall comply with the setback
+
+requirements otherwise applicable to the principal use within the
+20
+
+
+§27-_
+
+978501784.3
+
+underlying zoning district at the time application for the fuel cell
+system is submitted.
+
+2. The applicant shall certify that the design and construction of any
+Stationary Fuel Cell Power System is under the responsible charge of
+a qualified design professional and complies with the standards
+identified in this Section,
+
+3. Stationary Fuel Cell Power Systems shall be permitted only as
+accessory uses customarily incidental and subordinate to an approved
+Digital Infrastructure Facility or Hyper Digital Infrastructure Facility
+and shall not be established as independent principal uses.
+
+Cooling Systems
+A. Closed-Loop Cooling Systems. Digital Infrastructure Facilities, Hyper Digital
+Infrastructure Facilities, and associated Digital Infrastructure Accessory Uses
+shall utilize closed-loop cooling systems to. the maximum extent feasible.
+Cooling water shall be recirculated and reused to minimize water withdrawals
+
+and wastewater discharges. Continuous once-through cooling systems shall be
+prohibited except as expressly permitted by this Section.
+
+For purposes of this Section, a closed-loop cooling system is a cooling system
+that circulates coolant or cooling water within a closed or recirculating system
+to remove heat from information technology equipment while minimizing
+potable water withdrawals and wastewater discharges.
+
+B. Cooling System Disclosure. The applicant shall provide the following
+information:
+
+1. The proposed cooling system type and operating method.
+
+2. Whether cooling will occur through evaporation, blowdown, heat
+exchange, or other mechanisms.
+
+3. The maximum anticipated annual water demand, expressed in gallons
+per year.
+
+4. The anticipated source or sources of water supply.
+
+5. The anticipated quantity of water to be recycled, reused, consumptively
+used, and discharged.
+
+C, Infrastructure Compatibility. The applicant shall demonstrate that the
+proposed cooling system and associated water demands are compatible with
+available infrastructure and the environmental characteristics of the site.
+
+21
+
+
+
+D. Once-Through Cooling. Once-through cooling systems shall be prohibited
+unless the applicant demonstrates through competent engineering evidence that:
+
+1. A closed-loop cooling system is not reasonably feasible because of
+documented site-specific or operational constraints;
+
+2. The proposed water withdrawals and discharges will not adversely
+affect groundwater resources, surface waters, wetlands, or other
+environmental resources; and
+
+3. ‘All non-contaminated cooling water. shall be discharged only to a
+naturalized surface basin equipped with aeration prior to discharge off-
+site or infiltration, unless an alternative method is approved by the
+..Pennsylvania_Department.of Environmental-Protection or other agency
+having jurisdiction,
+
+E. Process Water Containment. All process water, coolant, and chemical-
+containing liquids associated with facility operations shall be managed in a
+manner that prevents discharge to the ground or stormwater management
+system. At a minimum, the applicant shall provide:
+
+1. Secondary containment for all chemical and coolant storage areas;
+2. Spill prevention and spill response procedures; and
+
+3. Documentation demonstrating compliance with all applicable federal,
+state, and local environmental requirements.
+
+F. Water Reuse and Recycling. The applicant shall submit a Water Reuse and
+Recycling Plan describing the methods by which water will be reused or
+recycled on-site to minimize total water withdrawals and wastewater
+discharges.
+
+G. Cooling System Operations and Maintenance Plan. The applicant shall
+submit an operations and maintenance plan addressing inspection procedures,
+sediment control, thermal controls, and emergency response procedures for
+cooling return flows and associated infrastructure.
+
+§27- Stormwater System Resiliency and Cooling Return Flows.
+
+A. Purpose. The purpose of this Section is to ensure that stormwater management
+systems remain functional and resilient where Digital Infrastructure Facilities,
+Hyper Digital Infrastructure Facilities, or associated Digital Infrastructure
+Accessory Uses utilize cooling systems that generate blowdown, return flows,
+or process water.
+
+22
+
+978501784.3
+
+
+B. Cooling Return Flow Discharge. The applicant shall disclose:
+
+1.
+
+2.
+
+C. Stormwater Design Standards. The applicant shall demonstrate that
+
+The proposed cooling system type.
+
+Expected cooling return flow volumes, expressed in gallons per day
+and gallons per year.
+
+The anticipated temperature and water quality characteristics of
+return flows.
+
+The proposed discharge locations, discharge methods, and timing of
+all return flows.
+
+‘stormwater management facilities have been designed to:
+
+1.
+
+Isolate cooling return flows from the stormwater management
+system where appropriate.
+
+Prevent thermal impacts and water quality degradation of receiving
+waters.
+
+Accommodate anticipated cooling return flows without reducing the
+design capacity of the stormwater management system.
+
+.. Maintain stormwater management performance during applicable
+
+design storm events.
+
+D. Hyper Digital Infrastructure Facilities. Applicants proposing a Hyper Digital
+Infrastructure Facility shall additionally demonstrate:
+
+1,
+
+2.
+
+Redundant containment for process water and cooling system fluids.
+
+That cooling return flows will not adversely affect stormwater
+management facilities during extreme weather events.
+
+Emergency shutdown, containment, and spill response procedures
+for cooling systems.
+
+§27- Construction.
+
+978501784.3
+
+23
+
+
+978501 784.3
+
+A. Construction Traffic Management Plan. The applicant shall submit a
+construction Traffic Management Plan as part of the Conditional Use
+application.
+
+B. Minimum Contents. The plan shall identify, at a minimum:
+
+1.
+
+2.
+
+Proposed construction haul routes.
+Hours of construction vehicle operation.
+Equipment staging areas.
+
+Temporary traffic control measures, including flagging operations
+where necessary.
+
+Measures to protect public safety and minimize impacts upon adjacent
+roadways, neighborhoods, and businesses.
+
+C. Construction Hours. Construction and related operation of heavy machinery,
+operating or permitting the operation of any tools, equipment, or heavy
+machinery used in construction, drilling, or demolition work for Digital
+Infrastructure Facilities, Hyper Digital Infrastructure Facilities, and Digital
+Infrastructure Accessory Uses shall be in compliance with §27-1406(B).
+
+§27- Noise Standards.
+
+A. The purpose of this Section is to establish objective and uniformly applicable
+noise standards governing Digital Infrastructure Facilities, Hyper Digital
+Infrastructure Facilities, and Digital Infrastructure Accessory Uses. Compliance
+with this Section shall be demonstrated as part of the Conditional Use
+application and maintained throughout the operation of the facility.
+
+B. Noise Study Requirements.
+
+1.
+
+An applicant seeking Conditional Use approval for a Digital
+Infrastructure Facility, Hyper Digital Infrastructure Facility, or
+associated Digital Infrastructure Accessory Use shall demonstrate,
+through a sound study prepared by an independent qualified acoustical
+professional, that sound generated by the proposed facility during
+normal operations will comply with the maximum sound level
+limitations established by this Section.
+
+Preliminary Sound Study. A preliminary sound study shall be
+submitted as part of the Conditional Use application. The study shall
+identify existing ambient sound levels, evaluate anticipated operational
+
+24
+
+
+978501784.3
+
+sound levels, and identify all recommended sound attenuation measures,
+materials, equipment, or design features necessary to achieve
+compliance with the maximum sound level limitations established by
+this Section.
+
+Interim Sound Study. An interim sound study shall be submitted with
+the building permit application and shall evaluate the proposed end user
+or users, if any, and the specific purpose, function, and operational
+characteristics of the proposed Digital Infrastructure Facility, Hyper
+Digital Infrastructure Facility, and associated Digital Infrastructure
+Accessory Uses as reflected on the building permit plans. Any sound
+attenuation measures recommended by the interim sound study shallbe
+incorporated into the final construction plans.
+
+i. The interim-sound study shall not be required if.
+
+1, The proposed end user or users, if any, and the specific
+purpose, function, and operational characteristics of the
+proposed facility were identified during preparation of
+the preliminary sound study; and
+
+2. The proposed end user or users, if any, and the proposed
+operational characteristics remain unchanged.
+
+As-Built Sound Study. An as-built sound study shall be completed no
+sooner than six (6) months and no later than nine (9) months following
+issuance of the certificate of occupancy for the principal building and
+prior to the release of final financial security for the applicable land
+development phase. For phased developments, an updated as-built
+sound study shall be completed within six (6) months following
+substantial completion of each phase and prior to release of the final
+financial security applicable to that phase.
+
+Failure of the as-built sound study to demonstrate compliance with the
+maximum sound level limitations established by this Section shall
+constitute a violation of this Ordinance. The Township may pursue all
+enforcement remedies authorized by this Chapter and applicable law
+until compliance has been achieved.
+
+C. Study Scope. The required sound studies shall evaluate and model worst-case
+operating conditions, including, at a minimum:
+
+1. Continuous equipment operation;
+
+23
+
+
+2.. Simultaneous operation of all backup generators during routine testing
+or emergency operation; and
+
+3. The cumulative sound generated by equipment, cooling systems,
+electrical infrastructure, and all other significant noise-producing
+components of the facility.
+
+D, Noise Modeling Standards. Noise modeling shall be prepared using industry-
+standard predictive software and accepted engineering methodologies,
+including applicable ISO or Federal Highway Administration (FHWA)
+methodologies, as appropriate. The analysis shall account for, at a minimum:
+
+1. Existing topography and terrain;
+_ 2, Ground absorption characteristics;
+3. Existing vegetation;
+4, Proposed landscaping, berms, walls, fences, and structures;
+5. Existing and proposed structures; and
+6. Distance to Sensitive Receptors.
+
+E. Maximum Permissible Sound Levels.
+1. Sound generated by a Digital Infrastructure Facility, Hyper Digital
+Infrastructure Facility, or associated Digital Infrastructure Accessory
+Use shall not exceed:
+
+i. 7:00 pm to 7:00 am:
+1. 40 dB(A)
+2. 50 dB(C)
+
+ii. 7:00 am to 7:00 pm:
+1, 45 dB(A)
+2. 55 dB(C)
+
+2. Sound measurements shall be taken at a height of 1.5 meters above
+grade at the property line in accordance with ANSI $1.13-2020, or any
+successor standard recognized by the Township.
+
+3. Where the documented preconstruction ambient sound level exceeds the
+maximum sound levels established by this Section, sound generated by
+the facility shall not exceed the documented ambient sound level at the
+
+26
+
+978501784.3
+
+
+§27-
+
+978501 784.3
+
+property line.
+The required sound studies shall evaluate and report anticipated sound
+
+levels under simultaneous operation of all emergency power generation
+equipment, including all backup generators.
+
+Compliance with the maximum sound level limitations established by
+this Section shall constitute a continuing operational requirement.
+
+Vibration Standards.
+
+A. Maximum Vibration Levels, No construction activity associated with a Digital
+Infrastructure Facility, Hyper Digital Infrastructure Facility, or associated
+Digital Infrastructure Accessory Uses, nor the operation of such facilities or
+uses, shall cause ground vibration levels to exceed a peak particle velocity
+
+. {PP-V)-of 0.2 inches. per.second,.measured.at the.nearest. property. line or-at any.
+point on an off-site structure.
+
+B. Vibration Study Requirements.
+
+1,
+
+2,
+
+Pre-Construction and Post-Construction Studies. For any Digital
+Infrastructure Facility, Hyper Digital Infrastructure Facility, or
+associated Digital Infrastructure Accessory Uses located within one
+
+_ thousand (1,000) feet ofa residential zoning district, residential use, or
+
+Sensitive Receptor, the applicant shall submit pre-construction and
+post-construction vibration studies prepared by a qualified independent
+professional, subject to review by the Township Engineer.
+
+i. The pre-construction vibration study shall establish baseline
+vibration conditions and shall be submitted as part of the
+Conditional Use application.
+
+ii. The initial post-construction vibration study shall be submitted
+no later than six (6) months following issuance of the certificate
+of occupancy and commencement of commercial operations and
+shall demonstrate compliance with the vibration standards of
+this Section.
+
+Study Scope. The vibration studies shall evaluate anticipated and
+measured vibration levels associated with construction activities,
+commissioning, mechanical equipment, electrical equipment, backup
+power generation equipment, and other vibration-producing operations
+of the proposed facility.
+
+27
+
+
+3. Methodology. Vibration measurements and analysis shall utilize
+recognized industry standards and accepted engineering methodologies
+appropriate for measuring peak particle velocity (PPV),
+
+C. Operational Monitoring. To verify continued compliance with this Section,
+
+the Township may require periodic vibration monitoring during construction,
+commissioning, or operation.
+
+. Vibration Control Measures. All ground-mounted mechanical equipment,
+
+electrical equipment, backup power generation equipment, and other vibration-
+producing equipment shall be installed upon anti-vibration foundations,
+isolation.pads, or equivalent vibration mitigation systems designed to minimize
+Vibration transmission to the ground and adjacent structures.
+
+Remediation. If a post-construction vibration study or other vibration
+
+monitoring required by this Section demonstrates that the vibration standards
+of this Section have been exceeded, the owner or operator shall promptly
+implement corrective measures necessary to achieve compliance. Failure to
+achieve compliance with the vibration standards of this Section shall constitute
+a violation of this Ordinance.
+
+§27- Electromagnetic Field (EMF) and Electromagnetic Interference (EMI Standards.
+
+978501784.3
+
+A. Purpose. The purpose of this Section is to protect the public health, safety, and
+
+welfare by ensuring that electromagnetic field (EMF) emissions from Digital
+Infrastructure Facilities, Hyper Digital Infrastructure Facilities, associated
+Digital Infrastructure Accessory Uses, and related electrical infrastructure do
+not exceed generally accepted standards for human exposure and do not cause
+electromagnetic interference (EMI) with nearby electronic devices or
+communication systems.
+
+- EMF Exposure Standards. All Digital Infrastructure Facilities, Hyper Digital
+
+Infrastructure Facilities, associated Digital Infrastructure Accessory Uses,and
+related electrical transmission and distribution equipment shall comply with
+the exposure limits established by the Institute of Electrical and Electronics
+Engineers (IEEE) Standard C95.6 and the International Commission on Non-
+Ionizing Radiation Protection (ICNIRP) guidelines, as each may be amended
+or superseded.
+
+C, Measurement and Monitoring.
+
+1. Electromagnetic field (EMF) levels shall not exceed two (2)
+milligauss (mG) above ambient background levels, measured at the
+nearest property line or at any location accessible to the general
+public.
+
+28
+
+
+978501784.3
+
+2, EMF measurements shall be performed by a qualified independent
+professional using properly calibrated instrumentation and
+recognized IEEE or ICNIRP measurement methodologies, subject
+to review by the Township Engineer.
+
+3, The applicant shall submit pre-construction baseline EMF
+measurements as part of the Conditional Use application and shall
+submit post-construction verification measurements no later than
+six (6) months following issuance of the certificate of occupancy
+and commencement of commercial operations demonstrating
+compliance with the requirements of this Section.
+
+D. EMF Management Plan. As part of the ‘Conditional Use application, the
+
+applicant shall submit an EMF Management Plan identifying anticipated
+
+electromagnetic field ‘strenigtlis, proposed mitigation measures, monitoring
+
+procedures, and design features intended to minimize EMF emissions.
+
+. Design and Mitigation Standards.
+
+1. Electrical equipment, substations, switchgear, transformers,
+conductors, and associated electrical infrastructure shall be
+designed and configured to minimize EMF emissions through
+appropriate shielding, grounding, conductor separation, and other
+recognized engineering practices.
+
+2 To the maximum extent practicable, underground cable routing,
+phase balancing, equipment orientation, and similar engineering
+methods shall be utilized to reduce EMF exposure at adjacent
+properties and Sensitive Receptors.
+
+Electromagnetic Interference (EMI). Digital Infrastructure Facilities, Hyper
+Digital Infrastructure Facilities, and associated Digital Infrastructure Accessory
+Uses shall be operated and maintained so as not to cause electromagnetic
+interference with radio, television, telecommunications, emergency .
+communications, or other electronic equipment located on nearby properties.
+
+G. Corrective Action.
+
+1. Where EMF measurements or verified EMI complaints demonstrate
+noncompliance with this Section, the owner or operator shall promptly
+implement corrective measures necessary to achieve compliance.
+
+2. Corrective measures may include equipment shielding, rerouting of
+conductors or cables, modification of grounding systems, equipment
+
+29
+
+
+reconfiguration, or other engineering measures appropriate to eliminate or
+reduce EMF or EMI impacts.
+
+3. Any corrective measures undertaken pursuant to this Section shall be
+subject to review by the Township Engineer,
+
+§27- Lighting Standards.
+
+A. Exterior Lighting. All exterior lighting shall utilize full-cutoff, fully shielded,
+
+dark-sky-compliant luminaires directed downward and designed to prevent
+glare, light trespass, and sky glow onto adjacent properties and public rights-
+of-way. All exterior lighting shall also comply with all other applicable
+provisions of Chapter 27 and any other applicable Township ordinances.
+
+... Photometric. Plan. The.applicant-shall.submit.a photometric_plan -preparedby...
+
+a qualified professional demonstrating compliance with the lighting
+requirements of this Section and all other applicable Township ordinances.
+
+. Maximum Illumination at Property Lines. Except at approved driveway
+
+crossings and other points of ingress and egress, illumination attributable to the
+proposed Digital Infrastructure Facility, Hyper Digital Infrastructure Facility,
+or associated Digital Infrastructure Accessory Uses shall not exceed 0.0 foot-
+candles at any property line.
+
+§27- Air Quality Standards.
+
+A. Emissions Standards. Backup power generation equipment and all other
+
+equipment generating regulated air emissions shall comply with all applicable
+federal and Commonwealth of Pennsylvania air quality laws and regulations.
+Where backup generators are utilized, such generators shall meet or exceed the
+applicable United States Environmental Protection Agency (EPA) Tier 4
+emissions standards, or any successor standard.
+
+. Emissions Testing and Reporting. The owner or operator shall perform any
+
+emissions testing required by applicable federal or state law. At a minimum,
+the owner or operator shall submit to the Township an annual certification,
+together with any emissions testing reports required by applicable law,
+demonstrating continued compliance with this Section.
+
+. Pennsylvania Air Pollution Control Act, All emissions associated with the
+
+operation of a Digital Infrastructure Facility, Hyper Digital Infrastructure
+Facility, or associated Digital Infrastructure Accessory Uses shall comply with
+the Pennsylvania Air Pollution Control Act, 35 P.S. §§ 4001-4015, as
+amended, and all regulations promulgated thereunder.
+
+§27- Emergency Services and Public Safety.
+
+978501784.3
+
+30
+
+
+A. Emergency Services Coordination Plan. The applicant shall submit an
+
+Emergency Services Coordination Plan addressing the following, at a
+minimum:
+
+1. Fire protection;
+
+2. Hazardous materials (HAZMAT) response;
+3. Battery energy storage systems;
+
+4. Backup power generation;
+
+5, Fuel storage; and
+
+_6._ Coordination with local emergency service providers.
+
+B. Emergency Access and Safety Features. Site design shall provide adequate
+
+emergency access, fire protection measures, and other life safety features
+consistent with all applicable federal, state, and local laws, regulations, and
+adopted Township codes.
+
+. Emergency Communications. The applicant shall coordinate with the
+
+Northampton County 911 Control Center to evaluate emergency responder
+radio coverage throughout the proposed facility. Where existing radio coverage
+is determined to be inadequate, the applicant shall install such communications
+equipment or infrastructure as may be reasonably necessary to provide
+emergency responder radio coverage consistent with applicable public safety
+requirements.
+
+§27- Building Design Standards.
+
+978501784.3
+
+A. Purpose. The purpose of this Section is to encourage high-quality architectural
+
+design and reduce the visual impacts of large Digital Infrastructure Facilities
+and Hyper Digital Infrastructure Facilities.
+
+. Building Articulation. Principal building fagades shall incorporate
+
+architectural design elements at intervals not exceeding one hundred fifty (150)
+horizontal feet. Such elements may include one or more of the following:
+
+1, Changes in building materials, textures, patterns, or colors.
+2. Variations in building height.
+
+3. Building recesses or step-backs having a minimum depth of five (5) feet.
+
+31
+
+
+4. Window treatments, architectural detailing, or other facade articulation
+designed to reduce the appearance of uninterrupted wall surfaces.
+
+C. Blank Walls. Large, uninterrupted concrete or masonry wall surfaces shall be
+avoided through architectural detailing, material changes, fenestration,
+screening, landscaping, or other design treatments compatible with the
+proposed building.
+
+D. Architectural Elevations. Submission of colored architectural elevations,
+renderings, or comparable graphic materials depicting the exterior appearance
+of all principal buildings and major accessory structures as part of the
+Conditional Use application is encouraged.
+
+§27- Landscaping, Buffering, and Screening Standards.
+
+A. Purpose. The purpose of the following standards is to mitigate visual, noise,
+environmental, and operational impacts of Digital Infrastructure Facilities,
+Hyper Digital Infrastructure Facilities, or associated Digital Infrastructure
+Accessory Uses to ensure compatibility with adjacent land uses.
+
+B. Applicability. The requirements of this Section shall apply to all Digital
+Infrastructure Facilities, Hyper Digital Infrastructure Facilities, and associated
+Digital Infrastructure Accessory Uses and are in addition to all other applicable
+requirements of Chapter 27,
+
+C. Relationship to Other Requirements. Where the requirements of this Section
+conflict with any other landscaping, buffering, screening, or related
+requirements of Chapter 27, the more restrictive requirement shall govern.
+
+D. Buffer Yard Requirements.
+
+1. Buffer Triggers.
+i Type I Buffer. A Type I Buffer shall be required along any
+property line adjoining a residential property, a Sensitive Receptor,
+
+or any adjoining lot containing a Sensitive Receptor.
+
+i. ‘Type II Buffer. A Type II Buffer shall be required along any
+public street or public right-of-way.
+
+2. Minimum Buffer Widths. Unless a greater buffer is required by
+another ordinance provision:
+
+i Type I Buffers shall have a minimum width of five hundred (500)
+feet adjacent to residential property lines and three hundred (300)
+
+32
+
+978501 784.3
+
+
+feet adjacent to nonresidential property lines adjoining a Sensitive
+Receptor.
+
+ii Type II Buffers shall have a minimum width of fifty (50) feet along
+any public street or public right-of-way.
+
+3. Encroachments. Buffer yards shall remain free of buildings,
+structures, parking areas, loading areas, outdoor storage, generator
+pads, fuel storage facilities, substations, HVAC equipment, cooling
+yatds, and other principal or accessory Digital Infrastructure Facility
+infrastructure, except for:
+
+i Driveways crossing the buffer at approximately right angles where
+no reasonable alternative exists;
+
+iL Utility facilities located within recorded easements; and
+
+ii, Stormwater management facilities approved by the Township
+where planted screening is not materially reduced.
+
+E. Screening Requirements.
+
+1. Continuous Visual Screen. Type I Buffers shall provide a continuous
+visual screen designed to achieve year-round opacity.
+
+2. Screening Methods. Screening shall be satisfied by a combination of
+at least two (2) of the following methods:
+
+i Evergreen planting screen;
+i, Berm with plantings;
+it, Solid fence or wall combined with plantings; and
+
+iv. Existing mature vegetation preserved and supplemented as
+necessary.
+
+3. Minimum Opacity Standard.
+
+i, Seventy-five percent (75%) opacity within two (2) years after
+installation.
+
+ii. Ninety percent (90%) opacity within five (5) years after
+installation, measured from ground level to a height of eight (8)
+feet.
+
+33
+
+978501784.3
+
+
+978501784.3
+
+4,
+
+Roadway Screening. Type II Buffers shall include landscaping
+sufficient to soften building mass and screen ground-mounted
+equipment visible from the public right-of-way.
+
+Additional Screening Standards. Ground-mounted and roof-mounted
+equipment used for cooling, ventilation, power generation, or other
+facility operations located within five hundred (500) feet of a public
+roadway or a Sensitive Receptor shall be fully enclosed where
+mechanically feasible based upon the manufacturer's specifications.
+
+Where full enclosure is not mechanically feasible, such equipment shall
+be screened by one or more of the following:
+
+ii A landscaped berm having an average height of fourteen (14)
+
+~ “feet above adjacent grade; with a maximum Variation of two Q)
+
+feet and side slopes not exceeding three (3) horizontal to one (1)
+vertical. Berms shall be maintained with permanent vegetative
+cover, and required screening plantings shall be located on the
+side of the berm facing the protected property and along the top
+of the berm.
+
+i, A visually solid fence, screen wall, parapet wall, panel system,
+or similar screening structure constructed of materials
+compatible with the principal building. Chain-link fencing
+(with or without slats), barbed wire, razor wire, or similar
+visually intrusive security features shall not be permitted along
+public or private road frontages unless completely screened
+from view by one or more of the methods permitted by this
+Section.
+
+F, Landscaping Requirements.
+
+1.
+
+Type I Planting Density. Within Type I buffers, plantings shall be
+installed at the following minimum rates per one hundred (100) linear
+feet (LF) of buffer length:
+
+i, Evergreen trees: minimum ten (10) trees (six to eight feet (6—8')
+height at planting);
+
+i, Deciduous canopy trees: minimum four (4) trees (2.5—3 inch
+caliper);
+
+ii. Large shrubs and understory plantings: minimum twelve (12).
+
+34
+
+
+2. Type II Planting Density. Plantings shall be installed at the
+following minimum rates for each one hundred (100) linear feet (LF)
+of Type IT Buffer:
+i. Evergreen trees: minimum six (6) trees;
+ii. Deciduous canopy trees: minimum three (3) trees; and
+iti Large shrubs and understory plantings: minimum twelve (12).
+3. Native Species. Plantings shall consist predominantly of native
+
+species suitable for the site. Invasive species are prohibited.
+Landscaping shall comply with the applicable landscaping and native
+
+planting requirements of the Township» Subdivision | and Land
+
+~ Development Ordinance:-~~~~ = >
+
+4. Existing Vegetation Credit. Existing healthy vegetation may be
+credited toward compliance if preserved by easement or deed
+restriction and supplemented as necessary to meet opacity standards.
+
+G. Maintenance.
+
+1, All buffer plantings, berms, fences, walls, and screening materials shall
+be maintained in good condition.
+
+2, Dead, diseased, or damaged plant materials shall be replaced within six
+(6) months after written notice from the Township.
+
+3. Buffer areas shall not be used for any type of storage, staging, or snow
+dumping.
+
+§27- Electronic Waste Management.
+
+A. Electronic Waste Management Plan. The applicant shall submit an Electronic
+Waste Management Plan as part of the Conditional Use application.
+
+B. Minimum Contents. The plan shall describe procedures for the saferemoval,
+storage, recycling, reuse, or disposal of server equipment, batteries, hazardous
+materials, electronic equipment, associated electronic waste, and other
+components associated with the operation, modernization, replacement, or
+decommissioning of the facility.
+
+C. Compliance. Electronic waste shall be managed in accordance with all
+applicable federal, state, and local laws and regulations.
+
+§ 27- . Continuing Operational Requirements.
+35
+
+978501784.3
+
+
+_§27-____Decommissioning and Site Restoration. ===
+
+978501784.3
+
+A. Notification of Change in Ownership or Operation. The owner or operator
+
+shall notify the Township in writing within thirty (30) days after any change in
+ownership of, or operational control over, a Digital Infrastructure Facility,
+Hyper Digital Infrastructure Facility, or associated Digital Infrastructure
+Accessory Uses. Such notice shall identify the new owner or operator and
+provide current contact information for the person or entity responsible for
+ongoing compliance with this Part.
+
+. Continuing Compliance. Compliance with the requirements of this Part shall
+
+constitute a continuing condition of Conditional Use approval. Failure to
+maintain compliance with the requirements of this Part shall constitute a
+violation of Chapter 27 and shall be subject to the enforcement provisions of
+this Chapter and applicable law.
+
+A. Decommissioning. Upon cessation of operation of a Digital Infrastructure
+
+Facility, Hyper Digital Infrastructure Facility, or associated Digital
+Infrastructure Accessory Uses for a continuous period of eighteen (18) months,
+the owner or operator shall remove all generators, fuel storage facilities, battery
+energy storage systems, electrical infrastructure, buildings, structures,
+equipment, and other improvements associated with the facility, unless, prior to
+the expiration of such eighteen (18) month period, the owner or operator
+provides objective written documentation demonstrating a bona fide intent and
+ability to resume the approved use within a reasonable period of time.
+
+Objective written documentation may include, but is not limited to:
+1. Active utility service agreements;
+
+2, Executed construction, procurement, or equipment installation
+contracts;
+
+3. Valid building permit applications or permits;
+4, Financing commitments or other evidence of project funding;
+5. Lease agreements or occupancy agreements; or
+
+6. Other comparable documentation demonstrating that resumption of
+operations is actively being pursued.
+
+- Removal Schedule. Removal activities shall commence within one (1) year
+
+following the expiration of the eighteen (18) month cessation period and shall
+be completed within three (3) years after commencement of removal activities,
+
+C, Site Restoration. Upon completion of decommissioning, the owner or operator
+
+36
+
+
+shall restore the property to a safe, stable, and reusable condition in accordance
+with all applicable Township, county, state, and federal requirements.
+
+D, Financial Security. In addition to any other financial security required by this
+Chapter, the applicant shall provide financial security, in a form acceptable to
+the Township, guaranteeing the performance of the decommissioning and site
+restoration requirements of this Section. The amount of such financial security
+shall be sufficient to cover the anticipated costs of decommissioning, removal,
+disposal, and site restoration. Such financial security shall be maintained until
+completion of the removal and site restoration activities required by this Section
+and may be reviewed periodically by the Township to ensure that the amount of
+the financial security remains adequate to secure performance of the
+requirements of this Section.
+
+E. Failure to Comply. Failure to comply with this Section shall constitute a
+
+. .. Violation..of_this--Chapter—and--shall.subject--the--owner—or--operator--to--the-.-.~.
+
+enforcement remedies authorized by this Chapter and applicable law.
+
+DULY ENACTED AND ORDAINED, this 14 day of September, 2026, by the Board of
+Supervisors of the Township of Lower Mount Bethel, Northampton County, Pennsylvania, at a duly
+advertised public meeting.
+
+BOARD OF SUPERVISORS
+OF LOWER MOUNT BETHEL TOWNSHIP
+
+ATTEST: | By: = - eee
+David Ascani, Chairperson
+
+fal Lemak, To 1 ship Secretary
+
+(Seal)
+
+37
+
+978501784.3
