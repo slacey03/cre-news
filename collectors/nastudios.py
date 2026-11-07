@@ -125,10 +125,17 @@ def find_docs(html, page_url, is_home):
     return docs
 
 
-def fetch_doc(sess, drive_sess, d):
+def fetch_doc(sess, drive_sessions, d):
     if d["drive_id"]:
-        dl = f"https://drive.usercontent.google.com/download?id={d['drive_id']}&export=download&confirm=t"
-        r = drive_sess.get(dl)
+        r, refused = None, []
+        for ds, dl in zip(drive_sessions, (f"https://drive.google.com/uc?export=download&id={d['drive_id']}",
+                                           f"https://drive.usercontent.google.com/download?id={d['drive_id']}&export=download&confirm=t")):
+            try:
+                r = ds.get(dl); break
+            except PermissionError as e:
+                refused.append(str(e))
+        if r is None:
+            raise PermissionError("; ".join(refused))
     else:
         r = sess.get(d["url"])
     if not r.content.startswith(b"%PDF"):
@@ -146,7 +153,7 @@ def collect(site):
     seen_url = {v["url"] for v in index.values() if not v.get("rolling")}
 
     sess = PoliteSession(base)
-    drive_sess = PoliteSession("https://drive.usercontent.google.com/")
+    drive_sessions = [PoliteSession("https://drive.google.com/"), PoliteSession("https://drive.usercontent.google.com/")]
     home = sess.get(base)
     docs = find_docs(home.text, home.url, True)
     host = urlparse(home.url).netloc
@@ -172,14 +179,24 @@ def collect(site):
     print(f"[{key}] {len(unique)} documents linked, checking {len(todo)}")
 
     added = 0
+    now = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    current = [dict(board=d["board"], kind=d["kind"], text=d["text"], url=d["url"], status="already collected",
+                    checked_at=now) for d in unique.values() if d["rolling"]]
+    status_of = {c["url"]: c for c in current}
     for d in todo:
         try:
-            content = fetch_doc(sess, drive_sess, d)
+            content = fetch_doc(sess, drive_sessions, d)
         except PermissionError as e:
-            print(f"  [{key}] robots: {e}"); continue
+            print(f"  [{key}] robots: {d['board']} {d['kind']} not downloadable ({d['url'][:60]})")
+            if d["url"] in status_of: status_of[d["url"]]["status"] = "posted; download not allowed (Google Drive rules)"
+            continue
         except Exception as e:
-            print(f"  [{key}] ! {d['text'][:40]}: {e}"); continue
+            print(f"  [{key}] ! {d['text'][:40]}: {e}")
+            if d["url"] in status_of: status_of[d["url"]]["status"] = f"error: {e}"[:120]
+            continue
         sha = hashlib.sha256(content).hexdigest()
+        if d["url"] in status_of:
+            status_of[d["url"]].update(status="collected", sha256=sha)
         if sha in seen_hash:
             continue
         text, pages_n = pdf_text(content)
@@ -198,6 +215,7 @@ def collect(site):
         print(f"  + {meeting or 'undated'} {d['board']} {d['kind']} ({pages_n}p{', OCR' if needs_ocr else ''})")
         json.dump(index, open(index_path, "w"), indent=1, sort_keys=True)
     json.dump(index, open(index_path, "w"), indent=1, sort_keys=True)
+    json.dump(current, open(os.path.join(out_dir, "current_agendas.json"), "w"), indent=1)
     return key, added
 
 

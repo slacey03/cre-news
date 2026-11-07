@@ -35,8 +35,20 @@ class PoliteSession:
         self.s = requests.Session()
         self.s.headers["User-Agent"] = UA
         self.rp = robotparser.RobotFileParser()
-        r = self._retry(urljoin(base, "/robots.txt"))
-        self.rp.parse(r.text.splitlines())
+        robots_url = urljoin(base, "/robots.txt")
+        r = None
+        for i in range(3):
+            try:
+                r = self.s.get(robots_url, timeout=60); break
+            except requests.RequestException:
+                if i == 2: raise
+                time.sleep(20 * (i + 1))
+        if r.status_code in (401, 403):
+            self.rp.parse(["User-agent: *", "Disallow: /"])   # rules file refused: stay out
+        elif r.status_code >= 400 or "html" in r.headers.get("content-type", "").lower():
+            self.rp.parse([])                                  # no rules file: no restrictions
+        else:
+            self.rp.parse(r.text.splitlines())
         self.delay = max(self.rp.crawl_delay(UA) or 0, 5)
         self.last = 0.0
 
