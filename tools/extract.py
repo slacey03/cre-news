@@ -45,7 +45,8 @@ TOOL = {
 SYSTEM = ("You extract land-use and development project records from Pennsylvania municipal meeting documents "
           "(agendas, minutes, packets, public notices). Be exact: copy names, addresses, parcel and case numbers "
           "as written; never invent values - use null when a field is not in the document. One record per distinct "
-          "property/application. Scanned text may contain OCR errors; correct obvious ones only when certain.")
+          "property/application. Scanned text may contain OCR errors; correct obvious ones only when certain. "
+          "Always answer by calling the record_projects tool exactly once (with an empty list if there are no projects).")
 
 TRIAL_SQL = """
 with ranked as (
@@ -73,7 +74,7 @@ def main(mode="trial", limit=20):
         for m in ([model] if model else MODELS):
             try:
                 msg = client.messages.create(model=m, max_tokens=8000, system=SYSTEM, tools=[TOOL],
-                                             tool_choice={"type": "tool", "name": "record_projects"},
+                                             tool_choice={"type": "auto"},
                                              messages=[{"role": "user", "content": header + body}])
                 model = m; break
             except anthropic.NotFoundError:
@@ -83,7 +84,9 @@ def main(mode="trial", limit=20):
         if msg is None:
             continue
         tin += msg.usage.input_tokens; tout += msg.usage.output_tokens
-        out = next((b.input for b in msg.content if b.type == "tool_use"), {"projects": []})
+        out = next((b.input for b in msg.content if b.type == "tool_use"), None)
+        if out is None:
+            print(f"  ! {d['id']}: model did not call the tool; skipped"); continue
         projects = out.get("projects") or []
         with conn.transaction():
             conn.execute("delete from projects where document_id = %s", (d["id"],))
