@@ -1,0 +1,15 @@
+name: Vendor platform probe
+on:
+  workflow_dispatch:
+  push:
+    paths: [tools/vendor_probe.py]
+permissions: {contents: write}
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install requests && python tools/vendor_probe.py
+      - run: |
+          git config user.name "zoningtrack-bot"; git config user.email "bot@zoningtrack.com"
+          git add probe/out && git commit -m "Vendor probe output" && git pull --rebase && git push || echo nothing
