@@ -8,6 +8,14 @@ ROOT = os.path.join(os.path.dirname(__file__), "..")
 COLS = {"municipality", "county", "board", "kind", "meeting_date", "url", "source_page", "sha256", "pages",
         "chars", "ocr", "rolling", "agenda_items", "collected_at"}
 
+def clean(x):
+    """Remove NUL characters (from PDF text) that Postgres can't store."""
+    if isinstance(x, str): return x.replace("\x00", "")
+    if isinstance(x, list): return [clean(i) for i in x]
+    if isinstance(x, dict): return {k: clean(v) for k, v in x.items()}
+    return x
+
+
 def main():
     url = os.environ.get("SUPABASE_DB_URL", "").strip()
     if not url.startswith(("postgresql://", "postgres://")):
@@ -46,6 +54,7 @@ def main():
                             on conflict (key) do update set name=excluded.name, county=excluded.county, updated_at=now()""",
                          (key, first.get("municipality"), first.get("county")))
             for doc_id, v in docs.items():
+                v = clean(v)
                 tp = os.path.join(os.path.dirname(idx), "text", doc_id + ".txt")
                 body = open(tp, errors="replace").read().replace("\x00", "") if os.path.exists(tp) else None
                 title = v.get("title") or (v.get("text") if isinstance(v.get("text"), str) else None)
