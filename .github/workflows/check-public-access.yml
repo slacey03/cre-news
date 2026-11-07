@@ -1,0 +1,30 @@
+name: Check public access
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["db/access.sql", ".github/workflows/check-public-access.yml"]
+  workflow_run:
+    workflows: ["AI extraction"]
+    types: [completed]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    env:
+      URL: https://jrlircehkzivwkcauzdt.supabase.co/rest/v1
+      KEY: sb_publishable_BwmJpTu23Omlk5F8ZfXW7A__UnnnEyX   # public key, the same one the website uses
+    steps:
+      - name: Public key can read the teaser, nothing else
+        run: |
+          fail=0
+          get() { curl -s -H "apikey: $KEY" "$URL/$1"; }
+          n=$(get "pipeline_teaser?select=id" | jq 'if type=="array" then length else -1 end'); echo "teaser rows: $n"
+          [ "$n" -ge 1 ] && [ "$n" -le 15 ] || { echo "FAIL teaser"; fail=1; }
+          s=$(get "pipeline_stats?select=projects" | jq -r '.[0].projects // "none"'); echo "stats projects: $s"
+          [ "$s" != "none" ] || { echo "FAIL stats"; fail=1; }
+          for t in pipeline projects documents members municipalities extract_batches; do
+            r=$(get "$t?select=*&limit=1" | jq -c 'if type=="array" then length else "refused" end')
+            echo "$t: $r"
+            [ "$r" = "0" ] || [ "$r" = '"refused"' ] || { echo "FAIL: $t is readable with the public key"; fail=1; }
+          done
+          exit $fail

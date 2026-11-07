@@ -100,7 +100,13 @@ class UF:
     def union(s, a, b): s.p[s.find(a)] = s.find(b)
 
 
-def categorize(cats, texts):
+MAINTENANCE = r"\broof\b|repaint|painting|\bquote\b|\bbids?\b|repairs?\b|lawn|snow removal|boiler|hvac|gutter|board[- ]?up|clean[- ]?out"
+
+
+def categorize(cats, texts, names=()):
+    # upkeep of authority-owned buildings (roof quotes, repaint bids): judged on the name only
+    if any(re.search(MAINTENANCE, n or "", re.I) for n in names) and not any(c and c != "other" for c in cats):
+        return "property maintenance"
     good = [CATEGORY_FIX.get(c, c) for c in cats if c and c != "other"]
     if good:
         top = Counter(good).most_common()
@@ -174,7 +180,8 @@ def build(rows):
             plan_numbers=sorted({r["plan_number"] for r in g if r.get("plan_number")}),
             owner=latest("owner"), applicant=latest("applicant"), zoning=latest("zoning"), use=latest("use"),
             size=latest("size"), acres=latest("acres"), square_feet=latest("square_feet"),
-            category=categorize([r.get("category") for r in g], [r.get("name") for r in g] + [r.get("use") for r in g] + [r.get("request") for r in g]),
+            category=categorize([r.get("category") for r in g], [r.get("name") for r in g] + [r.get("use") for r in g] + [r.get("request") for r in g],
+                                [r.get("name") for r in g]),
             stage=cur_stage, outcome=latest("outcome"), request=latest("request"),
             boards=sorted({r["board"] for r in g if r.get("board")}),
             first_seen=g[0].get("meeting_date"), last_seen=g[-1].get("meeting_date"), mentions=len(g),

@@ -277,7 +277,7 @@
 <script>
 // Public project URL and publishable ("anon") key: safe to ship in a web page. Data access is enforced by database rules.
 const SUPABASE_URL = 'https://jrlircehkzivwkcauzdt.supabase.co';
-const SUPABASE_ANON_KEY = 'REPLACE_WITH_PUBLISHABLE_KEY';
+const SUPABASE_ANON_KEY = 'sb_publishable_BwmJpTu23Omlk5F8ZfXW7A__UnnnEyX';
 const sb = supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
 const GROUPS = {
@@ -353,7 +353,7 @@ function matches(r) {
   if (!member) return true;
   const q = document.getElementById('search').value.trim().toLowerCase();
   const town = document.getElementById('township').value;
-  if (document.getElementById('hide-minor').checked && r.category === 'residential minor') return false;
+  if (document.getElementById('hide-minor').checked && ['residential minor', 'property maintenance'].includes(r.category)) return false;
   if (town !== 'all' && r.municipality !== town) return false;
   if (activeFilter !== 'all' && !GROUPS[activeFilter].includes(r.category)) return false;
   if (q) {

@@ -29,7 +29,7 @@ create policy members_read_munis on municipalities for select to authenticated u
 create or replace view public.pipeline_teaser as
   select id, municipality, name, category, stage, first_seen, last_seen, mentions
   from pipeline
-  where category not in ('residential minor', 'other', 'historic review', 'zoning text or map amendment', 'infrastructure/utility')
+  where category not in ('residential minor', 'property maintenance', 'other', 'historic review', 'zoning text or map amendment', 'infrastructure/utility')
     and last_seen <= current_date + 60
   order by last_seen desc nulls last
   limit 15;
