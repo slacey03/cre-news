@@ -1,0 +1,240 @@
+data/air_quality.parquet  0 MB
+    cols: muni_id:BIGINT, county_fips:VARCHAR, county_name:VARCHAR, state:VARCHAR, year:BIGINT, days_with_aqi:BIGINT, good_days:BIGINT, moderate_days:BIGINT, days_unhealthy:BIGINT, max_aqi:BIGINT, p90_aqi:BIGINT, median_aqi:BIGINT, source_url:VARCHAR, data_license:VARCHAR, updated_at:VARCHAR
+    rows: 231
+data/assisted_contracts.parquet  2 MB
+    cols: contract_number:VARCHAR, property_id:BIGINT, muni_id:BIGINT, match_method:VARCHAR, place_geoid:VARCHAR, property_name:VARCHAR, address:VARCHAR, city:VARCHAR, state:VARCHAR, zip:VARCHAR, county_fips:VARCHAR, county_name:VARCHAR, msa_name:VARCHAR, congressional_district:VARCHAR, contract_status:VARCHAR, contract_effective_date:VARCHAR, contract_expiration_date:VARCHAR, current_expiration_date:VARCHAR, expiration_fiscal_year:BIGINT, expiration_quarter:VARCHAR, contract_term_months:BIGINT, assisted_units:BIGINT, property_total_units:BIGINT, program_type:VARCHAR, program_group:VARCHAR, contract_doc_type:VARCHAR, hud_administered:VARCHAR, rent_to_fmr_ratio:DOUBLE, rent_to_fmr_bucket:VARCHAR, units_0br:BIGINT, units_1br:BIGINT, units_2br:BIGINT, units_3br:BIGINT, units_4br:BIGINT, units_5plus_br:BIGINT, property_category:VARCHAR, is_insured:VARCHAR, is_202_811:VARCHAR, is_236:VARCHAR, is_bmir:VARCHAR, is_opportunity_zone:VARCHAR, owner_company_type:VARCHAR, owner_organization:VARCHAR, mgmt_agent_organization:VARCHAR, expired_but_active:BIGINT, property_units_overallocated:BIGINT, as_of_date:VARCHAR, source:VARCHAR, source_url:VARCHAR, updated_at:VARCHAR
+    rows: 24308
+data/ballot_measures.parquet  0 MB
+    cols: muni_id:BIGINT, place_name:VARCHAR, state:VARCHAR, county:VARCHAR, election_date:VARCHAR, measure_title:VARCHAR, measure_type:VARCHAR, topic:VARCHAR, yes_votes:BIGINT, no_votes:BIGINT, total_votes:BIGINT, passed:BIGINT, jurisdiction_type:VARCHAR, source_url:VARCHAR
+    rows: 1579
+data/bps_permits.parquet  0 MB
+    cols: muni_id:BIGINT, year:BIGINT, month:BIGINT, units_total:BIGINT, units_1unit:BIGINT, units_2unit:BIGINT, units_34unit:BIGINT, units_5plus:BIGINT, valuation:BIGINT, source_url:VARCHAR, updated_at:VARCHAR
+    rows: 4756
+data/briefs.parquet  541 MB
+    cols: meeting_id:BIGINT, headline:VARCHAR, summary:VARCHAR, notable_items:VARCHAR, tags:VARCHAR, created_at:VARCHAR
+    rows: 2167868
+data/briefs_i18n.parquet  43 MB
+    cols: meeting_id:BIGINT, lang:VARCHAR, headline:VARCHAR, summary:VARCHAR, notable_items:VARCHAR
+    rows: 175442
+data/building_permits.parquet  0 MB
+    cols: muni_id:BIGINT, year:BIGINT, units_1:BIGINT, units_2_4:BIGINT, units_5plus:BIGINT, units_total:BIGINT, value_total:BIGINT, updated_at:VARCHAR
+    rows: 2887
+data/business_formations.parquet  119 MB
+    cols: grain:VARCHAR, muni_id:BIGINT, city:VARCHAR, state:VARCHAR, county:VARCHAR, period:VARCHAR, seasonally_adj:VARCHAR, applications_total:DOUBLE, high_propensity:DOUBLE, entity_id:VARCHAR, business_name:VARCHAR, entity_type:VARCHAR, entity_type_code:VARCHAR, entity_status:VARCHAR, formation_date:VARCHAR, address:VARCHAR, source:VARCHAR, source_url:VARCHAR, updated_at:VARCHAR
+    rows: 3152950
+data/business_patterns.parquet  0 MB
+    cols: muni_id:BIGINT, county_fips:VARCHAR, year:BIGINT, total_establishments:BIGINT, total_employment:BIGINT, retail_estab:BIGINT, foodservice_estab:BIGINT, manufacturing_estab:BIGINT, health_estab:BIGINT, updated_at:VARCHAR
+    rows: 8842
+data/campaign_finance.parquet  103 MB
+    cols: txn_id:VARCHAR, muni_id:BIGINT, filing_id:VARCHAR, filer_name:VARCHAR, txn_date:VARCHAR, amount:DOUBLE, txn_type:VARCHAR, schedule:VARCHAR, contributor:VARCHAR, employer:VARCHAR, occupation:VARCHAR, address:VARCHAR, updated_at:VARCHAR
+    rows: 3410893
+data/canada_demographics.parquet  0 MB
+    cols: muni_id:BIGINT, population:BIGINT, median_income:BIGINT, median_home_value:BIGINT, updated_at:VARCHAR
+    rows: 454
+data/census_demographics.parquet  0 MB
+    cols: muni_id:BIGINT, population:BIGINT, median_income:BIGINT, per_capita_income:BIGINT, median_home_value:BIGINT, housing_units:BIGINT, pct_hs_plus:DOUBLE, pct_bachelors_plus:DOUBLE, updated_at:VARCHAR
+    rows: 6062
+data/cf_transactions.parquet  971 MB
+    cols: source:VARCHAR, level:VARCHAR, state:VARCHAR, txn_type:VARCHAR, filer_name:VARCHAR, filer_id:VARCHAR, office:VARCHAR, counterparty_name:VARCHAR, counterparty_type:VARCHAR, employer:VARCHAR, occupation:VARCHAR, city:VARCHAR, region:VARCHAR, zip:VARCHAR, amount:DOUBLE, txn_date:VARCHAR, election_cycle:VARCHAR, report_id:VARCHAR, external_id:VARCHAR
+    rows: 62691153
+data/civic_records.parquet  13 MB
+    cols: muni_id:BIGINT, kind:VARCHAR, record_no:VARCHAR, address:VARCHAR, rec_type:VARCHAR, description:VARCHAR, applicant:VARCHAR, value:DOUBLE, applied_date:VARCHAR, issued_date:VARCHAR, status:VARCHAR, official_url:VARCHAR, fetched_at:VARCHAR
+    rows: 230519
+data/college_stats.parquet  0 MB
+    cols: id:BIGINT, name:VARCHAR, city:VARCHAR, state:VARCHAR, muni_id:BIGINT, year:BIGINT, enrollment:BIGINT, tuition_in:BIGINT, tuition_out:BIGINT, admission_rate:DOUBLE, completion_rate:DOUBLE, total_revenue:DOUBLE, faculty_salary_avg:BIGINT, median_earnings:BIGINT, source:VARCHAR, source_url:VARCHAR, updated_at:VARCHAR
+    rows: 6121
+data/council_districts.parquet  0 MB
+    cols: muni_id:BIGINT, city:VARCHAR, state:VARCHAR, district_id:VARCHAR, member_name:VARCHAR, centroid_lat:DOUBLE, centroid_lon:DOUBLE, bbox:VARCHAR, source_url:VARCHAR
+    rows: 176
+data/crime_incidents.parquet  183 MB
+    cols: muni_id:BIGINT, incident_id:VARCHAR, offense:VARCHAR, category:VARCHAR, incident_date:VARCHAR, latitude:DOUBLE, longitude:DOUBLE, source_domain:VARCHAR, dataset_id:VARCHAR, updated_at:VARCHAR
+    rows: 12656698
+data/crime_stats.parquet  0 MB
+    cols: muni_id:BIGINT, ori:VARCHAR, agency_name:VARCHAR, year:BIGINT, population:BIGINT, violent_total:BIGINT, property_total:BIGINT, homicide:BIGINT, robbery:BIGINT, agg_assault:BIGINT, burglary:BIGINT, larceny:BIGINT, mv_theft:BIGINT, source:VARCHAR, updated_at:VARCHAR
+    rows: 278
+data/debt_issues.parquet  4 MB
+    cols: cdiac_number:VARCHAR, muni_id:BIGINT, match_method:VARCHAR, state:VARCHAR, issuer:VARCHAR, issuer_type:VARCHAR, issuer_county:VARCHAR, place_geoid:VARCHAR, county_fips:VARCHAR, sold_status:VARCHAR, issue_name:VARCHAR, project_name:VARCHAR, sale_date:VARCHAR, settlement_date:VARCHAR, calendar_year:BIGINT, principal_amount:DOUBLE, new_money:DOUBLE, refunding_amount:DOUBLE, principal_outstanding_adtr:DOUBLE, debt_type:VARCHAR, primary_purpose:VARCHAR, source_of_repayment:VARCHAR, tax_status:VARCHAR, sale_type:VARCHAR, tic_rate:DOUBLE, nic_rate:DOUBLE, final_maturity_date:VARCHAR, first_optional_call_date:VARCHAR, statutory_authority:VARCHAR, total_issuance_costs:DOUBLE, lead_underwriter:VARCHAR, financial_advisor:VARCHAR, financial_advisor_fee:DOUBLE, bond_counsel:VARCHAR, bond_counsel_fee:DOUBLE, disclosure_counsel:VARCHAR, disclosure_counsel_fee:DOUBLE, credit_enhancement_type:VARCHAR, sp_rating:VARCHAR, moodys_rating:VARCHAR, fitch_rating:VARCHAR, official_statement_url:VARCHAR, document_count:BIGINT, source:VARCHAR, source_url:VARCHAR, updated_at:VARCHAR
+    rows: 77568
+data/decision_echo.parquet  0 MB
+    cols: meeting_id:BIGINT, registry_id:VARCHAR, fac_name:VARCHAR, fac_street:VARCHAR, compliance_status:VARCHAR, curr_sv:VARCHAR, viol_flag:VARCHAR, last_inspection:VARCHAR, echo_url:VARCHAR, updated_at:VARCHAR
+    rows: 1370
+data/decision_geo.parquet  1 MB
+    cols: meeting_id:BIGINT, address:VARCHAR, lat:DOUBLE, lon:DOUBLE, building_height_m:DOUBLE, building_floors:BIGINT, building_name:VARCHAR, building_class:VARCHAR, building_subtype:VARCHAR, flood_zone:VARCHAR, flood_subtype:VARCHAR, in_flood_zone:BIGINT, updated_at:VARCHAR
+    rows: 32203
+data/decision_nonprofit.parquet  0 MB
+    cols: meeting_id:BIGINT, ein:VARCHAR, name:VARCHAR, ntee:VARCHAR, category:VARCHAR, propublica_url:VARCHAR, updated_at:VARCHAR
+    rows: 1209
+data/decisions.parquet  344 MB
+    cols: meeting_id:BIGINT, headline:VARCHAR, summary:VARCHAR, decisions:VARCHAR, tags:VARCHAR, created_at:VARCHAR
+    rows: 1127720
+data/dot_projects.parquet  2 MB
+    cols: source:VARCHAR, state:VARCHAR, external_id:VARCHAR, muni_id:BIGINT, name:VARCHAR, description:VARCHAR, project_type:VARCHAR, route:VARCHAR, city:VARCHAR, county:VARCHAR, cost:DOUBLE, program_year:VARCHAR, status:VARCHAR, is_highway:BIGINT, lat:DOUBLE, lon:DOUBLE, official_url:VARCHAR, fetched_at:VARCHAR
+    rows: 44747
+data/election_results.parquet  1 MB
+    cols: muni_id:BIGINT, place_name:VARCHAR, state:VARCHAR, county:VARCHAR, office:VARCHAR, election_date:VARCHAR, candidate_name:VARCHAR, party:VARCHAR, votes:BIGINT, total_votes_in_race:BIGINT, is_winner:BIGINT, term_years:BIGINT, source:VARCHAR, source_url:VARCHAR, election_type:VARCHAR, match_method:VARCHAR
+    rows: 75267
+data/fac_audits.parquet  16 MB
+    cols: report_id:VARCHAR, audit_year:BIGINT, fy_start_date:VARCHAR, fy_end_date:VARCHAR, auditee_name:VARCHAR, auditee_uei:VARCHAR, auditee_ein:VARCHAR, auditee_city:VARCHAR, auditee_zip:VARCHAR, auditee_state_reported:VARCHAR, state:VARCHAR, state_source:VARCHAR, entity_form:VARCHAR, core_name:VARCHAR, muni_id:BIGINT, muni_slug:VARCHAR, census_geoid:VARCHAR, match_method:VARCHAR, city_name_agrees:BIGINT, total_amount_expended:DOUBLE, amount_context:VARCHAR, dollar_threshold:DOUBLE, audit_type:VARCHAR, audit_period_covered:VARCHAR, number_months:VARCHAR, gaap_results:VARCHAR, is_going_concern:BIGINT, is_material_weakness:BIGINT, is_control_deficiency:BIGINT, is_material_noncompliance:BIGINT, is_low_risk_auditee:BIGINT, auditor_firm_name:VARCHAR, auditor_ein:VARCHAR, oversight_agency:VARCHAR, cognizant_agency:VARCHAR, submitted_date:VARCHAR, fac_accepted_date:VARCHAR, resubmission_version:BIGINT, resubmission_status:VARCHAR, is_primary_for_period:BIGINT, muni_year_siblings:BIGINT, is_public:BIGINT, data_source:VARCHAR, source_url:VARCHAR, fetched_at:VARCHAR
+    rows: 172832
+data/fac_findings.parquet  22 MB
+    cols: report_id:VARCHAR, reference_number:VARCHAR, audit_year:BIGINT, auditee_uei:VARCHAR, auditee_name:VARCHAR, state:VARCHAR, entity_form:VARCHAR, muni_id:BIGINT, muni_slug:VARCHAR, match_method:VARCHAR, award_count:BIGINT, award_refs:VARCHAR, is_material_weakness:BIGINT, is_significant_deficiency:BIGINT, is_questioned_costs:BIGINT, is_repeat_finding:BIGINT, is_modified_opinion:BIGINT, is_other_findings:BIGINT, is_other_matters:BIGINT, prior_finding_ref_numbers:VARCHAR, type_requirement:VARCHAR, finding_text:VARCHAR, finding_text_chars:BIGINT, contains_chart_or_table:BIGINT, questioned_costs_amount:DOUBLE, questioned_costs_context:VARCHAR, questioned_costs_basis:VARCHAR, source_url:VARCHAR, fetched_at:VARCHAR
+    rows: 51543
+data/federal_awards.parquet  2 MB
+    cols: muni_id:BIGINT, award_uid:VARCHAR, recipient:VARCHAR, amount:DOUBLE, agency:VARCHAR, description:VARCHAR, official_url:VARCHAR, updated_at:VARCHAR
+    rows: 39373
+data/fema_grants.parquet  40 MB
+    cols: gm_project_id:BIGINT, disaster_number:BIGINT, declaration_date:VARCHAR, incident_type:VARCHAR, pw_number:BIGINT, application_title:VARCHAR, applicant_id:VARCHAR, applicant_name:VARCHAR, applicant_kind:VARCHAR, muni_id:BIGINT, match_method:VARCHAR, place_geoid:VARCHAR, damage_category_code:VARCHAR, damage_category:VARCHAR, project_status:VARCHAR, project_process_step:VARCHAR, project_size:VARCHAR, county:VARCHAR, county_fips:VARCHAR, state:VARCHAR, project_amount_estimate:DOUBLE, federal_share_obligated:DOUBLE, total_obligated:DOUBLE, mitigation_amount:DOUBLE, first_obligation_date:VARCHAR, last_obligation_date:VARCHAR, source:VARCHAR, source_url:VARCHAR, data_license:VARCHAR, updated_at:VARCHAR
+    rows: 851188
+data/fiscal_health.parquet  0 MB
+    cols: muni_id:BIGINT, fiscal_year:BIGINT, population:BIGINT, total_revenue:BIGINT, total_expenditure:BIGINT, debt_outstanding:BIGINT, debt_per_capita:DOUBLE, debt_to_revenue:DOUBLE, operating_margin:DOUBLE, tax_reliance:DOUBLE, intergov_reliance:DOUBLE, pct_debt_to_revenue:DOUBLE, pct_debt_per_capita:DOUBLE, pct_deficit:DOUBLE, pct_intergov_reliance:DOUBLE, debt_load_index:DOUBLE, debt_load_band:VARCHAR, structural_deficit:BIGINT, source_url:VARCHAR, updated_at:VARCHAR
+    rows: 2409
+data/fiscal_stress_official.parquet  0 MB
+    cols: muni_id:BIGINT, state:VARCHAR, year:BIGINT, stress_score:DOUBLE, stress_label:VARCHAR, source:VARCHAR, source_url:VARCHAR, updated_at:VARCHAR
+    rows: 57
+data/food_inspections.parquet  1152 MB
+    cols: muni_id:BIGINT, establishment_name:VARCHAR, address:VARCHAR, inspection_date:VARCHAR, result:VARCHAR, score:VARCHAR, violations_summary:VARCHAR, source_domain:VARCHAR, source_id:VARCHAR, source_url:VARCHAR, updated_at:VARCHAR
+    rows: 37564630
+data/gov_contracts.parquet  17 MB
+    cols: muni_id:BIGINT, vendor_name:VARCHAR, description:VARCHAR, amount:DOUBLE, award_date:VARCHAR, start_date:VARCHAR, end_date:VARCHAR, contract_number:VARCHAR, department:VARCHAR, status:VARCHAR, source_domain:VARCHAR, dataset_id:VARCHAR, source_url:VARCHAR, updated_at:VARCHAR
+    rows: 1772603
+data/gov_finances.parquet  0 MB
+    cols: muni_id:BIGINT, fiscal_year:BIGINT, population:BIGINT, government_type:VARCHAR, total_revenue:BIGINT, total_taxes:BIGINT, property_tax:BIGINT, intergov_revenue:BIGINT, total_expenditure:BIGINT, debt_outstanding:BIGINT, per_capita_total_revenue:DOUBLE, per_capita_total_taxes:DOUBLE, per_capita_total_expenditure:DOUBLE, per_capita_debt_outstanding:DOUBLE, updated_at:VARCHAR
+    rows: 2409
+data/gov_payments.parquet  11 MB
+    cols: source:VARCHAR, record_type:VARCHAR, muni_id:BIGINT, state:VARCHAR, payee:VARCHAR, amount:DOUBLE, txn_date:VARCHAR, end_date:VARCHAR, category:VARCHAR, object_type:VARCHAR, purpose:VARCHAR, funding_source:VARCHAR, site:VARCHAR, fiscal_period:VARCHAR, source_url:VARCHAR, external_id:VARCHAR, payer_level:VARCHAR
+    rows: 1474857
+data/home_value_trend.parquet  0 MB
+    cols: muni_id:BIGINT, zhvi_latest:DOUBLE, latest_month:VARCHAR, yoy_pct:DOUBLE, five_yr_pct:VARCHAR, yearly_series_json:VARCHAR, updated_at:VARCHAR
+    rows: 4181
+data/infrastructure_projects.parquet  3 MB
+    cols: source:VARCHAR, muni_id:BIGINT, state:VARCHAR, town:VARCHAR, project_type:VARCHAR, description:VARCHAR, road_name:VARCHAR, amount:DOUBLE, project_date:VARCHAR, meeting_id:BIGINT, quote:VARCHAR, source_url:VARCHAR, external_id:VARCHAR
+    rows: 32738
+data/insured_mortgages.parquet  3 MB
+    cols: fha_project_number:VARCHAR, status:VARCHAR, muni_id:BIGINT, match_method:VARCHAR, place_geoid:VARCHAR, property_name:VARCHAR, city:VARCHAR, state:VARCHAR, zip:VARCHAR, units:BIGINT, initial_endorsement_date:VARCHAR, final_endorsement_date:VARCHAR, original_mortgage_amount:DOUBLE, first_payment_date:VARCHAR, maturity_date:VARCHAR, term_months:BIGINT, interest_rate:DOUBLE, current_principal_and_interest:DOUBLE, amortized_principal_balance:DOUBLE, holder_name:VARCHAR, holder_state:VARCHAR, servicer_name:VARCHAR, servicer_state:VARCHAR, soa_code:VARCHAR, soa_category:VARCHAR, income_restricted:BIGINT, business_type:VARCHAR, termination_type:VARCHAR, termination_date:VARCHAR, claim_type:VARCHAR, source:VARCHAR, source_url:VARCHAR, updated_at:VARCHAR
+    rows: 74247
+data/lihtc_projects.parquet  3 MB
+    cols: hud_project_id:VARCHAR, muni_id:BIGINT, match_method:VARCHAR, state:VARCHAR, project_name:VARCHAR, address:VARCHAR, city:VARCHAR, zip:VARCHAR, place_geoid2020:VARCHAR, county_fips:VARCHAR, total_units:BIGINT, low_income_units:BIGINT, credit_type:VARCHAR, construction_type:VARCHAR, tax_exempt_bond:VARCHAR, allocation_year:BIGINT, placed_in_service_year:BIGINT, allocated_credit_annual:DOUBLE, allocated_credit_suspect:BIGINT, nonprofit_sponsor:VARCHAR, aff_period_gt30:VARCHAR, affordability_years:BIGINT, affordability_expiration:VARCHAR, no_longer_monitored:VARCHAR, nlm_reason:VARCHAR, qct:VARCHAR, dda:VARCHAR, latitude:DOUBLE, longitude:DOUBLE, state_project_id:VARCHAR, source:VARCHAR, source_url:VARCHAR, updated_at:VARCHAR
+    rows: 55345
+data/literacy.parquet  0 MB
+    cols: muni_id:BIGINT, county_fips:VARCHAR, county_name:VARCHAR, state:VARCHAR, pct_low_literacy:DOUBLE, pct_low_numeracy:DOUBLE, year:BIGINT, source:VARCHAR, updated_at:VARCHAR
+    rows: 4982
+data/lobbying_expenditures.parquet  12 MB
+    cols: source:VARCHAR, state:VARCHAR, muni_id:BIGINT, lobbyist_name:VARCHAR, client_name:VARCHAR, recipient_name:VARCHAR, recipient_role:VARCHAR, expense_date:VARCHAR, year:BIGINT, amount:DOUBLE, expense_type:VARCHAR, description:VARCHAR, source_url:VARCHAR, external_id:VARCHAR, updated_at:VARCHAR
+    rows: 689580
+data/lobbying_registrations.parquet  181 MB
+    cols: source:VARCHAR, state:VARCHAR, muni_id:BIGINT, lobbyist_name:VARCHAR, client_name:VARCHAR, year:BIGINT, compensation:DOUBLE, registrant_name:VARCHAR, issue_codes:VARCHAR, specific_issues:VARCHAR, branch:VARCHAR, paid:VARCHAR, date_from:VARCHAR, date_to:VARCHAR, source_url:VARCHAR, external_id:VARCHAR, updated_at:VARCHAR
+    rows: 7238976
+data/local_sales_tax.parquet  0 MB
+    cols: muni_id:BIGINT, state:VARCHAR, period_month:VARCHAR, amount:DOUBLE, tax_type:VARCHAR, source:VARCHAR, source_url:VARCHAR, updated_at:VARCHAR
+    rows: 56769
+data/ma_election_results.parquet  0 MB
+    cols: source:VARCHAR, state:VARCHAR, election_id:VARCHAR, election_date:VARCHAR, office:VARCHAR, district:VARCHAR, stage:VARCHAR, muni_id:BIGINT, city_town:VARCHAR, ward:VARCHAR, precinct:VARCHAR, candidate:VARCHAR, party:VARCHAR, is_aggregate:BIGINT, votes:BIGINT, total_votes_in_race:BIGINT, source_url:VARCHAR
+    rows: 113955
+data/matters.parquet  1 MB
+    cols: meeting_id:BIGINT, muni_id:BIGINT, matter_type:VARCHAR, title:VARCHAR, case_no:VARCHAR, address:VARCHAR, action:VARCHAR, staff_rec:VARCHAR, outcome:VARCHAR, vote:VARCHAR, units:BIGINT, affordable_units:BIGINT, height_ft:DOUBLE, sqft:DOUBLE, acreage:DOUBLE, parking:BIGINT, est_value:DOUBLE, conditions:VARCHAR, lat:DOUBLE, lon:DOUBLE, created_at:VARCHAR
+    rows: 36545
+data/meeting_texts.parquet  16566 MB
+    cols: meeting_id:BIGINT, agenda_text:VARCHAR, minutes_text:VARCHAR, updated_at:VARCHAR
+    rows: 2294414
+data/meetings.parquet  103 MB
+    cols: id:BIGINT, muni_id:BIGINT, body_name:VARCHAR, meeting_date:VARCHAR, meeting_time:VARCHAR, location:VARCHAR, agenda_url:VARCHAR, minutes_url:VARCHAR, video_url:VARCHAR, detail_url:VARCHAR, archived_pdf_key:VARCHAR
+    rows: 2553882
+data/member_votes.parquet  62 MB
+    cols: meeting_id:BIGINT, muni_id:BIGINT, body_name:VARCHAR, motion:VARCHAR, member_name:VARCHAR, vote:VARCHAR, contested:BIGINT, created_at:VARCHAR
+    rows: 13567129
+data/muni_debt.parquet  0 MB
+    cols: muni_id:BIGINT, state:VARCHAR, gov_type:VARCHAR, fiscal_year:BIGINT, debt_type:VARCHAR, debt_outstanding:DOUBLE, debt_service:DOUBLE, debt_per_capita:DOUBLE, source:VARCHAR, source_url:VARCHAR, updated_at:VARCHAR
+    rows: 2628
+data/muni_financials.parquet  0 MB
+    cols: muni_id:BIGINT, state:VARCHAR, fiscal_year:BIGINT, gov_type:VARCHAR, revenue_total:DOUBLE, revenue_tax:DOUBLE, revenue_intergov:DOUBLE, expenditure_total:DOUBLE, debt_outstanding:DOUBLE, fund_balance:DOUBLE, population:BIGINT, source:VARCHAR, source_url:VARCHAR, updated_at:VARCHAR
+    rows: 5281
+data/municipalities.parquet  0 MB
+    cols: id:BIGINT, slug:VARCHAR, name:VARCHAR, state:VARCHAR, country:VARCHAR, platform:VARCHAR, kind:VARCHAR
+    rows: 8462
+data/nonprofits.parquet  0 MB
+    cols: ein:VARCHAR, name:VARCHAR, city:VARCHAR, state:VARCHAR, ntee_code:VARCHAR, category:VARCHAR, tax_year:BIGINT, total_revenue:BIGINT, total_expenses:BIGINT, total_assets:BIGINT, exec_comp_top:BIGINT, form_type:VARCHAR, source:VARCHAR, source_url:VARCHAR, updated_at:VARCHAR
+    rows: 481
+data/official_bridges.parquet  0 MB
+    cols: muni_id:BIGINT, local_name:VARCHAR, state:VARCHAR, legislator_name:VARCHAR, openstates_id:VARCHAR, chamber:VARCHAR, party:VARCHAR, term_start:VARCHAR, term_end:VARCHAR
+    rows: 727
+data/official_disclosures.parquet  54 MB
+    cols: source:VARCHAR, state:VARCHAR, muni_id:BIGINT, official_name:VARCHAR, role:VARCHAR, disclosure_year:BIGINT, income_summary:VARCHAR, source_url:VARCHAR, external_id:VARCHAR, updated_at:VARCHAR
+    rows: 1255503
+data/official_elections.parquet  0 MB
+    cols: muni_id:BIGINT, member_name:VARCHAR, matched_candidate:VARCHAR, office:VARCHAR, election_date:VARCHAR, votes:BIGINT, is_winner:BIGINT, source:VARCHAR, match_method:VARCHAR, total_votes_in_race:BIGINT, election_type:VARCHAR
+    rows: 3819
+data/officials.parquet  6 MB
+    cols: muni_id:BIGINT, body_name:VARCHAR, name:VARCHAR, norm_name:VARCHAR, role:VARCHAR, is_elected:BIGINT, first_seen_date:VARCHAR, last_seen_date:VARCHAR, meeting_count:BIGINT, n_absent:BIGINT, source:VARCHAR, source_url:VARCHAR, updated_at:VARCHAR
+    rows: 246769
+data/officials_tenure.parquet  0 MB
+    cols: muni_id:BIGINT, name:VARCHAR, party:VARCHAR, first_won:VARCHAR, last_won:VARCHAR, terms_won:BIGINT, is_incumbent:BIGINT, updated_at:VARCHAR
+    rows: 215
+data/pension_state.parquet  0 MB
+    cols: state:VARCHAR, year:BIGINT, govtype:VARCHAR, govtype_label:VARCHAR, total_holdings:BIGINT, total_contributions:BIGINT, gov_contributions:BIGINT, employee_contributions:BIGINT, total_benefits_paid:BIGINT, num_systems:BIGINT, total_membership:BIGINT, beneficiaries:BIGINT, holdings_to_benefits:DOUBLE, gov_contrib_share:DOUBLE, source_url:VARCHAR, updated_at:VARCHAR
+    rows: 96
+data/people.parquet  2 MB
+    cols: person_id:VARCHAR, canonical_name:VARCHAR, muni_id:BIGINT, body_name:VARCHAR, role:VARCHAR, first_seen_vote:VARCHAR, last_seen_vote:VARCHAR, n_votes:BIGINT, n_meetings:BIGINT, aliases:VARCHAR, confidence:DOUBLE, match_method:VARCHAR, updated_at:VARCHAR
+    rows: 78201
+data/people_aliases.parquet  1 MB
+    cols: muni_id:BIGINT, raw_name:VARCHAR, person_id:VARCHAR, n_votes:BIGINT, updated_at:VARCHAR
+    rows: 90407
+data/person_vote_stats.parquet  2 MB
+    cols: person_id:VARCHAR, muni_id:BIGINT, canonical_name:VARCHAR, n_votes:BIGINT, n_yea:BIGINT, n_nay:BIGINT, n_abstain:BIGINT, n_present:BIGINT, n_absent:BIGINT, n_other:BIGINT, n_meetings:BIGINT, n_decided:BIGINT, n_contested:BIGINT, n_dissents:BIGINT, dissent_rate:DOUBLE, attendance_rate:DOUBLE, first_seen_vote:VARCHAR, last_seen_vote:VARCHAR, updated_at:VARCHAR
+    rows: 76871
+data/police_stops_rollup.parquet  0 MB
+    cols: muni_id:BIGINT, agency:VARCHAR, state:VARCHAR, geography:VARCHAR, year:BIGINT, race:VARCHAR, n_stops:BIGINT, n_searches:BIGINT, n_arrests:BIGINT, n_contraband:BIGINT, n_citations:BIGINT, search_rate:DOUBLE, hit_rate:DOUBLE, arrest_rate:DOUBLE, source:VARCHAR, source_url:VARCHAR, data_license:VARCHAR, citation:VARCHAR, updated_at:VARCHAR
+    rows: 2384
+data/professional_licenses.parquet  266 MB
+    cols: row_id:VARCHAR, state:VARCHAR, board:VARCHAR, license_type:VARCHAR, licensee_name:VARCHAR, business_name:VARCHAR, license_no:VARCHAR, status:VARCHAR, issue_date:VARCHAR, expiry_date:VARCHAR, disciplinary_flag:BIGINT, city:VARCHAR, muni_id:BIGINT, source:VARCHAR, source_url:VARCHAR, updated_at:VARCHAR
+    rows: 7959137
+data/property_sales.parquet  1 MB
+    cols: state:VARCHAR, parcel_id:VARCHAR, muni_id:BIGINT, address:VARCHAR, owner:VARCHAR, sale_price:DOUBLE, sale_date:VARCHAR, assessed_value:DOUBLE, land_value:DOUBLE, land_use:VARCHAR, source:VARCHAR, source_url:VARCHAR, updated_at:VARCHAR
+    rows: 41519
+data/public_salaries.parquet  125 MB
+    cols: muni_id:BIGINT, dataset_id:VARCHAR, record_id:VARCHAR, employee_name:VARCHAR, job_title:VARCHAR, department:VARCHAR, base_pay:DOUBLE, overtime:DOUBLE, total_pay:DOUBLE, year:BIGINT, redacted:BIGINT, source_domain:VARCHAR, source_url:VARCHAR, updated_at:VARCHAR
+    rows: 4119180
+data/roundups.parquet  16 MB
+    cols: muni_id:BIGINT, week_of:VARCHAR, headline:VARCHAR, article_md:VARCHAR, created_at:VARCHAR
+    rows: 14256
+data/sba_loans.parquet  19 MB
+    cols: program:VARCHAR, muni_id:BIGINT, borrower_name:VARCHAR, city:VARCHAR, state:VARCHAR, zip:VARCHAR, amount:DOUBLE, jobs_supported:BIGINT, naics:VARCHAR, naics_desc:VARCHAR, business_type:VARCHAR, loan_status:VARCHAR, approval_date:VARCHAR, approval_fy:BIGINT, project_county:VARCHAR, project_state:VARCHAR, external_id:VARCHAR
+    rows: 436303
+data/school_finance.parquet  0 MB
+    cols: muni_id:BIGINT, year:BIGINT, function_code:VARCHAR, function_name:VARCHAR, amount:DOUBLE, updated_at:VARCHAR
+    rows: 121280
+data/school_stats.parquet  0 MB
+    cols: muni_id:BIGINT, leaid:VARCHAR, enrollment:BIGINT, teachers_fte:BIGINT, schools_count:BIGINT, per_pupil_spending:BIGINT, revenue_total:BIGINT, read_pct_proficient:DOUBLE, math_pct_proficient:DOUBLE, frpl_pct:DOUBLE, assessment_year:BIGINT, year:BIGINT, updated_at:VARCHAR
+    rows: 1070
+data/service_requests_recent.parquet  0 MB
+    cols: muni_id:BIGINT, dataset_id:VARCHAR, request_id:VARCHAR, category:VARCHAR, status:VARCHAR, created_date:VARCHAR, source_domain:VARCHAR, updated_at:VARCHAR
+    rows: 100
+data/service_requests_rollup.parquet  0 MB
+    cols: muni_id:BIGINT, category:VARCHAR, period_month:VARCHAR, count:BIGINT, source_domain:VARCHAR, source_url:VARCHAR, dataset_id:VARCHAR, updated_at:VARCHAR
+    rows: 8718
+data/staar_results.parquet  0 MB
+    cols: muni_id:BIGINT, year:BIGINT, grade:BIGINT, subject:VARCHAR, approaches_pct:DOUBLE, meets_pct:DOUBLE, masters_pct:DOUBLE, updated_at:VARCHAR
+    rows: 54039
+data/state_bills.parquet  119 MB
+    cols: state:VARCHAR, session:VARCHAR, bill_id:VARCHAR, openstates_id:VARCHAR, title:VARCHAR, classification:VARCHAR, subjects:VARCHAR, status:VARCHAR, latest_action_date:VARCHAR, sponsors:VARCHAR, source_url:VARCHAR, updated_at:VARCHAR
+    rows: 1457946
+data/state_legislators.parquet  1 MB
+    cols: openstates_id:VARCHAR, state:VARCHAR, name:VARCHAR, party:VARCHAR, district:VARCHAR, chamber:VARCHAR, current:BIGINT, source_url:VARCHAR, updated_at:VARCHAR
+    rows: 21620
+data/state_votes.parquet  56 MB
+    cols: vote_id:VARCHAR, state:VARCHAR, session:VARCHAR, bill_id:VARCHAR, motion:VARCHAR, classification:VARCHAR, result:VARCHAR, vote_date:VARCHAR, chamber:VARCHAR, yes_count:BIGINT, no_count:BIGINT, other_count:BIGINT, source_url:VARCHAR, updated_at:VARCHAR, member_vote_count:BIGINT
+    rows: 1192334
+data/subsidized_households.parquet  4 MB
+    cols: year:BIGINT, place_geoid:VARCHAR, program:BIGINT, sub_program:VARCHAR, geo_kind:VARCHAR, quarter:VARCHAR, state:VARCHAR, state_fips:VARCHAR, place_fips:VARCHAR, place_name:VARCHAR, program_label:VARCHAR, rollup_level:VARCHAR, muni_id:BIGINT, match_method:VARCHAR, suppression:VARCHAR, n_suppressed:BIGINT, n_missing:BIGINT, n_nonreporting:BIGINT, total_units:BIGINT, total_occupied:BIGINT, pct_occupied:BIGINT, number_reported:BIGINT, pct_reported:BIGINT, months_since_report:BIGINT, pct_movein:BIGINT, people_per_unit:DOUBLE, people_total:BIGINT, rent_per_month:BIGINT, spending_per_month:BIGINT, hh_income:BIGINT, person_income:BIGINT, pct_noincome:BIGINT, pct_wage_major:BIGINT, pct_welfare_major:BIGINT, pct_other_major:BIGINT, pct_median:BIGINT, pct_lt80_median:BIGINT, pct_lt50_median:BIGINT, pct_lt30_median:BIGINT, pct_2adults:BIGINT, pct_1adult:BIGINT, pct_0chldrn:BIGINT, pct_female_head:BIGINT, pct_female_head_child:BIGINT, pct_disabled_head:BIGINT, pct_disabled_all:BIGINT, pct_lt62_head:BIGINT, pct_age62plus:BIGINT, pct_age85plus:BIGINT, pct_minority:BIGINT, pct_black_nonhsp:BIGINT, pct_asian_pacific_nonhsp:BIGINT, pct_white_nothsp:BIGINT, pct_hispanic:BIGINT, months_waiting:BIGINT, months_from_movein:BIGINT, pct_utility_allow:BIGINT, ave_util_allow:BIGINT, pct_bed1:BIGINT, pct_bed2:BIGINT, pct_bed3:BIGINT, pct_overhoused:BIGINT, tpoverty:BIGINT, tminority:BIGINT, tpct_ownsfd:BIGINT, source:VARCHAR, source_url:VARCHAR, updated_at:VARCHAR
+    rows: 97022
+data/transcripts.parquet  1915 MB
+    cols: meeting_id:BIGINT, duration_s:BIGINT, text:VARCHAR, created_at:VARCHAR
+    rows: 62441
+data/usda_rd_properties.parquet  1 MB
+    cols: borrower_id:VARCHAR, project_id:VARCHAR, project_check_digit:VARCHAR, mfis_key:VARCHAR, muni_id:BIGINT, match_method:VARCHAR, place_geoid:VARCHAR, cousub_geoid:VARCHAR, county_fips:VARCHAR, report_date:VARCHAR, property_name:VARCHAR, city:VARCHAR, state:VARCHAR, zip:VARCHAR, latitude:DOUBLE, longitude:DOUBLE, total_units:BIGINT, vacant_units:BIGINT, rental_assistance_units:BIGINT, rental_type:VARCHAR, section_program:VARCHAR, revitalization:VARCHAR, tax_credit:BIGINT, tax_credit_expires:VARCHAR, management_name:VARCHAR, borrower_name:VARCHAR, borrower_type:VARCHAR, borrower_city_state:VARCHAR, estimated_exit_date:VARCHAR, estimated_exit_year:BIGINT, restrictive_clause_expires_year:BIGINT, loan_payoff_year:BIGINT, prepay_eligible:BIGINT, prepay_eligible_year:BIGINT, fy_of_loan_obligation:BIGINT, interest_rate_at_closing:DOUBLE, loan_amount:DOUBLE, balloon_payment:BIGINT, remaining_term_days:BIGINT, orig_loan_term_years:BIGINT, natural_maturity_date:VARCHAR, upb_maturity_date:VARCHAR, date_of_operation:VARCHAR, source:VARCHAR, source_url:VARCHAR, data_license:VARCHAR, updated_at:VARCHAR
+    rows: 12451
+data/warn_notices.parquet  0 MB
+    cols: uid:VARCHAR, state:VARCHAR, employer:VARCHAR, city:VARCHAR, county:VARCHAR, muni_id:BIGINT, num_affected:BIGINT, notice_date:VARCHAR, effective_date:VARCHAR, layoff_type:VARCHAR, reason:VARCHAR, source:VARCHAR, source_url:VARCHAR, updated_at:VARCHAR
+    rows: 2827
+data/water_violations.parquet  1 MB
+    cols: muni_id:BIGINT, pwsid:VARCHAR, system_name:VARCHAR, state:VARCHAR, city_served:VARCHAR, county_served:VARCHAR, population_served:BIGINT, year:BIGINT, violation_count:BIGINT, health_based_count:BIGINT, source_url:VARCHAR, data_license:VARCHAR, updated_at:VARCHAR
+    rows: 134557
