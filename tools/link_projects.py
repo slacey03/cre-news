@@ -165,7 +165,8 @@ def build(rows):
         meaningful = [r for r in g if r.get("stage") and r.get("stage") != "other"]
         cur_stage = (meaningful[-1]["stage"] if meaningful else (g[-1].get("stage") or "other"))
         timeline = [dict(date=r.get("meeting_date"), board=r.get("board"), kind=r.get("kind"), stage=r.get("stage"),
-                         outcome=r.get("outcome"), request=r.get("request"), document_id=r.get("document_id"))
+                         outcome=r.get("outcome"), request=r.get("request"), document_id=r.get("document_id"),
+                         url=r.get("url"), source_page=r.get("source_page"))
                     for r in g]
         rec = dict(
             id=pid, municipality_key=m, municipality=g[0].get("municipality"),
@@ -207,7 +208,8 @@ def main():
     rows = conn.cursor(row_factory=dict_row).execute("""
         select p.id, p.document_id, p.municipality_key, p.board, p.meeting_date::text as meeting_date, p.plan_number, p.name,
                p.address, p.parcel, p.owner, p.applicant, p.request, p.zoning, p.size, p.acres::float as acres,
-               p.square_feet::float as square_feet, p.use, p.category, p.stage, p.outcome, d.kind, d.municipality
+               p.square_feet::float as square_feet, p.use, p.category, p.stage, p.outcome, d.kind, d.municipality,
+               d.url, d.source_page
         from projects p join documents d on d.id = p.document_id""").fetchall()
     pipeline, mapping = build(rows)
     with conn.transaction():
@@ -221,6 +223,8 @@ def main():
                   p["stage"], p["outcome"], p["request"], p["boards"], p["first_seen"], p["last_seen"], p["mentions"],
                   Jsonb(p["timeline"])) for p in pipeline])
             cur.executemany("update projects set pipeline_id = %s where id = %s", [(v, k) for k, v in mapping.items()])
+    conn.execute(open(os.path.join(os.path.dirname(__file__), "..", "db", "access.sql")).read()); conn.commit()
+    print("access rules applied (public teaser + members-only pipeline)")
     report(rows, pipeline)
 
 
