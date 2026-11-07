@@ -22,6 +22,7 @@ EXTRACT_VERSION = 2                      # bump when fields/prompt change: older
 MAX_CHARS = 60000                        # cap very long packets (~15k tokens)
 
 FIELDS = {
+    "municipality": "Municipality (city, borough or township, with county if stated) where the property is located - important for regional/county documents that cover many towns",
     "plan_number": "Municipal file/case/plan number exactly as written (e.g. 'ZA2026-09', 'LD 02-24', 'A-2026-00558'), else null",
     "name": "Project name as the municipality refers to it (e.g. 'Peregrine Tower', 'St. Luke's Medical Office'), else a short descriptive name",
     "address": "Street address(es) of the property, with municipality if stated",
@@ -69,6 +70,7 @@ PENDING_SQL = """select * from documents d where (extracted_at is null or coales
 
 SETUP_SQL = """
 alter table projects add column if not exists category text;
+alter table projects add column if not exists project_municipality text;
 alter table projects add column if not exists acres numeric;
 alter table projects add column if not exists square_feet numeric;
 create table if not exists extract_batches (id text primary key, model text, status text, doc_ids jsonb,
@@ -108,12 +110,13 @@ def save(conn, d, content, usage):
         conn.execute("delete from projects where document_id = %s", (d["id"],))
         for p in projects:
             conn.execute("""insert into projects (document_id, municipality_key, board, meeting_date, plan_number, name, address,
-                             parcel, owner, applicant, request, zoning, size, acres, square_feet, use, category, stage, outcome, raw)
-                            values (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)""",
+                             parcel, owner, applicant, request, zoning, size, acres, square_feet, use, category, stage, outcome, raw,
+                             project_municipality)
+                            values (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)""",
                          (d["id"], d["municipality_key"], d["board"], d["meeting_date"], p.get("plan_number"), p.get("name"),
                           p.get("address"), p.get("parcel"), p.get("owner"), p.get("applicant"), p.get("request"),
                           p.get("zoning"), p.get("size"), num(p.get("acres")), num(p.get("square_feet")), p.get("use"),
-                          p.get("category"), p.get("stage"), p.get("outcome"), Jsonb(p)))
+                          p.get("category"), p.get("stage"), p.get("outcome"), Jsonb(p), p.get("municipality")))
         conn.execute("update documents set extracted_at = now(), extract_version = %s where id = %s", (EXTRACT_VERSION, d["id"]))
     print(f"## {d['municipality']} | {d['board']} | {d['kind']} | {d['meeting_date']} | {len(projects)} projects"
           + (f" | {usage.input_tokens} in / {usage.output_tokens} out" if usage else ""))

@@ -90,6 +90,40 @@ def name_key(name):
     return k
 
 
+REGISTRY = os.path.join(os.path.dirname(__file__), "..", "registry", "lehigh_valley.json")
+
+
+def muni_resolver():
+    """Map a free-text municipality ('Lower Macungie Township', 'Washington Twp., Northampton County') to a registry key."""
+    reg = [m for m in json.load(open(REGISTRY)) if m.get("type") not in ("county", "regional")]
+    def norm(t):
+        t = (t or "").lower()
+        t = re.sub(r"\b(township|twp|borough|boro|city of|city|county|co|pa|pennsylvania|of the)\b\.?", " ", t)
+        return " ".join(re.sub(r"[^a-z ]", " ", t).split())
+    by = defaultdict(list)
+    for m in reg:
+        by[norm(m["name"])].append(m)
+    def resolve(text):
+        if not text:
+            return None
+        t = text.lower()
+        head = norm(re.split(r"[,(;]", text)[0])
+        cands = by.get(head) or [m for k, ms in by.items() for m in ms if k and re.search(rf"\b{re.escape(k)}\b", norm(text))]
+        if not cands:
+            return None
+        if len(cands) > 1:
+            kind = "township" if re.search(r"\b(township|twp)\b", t) else "borough" if re.search(r"\b(borough|boro)\b", t) \
+                else "city" if re.search(r"\bcity\b", t) else None
+            if kind:
+                cands = [m for m in cands if m.get("type") == kind] or cands
+            cty = [m for m in cands if (m.get("county") or "").lower() in t]
+            cands = cty or cands
+            # prefer the longest name match ('lower macungie' over 'macungie')
+            cands.sort(key=lambda m: -len(norm(m["name"])))
+        return cands[0]
+    return resolve, {m["key"]: m for m in reg}
+
+
 class UF:
     def __init__(s): s.p = {}
     def find(s, x):
@@ -211,15 +245,26 @@ def main():
     from psycopg.rows import dict_row
     from psycopg.types.json import Jsonb
     conn = connect()
-    conn.execute(SQL_SETUP); conn.commit()
+    conn.execute(SQL_SETUP); conn.execute("alter table projects add column if not exists project_municipality text"); conn.commit()
     rows = conn.cursor(row_factory=dict_row).execute("""
         select p.id, p.document_id, p.municipality_key, p.board, p.meeting_date::text as meeting_date, p.plan_number, p.name,
                p.address, p.parcel, p.owner, p.applicant, p.request, p.zoning, p.size, p.acres::float as acres,
                p.square_feet::float as square_feet, p.use, p.category, p.stage, p.outcome, d.kind, d.municipality,
-               d.url, d.source_page
+               d.url, d.source_page, p.project_municipality
         from projects p join documents d on d.id = p.document_id""").fetchall()
+    resolve, reg = muni_resolver()
+    regional = {r["municipality_key"] for r in rows if r["municipality_key"] in ("lvpc", "lehigh-county", "northampton-county")}
+    for r in rows:  # file projects from regional documents (LVPC, counties) under the town they are in
+        if r["municipality_key"] in regional:
+            m = resolve(r.get("project_municipality"))
+            if m:
+                r["municipality_key"], r["municipality"] = m["key"], m["name"]
     pipeline, mapping = build(rows)
     with conn.transaction():
+        for k in {p["municipality_key"] for p in pipeline} - {x[0] for x in conn.execute("select key from municipalities").fetchall()}:
+            m = reg.get(k, {"name": k, "county": None})
+            conn.execute("insert into municipalities (key, name, county) values (%s,%s,%s) on conflict do nothing",
+                         (k, m["name"], m.get("county")))
         conn.execute("delete from pipeline")
         with conn.cursor() as cur:
             cur.executemany("""insert into pipeline (id, municipality_key, municipality, name, address, parcel, plan_numbers, owner, applicant,

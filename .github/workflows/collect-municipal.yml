@@ -24,6 +24,7 @@ jobs:
       - run: python collectors/nastudios.py
       - run: python collectors/revize.py
       - run: python collectors/legistar.py
+      - run: python collectors/lvpc.py
       - name: Save collected documents
         run: |
           git config user.name "github-actions[bot]"
