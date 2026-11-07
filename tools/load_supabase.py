@@ -9,7 +9,15 @@ COLS = {"municipality", "county", "board", "kind", "meeting_date", "url", "sourc
         "chars", "ocr", "rolling", "agenda_items", "collected_at"}
 
 def main():
-    url = os.environ["SUPABASE_DB_URL"].strip()
+    url = os.environ.get("SUPABASE_DB_URL", "").strip()
+    # safe format check (never prints the password)
+    from urllib.parse import urlsplit
+    sp = urlsplit(url) if "://" in url else None
+    print(f"SUPABASE_DB_URL: present={bool(url)} length={len(url)} starts={url[:13]!r} "
+          f"host={sp.hostname if sp else None} port={sp.port if sp else None} user_set={bool(sp and sp.username)} "
+          f"password_set={bool(sp and sp.password)} placeholder_left={'YOUR-PASSWORD' in url}")
+    if not url.startswith(("postgresql://", "postgres://")):
+        sys.exit("SUPABASE_DB_URL must start with postgresql://")
     with psycopg.connect(url, prepare_threshold=None) as conn:
         conn.execute(open(os.path.join(ROOT, "db", "schema.sql")).read())
         n = 0
