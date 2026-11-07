@@ -1,0 +1,7 @@
+PA jurisdictions: 102
+by platform: [('civicplus', 61), ('boarddocs', 14), ('civicclerk', 11), ('granicus', 7), ('legistar', 3), ('revize', 2), ('govoffice', 1), ('quarantined:legistar', 1), ('primegov', 1), ('townweb', 1)]
+by kind: [('city', 70), ('county', 18), ('school', 14)]
+PA meetings total: 36474, with brief: 30756, with decisions: 16352
+PA jurisdictions with a meeting in last 30/90 days: (31, 92)
+zoning/planning boards in PA: (66, 3527)
+PA business formation rows: [('bfs', 'Census Business Formation Statistics', 267, None), ('entity', 'Colorado Secretary of State (data.colorado.gov)', 8067, '2026-10-29')]
