@@ -61,7 +61,7 @@ TOPICS = {
     "zoning": r"zoning|hearing board|\bzhb\b",
     "notices": r"public notice|legal notice|hearing",
 }
-BLOCK_SIGNS = r"Access Denied|Just a moment|cf-chl|Attention Required|captcha|Request unsuccessful|Incapsula|errors\.edgesuite"
+BLOCK_SIGNS = r"<title>[^<]*(Access Denied|Just a moment|Attention Required|Request unsuccessful|Security check)|errors\.edgesuite|_Incapsula_Resource|cf-chl-bypass"
 DATE_RE = re.compile(r"\b(20\d\d)[-_./]?(0[1-9]|1[0-2])[-_./]?(0[1-9]|[12]\d|3[01])\b|\b(0?[1-9]|1[0-2])[-_./](0?[1-9]|[12]\d|3[01])[-_./](20\d\d|\d\d)\b|\b(January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},?\s+(20\d\d)\b", re.I)
 
 
@@ -146,7 +146,13 @@ def best_doc_page(found):
 def detect(m):
     out = dict(m, reachable=False, final_url=None, status=None, blocked=False, cms=[], vendors={},
                links={}, doc_page=None, doc_page_profile=None, robots="", notes=[])
-    for url in m["urls"]:
+    tried = []
+    for u in m["urls"]:
+        host = urlparse(u).netloc
+        bare = host[4:] if host.startswith("www.") else "www." + host
+        tried += [u, u.replace("https://", "http://"), f"https://{bare}"]
+    for url in dict.fromkeys(tried):
+        if out["reachable"]: break
         site = Site(url)
         site.load_robots(url)
         r, err = site.fetch(url)
@@ -160,10 +166,20 @@ def detect(m):
         out["reachable"] = True; out["blocked"] = False
         out["cms"], out["vendors"] = classify(r.text, r.url)
         soup = BeautifulSoup(r.text, "html.parser")
+        gen = soup.find("meta", attrs={"name": re.compile("generator", re.I)})
+        out["generator"] = (gen.get("content") or "")[:60] if gen else ""
+        credit = re.search(r"(?:website|site|web design|designed|powered|hosted)\s*(?:by|design by)\s*:?\s*([A-Z][\w&.\- ]{2,40})", soup.get_text(" "), re.I)
+        out["credit"] = credit.group(1).strip() if credit else ""
+        if "CivicPlus" in out["cms"]:
+            ac, _ = site.fetch(urljoin(r.url, "/AgendaCenter"))
+            if ac is not None and ac.status_code == 200 and "catAgendaRow" in ac.text:
+                out["agenda_center"] = ac.url
+                out["doc_page"] = {"kind": "agendas", "text": "Agenda Center", "url": ac.url}
+                out["doc_page_profile"] = page_profile(ac)
         found = topic_links(soup, r.url)
         out["links"] = {k: [h for _, h in v] for k, v in found.items() if v}
         kind, text, href = best_doc_page(found)
-        if href:
+        if href and not out.get("agenda_center"):
             r2, err2 = site.fetch(href)
             if r2 is not None and r2.status_code < 400:
                 cms2, v2 = classify(r2.text, r2.url)
@@ -181,7 +197,7 @@ def detect(m):
 
 def summarize(d):
     vendors = [k for k in d["vendors"] if k != "YouTube (video)"]
-    platform = vendors[0] if vendors else ("CivicPlus Agenda Center" if "CivicPlus" in d["cms"] and any("AgendaCenter" in u for v in d["links"].values() for u in v) else (d["cms"][0] if d["cms"] else ("unknown" if d["reachable"] else "")))
+    platform = vendors[0] if vendors else ("CivicPlus Agenda Center" if d.get("agenda_center") else (d["cms"][0] if d["cms"] else ("unknown" if d["reachable"] else "")))
     p = d.get("doc_page_profile") or {}
     if not d["reachable"]:
         route = "BLOCKED: needs permission or another route" if d["blocked"] else "UNREACHABLE: check website"
@@ -189,7 +205,7 @@ def summarize(d):
         route = f"Vendor connector: {vendors[0]}"
     elif vendors and vendors[0] == "Granicus (meetings)":
         route = "Granicus: decision pending"
-    elif platform == "CivicPlus Agenda Center":
+    elif platform == "CivicPlus Agenda Center" or d.get("agenda_center"):
         route = "CivicPlus connector (built)"
     elif d.get("doc_page"):
         route = "Page watcher (custom site)"
@@ -198,7 +214,7 @@ def summarize(d):
     return {
         "key": d["key"], "name": d["name"], "county": d["county"], "type": d["type"],
         "website": d["final_url"] or d["urls"][0], "reachable": d["reachable"], "blocked": d["blocked"],
-        "website_platform": ", ".join(d["cms"][:2]), "agenda_software": "; ".join(f"{k}: {', '.join(v)}" for k, v in d["vendors"].items() if k != "YouTube (video)"),
+        "website_platform": ", ".join(d["cms"][:2]) or d.get("generator", ""), "site_credit": d.get("credit", ""), "agenda_software": "; ".join(f"{k}: {', '.join(v)}" for k, v in d["vendors"].items() if k != "YouTube (video)"),
         "documents_page": (d.get("doc_page") or {}).get("url", ""), "documents_pdf_links": p.get("pdf_links", ""),
         "documents_newest_year": p.get("newest_year", ""),
         "planning_link": (d["links"].get("planning") or [""])[0], "zoning_link": (d["links"].get("zoning") or [""])[0],
