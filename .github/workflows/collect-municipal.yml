@@ -13,7 +13,7 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -21,6 +21,7 @@ jobs:
       - run: sudo apt-get update -qq && sudo apt-get install -y -qq tesseract-ocr poppler-utils
       - run: pip install requests beautifulsoup4 pypdf pdf2image pytesseract
       - run: python collectors/civicplus.py
+      - run: python collectors/nastudios.py
       - name: Save collected documents
         run: |
           git config user.name "github-actions[bot]"
