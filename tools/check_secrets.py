@@ -1,5 +1,5 @@
 """One-off: confirm required secrets exist and the Anthropic key works (never prints values)."""
-# re-run 2026-11-07: Supabase connection test
+# re-run 2026-11-07: Supabase connection test (after URL fix)
 import os, json, urllib.request
 for name in ("ANTHROPIC_API_KEY", "SUPABASE_URL", "SUPABASE_SERVICE_KEY"):
     print(name, "present" if os.environ.get(name) else "missing")
