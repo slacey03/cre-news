@@ -14,7 +14,7 @@ from datetime import date, datetime, timedelta, timezone
 from urllib.parse import urlencode, urlparse
 
 sys.path.insert(0, os.path.dirname(__file__))
-from civicplus import PoliteSession, pdf_text, ocr_text
+from civicplus import PoliteSession, pdf_text, ocr_text, FOUND, record_health
 
 LOOKBACK_DAYS = int(os.environ.get("LOOKBACK_DAYS", "190"))
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
@@ -47,6 +47,7 @@ def collect(key):
     q = {"$filter": f"EventDate ge datetime'{since}'", "$orderby": "EventDate desc", "$top": "1000"}
     events = api_sess.get(f"{api}/events?{urlencode(q)}").json()
     events = [e for e in events if BOARDS.search((e["EventBodyName"] or "").strip())]
+    FOUND[key] = len(events)
     print(f"[{key}] {len(events)} development-board meetings since {since} (crawl delay {api_sess.delay}s)")
 
     added = 0
@@ -135,6 +136,6 @@ def collect(key):
 if __name__ == "__main__":
     for k in sys.argv[1:] or list(CITIES):
         try:
-            print("SUMMARY", k, collect(k))
+            n = collect(k); record_health(k, new=n); print("SUMMARY", k, n)
         except Exception as ex:  # one city being down shouldn't stop the others
-            print(f"[{k}] SKIPPED: {ex}")
+            print(f"[{k}] SKIPPED: {ex}"); record_health(k, error=ex)

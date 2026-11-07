@@ -16,7 +16,7 @@ from urllib.parse import urljoin, urlparse, unquote
 from bs4 import BeautifulSoup
 
 sys.path.insert(0, os.path.dirname(__file__))
-from civicplus import PoliteSession, pdf_text, ocr_text
+from civicplus import PoliteSession, pdf_text, ocr_text, FOUND, record_health
 
 LOOKBACK_DAYS = int(os.environ.get("LOOKBACK_DAYS", "190"))
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
@@ -151,6 +151,7 @@ def collect(key):
                 rolling=rolling, source_page=page_url))
 
     todo = [d for k, d in docs.items() if d["rolling"] or k not in seen_url]
+    FOUND[key] = len(docs)
     print(f"[{key}] {len(docs)} meeting documents in range, checking {len(todo)}")
     added = 0
     for d in todo:
@@ -186,8 +187,8 @@ if __name__ == "__main__":
     only = sys.argv[1:] or list(SITES)
     def run(k):
         try:
-            return k, collect(k)
+            n = collect(k); record_health(k, new=n); return k, n
         except Exception as e:
-            print(f"[{k}] SKIPPED: {e}"); return k, None
+            print(f"[{k}] SKIPPED: {e}"); record_health(k, error=e); return k, None
     with ThreadPoolExecutor(max_workers=5) as ex:
         print("SUMMARY", dict(ex.map(run, only)))

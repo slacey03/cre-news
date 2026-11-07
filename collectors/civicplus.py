@@ -28,6 +28,23 @@ MUNICIPALITIES = [
 ]
 
 
+FOUND = {}  # source key -> documents found on its listing page this run (filled by every collector)
+
+
+def record_health(key, new=None, error=None):
+    """Append this run's outcome for one source to data/<key>/health.json (last 90 runs) for the health check."""
+    path = os.path.join(DATA_DIR, key, "health.json")
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    try:
+        hist = json.load(open(path))
+    except Exception:
+        hist = []
+    hist.append(dict(run_at=datetime.now(timezone.utc).isoformat(timespec="seconds"),
+                     status="error" if error else "ok", found=FOUND.get(key), new=new,
+                     error=(str(error)[:300] if error else None)))
+    json.dump(hist[-90:], open(path, "w"), indent=0)
+
+
 class PoliteSession:
     """requests session that obeys robots.txt and waits between requests."""
 
@@ -135,6 +152,7 @@ def collect(muni):
     # new documents, plus earlier scanned documents that haven't been OCR'd yet
     todo = [d for d in listing if d["meeting_date"] >= cutoff.isoformat()
             and (d["doc_id"] not in index or (index[d["doc_id"]].get("needs_ocr") and not index[d["doc_id"]].get("ocr")))]
+    FOUND[muni["key"]] = len(listing)
     print(f"[{muni['key']}] {len(listing)} listed, {len(todo)} new within {LOOKBACK_DAYS} days "
           f"(crawl delay {sess.delay}s)")
 
@@ -165,6 +183,7 @@ if __name__ == "__main__":
     for m in MUNICIPALITIES:
         if not only or m["key"] in only:
             try:
-                collect(m)
+                record_health(m["key"], new=collect(m))
             except Exception as e:  # one township being down shouldn't stop the others
                 print(f"[{m['key']}] SKIPPED: {e}")
+                record_health(m["key"], error=e)

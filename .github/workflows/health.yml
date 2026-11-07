@@ -1,0 +1,39 @@
+name: Collection health
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Collect municipal documents"]
+    types: [completed]
+permissions:
+  contents: read
+  issues: write
+concurrency: { group: health, cancel-in-progress: false }
+jobs:
+  health:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: main }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install "psycopg[binary]"
+      - id: check
+        run: python tools/health.py
+        env:
+          COLLECT_CONCLUSION: ${{ github.event.workflow_run.conclusion || 'success' }}
+          SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL }}
+      - name: Open, update or close the health alert issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ALERTS: ${{ steps.check.outputs.alerts }}
+        run: |
+          label=health-alert
+          gh label create "$label" --color B60205 --description "Automated collection health alert" 2>/dev/null || true
+          num=$(gh issue list --label "$label" --state open --json number -q '.[0].number')
+          if [ "${ALERTS:-0}" -gt 0 ]; then
+            if [ -n "$num" ]; then gh issue comment "$num" --body-file health_report.md
+            else gh issue create --title "Collection health alert" --label "$label" --body-file health_report.md; fi
+          elif [ -n "$num" ]; then
+            gh issue comment "$num" --body "All sources are healthy again. Closing automatically."
+            gh issue close "$num"
+          fi

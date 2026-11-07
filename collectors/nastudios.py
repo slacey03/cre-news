@@ -21,7 +21,7 @@ from urllib.parse import urljoin, urlparse
 from bs4 import BeautifulSoup
 
 sys.path.insert(0, os.path.dirname(__file__))
-from civicplus import PoliteSession, pdf_text, ocr_text  # shared helpers
+from civicplus import PoliteSession, pdf_text, ocr_text, FOUND, record_health  # shared helpers
 
 LOOKBACK_DAYS = int(os.environ.get("LOOKBACK_DAYS", "190"))
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
@@ -176,6 +176,7 @@ def collect(site):
         unique.setdefault(d["drive_id"] or d["url"], d)
     todo = [d for d in unique.values()
             if (d["rolling"] or d["url"] not in seen_url) and (d["meeting_date"] is None or d["meeting_date"] >= cutoff)]
+    FOUND[key] = len(unique)
     print(f"[{key}] {len(unique)} documents linked, checking {len(todo)}")
 
     added = 0
@@ -221,9 +222,12 @@ def collect(site):
 
 def run(site):
     try:
-        return collect(site)
+        k, n = collect(site)
+        record_health(k, new=n)
+        return k, n
     except Exception as e:
         print(f"[{site[0]}] SKIPPED: {e}")
+        record_health(site[0], error=e)
         return site[0], None
 
 

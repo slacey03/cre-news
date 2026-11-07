@@ -15,7 +15,7 @@ from bs4 import BeautifulSoup
 from pypdf import PdfReader
 
 sys.path.insert(0, os.path.dirname(__file__))
-from civicplus import PoliteSession, ocr_text
+from civicplus import PoliteSession, ocr_text, FOUND, record_health
 
 LOOKBACK_DAYS = int(os.environ.get("LOOKBACK_DAYS", "190"))
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
@@ -103,6 +103,7 @@ def collect():
         if d and d < cutoff:
             continue
         todo.append((url, fname, board, d))
+    FOUND[KEY] = len(links)
     print(f"[lvpc] {len(links)} PDFs on meetings page; {len(todo)} planning/commission packets in range; "
           f"{len(skipped)} other committees skipped")
 
@@ -144,6 +145,6 @@ def collect():
 
 if __name__ == "__main__":
     try:
-        print("SUMMARY lvpc", collect())
+        n = collect(); record_health(KEY, new=n); print("SUMMARY lvpc", n)
     except Exception as e:
-        print(f"[lvpc] SKIPPED: {e}")
+        print(f"[lvpc] SKIPPED: {e}"); record_health(KEY, error=e)
