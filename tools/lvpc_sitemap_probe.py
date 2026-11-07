@@ -1,30 +1,15 @@
-"""One-off: list every link on LVPC's BuildLV and PlanLV Portal pages, and sample the latest monthly report."""
-import io, re, sys
-from urllib.parse import urljoin, unquote, urlparse
-from bs4 import BeautifulSoup
-from pypdf import PdfReader
+"""One-off: OCR two BuildLV monthly reports to see whether they list individual projects."""
+import sys
 sys.path.insert(0, "collectors")
 from civicplus import PoliteSession
-s = PoliteSession("https://lvpc.org")
-for p in ["https://lvpc.org/buildlv", "https://lvpc.org/planlv-portal"]:
-    soup = BeautifulSoup(s.get(p).text, "html.parser")
-    print(f"== {p}")
-    for el in soup.find_all(["h1", "h2", "h3", "h4", "a", "iframe", "embed", "object"]):
-        if el.name in ("h1", "h2", "h3", "h4"):
-            print("  H", el.get_text(" ", strip=True)[:100]); continue
-        h = el.get("href") or el.get("src") or el.get("data")
-        if not h: continue
-        h = urljoin(p, h); t = " ".join(el.get_text(" ", strip=True).split())[:80]
-        if "lvpc.org" in urlparse(h).netloc and not re.search(r"\.(pdf|xlsx?)", h, re.I) and el.name == "a": continue
-        print(f"  {el.name.upper()} {t} | {unquote(h)[:220]}")
-# sample the most recent monthly report
-soup = BeautifulSoup(s.get("https://lvpc.org/buildlv").text, "html.parser")
-pdfs = [urljoin("https://lvpc.org/buildlv", a["href"]) for a in soup.find_all("a", href=True) if re.search(r"\.pdf", a["href"], re.I)]
+from pdf2image import convert_from_bytes
+import pytesseract
 cdn = PoliteSession("https://img1.wsimg.com")
-for u in pdfs[:2]:
-    try:
-        c = cdn.get(u).content; r = PdfReader(io.BytesIO(c))
-        txt = "\n".join((pg.extract_text() or "") for pg in r.pages[:3])
-        print(f"== SAMPLE {unquote(u.split('/')[-1])[:80]} ({len(r.pages)} pages)\n{txt[:3500]}\n== END SAMPLE")
-    except Exception as e:
-        print("SAMPLE ERROR", u, e)
+B = "https://img1.wsimg.com/blobby/go/f0c03c33-493b-4de9-a633-323079cf8145/"
+for u in [B + "BuildLV_sept_26.pdf", B + "downloads/8bd9779a-4dd0-478f-9169-8bbd1faa3fd8/January%202026%20BuildLV%20Report.pdf?ver=1793825667668"]:
+    c = cdn.get(u).content
+    pages = convert_from_bytes(c, dpi=200)
+    print(f"== SAMPLE {u.split('/')[-1][:60]} ({len(pages)} pages)")
+    for i, img in enumerate(pages[:3], 1):
+        print(f"-- page {i} ({img.size})\n" + pytesseract.image_to_string(img)[:4000])
+    print("== END SAMPLE")

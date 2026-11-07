@@ -9,4 +9,4 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
-      - run: pip install requests beautifulsoup4 pypdf && python tools/lvpc_sitemap_probe.py
+      - run: sudo apt-get install -y tesseract-ocr poppler-utils >/dev/null && pip install requests beautifulsoup4 pypdf pdf2image pytesseract && python tools/lvpc_sitemap_probe.py
