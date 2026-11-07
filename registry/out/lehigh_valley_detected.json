@@ -1,0 +1,2785 @@
+[
+ {
+  "key": "allentown",
+  "name": "City of Allentown",
+  "county": "Lehigh",
+  "type": "city",
+  "urls": [
+   "https://www.allentownpa.gov"
+  ],
+  "reachable": false,
+  "final_url": null,
+  "status": null,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {},
+  "doc_page": null,
+  "doc_page_profile": null,
+  "robots": "",
+  "notes": [
+   "https://www.allentownpa.gov: ConnectionError"
+  ]
+ },
+ {
+  "key": "bethlehem-city",
+  "name": "City of Bethlehem",
+  "county": "Northampton/Lehigh",
+  "type": "city",
+  "urls": [
+   "https://www.bethlehem-pa.gov"
+  ],
+  "reachable": true,
+  "final_url": "https://www.bethlehem-pa.gov/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {
+   "YouTube (video)": [
+    "youtube.com/channel/ucrlfg5y9ui0jadkare1w3xw"
+   ]
+  },
+  "links": {
+   "meetings": [
+    "https://www.bethlehem-pa.gov/calendar-planning-zoning",
+    "https://www.bethlehem-pa.gov/Calendar",
+    "https://www.bethlehem-pa.gov/Calendar/Archive"
+   ],
+   "planning": [
+    "https://www.bethlehem-pa.gov/calendar-planning-zoning",
+    "https://www.bethlehem-pa.gov/Community-Economic-Development/Planning-Zoning",
+    "https://www.bethlehem-pa.gov/Community-Economic-Development/Planning-Zoning/Community-Plans"
+   ],
+   "zoning": [
+    "https://www.bethlehem-pa.gov/calendar-planning-zoning",
+    "https://www.bethlehem-pa.gov/Community-Economic-Development/Planning-Zoning",
+    "https://www.bethlehem-pa.gov/Community-Economic-Development/Planning-Zoning/Community-Plans"
+   ]
+  },
+  "doc_page": {
+   "kind": "planning",
+   "text": "Community Meetings",
+   "url": "https://www.bethlehem-pa.gov/calendar-planning-zoning/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 17,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "easton",
+  "name": "City of Easton",
+  "county": "Northampton",
+  "type": "city",
+  "urls": [
+   "https://www.easton-pa.gov"
+  ],
+  "reachable": false,
+  "final_url": null,
+  "status": null,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {},
+  "doc_page": null,
+  "doc_page_profile": null,
+  "robots": "",
+  "notes": [
+   "https://www.easton-pa.gov: ConnectionError"
+  ]
+ },
+ {
+  "key": "alburtis",
+  "name": "Alburtis Borough",
+  "county": "Lehigh",
+  "type": "borough",
+  "urls": [
+   "https://www.alburtis.org"
+  ],
+  "reachable": true,
+  "final_url": "https://www.alburtis.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.alburtis.org/minutes.html",
+    "https://www.alburtis.org/forms/Agenda_10-29-2025.pdf"
+   ],
+   "minutes": [
+    "https://www.alburtis.org/minutes.html"
+   ],
+   "meetings": [
+    "https://www.alburtis.org/calendar.html",
+    "https://www.alburtis.org/minutes.html",
+    "https://www.alburtis.org/forms/2026_garbage_schedule.pdf"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Borough Council View our current agenda or Borough meeting minutes",
+   "url": "https://www.alburtis.org/minutes.html"
+  },
+  "doc_page_profile": {
+   "pdf_links": 20,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "no robots.txt",
+  "notes": []
+ },
+ {
+  "key": "catasauqua",
+  "name": "Catasauqua Borough",
+  "county": "Lehigh",
+  "type": "borough",
+  "urls": [
+   "https://www.catasauqua.org"
+  ],
+  "reachable": true,
+  "final_url": "https://www.catasauqua.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "CivicPlus"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.catasauqua.org/165/Agendas-Minutes"
+   ],
+   "minutes": [
+    "https://www.catasauqua.org/165/Agendas-Minutes"
+   ],
+   "meetings": [
+    "https://www.catasauqua.org/",
+    "https://www.catasauqua.org/calendar.aspx?view=list&year=2026&month=11&day=11&CID=23",
+    "https://www.catasauqua.org/calendar.aspx?view=list&year=2026&month=11&day=16&CID=23",
+    "https://www.catasauqua.org/calendar.aspx?view=list&year=2026&month=11&day=26&CID=23",
+    "https://www.catasauqua.org/calendar.aspx?view=list&year=2026&month=11&day=27&CID=23",
+    "https://www.catasauqua.org/Calendar.aspx?EID=696"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Agendas & Minutes",
+   "url": "https://www.catasauqua.org/165/Agendas-Minutes"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present; blocks AI crawlers",
+  "notes": []
+ },
+ {
+  "key": "coopersburg",
+  "name": "Coopersburg Borough",
+  "county": "Lehigh",
+  "type": "borough",
+  "urls": [
+   "https://www.coopersburgborough.org"
+  ],
+  "reachable": false,
+  "final_url": null,
+  "status": null,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {},
+  "doc_page": null,
+  "doc_page_profile": null,
+  "robots": "",
+  "notes": [
+   "https://www.coopersburgborough.org: SSLError"
+  ]
+ },
+ {
+  "key": "coplay",
+  "name": "Coplay Borough",
+  "county": "Lehigh",
+  "type": "borough",
+  "urls": [
+   "https://www.coplayborough.org"
+  ],
+  "reachable": true,
+  "final_url": "https://www.coplayborough.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.coplayborough.org/minutes.html"
+   ],
+   "minutes": [
+    "https://www.coplayborough.org/minutes.html"
+   ],
+   "meetings": [
+    "https://www.coplayborough.org/calendar.html",
+    "https://www.coplayborough.org/minutes.html"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Borough Council View our current agenda or Council meeting minutes",
+   "url": "https://www.coplayborough.org/minutes.html"
+  },
+  "doc_page_profile": {
+   "pdf_links": 20,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "no robots.txt",
+  "notes": []
+ },
+ {
+  "key": "emmaus",
+  "name": "Emmaus Borough",
+  "county": "Lehigh",
+  "type": "borough",
+  "urls": [
+   "https://www.emmauspa.gov"
+  ],
+  "reachable": true,
+  "final_url": "https://www.emmauspa.gov/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "CivicPlus"
+  ],
+  "vendors": {
+   "YouTube (video)": [
+    "youtube.com/channel/uc7cnwkivbherdluspjsfi_g"
+   ]
+  },
+  "links": {
+   "agendas": [
+    "https://www.emmauspa.gov/agendacenter"
+   ],
+   "minutes": [
+    "https://www.emmauspa.gov/agendacenter"
+   ],
+   "meetings": [
+    "https://www.emmauspa.gov/Calendar.aspx",
+    "https://www.emmauspa.gov/calendar.aspx?view=list&year=2026&month=11&day=8&CID=40,30,26,47,44,33,35,38,50,46,41,49,24,29,36,43,42,31,48,28,25,37,34,32,27,39",
+    "https://www.emmauspa.gov/calendar.aspx?view=list&year=2026&month=11&day=9&CID=40,30,26,47,44,33,35,38,50,46,41,49,24,29,36,43,42,31,48,28,25,37,34,32,27,39",
+    "https://www.emmauspa.gov/calendar.aspx?view=list&year=2026&month=11&day=10&CID=40,30,26,47,44,33,35,38,50,46,41,49,24,29,36,43,42,31,48,28,25,37,34,32,27,39",
+    "https://www.emmauspa.gov/calendar.aspx?view=list&year=2026&month=11&day=11&CID=40,30,26,47,44,33,35,38,50,46,41,49,24,29,36,43,42,31,48,28,25,37,34,32,27,39",
+    "https://www.emmauspa.gov/calendar.aspx?view=list&year=2026&month=11&day=12&CID=40,30,26,47,44,33,35,38,50,46,41,49,24,29,36,43,42,31,48,28,25,37,34,32,27,39"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Agendas & Minutes",
+   "url": "https://www.emmauspa.gov/agendacenter"
+  },
+  "doc_page_profile": {
+   "pdf_links": 98,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present; blocks AI crawlers",
+  "notes": []
+ },
+ {
+  "key": "fountain-hill",
+  "name": "Fountain Hill Borough",
+  "county": "Lehigh",
+  "type": "borough",
+  "urls": [
+   "https://www.fountainhill.org"
+  ],
+  "reachable": true,
+  "final_url": "https://www.fountainhill.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress",
+   "GoDaddy Builder"
+  ],
+  "vendors": {
+   "YouTube (video)": [
+    "youtube.com/channel/ucnjifbqz1hvt-yz11ohtzva"
+   ]
+  },
+  "links": {
+   "agendas": [
+    "https://www.fountainhill.org/government/council-minutes/",
+    "https://www.fountainhill.org/stormwater-authority/committee-minutes/"
+   ],
+   "minutes": [
+    "https://www.fountainhill.org/government/council-minutes/",
+    "https://www.fountainhill.org/stormwater-authority/committee-minutes/"
+   ],
+   "meetings": [
+    "https://www.fountainhill.org/government/council-minutes/",
+    "https://www.fountainhill.org/stormwater-authority/committee-minutes/",
+    "https://www.fountainhill.org/calendar/"
+   ],
+   "planning": [
+    "https://www.fountainhill.org/government/planning-zoning/"
+   ],
+   "zoning": [
+    "https://www.fountainhill.org/government/planning-zoning/",
+    "https://www.fountainhill.org/departments/zoning-and-code-enforcement/",
+    "https://www.fountainhill.org/news/2026/10/public-hearing-zoning-hearing-board-monday-october-19th-at-700-p-m/"
+   ],
+   "notices": [
+    "https://www.fountainhill.org/news/2026/10/public-hearing-zoning-hearing-board-monday-october-19th-at-700-p-m/"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Council Meeting Minutes & Agendas",
+   "url": "https://www.fountainhill.org/government/council-minutes/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 709,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "macungie",
+  "name": "Macungie Borough",
+  "county": "Lehigh",
+  "type": "borough",
+  "urls": [
+   "https://www.macungie.pa.us",
+   "https://www.macungieborough.org"
+  ],
+  "reachable": true,
+  "final_url": "https://www.macungie.pa.us/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.macungie.pa.us/council_minutes.html"
+   ],
+   "minutes": [
+    "https://www.macungie.pa.us/council_minutes.html"
+   ],
+   "meetings": [
+    "https://www.macungie.pa.us/calendar.html",
+    "https://www.macungie.pa.us/council_minutes.html",
+    "https://www.macungie.pa.us/forms/2026-meetings.pdf"
+   ],
+   "planning": [
+    "https://dced.pa.gov/download/planning-series-02-the-planning-commission-in-pennsylvania/?ind=0&filename=PlanningSeries-2_2017.pdf&wpdmdl=56209&refresh=6a3038d688db31781545174",
+    "https://dced.pa.gov/download/planning-series-06-the-zoning-hearing-board/?wpdmdl=56212&refresh=6a3038cb0f1411781545163"
+   ],
+   "zoning": [
+    "https://dced.pa.gov/download/planning-series-06-the-zoning-hearing-board/?wpdmdl=56212&refresh=6a3038cb0f1411781545163"
+   ],
+   "notices": [
+    "https://dced.pa.gov/download/planning-series-06-the-zoning-hearing-board/?wpdmdl=56212&refresh=6a3038cb0f1411781545163"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Borough Council View our current agenda or Council meeting minutes",
+   "url": "https://www.macungie.pa.us/council_minutes.html"
+  },
+  "doc_page_profile": {
+   "pdf_links": 23,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "no robots.txt",
+  "notes": []
+ },
+ {
+  "key": "slatington",
+  "name": "Slatington Borough",
+  "county": "Lehigh",
+  "type": "borough",
+  "urls": [
+   "https://www.slatington.org"
+  ],
+  "reachable": true,
+  "final_url": "https://www.slatington.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "CivicPlus"
+  ],
+  "vendors": {},
+  "links": {
+   "meetings": [
+    "https://www.slatington.org/calendar.aspx?CID=14",
+    "https://www.slatington.org/calendar.aspx?view=list&year=2026&month=11&day=7&CID=14",
+    "https://www.slatington.org/Calendar.aspx?EID=337"
+   ]
+  },
+  "doc_page": {
+   "kind": "meetings",
+   "text": "Calendar",
+   "url": "https://www.slatington.org/calendar.aspx?CID=14"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present; blocks AI crawlers",
+  "notes": []
+ },
+ {
+  "key": "hanover-lehigh",
+  "name": "Hanover Township (Lehigh)",
+  "county": "Lehigh",
+  "type": "township",
+  "urls": [
+   "https://www.hanleco.org"
+  ],
+  "reachable": true,
+  "final_url": "https://www.hanleco.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "minutes": [
+    "https://www.hanleco.org/minutes.html"
+   ],
+   "meetings": [
+    "https://www.hanleco.org/calendar.html"
+   ],
+   "planning": [
+    "https://drive.google.com/file/d/1DJVivuY22jb_3tfYHvohOTyQ2ryPn1BM/view?usp=drive_link",
+    "https://www.dep.pa.gov/Business/Water/PlanningConservation/Drought/Pages/default.aspx"
+   ],
+   "zoning": [
+    "https://drive.google.com/file/d/1KmebYeBR-PfkYR2qlsSUoSD73UxyMcWt/view?usp=drive_link",
+    "https://www.hanleco.org/forms/zoning-ord-ad.pdf",
+    "https://www.hanleco.org/forms/zoning-map-ad.pdf",
+    "https://www.hanleco.org/forms/draft-zoning.pdf",
+    "https://www.hanleco.org/forms/draft-zoning-map.pdf"
+   ],
+   "notices": [
+    "https://drive.google.com/file/d/1KmebYeBR-PfkYR2qlsSUoSD73UxyMcWt/view?usp=drive_link",
+    "https://www.hanleco.org/forms/zoning-ord-ad.pdf",
+    "https://www.hanleco.org/forms/zoning-map-ad.pdf"
+   ]
+  },
+  "doc_page": {
+   "kind": "minutes",
+   "text": "Township Council",
+   "url": "https://www.hanleco.org/minutes.html"
+  },
+  "doc_page_profile": {
+   "pdf_links": 19,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "no robots.txt",
+  "notes": []
+ },
+ {
+  "key": "heidelberg",
+  "name": "Heidelberg Township",
+  "county": "Lehigh",
+  "type": "township",
+  "urls": [
+   "https://www.heidelberglehigh.org"
+  ],
+  "reachable": true,
+  "final_url": "https://www.heidelberglehigh.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "meetings": [
+    "https://www.heidelberglehigh.org/events"
+   ],
+   "planning": [
+    "https://www.heidelberglehigh.org/planningcommission"
+   ],
+   "zoning": [
+    "https://www.heidelberglehigh.org/ordinances",
+    "https://www.heidelberglehigh.org/zoningboard",
+    "https://www.heidelberglehigh.org/zoningenforcement",
+    "https://www.heidelberglehigh.org/zoningpermits"
+   ],
+   "notices": [
+    "https://www.heidelberglehigh.org/zoningboard",
+    "https://www.heidelberglehigh.org/pn"
+   ]
+  },
+  "doc_page": {
+   "kind": "planning",
+   "text": "Planning Commission",
+   "url": "https://www.heidelberglehigh.org/planningcommission"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "no robots.txt",
+  "notes": []
+ },
+ {
+  "key": "lower-macungie",
+  "name": "Lower Macungie Township",
+  "county": "Lehigh",
+  "type": "township",
+  "urls": [
+   "https://www.lowermac.org",
+   "https://www.lowermac.com"
+  ],
+  "reachable": true,
+  "final_url": "https://www.lowermac.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "CivicPlus"
+  ],
+  "vendors": {
+   "YouTube (video)": [
+    "youtube.com/channel/uchxrdmsdawqp-okcufev_la"
+   ]
+  },
+  "links": {
+   "agendas": [
+    "https://www.lowermac.com/agendacenter"
+   ],
+   "minutes": [
+    "https://www.lowermac.com/agendacenter"
+   ],
+   "meetings": [
+    "https://www.lowermac.com/307/Township-Media",
+    "https://www.lowermac.com/",
+    "https://www.lowermac.com/calendar.aspx?view=list&year=2026&month=11&day=9&CID=30",
+    "https://www.lowermac.com/calendar.aspx?view=list&year=2026&month=11&day=10&CID=30",
+    "https://www.lowermac.com/calendar.aspx?view=list&year=2026&month=11&day=17&CID=30",
+    "https://www.lowermac.com/calendar.aspx?view=list&year=2026&month=11&day=19&CID=30"
+   ],
+   "planning": [
+    "https://www.lowermac.com/283/Community-Economic-Development",
+    "https://www.lowermac.com/QuickLinks.aspx?CID=56",
+    "https://www.lowermac.com/384/Application-Forms",
+    "https://www.lowermac.com/DocumentCenter/View/392/Subdivision-Land-Development-Projects-PDF",
+    "https://www.lowermac.com/Calendar.aspx?EID=2278"
+   ],
+   "zoning": [
+    "https://www.lowermac.com/CivicAlerts.aspx?AID=738"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Agendas & Minutes",
+   "url": "https://www.lowermac.com/agendacenter"
+  },
+  "doc_page_profile": {
+   "pdf_links": 203,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present; blocks AI crawlers",
+  "notes": [
+   "https://www.lowermac.org: ConnectionError"
+  ]
+ },
+ {
+  "key": "lower-milford",
+  "name": "Lower Milford Township",
+  "county": "Lehigh",
+  "type": "township",
+  "urls": [
+   "https://www.lowermilford.org"
+  ],
+  "reachable": false,
+  "final_url": "https://www.lowermilford.org/",
+  "status": 200,
+  "blocked": true,
+  "cms": [],
+  "vendors": {},
+  "links": {},
+  "doc_page": null,
+  "doc_page_profile": null,
+  "robots": "robots.txt present",
+  "notes": [
+   "https://www.lowermilford.org: HTTP 200 (bot protection)"
+  ]
+ },
+ {
+  "key": "lowhill",
+  "name": "Lowhill Township",
+  "county": "Lehigh",
+  "type": "township",
+  "urls": [
+   "https://www.lowhilltownship.org"
+  ],
+  "reachable": true,
+  "final_url": "https://www.trazacacamba.com/informa-es-do-evento-e-registro/vem-com-o-traz-a-cacamba-vivencias-imersivas",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {},
+  "doc_page": null,
+  "doc_page_profile": null,
+  "robots": "robots fetch failed (TooManyRedirects)",
+  "notes": []
+ },
+ {
+  "key": "lynn",
+  "name": "Lynn Township",
+  "county": "Lehigh",
+  "type": "township",
+  "urls": [
+   "https://www.lynntwp.org"
+  ],
+  "reachable": true,
+  "final_url": "https://www.lynntwp.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.lynntwp.org/bos-agendas/",
+    "https://www.lynntwp.org/event/11-12-26-proposed-bos-agenda/"
+   ],
+   "minutes": [
+    "https://www.lynntwp.org/calendar/meeting-minutes/"
+   ],
+   "meetings": [
+    "https://www.lynntwp.org/events/",
+    "https://www.lynntwp.org/calendar/meeting-minutes/"
+   ],
+   "zoning": [
+    "https://www.lynntwp.org/bos-agendas/",
+    "https://www.lynntwp.org/lynn-township-zoning-saldo-2017/"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "BOS, PC, ZHB, EAC Agendas",
+   "url": "https://www.lynntwp.org/bos-agendas/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 25,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "north-whitehall",
+  "name": "North Whitehall Township",
+  "county": "Lehigh",
+  "type": "township",
+  "urls": [
+   "https://www.northwhitehall.org"
+  ],
+  "reachable": true,
+  "final_url": "https://www.northwhitehall.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "Revize"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.northwhitehall.org/boards_commissions/agendas_and_minutes/index.php",
+    "https://www.northwhitehall.org/boards_commissions/agendas_and_minutes.php",
+    "https://www.northwhitehall.org/boards_commissions/agendas_and_minutes_.php",
+    "https://www.northwhitehall.org/boards_commissions/agendas_an_minutes.php",
+    "https://www.northwhitehall.org/boards_commissions/farmland___open_space_agendas___minutes.php"
+   ],
+   "minutes": [
+    "https://www.northwhitehall.org/boards_commissions/agendas_and_minutes/index.php",
+    "https://www.northwhitehall.org/boards_commissions/agendas_and_minutes.php",
+    "https://www.northwhitehall.org/boards_commissions/agendas_and_minutes_.php",
+    "https://www.northwhitehall.org/boards_commissions/agendas_an_minutes.php",
+    "https://www.northwhitehall.org/boards_commissions/farmland___open_space_agendas___minutes.php"
+   ],
+   "meetings": [
+    "https://www.northwhitehall.org/Documents/Departments/Preservation/26deadlinemeetingschedule.pdf",
+    "https://www.northwhitehall.org/calendar/index.php",
+    "https://www.northwhitehall.org/",
+    "https://www.northwhitehall.org/calendar"
+   ],
+   "planning": [
+    "https://www.northwhitehall.org/departments/community_development/planning/index.php",
+    "https://www.northwhitehall.org/boards_commissions/agendas_and_minutes_.php",
+    "https://www.northwhitehall.org/boards_commissions/planning_commission.php"
+   ],
+   "zoning": [
+    "https://www.northwhitehall.org/departments/community_development/zoning/index.php",
+    "https://www.northwhitehall.org/boards_commissions/zoning_hearing_board.php"
+   ],
+   "notices": [
+    "https://www.northwhitehall.org/boards_commissions/zoning_hearing_board.php"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Agendas and Minutes",
+   "url": "https://www.northwhitehall.org/boards_commissions/agendas_and_minutes/index.php"
+  },
+  "doc_page_profile": {
+   "pdf_links": 8,
+   "newest_year": 2025,
+   "has_2026": false
+  },
+  "robots": "no robots.txt",
+  "notes": []
+ },
+ {
+  "key": "salisbury",
+  "name": "Salisbury Township",
+  "county": "Lehigh",
+  "type": "township",
+  "urls": [
+   "https://www.salisburylehighpa.gov"
+  ],
+  "reachable": true,
+  "final_url": "https://www.salisburylehighpa.gov/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.salisburylehighpa.gov/o/st/page/boards"
+   ],
+   "meetings": [
+    "https://www.salisburylehighpa.gov/o/st/page/boards"
+   ],
+   "planning": [
+    "https://www.salisburylehighpa.gov/page/planning-commission",
+    "https://www.salisburylehighpa.gov/page/planningzoning"
+   ],
+   "zoning": [
+    "https://www.salisburylehighpa.gov/page/zoning-hearing-board",
+    "https://www.salisburylehighpa.gov/page/planningzoning",
+    "https://www.salisburylehighpa.gov/page/land-use-zoning-appeal-applications",
+    "https://www.salisburylehighpa.gov/page/zoning"
+   ],
+   "notices": [
+    "https://www.salisburylehighpa.gov/page/zoning-hearing-board"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Meeting Agendas",
+   "url": "https://www.salisburylehighpa.gov/o/st/page/boards"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "south-whitehall",
+  "name": "South Whitehall Township",
+  "county": "Lehigh",
+  "type": "township",
+  "urls": [
+   "https://www.southwhitehall.com"
+  ],
+  "reachable": false,
+  "final_url": "https://www.southwhitehall.com/",
+  "status": 403,
+  "blocked": true,
+  "cms": [],
+  "vendors": {},
+  "links": {},
+  "doc_page": null,
+  "doc_page_profile": null,
+  "robots": "no robots.txt",
+  "notes": [
+   "https://www.southwhitehall.com: HTTP 403 (bot protection)"
+  ]
+ },
+ {
+  "key": "upper-macungie",
+  "name": "Upper Macungie Township",
+  "county": "Lehigh",
+  "type": "township",
+  "urls": [
+   "https://www.uppermac.org"
+  ],
+  "reachable": false,
+  "final_url": "https://www.uppermac.org/",
+  "status": 403,
+  "blocked": true,
+  "cms": [],
+  "vendors": {},
+  "links": {},
+  "doc_page": null,
+  "doc_page_profile": null,
+  "robots": "no robots.txt",
+  "notes": [
+   "https://www.uppermac.org: HTTP 403 (bot protection)"
+  ]
+ },
+ {
+  "key": "upper-milford",
+  "name": "Upper Milford Township",
+  "county": "Lehigh",
+  "type": "township",
+  "urls": [
+   "https://www.uppermilford.net"
+  ],
+  "reachable": true,
+  "final_url": "https://www.uppermilford.net/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.uppermilford.net/index?scrollto=agendas"
+   ],
+   "minutes": [
+    "https://www.uppermilford.net/bos-minutes"
+   ],
+   "meetings": [
+    "https://www.uppermilford.net/calendar",
+    "https://www.uppermilford.net/bos-minutes"
+   ],
+   "planning": [
+    "https://drive.google.com/file/d/18OLKRXC3nCNW_dqfrBNBJ4Kkwsfi3YVf/view?usp=drive_link"
+   ],
+   "zoning": [
+    "https://drive.google.com/file/d/11Aq-w23-6Y13sjec4m2nW8SPhERPiRNb/view?usp=drive_link"
+   ],
+   "notices": [
+    "https://drive.google.com/file/d/11Aq-w23-6Y13sjec4m2nW8SPhERPiRNb/view?usp=drive_link"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "View Current Agendas",
+   "url": "https://www.uppermilford.net/index?scrollto=agendas"
+  },
+  "doc_page_profile": {
+   "pdf_links": 3,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "upper-saucon",
+  "name": "Upper Saucon Township",
+  "county": "Lehigh",
+  "type": "township",
+  "urls": [
+   "https://www.uppersaucon.org"
+  ],
+  "reachable": true,
+  "final_url": "https://uppersaucon.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://uppersaucon.org/documents/minutes/"
+   ],
+   "minutes": [
+    "https://uppersaucon.org/documents/minutes/"
+   ],
+   "meetings": [
+    "https://uppersaucon.org/events/",
+    "https://uppersaucon.org/events/category/community-calendar/",
+    "https://uppersaucon.org/2026/10/30/public-notice-planning-commission-meeting-cancellation-for-11-4-2026/",
+    "https://uppersaucon.org/event/board-of-supervisors-meeting-212/",
+    "https://uppersaucon.org/event/administration-finance-committee-meeting-8/"
+   ],
+   "planning": [
+    "https://uppersaucon.org/boards-commissions/planning-commission/",
+    "https://uppersaucon.org/2026/10/30/public-notice-planning-commission-meeting-cancellation-for-11-4-2026/"
+   ],
+   "zoning": [
+    "https://uppersaucon.org/boards-commissions/zoning-hearing-board/"
+   ],
+   "notices": [
+    "https://uppersaucon.org/boards-commissions/zoning-hearing-board/",
+    "https://uppersaucon.org/2026/11/03/public-notice-upper-saucon-2-precinct-to-vote-in-friedens-evangelical-lutheran-church/",
+    "https://uppersaucon.org/2026/10/30/public-notice-planning-commission-meeting-cancellation-for-11-4-2026/"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Minutes and Agendas",
+   "url": "https://uppersaucon.org/documents/minutes/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 1,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present; blocks AI crawlers",
+  "notes": []
+ },
+ {
+  "key": "washington-lehigh",
+  "name": "Washington Township (Lehigh)",
+  "county": "Lehigh",
+  "type": "township",
+  "urls": [
+   "https://www.washingtonlehigh.org"
+  ],
+  "reachable": true,
+  "final_url": "https://www.washingtonlehigh.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "minutes": [
+    "https://www.washingtonlehigh.org/bos-minutes.html"
+   ],
+   "meetings": [
+    "https://www.washingtonlehigh.org/calendar.html",
+    "https://www.washingtonlehigh.org/bos-minutes.html"
+   ],
+   "planning": [
+    "https://drive.google.com/file/d/1x9kEBFxTZk0HcozjKXmMEmDollODQTTA/view?usp=sharing"
+   ],
+   "zoning": [
+    "https://drive.google.com/file/d/1xsjL1NRVMzTIRln_Dfv5_Uaq2Zu8cJtC/view?usp=sharing"
+   ],
+   "notices": [
+    "https://drive.google.com/file/d/1xsjL1NRVMzTIRln_Dfv5_Uaq2Zu8cJtC/view?usp=sharing"
+   ]
+  },
+  "doc_page": {
+   "kind": "minutes",
+   "text": "BOS : View the Board of Supervisors Meeting Minutes",
+   "url": "https://www.washingtonlehigh.org/bos-minutes.html"
+  },
+  "doc_page_profile": {
+   "pdf_links": 13,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "no robots.txt",
+  "notes": []
+ },
+ {
+  "key": "weisenberg",
+  "name": "Weisenberg Township",
+  "county": "Lehigh",
+  "type": "township",
+  "urls": [
+   "https://www.weisenbergtownship.org"
+  ],
+  "reachable": true,
+  "final_url": "https://www.weisenbergtownship.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "minutes": [
+    "https://www.weisenbergtownship.org/bos-minutes.html"
+   ],
+   "meetings": [
+    "https://www.weisenbergtownship.org/calendar.html"
+   ]
+  },
+  "doc_page": {
+   "kind": "minutes",
+   "text": "BOS Minutes",
+   "url": "https://www.weisenbergtownship.org/bos-minutes.html"
+  },
+  "doc_page_profile": {
+   "pdf_links": 10,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "no robots.txt",
+  "notes": []
+ },
+ {
+  "key": "whitehall",
+  "name": "Whitehall Township",
+  "county": "Lehigh",
+  "type": "township",
+  "urls": [
+   "https://www.whitehalltownship.org"
+  ],
+  "reachable": true,
+  "final_url": "https://www.whitehalltownship.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {
+   "YouTube (video)": [
+    "youtube.com/@whitehalltownship2352"
+   ]
+  },
+  "links": {
+   "minutes": [
+    "https://www.whitehalltownship.org/boc-minutes"
+   ],
+   "meetings": [
+    "https://www.whitehalltownship.org/calendar"
+   ]
+  },
+  "doc_page": {
+   "kind": "minutes",
+   "text": "View BOC Minutes",
+   "url": "https://www.whitehalltownship.org/boc-minutes"
+  },
+  "doc_page_profile": {
+   "pdf_links": 10,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "bangor",
+  "name": "Bangor Borough",
+  "county": "Northampton",
+  "type": "borough",
+  "urls": [
+   "https://bangorborough.org"
+  ],
+  "reachable": true,
+  "final_url": "https://bangorborough.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress",
+   "GoDaddy Builder"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://bangorborough.org/authority-agendas-minutes/",
+    "https://bangorborough.org/government/borough-council-agenda/"
+   ],
+   "minutes": [
+    "https://bangorborough.org/authority-agendas-minutes/",
+    "https://bangorborough.org/government/council-minutes/"
+   ],
+   "meetings": [
+    "https://bangorborough.org/",
+    "https://bangorborough.org/events/park-board-meeting-2/",
+    "https://bangorborough.org/events/borough-council-meeting-3/",
+    "https://bangorborough.org/events/planning-commission-meeting/",
+    "https://bangorborough.org/events/bangor-borough-authority-meeting-2/",
+    "https://bangorborough.org/events/borough-council-meeting-2/"
+   ],
+   "planning": [
+    "https://bangorborough.org/events/planning-commission-meeting/"
+   ],
+   "zoning": [
+    "https://bangorborough.org/zoning-and-code-enforcement/",
+    "https://bangorborough.org/zoning-and-code-enforcement/floodplain-information/",
+    "https://bangorborough.org/events/zoning-hearing-board-meeting/"
+   ],
+   "notices": [
+    "https://bangorborough.org/events/zoning-hearing-board-meeting/"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Authority Agendas/Minutes",
+   "url": "https://bangorborough.org/authority-agendas-minutes/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 122,
+   "newest_year": 2027,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "bath",
+  "name": "Bath Borough",
+  "county": "Northampton",
+  "type": "borough",
+  "urls": [
+   "https://www.bathborough.org"
+  ],
+  "reachable": true,
+  "final_url": "https://bathborough.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress",
+   "GoDaddy Builder"
+  ],
+  "vendors": {
+   "YouTube (video)": [
+    "youtube.com/@boroughofbath?si=pufqogvopy2psvpi",
+    "youtube.com/channel/ucvw26f27r9k79bdrlgdq1ca"
+   ]
+  },
+  "links": {
+   "agendas": [
+    "https://bathborough.org/government/meetings-agendas-minutes/"
+   ],
+   "minutes": [
+    "https://bathborough.org/government/meetings-agendas-minutes/"
+   ],
+   "meetings": [
+    "https://bathborough.org/government/meetings-agendas-minutes/",
+    "https://bathborough.org/borough-council-meeting-audio-files/",
+    "https://bathborough.org/events/regular-scheduled-borough-council-meeting-10/",
+    "https://bathborough.org/events/bath-planning-commission-meeting-31/",
+    "https://bathborough.org/events/historical-architectural-review-board-meeting-harb-as-needed-10/",
+    "https://bathborough.org/events/bath-borough-stormwater-authority-meetings-10/"
+   ],
+   "planning": [
+    "https://bathborough.org/events/bath-planning-commission-meeting-31/"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Meetings",
+   "url": "https://bathborough.org/government/meetings-agendas-minutes/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 2,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "chapman",
+  "name": "Chapman Borough",
+  "county": "Northampton",
+  "type": "borough",
+  "urls": [
+   "https://www.chapmanborough.com"
+  ],
+  "reachable": true,
+  "final_url": "https://www.chapmanborough.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "Squarespace"
+  ],
+  "vendors": {},
+  "links": {},
+  "doc_page": null,
+  "doc_page_profile": null,
+  "robots": "robots.txt present; blocks AI crawlers",
+  "notes": []
+ },
+ {
+  "key": "east-bangor",
+  "name": "East Bangor Borough",
+  "county": "Northampton",
+  "type": "borough",
+  "urls": [
+   "https://www.eastbangorborough.org"
+  ],
+  "reachable": true,
+  "final_url": "https://eastbangorborough.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://eastbangorborough.org/borough-council-meeting-agenda-6/",
+    "https://eastbangorborough.org/east-bangor-municipal-authority-agenda-october-14-2026-6pm/",
+    "https://eastbangorborough.org/borough-council-meeting-agenda-5/",
+    "https://eastbangorborough.org/east-bangor-municipal-authority-agenda-september-9-2026/"
+   ],
+   "meetings": [
+    "https://eastbangorborough.org/borough-council-meeting-agenda-6/",
+    "https://eastbangorborough.org/borough-council-meeting-agenda-5/"
+   ],
+   "zoning": [
+    "https://eastbangorborough.org/zoning/"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "November 4, 2026 Borough Council Meeting Agenda November 4, 2026 @ 7:00 PM East ",
+   "url": "https://eastbangorborough.org/borough-council-meeting-agenda-6/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "freemansburg",
+  "name": "Freemansburg Borough",
+  "county": "Northampton",
+  "type": "borough",
+  "urls": [
+   "https://boroughoffreemansburg.org"
+  ],
+  "reachable": true,
+  "final_url": "https://boroughoffreemansburg.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "meetings": [
+    "https://boroughoffreemansburg.org/calendar"
+   ],
+   "planning": [
+    "https://drive.google.com/file/d/12KQen6OPsLGs7KPu2F7SYyQSuMFM0ZDr/view?usp=sharing"
+   ],
+   "zoning": [
+    "https://drive.google.com/file/d/1Z4h1AJnPaiVEp4tqlq6BNiS3nhdq7Puz/view?usp=sharing"
+   ],
+   "notices": [
+    "https://drive.google.com/file/d/1Z4h1AJnPaiVEp4tqlq6BNiS3nhdq7Puz/view?usp=sharing"
+   ]
+  },
+  "doc_page": {
+   "kind": "planning",
+   "text": "Planning Commission",
+   "url": "https://drive.google.com/file/d/12KQen6OPsLGs7KPu2F7SYyQSuMFM0ZDr/view?usp=sharing"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "no robots.txt",
+  "notes": []
+ },
+ {
+  "key": "glendon",
+  "name": "Glendon Borough",
+  "county": "Northampton",
+  "type": "borough",
+  "urls": [
+   "https://glendonboro.com"
+  ],
+  "reachable": true,
+  "final_url": "https://glendonboro.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://glendonboro.com/agenda/"
+   ],
+   "minutes": [
+    "https://glendonboro.com/minutes/"
+   ],
+   "meetings": [
+    "https://glendonboro.com/calendar/"
+   ],
+   "zoning": [
+    "https://glendonboro.com/zoning/"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "AGENDA",
+   "url": "https://glendonboro.com/agenda/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 80,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "hellertown",
+  "name": "Hellertown Borough",
+  "county": "Northampton",
+  "type": "borough",
+  "urls": [
+   "https://www.hellertownborough.org"
+  ],
+  "reachable": true,
+  "final_url": "https://hellertownborough.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {
+   "Diligent Community": [
+    "hellertownborough.diligent.community"
+   ]
+  },
+  "links": {
+   "agendas": [
+    "https://hellertownborough.org/public-officals/council/council-agendas/",
+    "https://hellertownborough.org/public-officals/council/council-agendas/2014-council-minutes/",
+    "https://hellertownborough.org/public-officals/council/council-agendas/2015-council-minutes/",
+    "https://hellertownborough.org/public-officals/council/council-agendas/2016-council-minutes/",
+    "https://hellertownborough.org/public-officals/council/council-agendas/2017-council-agenda-minuets/",
+    "https://hellertownborough.org/public-officals/council/council-agendas/2018-council-agenda-minutes/"
+   ],
+   "minutes": [
+    "https://hellertownborough.org/public-officals/council/council-agendas/",
+    "https://hellertownborough.org/public-officals/council/council-agendas/2014-council-minutes/",
+    "https://hellertownborough.org/public-officals/council/council-agendas/2015-council-minutes/",
+    "https://hellertownborough.org/public-officals/council/council-agendas/2016-council-minutes/",
+    "https://hellertownborough.org/public-officals/council/council-agendas/2017-council-agenda-minuets/",
+    "https://hellertownborough.org/public-officals/council/council-agendas/2018-council-agenda-minutes/"
+   ],
+   "planning": [
+    "https://hellertownborough.org/public-officals/planning-commission/",
+    "https://hellertownborough.org/public-officals/planning-commission/planning-commission-agendas-and-minutes-2/",
+    "https://hellertownborough.org/public-officals/planning-commission/planning-commission-agendas-and-minutes-2/planning-commission-agendas-and-minutes/",
+    "https://hellertownborough.org/public-officals/planning-commission/planning-commission-agendas-and-minutes-2/2020-planning-commission-agenda-and-minutes/",
+    "https://hellertownborough.org/public-officals/planning-commission/planning-commission-agendas-and-minutes-2/2021-planning-commission-agenda-and-minutes/",
+    "https://hellertownborough.org/public-officals/planning-commission/planning-commission-agendas-and-minutes-2/2023-planning-commission-agenda-and-minutes/"
+   ],
+   "zoning": [
+    "https://hellertownborough.org/administration/codes-department/",
+    "https://ecode360.com/attachment/319261/HE2352-450a%20Zoning%20Map%20for%20eCode.pdf",
+    "https://hellertownborough.org/public-officals/zoning-hearing-board/"
+   ],
+   "notices": [
+    "https://hellertownborough.org/public-officals/zoning-hearing-board/"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Council Agenda & Minutes",
+   "url": "https://hellertownborough.org/public-officals/council/council-agendas/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 2,
+   "newest_year": 2024,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "nazareth",
+  "name": "Nazareth Borough",
+  "county": "Northampton",
+  "type": "borough",
+  "urls": [
+   "https://www.nazarethboroughpa.com"
+  ],
+  "reachable": true,
+  "final_url": "https://www.nazarethboroughpa.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "minutes": [
+    "https://www.nazarethboroughpa.com/council-minutes"
+   ],
+   "meetings": [
+    "https://www.nazarethboroughpa.com/calendar"
+   ]
+  },
+  "doc_page": {
+   "kind": "minutes",
+   "text": "Council Minutes",
+   "url": "https://www.nazarethboroughpa.com/council-minutes"
+  },
+  "doc_page_profile": {
+   "pdf_links": 11,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "north-catasauqua",
+  "name": "North Catasauqua Borough",
+  "county": "Northampton",
+  "type": "borough",
+  "urls": [
+   "https://www.northcatasauqua.org"
+  ],
+  "reachable": true,
+  "final_url": "https://www.northcatasauqua.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "Squarespace"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.northcatasauqua.org/council-meeting-agendas"
+   ],
+   "minutes": [
+    "https://www.northcatasauqua.org/council-meeting-minutes"
+   ],
+   "meetings": [
+    "https://www.northcatasauqua.org/council-meeting-agendas",
+    "https://www.northcatasauqua.org/council-meeting-minutes",
+    "https://www.northcatasauqua.org/calendar-and-events"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Council Meeting Agendas",
+   "url": "https://www.northcatasauqua.org/council-meeting-agendas"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": 2024,
+   "has_2026": false
+  },
+  "robots": "robots.txt present; blocks AI crawlers",
+  "notes": []
+ },
+ {
+  "key": "northampton-boro",
+  "name": "Northampton Borough",
+  "county": "Northampton",
+  "type": "borough",
+  "urls": [
+   "https://www.northamptonboro.com"
+  ],
+  "reachable": false,
+  "final_url": "https://www.northamptonboro.com/",
+  "status": 200,
+  "blocked": true,
+  "cms": [],
+  "vendors": {},
+  "links": {},
+  "doc_page": null,
+  "doc_page_profile": null,
+  "robots": "robots.txt present",
+  "notes": [
+   "https://www.northamptonboro.com: HTTP 200 (bot protection)"
+  ]
+ },
+ {
+  "key": "pen-argyl",
+  "name": "Pen Argyl Borough",
+  "county": "Northampton",
+  "type": "borough",
+  "urls": [
+   "https://www.penargylborough.com"
+  ],
+  "reachable": true,
+  "final_url": "https://penargylborough.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress",
+   "GoDaddy Builder"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://penargylborough.com/forms-documents/agendas-minutes/"
+   ],
+   "minutes": [
+    "https://penargylborough.com/forms-documents/agendas-minutes/"
+   ],
+   "meetings": [
+    "https://penargylborough.com/calendar/",
+    "https://penargylborough.com/events/park-board-meeting-3/"
+   ],
+   "zoning": [
+    "https://penargylborough.com/forms-documents/zoning-forms-applications/"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Agendas & Minutes",
+   "url": "https://penargylborough.com/forms-documents/agendas-minutes/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 194,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "portland",
+  "name": "Portland Borough",
+  "county": "Northampton",
+  "type": "borough",
+  "urls": [
+   "https://portlandboroughpa.com"
+  ],
+  "reachable": true,
+  "final_url": "https://portlandboroughpa.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://portlandboroughpa.com/borough-government/borough-council/monthly-meeting-agenda/",
+    "https://portlandboroughpa.com/portlands-archives/archived-borough-of-portland-minutes/",
+    "https://portlandboroughpa.com/portlands-archives/archived-borough-of-portland-minutes/archived-portland-borough-monthly-meeting-agendas-2015/",
+    "https://portlandboroughpa.com/portlands-archives/archived-borough-of-portland-minutes/archived-borough-of-portland-monthly-meeting-agendas-2016/",
+    "https://portlandboroughpa.com/portlands-archives/archived-borough-of-portland-minutes/archived-borough-of-portland-monthly-meeting-agendas-2017/",
+    "https://portlandboroughpa.com/borough-of-portland-council-meeting-agenda-september-18-2026-emergency-meeting/"
+   ],
+   "minutes": [
+    "https://portlandboroughpa.com/borough-government/borough-council/council-minutes/",
+    "https://portlandboroughpa.com/portlands-archives/archived-borough-of-portland-minutes/",
+    "https://portlandboroughpa.com/portlands-archives/archived-borough-of-portland-minutes/archived-portland-borough-monthly-meeting-agendas-2015/",
+    "https://portlandboroughpa.com/portlands-archives/archived-borough-of-portland-minutes/archived-borough-of-portland-monthly-meeting-agendas-2016/",
+    "https://portlandboroughpa.com/portlands-archives/archived-borough-of-portland-minutes/archived-borough-of-portland-monthly-meeting-agendas-2017/",
+    "https://portlandboroughpa.com/portlands-archives/archived-borough-of-portland-meeting-minutes/"
+   ],
+   "meetings": [
+    "https://portlandboroughpa.com/borough-government/borough-council/council-meeting-audio-recordings/",
+    "https://portlandboroughpa.com/borough-government/borough-council/monthly-meeting-agenda/",
+    "https://portlandboroughpa.com/borough-government/borough-council/council-minutes/",
+    "https://portlandboroughpa.com/community-events/portland-community-events-calendar/",
+    "https://portlandboroughpa.com/portlands-archives/archived-borough-of-portland-minutes/",
+    "https://portlandboroughpa.com/portlands-archives/archived-borough-of-portland-minutes/archived-portland-borough-monthly-meeting-agendas-2015/"
+   ],
+   "planning": [
+    "https://portlandboroughpa.com/borough-government/local-law/borough-ordinances/subdivision-and-land-development-ordinance-2015-2/",
+    "https://portlandboroughpa.com/borough-government/local-law/code-enforcement/"
+   ],
+   "zoning": [
+    "https://portlandboroughpa.com/borough-government/local-law/borough-ordinances/zoning-ordinance-2015-1/",
+    "https://portlandboroughpa.com/borough-government/local-law/code-enforcement/",
+    "https://portlandboroughpa.com/borough-government/local-law/code-enforcement/fee-schedule-for-zoning-apps/"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Council Meeting Agendas",
+   "url": "https://portlandboroughpa.com/borough-government/borough-council/monthly-meeting-agenda/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "roseto",
+  "name": "Roseto Borough",
+  "county": "Northampton",
+  "type": "borough",
+  "urls": [
+   "https://boroughroseto.com",
+   "https://www.rosetoborough.org"
+  ],
+  "reachable": true,
+  "final_url": "https://boroughroseto.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://boroughroseto.com/upcoming-events/",
+    "https://boroughroseto.com/agendas-minutes/",
+    "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Borough+Council+Meeting&dates=20261208T000000Z/20261208T000000Z&details=Requests+to+be+placed+on+any+agenda+should+be+submitted+to+the+Borough+office+at+least+one+week+prior+to+the+scheduled+date.%0D%0A%0D%0AThe+regular+monthly+meeting+of+the+Roseto+Borough+Council+is+held+on+the+first+Monday+of+each+month+providing+it+is+not+a+legal+holiday.+Meetings+are+7%3A00+pm+at+the+municipal+building+located+at+164+Garibaldi+Ave.+Access+to+the+Council+Chamber+is+via+the+rear+door+on+Chestnut+Street.+If+a+regular+Council+meeting+falls+on+a+official+holiday%2C+it+will+meet+the+second+Monday+of+the+month+at+7%3A00+pm.&location=164+Garibaldi+Avenue+Roseto%2C+PA+18013&recur=RRULE%3AFREQ%3DMONTHLY%3BWKST%3DSU%3BBYDAY%3D1MO"
+   ],
+   "minutes": [
+    "https://boroughroseto.com/agendas-minutes/"
+   ],
+   "meetings": [
+    "https://boroughroseto.com/events/borough-council-meeting/?occurrence=2026-11-02",
+    "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Veteran%E2%80%99s+Day+Service&dates=20261107T140000Z/20261107T230000Z&details=Veteran%E2%80%99s+Day+Service&location=560+N.+6th+Street+Bangor%2C+Pennsylvania+18013",
+    "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Roseto+Helping+Hands+Bingo&dates=20261109T040000Z/20261109T040000Z&details=Doors+open+at+12.%0D%0A%0D%0AGames+begin+at+1.&location=",
+    "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Veteran%E2%80%99s+Day&dates=20261111T050000Z/20261112T050000Z&details=Veteran%E2%80%99s+Day",
+    "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Thanksgiving&dates=20261126T050000Z/20261127T050000Z&details=Thanksgiving",
+    "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Roseto+Tree+Lighting&dates=20261129T230000Z/20261129T230000Z&details=Roseto+Tree+Lighting&location=164+Garibaldi+Avenue+Roseto%2C+PA+18013"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Upcoming Agendas",
+   "url": "https://boroughroseto.com/upcoming-events/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": 2025,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "stockertown",
+  "name": "Stockertown Borough",
+  "county": "Northampton",
+  "type": "borough",
+  "urls": [
+   "https://stockertown.org"
+  ],
+  "reachable": true,
+  "final_url": "https://stockertown.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "GoDaddy Builder"
+  ],
+  "vendors": {},
+  "links": {
+   "minutes": [
+    "https://stockertown.org/council-minutes"
+   ],
+   "meetings": [
+    "https://stockertown.org/calendar"
+   ]
+  },
+  "doc_page": {
+   "kind": "minutes",
+   "text": "Council Minutes",
+   "url": "https://stockertown.org/council-minutes"
+  },
+  "doc_page_profile": {
+   "pdf_links": 12,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "tatamy",
+  "name": "Tatamy Borough",
+  "county": "Northampton",
+  "type": "borough",
+  "urls": [
+   "https://www.tatamypa.com"
+  ],
+  "reachable": true,
+  "final_url": "https://www.tatamypa.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "meetings": [
+    "https://www.tatamypa.com/calendar.html"
+   ],
+   "planning": [
+    "https://www.tatamypa.com/planzone.html"
+   ],
+   "zoning": [
+    "https://www.tatamypa.com/planzone.html"
+   ]
+  },
+  "doc_page": {
+   "kind": "planning",
+   "text": "Planning / Zoning",
+   "url": "https://www.tatamypa.com/planzone.html"
+  },
+  "doc_page_profile": {
+   "pdf_links": 3,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "no robots.txt",
+  "notes": []
+ },
+ {
+  "key": "walnutport",
+  "name": "Walnutport Borough",
+  "county": "Northampton",
+  "type": "borough",
+  "urls": [
+   "https://walnutportpa.org"
+  ],
+  "reachable": true,
+  "final_url": "https://walnutportpa.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress",
+   "GoDaddy Builder"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://walnutportpa.org/meeting-minutes/"
+   ],
+   "minutes": [
+    "https://walnutportpa.org/meeting-minutes/"
+   ],
+   "meetings": [
+    "https://walnutportpa.org/meeting-minutes/"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Meeting Minutes/Agenda",
+   "url": "https://walnutportpa.org/meeting-minutes/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 390,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "west-easton",
+  "name": "West Easton Borough",
+  "county": "Northampton",
+  "type": "borough",
+  "urls": [
+   "https://westeaston.gov",
+   "https://www.westeastonborough.com"
+  ],
+  "reachable": true,
+  "final_url": "https://westeaston.gov/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://westeaston.gov/agenda-2/"
+   ],
+   "minutes": [
+    "https://westeaston.gov/meeting-minutes/"
+   ],
+   "meetings": [
+    "https://westeaston.gov/meeting-minutes/",
+    "https://westeaston.gov/calendar/",
+    "https://westeaston.gov/calendar/special-events/",
+    "https://westeaston.gov/calendar/holiday-schedule/",
+    "https://westeaston.gov/meetings/west-easton-borough-council-monday-november-9-2026-at-600-pm/"
+   ],
+   "zoning": [
+    "https://westeaston.gov/zoning/",
+    "https://westeaston.gov/forms-permits/building-zoning/"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Agendas",
+   "url": "https://westeaston.gov/agenda-2/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 15,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present; blocks AI crawlers",
+  "notes": []
+ },
+ {
+  "key": "wilson",
+  "name": "Wilson Borough",
+  "county": "Northampton",
+  "type": "borough",
+  "urls": [
+   "https://www.wilsonborough.org"
+  ],
+  "reachable": true,
+  "final_url": "https://www.wilsonborough.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.wilsonborough.org/boards-and-commissions/council/council-meeting-agendas/",
+    "https://www.wilsonborough.org/boards-and-commissions/planning-commission/agenda/"
+   ],
+   "minutes": [
+    "https://www.wilsonborough.org/boards-and-commissions/council/meetings-minutes/",
+    "https://www.wilsonborough.org/boards-and-commissions/planning-commission/minutes/"
+   ],
+   "meetings": [
+    "https://www.wilsonborough.org/boards-and-commissions/council/council-meeting-agendas/",
+    "https://www.wilsonborough.org/boards-and-commissions/council/meetings-minutes/",
+    "https://www.wilsonborough.org/events/"
+   ],
+   "planning": [
+    "https://www.wilsonborough.org/boards-and-commissions/planning-commission/",
+    "https://www.wilsonborough.org/boards-and-commissions/planning-commission/agenda/",
+    "https://www.wilsonborough.org/boards-and-commissions/planning-commission/minutes/"
+   ],
+   "zoning": [
+    "https://www.wilsonborough.org/boards-and-commissions/zoning-board/",
+    "https://www.wilsonborough.org/boards-and-commissions/zoning-board/zoning-hearing-board/"
+   ],
+   "notices": [
+    "https://www.wilsonborough.org/boards-and-commissions/zoning-board/zoning-hearing-board/",
+    "https://www.wilsonborough.org/3028-2/"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Council Meeting Agenda\u2019s",
+   "url": "https://www.wilsonborough.org/boards-and-commissions/council/council-meeting-agendas/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 131,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "wind-gap",
+  "name": "Wind Gap Borough",
+  "county": "Northampton",
+  "type": "borough",
+  "urls": [
+   "https://www.windgap-pa.gov"
+  ],
+  "reachable": true,
+  "final_url": "https://windgap-pa.gov/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://windgap-pa.gov/agenda-and-minutes/"
+   ],
+   "minutes": [
+    "https://windgap-pa.gov/agenda-and-minutes/"
+   ],
+   "meetings": [
+    "https://windgap-pa.gov/calendar/",
+    "https://windgap-pa.gov/agenda-and-minutes/",
+    "https://windgap-pa.gov/calendar-submission/"
+   ],
+   "planning": [
+    "https://windgap-pa.gov/planning-zoning/"
+   ],
+   "zoning": [
+    "https://windgap-pa.gov/planning-zoning/"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Agenda and Minutes",
+   "url": "https://windgap-pa.gov/agenda-and-minutes/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "allen",
+  "name": "Allen Township",
+  "county": "Northampton",
+  "type": "township",
+  "urls": [
+   "https://www.allentownship.org"
+  ],
+  "reachable": true,
+  "final_url": "https://www.allentownship.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.allentownship.org/index.html?scrollto=agendas"
+   ],
+   "minutes": [
+    "https://www.allentownship.org/bos-minutes.html"
+   ],
+   "meetings": [
+    "https://www.allentownship.org/calendar.html",
+    "https://www.allentownship.org/bos-minutes.html",
+    "https://www.allentownship.org/forms/2026-trashandrecycling.pdf"
+   ],
+   "planning": [
+    "https://drive.google.com/file/d/1a5Cf44CWaOuzD1bKI1EzrLQuiuBiRC4A/view?usp=sharing"
+   ],
+   "zoning": [
+    "https://drive.google.com/file/d/1vFmbMymF_NdS2H7DhaqZ1KxsQbm04hxl/view?usp=sharing",
+    "https://www.allentownship.org/zoning-map.html"
+   ],
+   "notices": [
+    "https://drive.google.com/file/d/1vFmbMymF_NdS2H7DhaqZ1KxsQbm04hxl/view?usp=sharing"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "View Current Agendas",
+   "url": "https://www.allentownship.org/index.html?scrollto=agendas"
+  },
+  "doc_page_profile": {
+   "pdf_links": 1,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "bethlehem-twp",
+  "name": "Bethlehem Township",
+  "county": "Northampton",
+  "type": "township",
+  "urls": [
+   "https://www.bethlehemtownship.org"
+  ],
+  "reachable": true,
+  "final_url": "https://www.bethlehemtownship.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.bethlehemtownship.org/index?scrollto=agendas"
+   ],
+   "minutes": [
+    "https://www.bethlehemtownship.org/boc-minutes"
+   ],
+   "meetings": [
+    "https://www.bethlehemtownship.org/calendar"
+   ],
+   "planning": [
+    "https://drive.google.com/file/d/12_s2ccB1ufR2uwt2WfDVjgqZ02PHNU3h/view"
+   ],
+   "zoning": [
+    "https://drive.google.com/file/d/19D_yhrFe-LaBmN8wbghhcrvqRbUwB3gY/view"
+   ],
+   "notices": [
+    "https://drive.google.com/file/d/19D_yhrFe-LaBmN8wbghhcrvqRbUwB3gY/view"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "View Current Agendas",
+   "url": "https://www.bethlehemtownship.org/index?scrollto=agendas"
+  },
+  "doc_page_profile": {
+   "pdf_links": 2,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "bushkill",
+  "name": "Bushkill Township",
+  "county": "Northampton",
+  "type": "township",
+  "urls": [
+   "https://www.bushkilltownship.org",
+   "https://www.bushkilltownship.com"
+  ],
+  "reachable": true,
+  "final_url": "https://bushkilltownship.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "minutes": [
+    "https://bushkilltownship.com/bos_minutes.html"
+   ],
+   "meetings": [
+    "https://bushkilltownship.com/calendar.html",
+    "https://bushkilltownship.com/bos_minutes.html"
+   ],
+   "zoning": [
+    "https://bushkilltownship.com/forms/08_10_2026 ZHB.pdf"
+   ]
+  },
+  "doc_page": {
+   "kind": "minutes",
+   "text": "BOS : View the Board of Supervisors Meeting Minutes",
+   "url": "https://bushkilltownship.com/bos_minutes.html"
+  },
+  "doc_page_profile": {
+   "pdf_links": 9,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "no robots.txt",
+  "notes": []
+ },
+ {
+  "key": "east-allen",
+  "name": "East Allen Township",
+  "county": "Northampton",
+  "type": "township",
+  "urls": [
+   "https://www.eatwp.org"
+  ],
+  "reachable": false,
+  "final_url": "https://www.eatwp.org/",
+  "status": 200,
+  "blocked": true,
+  "cms": [],
+  "vendors": {},
+  "links": {},
+  "doc_page": null,
+  "doc_page_profile": null,
+  "robots": "no robots.txt",
+  "notes": [
+   "https://www.eatwp.org: HTTP 200 (bot protection)"
+  ]
+ },
+ {
+  "key": "forks",
+  "name": "Forks Township",
+  "county": "Northampton",
+  "type": "township",
+  "urls": [
+   "https://www.forkstownship.org"
+  ],
+  "reachable": true,
+  "final_url": "https://www.forkstownship.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "CivicPlus"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.forkstownship.org/AgendaCenter"
+   ],
+   "minutes": [
+    "https://www.forkstownship.org/AgendaCenter"
+   ],
+   "meetings": [
+    "https://www.forkstownship.org/",
+    "https://www.forkstownship.org/calendar.aspx?view=list&year=2026&month=11&day=12&CID=14",
+    "https://www.forkstownship.org/calendar.aspx?view=list&year=2026&month=11&day=19&CID=14",
+    "https://www.forkstownship.org/calendar.aspx?view=list&year=2026&month=12&day=3&CID=14",
+    "https://www.forkstownship.org/Calendar.aspx?EID=1193",
+    "https://www.forkstownship.org/Calendar.aspx?EID=1182"
+   ],
+   "planning": [
+    "https://www.forkstownship.org/Calendar.aspx?EID=1193"
+   ],
+   "zoning": [
+    "https://www.forkstownship.org/160/Building-Zoning"
+   ],
+   "notices": [
+    "https://www.forkstownship.org/CivicAlerts.aspx?AID=60"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Agendas & Minutes",
+   "url": "https://www.forkstownship.org/AgendaCenter"
+  },
+  "doc_page_profile": {
+   "pdf_links": 125,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present; blocks AI crawlers",
+  "notes": []
+ },
+ {
+  "key": "hanover-northampton",
+  "name": "Hanover Township (Northampton)",
+  "county": "Northampton",
+  "type": "township",
+  "urls": [
+   "https://www.hanovertwp-nc.org"
+  ],
+  "reachable": true,
+  "final_url": "https://www.hanovertwp-nc.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "meetings": [
+    "https://www.hanovertwp-nc.org/resources/calendar/",
+    "https://www.hanovertwp-nc.org/government/meetings/"
+   ],
+   "planning": [
+    "https://www.hanovertwp-nc.org/government/boards-commissions/planning-commission/",
+    "https://www.hanovertwp-nc.org/departments/building-zoning/planning/",
+    "https://www.hanovertwp-nc.org/departments/building-zoning/subdivisions-land-development/"
+   ],
+   "zoning": [
+    "https://www.hanovertwp-nc.org/departments/building-zoning/",
+    "https://www.hanovertwp-nc.org/government/boards-commissions/zoning-hearing-board/",
+    "https://www.hanovertwp-nc.org/departments/building-zoning/building-codes-ucc/",
+    "https://www.hanovertwp-nc.org/departments/building-zoning/permits/",
+    "https://www.hanovertwp-nc.org/departments/building-zoning/planning/",
+    "https://www.hanovertwp-nc.org/departments/building-zoning/rental-property-registration/"
+   ],
+   "notices": [
+    "https://www.hanovertwp-nc.org/government/boards-commissions/zoning-hearing-board/"
+   ]
+  },
+  "doc_page": {
+   "kind": "planning",
+   "text": "Planning Commission",
+   "url": "https://www.hanovertwp-nc.org/government/boards-commissions/planning-commission/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 130,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "lehigh-twp",
+  "name": "Lehigh Township",
+  "county": "Northampton",
+  "type": "township",
+  "urls": [
+   "https://www.lehightownship.com",
+   "http://www.lehightownship.webs.com"
+  ],
+  "reachable": true,
+  "final_url": "https://www.lehightownship.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.lehightownship.com/bos_minutes.html"
+   ],
+   "minutes": [
+    "https://www.lehightownship.com/bos_minutes.html"
+   ],
+   "meetings": [
+    "https://www.lehightownship.com/calendar.html",
+    "https://www.lehightownship.com/bos_minutes.html"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "BOS : View the Board of Supervisors Meeting Minutes / Agenda",
+   "url": "https://www.lehightownship.com/bos_minutes.html"
+  },
+  "doc_page_profile": {
+   "pdf_links": 22,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "lower-mount-bethel",
+  "name": "Lower Mount Bethel Township",
+  "county": "Northampton",
+  "type": "township",
+  "urls": [
+   "https://www.lowermtbethel.org"
+  ],
+  "reachable": true,
+  "final_url": "https://www.lowermtbethel.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.lowermtbethel.org/minutes.html",
+    "https://www.lowermtbethel.org/bosagenda.pdf",
+    "https://www.lowermtbethel.org/pcagenda.pdf",
+    "https://www.lowermtbethel.org/osagenda.pdf",
+    "https://www.lowermtbethel.org/eacagenda.pdf"
+   ],
+   "minutes": [
+    "https://www.lowermtbethel.org/minutes.html"
+   ],
+   "meetings": [
+    "https://www.lowermtbethel.org/calendar.html",
+    "https://www.lowermtbethel.org/minutes.html"
+   ],
+   "zoning": [
+    "https://www.lowermtbethel.org/forms/petition-to-amend-zoning-map.pdf"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Township Supervisors View our current agenda or Township meeting minutes",
+   "url": "https://www.lowermtbethel.org/minutes.html"
+  },
+  "doc_page_profile": {
+   "pdf_links": 16,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "no robots.txt",
+  "notes": []
+ },
+ {
+  "key": "lower-nazareth",
+  "name": "Lower Nazareth Township",
+  "county": "Northampton",
+  "type": "township",
+  "urls": [
+   "https://lowernazareth.com"
+  ],
+  "reachable": false,
+  "final_url": "https://lowernazareth.com/",
+  "status": 200,
+  "blocked": true,
+  "cms": [],
+  "vendors": {},
+  "links": {},
+  "doc_page": null,
+  "doc_page_profile": null,
+  "robots": "no robots.txt",
+  "notes": [
+   "https://lowernazareth.com: HTTP 200 (bot protection)"
+  ]
+ },
+ {
+  "key": "lower-saucon",
+  "name": "Lower Saucon Township",
+  "county": "Northampton",
+  "type": "township",
+  "urls": [
+   "https://www.lowersaucontownship.org"
+  ],
+  "reachable": true,
+  "final_url": "https://www.lowersaucontownship.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "Revize"
+  ],
+  "vendors": {
+   "BoardDocs": [
+    "go.boarddocs.com/pa/lowersaucontwp/board.nsf/public"
+   ],
+   "YouTube (video)": [
+    "youtube.com/@lowersaucontownship/streams"
+   ]
+  },
+  "links": {
+   "agendas": [
+    "https://www.lowersaucontownship.org/government/council/agendas_and_minutes.php",
+    "https://www.lowersaucontownship.org/government/environmental_advisory_council/agendas_and_minutes.php",
+    "https://www.lowersaucontownship.org/government/landfill_committee/committee_agendas_and_notes.php",
+    "https://www.lowersaucontownship.org/government/parks_and_recreation/agendas_and_minutes.php"
+   ],
+   "minutes": [
+    "https://www.lowersaucontownship.org/government/council/agendas_and_minutes.php",
+    "https://www.lowersaucontownship.org/government/environmental_advisory_council/agendas_and_minutes.php",
+    "https://www.lowersaucontownship.org/government/parks_and_recreation/agendas_and_minutes.php"
+   ],
+   "meetings": [
+    "https://lowersaucontownship.community.diligentoneplatform.com/Portal/",
+    "https://go.boarddocs.com/pa/lowersaucontwp/Board.nsf/Public",
+    "https://www.lowersaucontownship.org/calendar.php"
+   ],
+   "planning": [
+    "https://www.lowersaucontownship.org/government/planning_commission/index.php",
+    "https://www.lowersaucontownship.org/government/planning_commission/active_transportation_plan.php",
+    "https://www.lowersaucontownship.org/Documents/Government/Planning Commission/Comprehensive Plan/MMCPupdate.pdf",
+    "https://www.lowersaucontownship.org/government/planning_commission/planning_and_development/index.php"
+   ],
+   "zoning": [
+    "https://www.lowersaucontownship.org/government/zoning_department/stormwater_management.php",
+    "https://www.lowersaucontownship.org/government/zoning_department/index.php",
+    "https://www.lowersaucontownship.org/government/directory.php",
+    "https://www.lowersaucontownship.org/government/zoning_department/new_page.php",
+    "https://www.lowersaucontownship.org/government/zoning_hearing_board.php"
+   ],
+   "notices": [
+    "https://www.lowersaucontownship.org/government/zoning_hearing_board.php"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Council Minutes",
+   "url": "https://www.lowersaucontownship.org/government/council/agendas_and_minutes.php"
+  },
+  "doc_page_profile": {
+   "pdf_links": 153,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "no robots.txt",
+  "notes": []
+ },
+ {
+  "key": "moore",
+  "name": "Moore Township",
+  "county": "Northampton",
+  "type": "township",
+  "urls": [
+   "https://mooretownship.org"
+  ],
+  "reachable": true,
+  "final_url": "https://mooretownship.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://mooretownship.org/agendas/bosagenda.pdf",
+    "https://mooretownship.org/agendas/audagenda.pdf",
+    "https://mooretownship.org/agendas/zhbagenda.pdf",
+    "https://mooretownship.org/agendas/lepbagenda.pdf",
+    "https://mooretownship.org/agendas/cdagenda.pdf",
+    "https://mooretownship.org/agendas/recagenda.pdf"
+   ],
+   "minutes": [
+    "https://mooretownship.org/minutes.html"
+   ],
+   "meetings": [
+    "https://mooretownship.org/calendar.html",
+    "https://mooretownship.org/minutes.html"
+   ],
+   "planning": [
+    "https://mooretownship.org/agendas/planagenda.pdf"
+   ],
+   "zoning": [
+    "https://mooretownship.org/agendas/zhbagenda.pdf"
+   ],
+   "notices": [
+    "https://mooretownship.org/agendas/zhbagenda.pdf"
+   ]
+  },
+  "doc_page": {
+   "kind": "minutes",
+   "text": "Board of Supervisors View our current Board of Supervisors meeting minutes",
+   "url": "https://mooretownship.org/minutes.html"
+  },
+  "doc_page_profile": {
+   "pdf_links": 11,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "no robots.txt",
+  "notes": []
+ },
+ {
+  "key": "palmer",
+  "name": "Palmer Township",
+  "county": "Northampton",
+  "type": "township",
+  "urls": [
+   "https://www.palmertwp.com"
+  ],
+  "reachable": true,
+  "final_url": "https://www.palmertwp.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {
+   "Granicus (meetings)": [
+    "palmertwp.granicus.com"
+   ]
+  },
+  "links": {
+   "meetings": [
+    "https://www.palmertwp.com/calendar.html"
+   ]
+  },
+  "doc_page": {
+   "kind": "meetings",
+   "text": "Calendar",
+   "url": "https://www.palmertwp.com/calendar.html"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "plainfield",
+  "name": "Plainfield Township",
+  "county": "Northampton",
+  "type": "township",
+  "urls": [
+   "https://plainfieldtownship.org",
+   "http://www.twp.plainfield.pa.us"
+  ],
+  "reachable": true,
+  "final_url": "https://plainfieldtownship.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://plainfieldtownship.org/bos-minutes.html"
+   ],
+   "minutes": [
+    "https://plainfieldtownship.org/bos-minutes.html"
+   ],
+   "meetings": [
+    "https://plainfieldtownship.org/calendar.html",
+    "https://plainfieldtownship.org/forms/26trashcalendar.pdf"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "BOS Agendas",
+   "url": "https://plainfieldtownship.org/bos-minutes.html"
+  },
+  "doc_page_profile": {
+   "pdf_links": 32,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "upper-mount-bethel",
+  "name": "Upper Mount Bethel Township",
+  "county": "Northampton",
+  "type": "township",
+  "urls": [
+   "https://www.umbt.org"
+  ],
+  "reachable": true,
+  "final_url": "https://www.umbt.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {
+   "YouTube (video)": [
+    "youtube.com/@umbt-meetings"
+   ]
+  },
+  "links": {
+   "agendas": [
+    "https://www.umbt.org/?page_id=14"
+   ],
+   "minutes": [
+    "https://www.umbt.org/?page_id=14"
+   ],
+   "meetings": [
+    "https://www.umbt.org/?page_id=123",
+    "https://www.umbt.org/?page_id=14",
+    "https://www.youtube.com/@UMBT-Meetings"
+   ],
+   "zoning": [
+    "https://www.umbt.org/?p=2913",
+    "https://www.umbt.org/?p=2860"
+   ],
+   "notices": [
+    "https://www.umbt.org/"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "TOWNSHIP SUPERVISORS View our current agenda or Township meeting minutes",
+   "url": "https://www.umbt.org/?page_id=14"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "upper-nazareth",
+  "name": "Upper Nazareth Township",
+  "county": "Northampton",
+  "type": "township",
+  "urls": [
+   "https://www.uppernazarethtownship.org"
+  ],
+  "reachable": false,
+  "final_url": "https://www.uppernazarethtownship.org/",
+  "status": 200,
+  "blocked": true,
+  "cms": [],
+  "vendors": {},
+  "links": {},
+  "doc_page": null,
+  "doc_page_profile": null,
+  "robots": "no robots.txt",
+  "notes": [
+   "https://www.uppernazarethtownship.org: HTTP 200 (bot protection)"
+  ]
+ },
+ {
+  "key": "washington-northampton",
+  "name": "Washington Township (Northampton)",
+  "county": "Northampton",
+  "type": "township",
+  "urls": [
+   "https://washington-township.com"
+  ],
+  "reachable": true,
+  "final_url": "https://washington-township.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://washington-township.com/index.html?scrollto=agendas",
+    "https://washington-township.com/agendas/bosagenda.pdf",
+    "https://washington-township.com/agendas/auditoragenda.pdf",
+    "https://washington-township.com/agendas/orgagenda.pdf",
+    "https://washington-township.com/agendas/planagenda.pdf",
+    "https://washington-township.com/agendas/recagenda.pdf"
+   ],
+   "minutes": [
+    "https://washington-township.com/minutes.html"
+   ],
+   "meetings": [
+    "https://washington-township.com/calendar.html",
+    "https://washington-township.com/minutes.html",
+    "https://washington-township.com/forms/2025-budget-meetings.pdf",
+    "https://washington-township.com/agendas/auditoragenda.pdf",
+    "https://washington-township.com/agendas/orgagenda.pdf"
+   ],
+   "planning": [
+    "https://washington-township.com/agendas/planagenda.pdf"
+   ],
+   "zoning": [
+    "https://washington-township.com/agendas/zoneagenda.pdf"
+   ],
+   "notices": [
+    "https://washington-township.com/agendas/zoneagenda.pdf"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Agendas",
+   "url": "https://washington-township.com/index.html?scrollto=agendas"
+  },
+  "doc_page_profile": {
+   "pdf_links": 24,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "no robots.txt",
+  "notes": []
+ },
+ {
+  "key": "williams",
+  "name": "Williams Township",
+  "county": "Northampton",
+  "type": "township",
+  "urls": [
+   "https://www.williamstwp.org"
+  ],
+  "reachable": true,
+  "final_url": "https://www.williamstwp.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.williamstwp.org/agendas/"
+   ],
+   "meetings": [
+    "https://www.williamstwp.org/agendas/",
+    "https://www.williamstwp.org/calendar/",
+    "https://www.williamstwp.org/events/board-of-supervisors-meeting-287/",
+    "https://www.williamstwp.org/events/planning-commission-meeting/",
+    "https://www.williamstwp.org/events/zoning-hearing-board-meeting-840-922/",
+    "https://www.williamstwp.org/events/land-preservation-board-meeting/"
+   ],
+   "planning": [
+    "https://www.williamstwp.org/planning-commission/",
+    "https://www.williamstwp.org/events/planning-commission-meeting/"
+   ],
+   "zoning": [
+    "https://www.williamstwp.org/zoning/",
+    "https://www.williamstwp.org/zoning-hearing-board/",
+    "https://www.williamstwp.org/events/zoning-hearing-board-application-deadline/",
+    "https://www.williamstwp.org/events/zoning-hearing-board-meeting-840-922/"
+   ],
+   "notices": [
+    "https://www.williamstwp.org/zoning-hearing-board/",
+    "https://www.williamstwp.org/events/zoning-hearing-board-application-deadline/",
+    "https://www.williamstwp.org/events/zoning-hearing-board-meeting-840-922/"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Upcoming Meeting Agendas",
+   "url": "https://www.williamstwp.org/agendas/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 1,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "lehigh-county",
+  "name": "Lehigh County",
+  "county": "Lehigh",
+  "type": "county",
+  "urls": [
+   "https://www.lehighcounty.org"
+  ],
+  "reachable": false,
+  "final_url": null,
+  "status": null,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {},
+  "doc_page": null,
+  "doc_page_profile": null,
+  "robots": "",
+  "notes": [
+   "https://www.lehighcounty.org: SSLError"
+  ]
+ },
+ {
+  "key": "northampton-county",
+  "name": "Northampton County",
+  "county": "Northampton",
+  "type": "county",
+  "urls": [
+   "https://www.norcopa.gov"
+  ],
+  "reachable": true,
+  "final_url": "https://www.norcopa.gov/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {
+   "YouTube (video)": [
+    "youtube.com/@northamptoncounty6960"
+   ]
+  },
+  "links": {
+   "meetings": [
+    "https://norcopa.gov/county-council-resources",
+    "https://www.norcopa.gov/index.php?section=master-calendar&evtid=491",
+    "https://www.norcopa.gov/index.php?section=master-calendar&evtid=309",
+    "https://www.norcopa.gov/index.php?section=master-calendar&evtid=417",
+    "https://www.norcopa.gov/index.php?section=master-calendar&evtid=492",
+    "https://www.norcopa.gov/index.php?section=master-calendar&evtid=353"
+   ],
+   "notices": [
+    "https://www.norcopa.gov/index.php?section=master-calendar&evtid=491",
+    "https://www.norcopa.gov/index.php?section=master-calendar&evtid=492",
+    "https://www.norcopa.gov/index.php?section=master-calendar&evtid=493"
+   ]
+  },
+  "doc_page": {
+   "kind": "meetings",
+   "text": "County Council Meetings",
+   "url": "https://norcopa.gov/county-council-resources"
+  },
+  "doc_page_profile": {
+   "pdf_links": 1,
+   "newest_year": 2027,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ },
+ {
+  "key": "lvpc",
+  "name": "Lehigh Valley Planning Commission",
+  "county": "Lehigh/Northampton",
+  "type": "regional",
+  "urls": [
+   "https://lvpc.org"
+  ],
+  "reachable": true,
+  "final_url": "https://lvpc.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "GoDaddy Builder"
+  ],
+  "vendors": {},
+  "links": {
+   "meetings": [
+    "https://lvpc.org/lvpc-meetings",
+    "https://lvpc.org/lvts-committee-meetings"
+   ],
+   "planning": [
+    "https://www.instagram.com/lvplanningcommish",
+    "https://www.linkedin.com/company/lehigh-valley-planning-commission/",
+    "https://www.x.com/LVplanning"
+   ],
+   "notices": [
+    "https://lvpc.org/legal-notices"
+   ]
+  },
+  "doc_page": {
+   "kind": "planning",
+   "text": "",
+   "url": "https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Flvplanningcommish&is_from_rle"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": []
+ }
+]
