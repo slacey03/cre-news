@@ -98,6 +98,12 @@ def save(conn, d, content, usage):
     if out is None:
         print(f"  ! {d['id']}: model did not call the tool; skipped"); return None
     projects = out.get("projects") or []
+    if isinstance(projects, str):  # occasionally the list comes back JSON-encoded as text
+        try:
+            projects = json.loads(projects)
+        except ValueError:
+            projects = []
+    projects = [p for p in (projects if isinstance(projects, list) else []) if isinstance(p, dict)]
     with conn.transaction():
         conn.execute("delete from projects where document_id = %s", (d["id"],))
         for p in projects:
