@@ -22,6 +22,7 @@ jobs:
       - run: pip install requests beautifulsoup4 pypdf pdf2image pytesseract
       - run: python collectors/civicplus.py
       - run: python collectors/nastudios.py
+      - run: python collectors/revize.py
       - name: Save collected documents
         run: |
           git config user.name "github-actions[bot]"
