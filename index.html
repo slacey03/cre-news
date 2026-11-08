@@ -367,7 +367,9 @@
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
 <script>
 // A sign-in link from an older email may land here: pass it on to the dashboard.
-if (/access_token|type=magiclink|code=/.test(location.hash + location.search)) location.replace('/dashboard' + location.search + location.hash);
+// Sign-in or password emails that land on the home page are passed on to the right page.
+if (/type=recovery/.test(location.hash + location.search)) location.replace('/login' + location.search + location.hash);
+else if (/access_token|type=magiclink|code=/.test(location.hash + location.search)) location.replace('/dashboard' + location.search + location.hash);
 const sb = supabase.createClient('https://jrlircehkzivwkcauzdt.supabase.co', 'sb_publishable_BwmJpTu23Omlk5F8ZfXW7A__UnnnEyX');
 sb.auth.getSession().then(({ data }) => {
   const nl = document.getElementById('nav-login');

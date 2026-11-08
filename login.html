@@ -161,6 +161,8 @@
   .msg { margin-top: 16px; font-size: 14px; line-height: 1.5; color: var(--ink-soft); }
   .msg.ok { color: var(--primary); }
   .msg a { color: var(--primary); }
+  .alt { margin-top: 16px; font-size: 13px; color: var(--ink-faded); display: flex; gap: 8px; flex-wrap: wrap; }
+  .alt a { color: var(--primary); }
   .note { font-size: 14px; color: var(--ink-faded); max-width: 520px; }
   .note a { color: var(--primary); }
 </style>
@@ -197,14 +199,30 @@
       <span>Pennsylvania</span>
     </div>
     <h1 class="section-title">Log<span class="green">In</span></h1>
-    <p class="section-subtitle">We'll email you a one-time sign-in link. No password needed.</p>
+    <p class="section-subtitle" id="sub">Log in with your email and password, on any device.</p>
   </header>
 
   <form class="login-card" id="login">
     <label for="email">Email</label>
-    <input type="email" id="email" placeholder="you@company.com" autocomplete="email" required>
-    <button class="btn primary" type="submit" id="go">Email me a sign-in link</button>
+    <input type="email" id="email" placeholder="you@company.com" autocomplete="username" required>
+    <label for="password">Password</label>
+    <input type="password" id="password" placeholder="Your password" autocomplete="current-password" required>
+    <button class="btn primary" type="submit" id="go">Log in</button>
     <div class="msg" id="msg"></div>
+    <div class="alt">
+      <a href="#" id="forgot">Set or reset your password</a>
+      <span>·</span>
+      <a href="#" id="magic">Email me a one-time sign-in link instead</a>
+    </div>
+  </form>
+
+  <form class="login-card" id="setpw" style="display:none">
+    <label for="newpw">Choose a password</label>
+    <input type="password" id="newpw" placeholder="At least 8 characters" autocomplete="new-password" minlength="8" required>
+    <label for="newpw2">Type it again</label>
+    <input type="password" id="newpw2" autocomplete="new-password" minlength="8" required>
+    <button class="btn primary" type="submit" id="save">Save password and log in</button>
+    <div class="msg" id="msg2"></div>
   </form>
   <p class="note">Member logins open at launch. Not a member yet? <a href="/waitlist">Sign up for the waitlist</a> to be first in line.</p>
 
@@ -217,23 +235,80 @@
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
 <script>
 const sb = supabase.createClient('https://jrlircehkzivwkcauzdt.supabase.co', 'sb_publishable_BwmJpTu23Omlk5F8ZfXW7A__UnnnEyX');
-const msg = document.getElementById('msg'), go = document.getElementById('go');
-sb.auth.getSession().then(({ data }) => { if (data.session) location.replace('/dashboard'); });
-document.getElementById('login').onsubmit = async e => {
+const $ = id => document.getElementById(id);
+const msg = $('msg'), go = $('go');
+const say = (el, text, ok, html) => { el.className = 'msg' + (ok ? ' ok' : ''); el[html ? 'innerHTML' : 'textContent'] = text; };
+const WAIT = 'Member logins aren\'t open yet. <a href="/waitlist">Join the waitlist</a> and we\'ll let you know as soon as they are.';
+const recovering = /type=recovery/.test(location.hash + location.search);
+
+function showSetPassword() {
+  $('login').style.display = 'none'; $('setpw').style.display = '';
+  $('sub').textContent = 'Choose a password. You\'ll use it with your email to log in on any device.';
+  $('newpw').focus();
+}
+// Arriving from a "set your password" email: show the password form instead of redirecting.
+sb.auth.onAuthStateChange(event => { if (event === 'PASSWORD_RECOVERY') showSetPassword(); });
+sb.auth.getSession().then(({ data }) => {
+  if (recovering) { if (data.session) showSetPassword(); return; }
+  if (data.session) location.replace('/dashboard');
+});
+
+// Before launch only emails on the members list can log in or get emails from this page.
+async function allowed(email) {
+  const { data, error } = await sb.rpc('can_login', { email });
+  if (error) { say(msg, 'Something went wrong. Please try again in a minute.'); return false; }
+  if (!data) say(msg, WAIT, false, true);
+  return !!data;
+}
+const emailVal = () => $('email').value.trim().toLowerCase();
+
+$('login').onsubmit = async e => {
   e.preventDefault();
-  const email = document.getElementById('email').value.trim().toLowerCase();
-  go.disabled = true; msg.className = 'msg'; msg.textContent = 'Checking…';
-  // Only members can log in before launch; everyone else is pointed to the waitlist.
-  const { data: allowed, error } = await sb.rpc('can_login', { email });
-  if (error) { msg.textContent = 'Something went wrong. Please try again in a minute.'; go.disabled = false; return; }
-  if (!allowed) {
-    msg.innerHTML = 'Member logins aren\'t open yet. <a href="/waitlist">Join the waitlist</a> and we\'ll let you know as soon as they are.';
+  const email = emailVal(), password = $('password').value;
+  go.disabled = true; say(msg, 'Checking…');
+  if (!(await allowed(email))) { go.disabled = false; return; }
+  const { error } = await sb.auth.signInWithPassword({ email, password });
+  if (error) {
+    say(msg, /invalid/i.test(error.message)
+      ? 'That email and password don\'t match. If you haven\'t set a password yet, use "Set or reset your password" below.'
+      : 'Could not log in: ' + error.message);
     go.disabled = false; return;
   }
-  const { error: err } = await sb.auth.signInWithOtp({ email, options: { emailRedirectTo: location.origin + '/dashboard' } });
-  if (err) { msg.textContent = 'Could not send the link: ' + err.message; go.disabled = false; return; }
-  msg.className = 'msg ok';
-  msg.textContent = 'Check your inbox for a sign-in link. It comes from Supabase, so check junk if you don\'t see it in a minute or two.';
+  location.replace('/dashboard');
+};
+
+$('forgot').onclick = async e => {
+  e.preventDefault();
+  const email = emailVal();
+  if (!email) { say(msg, 'Enter your email above first.'); $('email').focus(); return; }
+  say(msg, 'Checking…');
+  if (!(await allowed(email))) return;
+  const { error } = await sb.auth.resetPasswordForEmail(email, { redirectTo: location.origin + '/login' });
+  say(msg, error ? 'Could not send the email: ' + error.message
+    : 'Check your inbox for a "Reset your password" email (from Supabase; check junk). Open it on this device, choose a password, and you\'re set on every device after that.', !error);
+};
+
+$('magic').onclick = async e => {
+  e.preventDefault();
+  const email = emailVal();
+  if (!email) { say(msg, 'Enter your email above first.'); $('email').focus(); return; }
+  say(msg, 'Checking…');
+  if (!(await allowed(email))) return;
+  const { error } = await sb.auth.signInWithOtp({ email, options: { emailRedirectTo: location.origin + '/dashboard', shouldCreateUser: false } });
+  say(msg, error ? 'Could not send the link: ' + error.message
+    : 'Check your inbox for a sign-in link. It signs in the device you open it on.', !error);
+};
+
+$('setpw').onsubmit = async e => {
+  e.preventDefault();
+  const m2 = $('msg2'), p1 = $('newpw').value, p2 = $('newpw2').value;
+  if (p1.length < 8) return say(m2, 'Use at least 8 characters.');
+  if (p1 !== p2) return say(m2, 'The two passwords don\'t match.');
+  $('save').disabled = true; say(m2, 'Saving…');
+  const { error } = await sb.auth.updateUser({ password: p1 });
+  if (error) { say(m2, 'Could not save the password: ' + error.message); $('save').disabled = false; return; }
+  say(m2, 'Password saved. Taking you to the dashboard…', true);
+  setTimeout(() => location.replace('/dashboard'), 900);
 };
 </script>
 </body>
