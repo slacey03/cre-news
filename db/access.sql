@@ -7,7 +7,7 @@ create table if not exists members (
   added_at timestamptz default now());
 alter table members enable row level security;
 insert into members (email_hash, note) values
-  ('05eb1d5eeff45c863f1b9a25799520d8c0a3c630167b4c47bc710e9c0e496b52', 'Seth (owner)')
+  ('05eb1d5eeff45c863f1b9a25799520d8c0a3c630167b4c47bc710e9c0e496b52', 'owner')
   on conflict (email_hash) do nothing;
 
 create or replace function public.is_member() returns boolean
