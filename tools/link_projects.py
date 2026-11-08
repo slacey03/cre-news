@@ -234,9 +234,44 @@ create table if not exists pipeline (
   first_seen date, last_seen date, mentions int, timeline jsonb, updated_at timestamptz default now());
 alter table pipeline enable row level security;
 alter table projects add column if not exists pipeline_id text;
+alter table pipeline add column if not exists news jsonb;
+alter table pipeline add column if not exists news_first date;
 create index if not exists pipeline_muni on pipeline (municipality_key, last_seen desc);
 create index if not exists pipeline_cat on pipeline (category, last_seen desc);
 """
+
+
+def attach_news(conn, rows, pipeline, mapping):
+    """Attach news linked by exact address (tools/news_link.py) to each project. Strict: the article's matched address
+    must be the same house number + street as one of the project's own addresses, in the same municipality."""
+    import addr as A
+    if not conn.execute("select to_regclass('public.project_news')").fetchone()[0]:
+        return
+    news = conn.execute("""select municipality_key, matched_address, url, outlet, headline, published::text, summary, facts
+                           from project_news order by published nulls last""").fetchall()
+    by_muni = defaultdict(list)
+    for n in news:
+        parsed = A.parse(n[1].split(",")[0], need_suffix=False)
+        if parsed:
+            by_muni[n[0]].append((parsed[0], n))
+    own = defaultdict(set)  # pipeline id -> its addresses
+    for r in rows:
+        for a in A.parse(r.get("address") or ""):
+            own[mapping[r["id"]]].add(a)
+    linked = 0
+    for p in pipeline:
+        items, seen = [], set()
+        for a in own.get(p["id"], ()):
+            for na, n in by_muni.get(p["municipality_key"], ()):
+                if A.same(a, na) and n[2] not in seen:
+                    seen.add(n[2])
+                    items.append(dict(matched_address=n[1], url=n[2], outlet=n[3], headline=n[4], date=n[5],
+                                      summary=n[6], facts=n[7] or {}))
+        items.sort(key=lambda x: x["date"] or "9999")
+        p["news"] = items
+        p["news_first"] = next((x["date"] for x in items if x["date"]), None)
+        linked += bool(items)
+    print(f"news: {len(news)} linked articles attached to {linked} projects")
 
 
 def main():
@@ -260,6 +295,7 @@ def main():
             if m:
                 r["municipality_key"], r["municipality"] = m["key"], m["name"]
     pipeline, mapping = build(rows)
+    attach_news(conn, rows, pipeline, mapping)
     with conn.transaction():
         for k in {p["municipality_key"] for p in pipeline} - {x[0] for x in conn.execute("select key from municipalities").fetchall()}:
             m = reg.get(k, {"name": k, "county": None})
@@ -268,12 +304,12 @@ def main():
         conn.execute("delete from pipeline")
         with conn.cursor() as cur:
             cur.executemany("""insert into pipeline (id, municipality_key, municipality, name, address, parcel, plan_numbers, owner, applicant,
-                    zoning, use, size, acres, square_feet, category, stage, outcome, request, boards, first_seen, last_seen, mentions, timeline)
-                    values (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)""",
+                    zoning, use, size, acres, square_feet, category, stage, outcome, request, boards, first_seen, last_seen, mentions, timeline, news, news_first)
+                    values (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)""",
                 [(p["id"], p["municipality_key"], p["municipality"], p["name"], p["address"], p["parcel"], p["plan_numbers"],
                   p["owner"], p["applicant"], p["zoning"], p["use"], p["size"], p["acres"], p["square_feet"], p["category"],
                   p["stage"], p["outcome"], p["request"], p["boards"], p["first_seen"], p["last_seen"], p["mentions"],
-                  Jsonb(p["timeline"])) for p in pipeline])
+                  Jsonb(p["timeline"]), Jsonb(p.get("news") or []), p.get("news_first")) for p in pipeline])
             cur.executemany("update projects set pipeline_id = %s where id = %s", [(v, k) for k, v in mapping.items()])
     conn.execute(open(os.path.join(os.path.dirname(__file__), "..", "db", "access.sql")).read()); conn.commit()
     print("access rules applied (public teaser + members-only pipeline)")
