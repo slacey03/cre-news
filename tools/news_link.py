@@ -78,6 +78,28 @@ def outlet_of(url):
     return None
 
 
+def fetch_once(sess, host, url):
+    """One polite attempt (robots rules + crawl delay), no retries: a refused or paywalled article is simply skipped."""
+    s = sess.get(host)
+    if s is False:
+        raise ConnectionError("site unreachable earlier in this run")
+    if s is None:
+        try:
+            s = sess[host] = PoliteSession(host)
+        except Exception:
+            sess[host] = False  # don't keep retrying an unreachable site
+            raise
+    if not s.rp.can_fetch(s.s.headers["User-Agent"], url):
+        raise PermissionError("robots.txt disallows")
+    wait = s.last + s.delay - time.time()
+    if wait > 0:
+        time.sleep(wait)
+    r = s.s.get(url, timeout=30)
+    s.last = time.time()
+    r.raise_for_status()
+    return r.text
+
+
 def article_text(html):
     soup = BeautifulSoup(html, "html.parser")
     for t in soup(["script", "style", "nav", "footer", "header", "aside", "form"]):
@@ -156,8 +178,7 @@ def main(limit=40, *only):
             # 2-3) fetch ourselves and require the exact address + municipality in the article text
             host = "{0.scheme}://{0.netloc}".format(urlparse(url))
             try:
-                s = sess.setdefault(host, PoliteSession(host))
-                html = s.get(url).text
+                html = fetch_once(sess, host, url)
             except Exception as e:
                 print(f"  - {street}: skip {urlparse(url).netloc} ({type(e).__name__})"); continue
             text, title, pub = article_text(html)
@@ -200,4 +221,3 @@ def main(limit=40, *only):
 
 if __name__ == "__main__":
     main(*sys.argv[1:])
-# trial run 2
