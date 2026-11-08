@@ -1,0 +1,22 @@
+name: News linking
+on:
+  workflow_dispatch:
+    inputs:
+      args: { default: "40" }
+  push:
+    branches: [main]
+    paths: ["tools/news_link.py"]
+concurrency: { group: news-link, cancel-in-progress: false }
+jobs:
+  link:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests beautifulsoup4 anthropic "psycopg[binary]"
+      - run: python tools/news_link.py ${{ inputs.args || '12 lower-saucon lower-nazareth' }}
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL }}
