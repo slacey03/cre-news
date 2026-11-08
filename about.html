@@ -198,16 +198,24 @@
         <div class="founder-name">Get in touch</div>
         <div class="founder-role">Questions, partnerships or press</div>
       </div>
-      <a class="btn" href="/waitlist" id="contact-btn">Join the waitlist →</a>
+      <a class="btn" href="/waitlist" id="contact-btn" data-u="sml003" data-d="outlook.com">Email us →</a>
     </div>
   </section>
 
   <div class="colophon">
     <span>© 2026 ZoningTrack · Pennsylvania</span>
-    <span><a href="/waitlist">Get early access →</a></span>
+    <span><a href="/waitlist" class="contact-link" data-u="sml003" data-d="outlook.com">Contact us →</a></span>
     <span>Powered by ZoningTrack</span>
   </div>
 </div>
 
+<script>
+// Contact address is assembled here (not written in the page) so address-harvesting bots are less likely to find it.
+document.querySelectorAll('[data-u][data-d]').forEach(function (a) {
+  var e = a.getAttribute('data-u') + '@' + a.getAttribute('data-d');
+  a.href = 'mailto:' + e + '?subject=' + encodeURIComponent('ZoningTrack inquiry');
+  if (a.id === 'contact-btn') a.textContent = e;
+});
+</script>
 </body>
 </html>
