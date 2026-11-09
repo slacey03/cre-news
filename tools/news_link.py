@@ -29,6 +29,7 @@ from db import connect
 MODELS = ["claude-sonnet-5-5", "claude-sonnet-5"]
 REFRESH_DAYS = int(os.environ.get("NEWS_REFRESH_DAYS", "30"))   # re-check active projects this often
 ACTIVE_DAYS = int(os.environ.get("NEWS_ACTIVE_DAYS", "90"))     # ...if they had board activity this recently
+REGIONAL = ("lvpc", "lehigh-county", "northampton-county")  # town unknown -> never searched
 NOTABLE = ("retail", "restaurant", "office", "medical", "hotel/hospitality", "industrial/warehouse", "multifamily",
            "mixed-use", "redevelopment property", "residential subdivision", "institutional")
 NEWS_DOMAINS = {
@@ -49,7 +50,7 @@ SEARCH_PROMPT = ("Search the web for news articles that mention the exact street
                  "lehighvalleypublicmedia.org, lvb.com and sauconsource.com. Do not explain; just run the searches.")
 VERIFY_TOOL = {"name": "verdict", "description": "Verdict on whether the article is about this project's property.",
                "input_schema": {"type": "object", "required": ["about_this_property"], "properties": {
-                   "about_this_property": {"type": "boolean", "description": "True only if the article reports on development, construction, zoning/planning, a business, or a sale AT this exact address"},
+                   "about_this_property": {"type": "boolean", "description": "True only if a main subject of the article is development, construction, zoning/planning approval, a sale, or a business opening AT this exact property. False if the address appears only as a meeting location, government office, polling place, contact/mailing address, event venue, in a list or roundup item unrelated to land use, or in passing."},
                    "published": {"type": ["string", "null"], "description": "Article publication date YYYY-MM-DD if shown"},
                    "headline": {"type": ["string", "null"]},
                    "summary": {"type": ["string", "null"], "description": "1-2 sentences in your own words (do not copy the article) on what it reports about this property"},
@@ -101,26 +102,38 @@ def fetch_once(sess, host, url):
     return r.text
 
 
-def article_text(html):
+def article_text(html, url=""):
     soup = BeautifulSoup(html, "html.parser")
+    pub = None
+    for prop in ("article:published_time", "og:article:published_time", "datePublished", "pubdate", "date", "dc.date"):
+        m = soup.find("meta", attrs={"property": prop}) or soup.find("meta", attrs={"name": prop}) or soup.find("meta", attrs={"itemprop": prop})
+        if m and m.get("content") and re.match(r"20\d\d-\d\d-\d\d", m["content"]):
+            pub = m["content"][:10]; break
+    if not pub:  # JSON-LD (used by WFMZ and many news sites)
+        for sc in soup.find_all("script", type="application/ld+json"):
+            m = re.search(r'"datePublished"\s*:\s*"(20\d\d-\d\d-\d\d)', sc.string or sc.get_text() or "")
+            if m:
+                pub = m.group(1); break
+    if not pub:
+        t = soup.find("time", attrs={"datetime": re.compile(r"^20\d\d-\d\d-\d\d")})
+        if t: pub = t["datetime"][:10]
+    if not pub:
+        m = re.search(r"/(20\d\d)/(\d\d)/(\d\d)/", url)
+        if m: pub = "-".join(m.groups())
     for t in soup(["script", "style", "nav", "footer", "header", "aside", "form"]):
         t.decompose()
     body = soup.find("article") or soup.find("main") or soup.body or soup
     paras = [p.get_text(" ", strip=True) for p in body.find_all(["p", "h1", "h2", "li"])]
     text = "\n".join(p for p in paras if p)
     title = (soup.find("meta", property="og:title") or {}).get("content") or (soup.title.get_text(strip=True) if soup.title else "")
-    pub = None
-    for prop in ("article:published_time", "og:article:published_time", "datePublished"):
-        m = soup.find("meta", attrs={"property": prop}) or soup.find("meta", attrs={"name": prop}) or soup.find("meta", attrs={"itemprop": prop})
-        if m and m.get("content"):
-            pub = m["content"][:10]; break
     return text, title, pub
 
 
 def notable_projects(conn, only):
     rows = conn.cursor(row_factory=dict_row).execute(
         "select id, municipality_key, municipality, name, address, category, first_seen, last_seen from pipeline "
-        "where address ~ '\\d' and category = any(%s)", (list(NOTABLE),)).fetchall()
+        "where address ~ '\\d' and category = any(%s) and municipality_key <> all(%s)",
+        (list(NOTABLE), list(REGIONAL))).fetchall()
     if only:
         rows = [r for r in rows if r["id"] in only or r["municipality_key"] in only]
     out = []
@@ -130,7 +143,78 @@ def notable_projects(conn, only):
     return out
 
 
+def verify(client, models, project, street, town, url, text, title, pub):
+    """Claude's verdict (can only reject). Returns (verdict dict or None, model used, usage)."""
+    for m in models:
+        try:
+            v = client.messages.create(model=m, max_tokens=800, tools=[VERIFY_TOOL], tool_choice={"type": "auto"},
+                                       messages=[{"role": "user", "content":
+                                                  f"Project: {project} at {street}, {town}, PA.\n"
+                                                  f"Article URL: {url}\nTitle: {title}\nPublished: {pub}\n\n{text[:14000]}\n\n"
+                                                  "Be strict: if the address is only where a meeting was held, a municipal building, a polling place, "
+                                                  "a contact address, or mentioned in passing, answer false. Call the verdict tool once."}])
+            return next((b.input for b in v.content if b.type == "tool_use"), None), m, v.usage
+        except anthropic.NotFoundError:
+            continue
+    return None, None, None
+
+
+def reverify():
+    """Re-check every stored link with the current (stricter) rules; fix dates; drop duplicates and unknown-town links."""
+    conn = connect(); conn.execute(SQL); conn.commit()
+    n = conn.execute("delete from project_news where municipality_key = any(%s)", (list(REGIONAL),)).rowcount
+    print(f"removed {n} links filed under a regional body instead of a town")
+    rows = conn.cursor(row_factory=dict_row).execute("select * from project_news order by id").fetchall()
+    client, models, sess = anthropic.Anthropic(), list(MODELS), {}
+    kept = dropped = unchecked = dups = 0
+    seen = set()
+    tin = tout = 0
+    for row in rows:
+        dup_key = (row["municipality_key"], row["addr_key"], (row["outlet"] or "").lower(), (row["headline"] or "").lower().strip())
+        if dup_key in seen:
+            conn.execute("delete from project_news where id = %s", (row["id"],)); conn.commit(); dups += 1; continue
+        street, _, town = row["matched_address"].partition(", ")
+        a = (A.parse(street) or [None])[0]
+        url = row["url"]; host = "{0.scheme}://{0.netloc}".format(urlparse(url))
+        html = None
+        for attempt in (1, 2):
+            try:
+                html = fetch_once(sess, host, url); break
+            except Exception as e:
+                err = type(e).__name__
+                if sess.get(host) is False: break
+                time.sleep(10)
+        if html is None:
+            print(f"  ? could not re-check (kept as is): {row['headline'][:70]} ({err})"); unchecked += 1
+            seen.add(dup_key); continue
+        text, title, pub = article_text(html, url)
+        ok = a is not None and any(A.same(a, x) for x in A.parse(text, need_suffix=True)) and A.text_mentions_town(text, town)
+        out = None
+        if ok:
+            out, m, u = verify(client, models, "a development project", street, town, url, text, title, pub)
+            if m: models = [m]
+            if u: tin += u.input_tokens; tout += u.output_tokens
+        if not ok or not out or not out.get("about_this_property"):
+            conn.execute("delete from project_news where id = %s", (row["id"],)); conn.commit(); dropped += 1
+            print(f"  - removed: {row['matched_address']}: {row['headline'][:80]}")
+            continue
+        published = out.get("published") or pub
+        try:
+            published = date.fromisoformat(published[:10]) if published else None
+        except ValueError:
+            published = None
+        facts = {k: out.get(k) for k in ("acres", "square_feet", "zoning") if out.get(k) is not None}
+        conn.execute("update project_news set published=%s, headline=%s, summary=%s, facts=%s where id=%s",
+                     (published, out.get("headline") or row["headline"], out.get("summary") or row["summary"], Jsonb(facts), row["id"]))
+        conn.commit(); kept += 1; seen.add(dup_key)
+        print(f"  ok {row['matched_address']}: {published} {(out.get('headline') or row['headline'])[:70]}")
+    print(f"REVERIFY: {kept} kept, {dropped} removed, {dups} duplicates removed, {unchecked} could not be re-checked; "
+          f"{tin} in + {tout} out tokens = ${tin/1e6*2 + tout/1e6*10:.2f}")
+
+
 def main(limit=40, *only):
+    if str(limit) == "reverify":
+        return reverify()
     limit = int(limit)
     conn = connect(); conn.execute(SQL); conn.commit()
     cutoff = datetime.now(timezone.utc) - timedelta(days=REFRESH_DAYS)
@@ -187,18 +271,13 @@ def main(limit=40, *only):
                 html = fetch_once(sess, host, url)
             except Exception as e:
                 print(f"  - {street}: skip {urlparse(url).netloc} ({type(e).__name__})"); continue
-            text, title, pub = article_text(html)
+            text, title, pub = article_text(html, url)
             hits = [x for x in A.parse(text, need_suffix=True) if A.same(a, x)]
             if not hits or not A.text_mentions_town(text, town):
                 print(f"  - {street}: no exact address+town in text: {url[:90]}"); continue
             # 4) Claude confirms (can only reject) and summarizes in its own words
-            v = client.messages.create(model=model, max_tokens=800, tools=[VERIFY_TOOL], tool_choice={"type": "auto"},
-                                       messages=[{"role": "user", "content":
-                                                  f"Project: {r['name']} at {street}, {town}, PA ({r['category']}).\n"
-                                                  f"Article URL: {url}\nTitle: {title}\nPublished: {pub}\n\n{text[:14000]}\n\n"
-                                                  "Call the verdict tool once."}])
-            usage["tin"] += v.usage.input_tokens; usage["tout"] += v.usage.output_tokens
-            out = next((b.input for b in v.content if b.type == "tool_use"), None)
+            out, _, u = verify(client, [model], r["name"], street, town, url, text, title, pub)
+            if u: usage["tin"] += u.input_tokens; usage["tout"] += u.output_tokens
             if not out or not out.get("about_this_property"):
                 print(f"  - {street}: address present but article not about this property: {url[:90]}"); continue
             published = out.get("published") or pub

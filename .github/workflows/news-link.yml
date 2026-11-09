@@ -19,7 +19,7 @@ jobs:
         with: { python-version: "3.12" }
       - run: pip install requests beautifulsoup4 pypdf anthropic "psycopg[binary]"
       - name: Search news for notable projects (exact address only)
-        run: python tools/news_link.py ${{ inputs.args || (github.event_name == 'push' && '400') || '80' }}
+        run: python tools/news_link.py ${{ inputs.args || (github.event_name == 'push' && 'reverify') || '80' }}
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL }}
