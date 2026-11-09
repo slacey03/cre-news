@@ -17,6 +17,24 @@
   "text": "CLICK HERE",
   "url": "https://www.coplayborough.org/forms/council_agenda_app.pdf"
  },
+ "agenda_governing-body_2026-11-10_687add58a9": {
+  "board": "Governing Body",
+  "chars": 3478,
+  "collected_at": "2026-11-09T20:49:49+00:00",
+  "county": "Lehigh",
+  "drive_id": null,
+  "kind": "agenda",
+  "meeting_date": "2026-11-10",
+  "municipality": "Coplay Borough",
+  "ocr": false,
+  "on_home_page": false,
+  "pages": 2,
+  "rolling": true,
+  "sha256": "687add58a9013aac8295d83a2fa2d26843d8606828f87465a43bbe82bbf547d8",
+  "source_page": "https://www.coplayborough.org/minutes.html",
+  "text": "CLICK HERE",
+  "url": "https://www.coplayborough.org/forms/council_agenda_app.pdf"
+ },
  "minutes_governing-body_2026-05-05_623ff85716": {
   "board": "Governing Body",
   "chars": 4683,
