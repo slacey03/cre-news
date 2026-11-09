@@ -27,7 +27,8 @@ from civicplus import PoliteSession
 from db import connect
 
 MODELS = ["claude-sonnet-5-5", "claude-sonnet-5"]
-REFRESH_DAYS = int(os.environ.get("NEWS_REFRESH_DAYS", "30"))
+REFRESH_DAYS = int(os.environ.get("NEWS_REFRESH_DAYS", "30"))   # re-check active projects this often
+ACTIVE_DAYS = int(os.environ.get("NEWS_ACTIVE_DAYS", "90"))     # ...if they had board activity this recently
 NOTABLE = ("retail", "restaurant", "office", "medical", "hotel/hospitality", "industrial/warehouse", "multifamily",
            "mixed-use", "redevelopment property", "residential subdivision", "institutional")
 NEWS_DOMAINS = {
@@ -118,7 +119,7 @@ def article_text(html):
 
 def notable_projects(conn, only):
     rows = conn.cursor(row_factory=dict_row).execute(
-        "select id, municipality_key, municipality, name, address, category, first_seen from pipeline "
+        "select id, municipality_key, municipality, name, address, category, first_seen, last_seen from pipeline "
         "where address ~ '\\d' and category = any(%s)", (list(NOTABLE),)).fetchall()
     if only:
         rows = [r for r in rows if r["id"] in only or r["municipality_key"] in only]
@@ -133,11 +134,16 @@ def main(limit=40, *only):
     limit = int(limit)
     conn = connect(); conn.execute(SQL); conn.commit()
     cutoff = datetime.now(timezone.utc) - timedelta(days=REFRESH_DAYS)
-    done = {(m, k) for m, k, t in conn.execute("select municipality_key, addr_key, searched_at from news_searches").fetchall() if t > cutoff}
+    searched = {(m, k): t for m, k, t in conn.execute("select municipality_key, addr_key, searched_at from news_searches").fetchall()}
+    active_since = date.today() - timedelta(days=ACTIVE_DAYS)
     todo, seen = [], set()
     for r, a in notable_projects(conn, set(only)):
         k = (r["municipality_key"], A.key(a))
-        if k in done or k in seen:
+        if k in seen:
+            continue
+        t = searched.get(k)
+        # never searched -> search; searched before -> re-check only if stale AND the project is still active
+        if t and (t > cutoff or not r["last_seen"] or r["last_seen"] < active_since):
             continue
         seen.add(k); todo.append((r, a))
     todo.sort(key=lambda x: str(x[0]["first_seen"] or ""), reverse=True)

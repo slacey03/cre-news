@@ -2,7 +2,9 @@ name: News linking
 on:
   workflow_dispatch:
     inputs:
-      args: { default: "40" }
+      args: { default: "80" }
+  schedule:
+    - cron: "23 13 * * 1"   # weekly (Monday): new notable projects + 30-day re-check of active ones
   push:
     branches: [main]
     paths: ["tools/news_link.py"]
@@ -10,13 +12,19 @@ concurrency: { group: news-link, cancel-in-progress: false }
 jobs:
   link:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 340
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: pip install requests beautifulsoup4 pypdf anthropic "psycopg[binary]"
-      - run: python tools/news_link.py ${{ inputs.args || '12 lower-saucon lower-nazareth' }}
+      - name: Search news for notable projects (exact address only)
+        run: python tools/news_link.py ${{ inputs.args || (github.event_name == 'push' && '400') || '80' }}
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL }}
+      - name: Attach linked news to projects (dashboard)
+        if: always()
+        run: python tools/link_projects.py
+        env:
           SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL }}
