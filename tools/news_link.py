@@ -64,6 +64,7 @@ create table if not exists project_news (
   headline text, published date, summary text, facts jsonb, found_at timestamptz default now(),
   unique (municipality_key, addr_key, url));
 alter table project_news enable row level security;
+alter table project_news add column if not exists verified int;  -- 2 = passed the strict check; only verified links are shown
 drop policy if exists members_read_news on project_news;
 create policy members_read_news on project_news for select to authenticated using (public.is_member());
 create table if not exists news_searches (municipality_key text, addr_key text, searched_at timestamptz default now(),
@@ -159,12 +160,15 @@ def verify(client, models, project, street, town, url, text, title, pub):
     return None, None, None
 
 
-def reverify():
+def reverify(scope="all"):
     """Re-check every stored link with the current (stricter) rules; fix dates; drop duplicates and unknown-town links."""
     conn = connect(); conn.execute(SQL); conn.commit()
     n = conn.execute("delete from project_news where municipality_key = any(%s)", (list(REGIONAL),)).rowcount
     print(f"removed {n} links filed under a regional body instead of a town")
-    rows = conn.cursor(row_factory=dict_row).execute("select * from project_news order by id").fetchall()
+    q = "select * from project_news" + ("" if scope == "all" else " where coalesce(verified, 0) < 2") + " order by id"
+    rows = conn.cursor(row_factory=dict_row).execute(q).fetchall()
+    if scope != "all":  # duplicates are judged against everything already verified
+        pass
     client, models, sess = anthropic.Anthropic(), list(MODELS), {}
     kept = dropped = unchecked = dups = 0
     seen = set()
@@ -204,7 +208,7 @@ def reverify():
         except ValueError:
             published = None
         facts = {k: out.get(k) for k in ("acres", "square_feet", "zoning") if out.get(k) is not None}
-        conn.execute("update project_news set published=%s, headline=%s, summary=%s, facts=%s where id=%s",
+        conn.execute("update project_news set verified=2, published=%s, headline=%s, summary=%s, facts=%s where id=%s",
                      (published, out.get("headline") or row["headline"], out.get("summary") or row["summary"], Jsonb(facts), row["id"]))
         conn.commit(); kept += 1; seen.add(dup_key)
         print(f"  ok {row['matched_address']}: {published} {(out.get('headline') or row['headline'])[:70]}")
@@ -214,7 +218,7 @@ def reverify():
 
 def main(limit=40, *only):
     if str(limit) == "reverify":
-        return reverify()
+        return reverify(*(only or ("all",)))
     limit = int(limit)
     conn = connect(); conn.execute(SQL); conn.commit()
     cutoff = datetime.now(timezone.utc) - timedelta(days=REFRESH_DAYS)
@@ -286,9 +290,9 @@ def main(limit=40, *only):
             except ValueError:
                 published = None
             facts = {k: out.get(k) for k in ("acres", "square_feet", "zoning") if out.get(k) is not None}
-            conn.execute("""insert into project_news (municipality_key, addr_key, matched_address, url, outlet, headline, published, summary, facts)
-                            values (%s,%s,%s,%s,%s,%s,%s,%s,%s)
-                            on conflict (municipality_key, addr_key, url) do update set headline=excluded.headline,
+            conn.execute("""insert into project_news (municipality_key, addr_key, matched_address, url, outlet, headline, published, summary, facts, verified)
+                            values (%s,%s,%s,%s,%s,%s,%s,%s,%s,2)
+                            on conflict (municipality_key, addr_key, url) do update set verified=2, headline=excluded.headline,
                               published=excluded.published, summary=excluded.summary, facts=excluded.facts""",
                          (r["municipality_key"], A.key(a), f"{street}, {town}", url, outlet_of(url),
                           out.get("headline") or title, published, out.get("summary"), Jsonb(facts)))

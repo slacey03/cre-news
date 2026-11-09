@@ -248,7 +248,7 @@ def attach_news(conn, rows, pipeline, mapping):
     if not conn.execute("select to_regclass('public.project_news')").fetchone()[0]:
         return
     news = conn.execute("""select municipality_key, matched_address, url, outlet, headline, published::text, summary, facts
-                           from project_news order by published nulls last""").fetchall()
+                           from project_news where verified >= 2 order by published nulls last""").fetchall()
     by_muni = defaultdict(list)
     for n in news:
         parsed = A.parse(n[1].split(",")[0], need_suffix=False)
