@@ -17,6 +17,24 @@
   "text": "Board of Supervisors",
   "url": "https://washington-township.com/agendas/bosagenda.pdf"
  },
+ "agenda_governing-body_2026-11-10_f2fcd261c3": {
+  "board": "Governing Body",
+  "chars": 1303,
+  "collected_at": "2026-11-10T18:02:20+00:00",
+  "county": "Northampton",
+  "drive_id": null,
+  "kind": "agenda",
+  "meeting_date": "2026-11-10",
+  "municipality": "Washington Township (Northampton)",
+  "ocr": false,
+  "on_home_page": true,
+  "pages": 2,
+  "rolling": true,
+  "sha256": "f2fcd261c30528ed2dca7b23c7d9175f9ba8d9d23dbe96b483122f37034afd6b",
+  "source_page": "https://washington-township.com/",
+  "text": "Board of Supervisors",
+  "url": "https://washington-township.com/agendas/bosagenda.pdf"
+ },
  "agenda_planning-commission_2026-10-20_3604c2cf3d": {
   "board": "Planning Commission",
   "chars": 532,

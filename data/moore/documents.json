@@ -142,5 +142,23 @@
   "source_page": "https://mooretownship.org/minutes.html",
   "text": "September 1, 2026",
   "url": "https://mooretownship.org/minutes/01sep26.pdf"
+ },
+ "minutes_governing-body_2026-10-06_3ff6569814": {
+  "board": "Governing Body",
+  "chars": 12421,
+  "collected_at": "2026-11-10T18:01:48+00:00",
+  "county": "Northampton",
+  "drive_id": null,
+  "kind": "minutes",
+  "meeting_date": "2026-10-06",
+  "municipality": "Moore Township",
+  "ocr": false,
+  "on_home_page": false,
+  "pages": 6,
+  "rolling": false,
+  "sha256": "3ff65698146aa58bfb8894053be83e949e790b7ef21479e7bf73c076246b813a",
+  "source_page": "https://mooretownship.org/minutes.html",
+  "text": "October 6, 2026",
+  "url": "https://mooretownship.org/minutes/06oct26.pdf"
  }
 }

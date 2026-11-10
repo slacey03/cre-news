@@ -88,5 +88,23 @@
   "source_page": "https://www.weisenbergtownship.org/bos-minutes.html",
   "text": "September 14, 2026 7:00 PM Township Building",
   "url": "https://www.weisenbergtownship.org/minutes/14sep26.pdf"
+ },
+ "minutes_governing-body_2026-10-12_9ad43ad0f0": {
+  "board": "Governing Body",
+  "chars": 9501,
+  "collected_at": "2026-11-10T18:00:49+00:00",
+  "county": "Lehigh",
+  "drive_id": null,
+  "kind": "minutes",
+  "meeting_date": "2026-10-12",
+  "municipality": "Weisenberg Township",
+  "ocr": false,
+  "on_home_page": false,
+  "pages": 4,
+  "rolling": false,
+  "sha256": "9ad43ad0f03b7bb2e3b60bc5cc8bea2d2c0378e5c3053318f84c6853c2c8bc23",
+  "source_page": "https://www.weisenbergtownship.org/bos-minutes.html",
+  "text": "October 12, 2026 7:00 PM Township Building",
+  "url": "https://www.weisenbergtownship.org/minutes/12oct26.pdf"
  }
 }
