@@ -1,0 +1,976 @@
+
+
+[page 23]
+ 
+   
+ 
+high-priority natural resources. The proposed conversion of lands identified for farmland 
+preservation to industrial development does not align with these regional 
+recommendations (Policies 1.1, 1.3, 3.1 and 3.3). 
+ 
+The LVPC recognizes that Design 2 proposes a smaller total building footprint than 
+Design 1 and builds upon prior industrial park approvals. A smaller building footprint 
+may provide opportunities to retain more agricultural land and natural resources, but the 
+extent of those benefits depends on the full disturbance associated with equipment 
+yards, roads, grading and utility infrastructure. The LVPC recommends documenting 
+these impacts and using the reduced building footprint to preserve larger, connected 
+areas of agricultural land, woodlands and open space. Particular attention should be 
+given to protecting the natural and scenic character of the Delaware River corridor and 
+limiting disturbance within mapped preservation areas (Policies 3.1 and 3.2). 
+ 
+Economic Development 
+The proposal would establish a technology-related industry within the Township's 
+existing planned industrial area. The applicant's reuse of previously developed 
+infrastructure plans and its proposed investment in utilities could support economic 
+activity and coordinated infrastructure development. Employment and tax revenue 
+benefits may also result from construction and operation of the campus (of Policies 1.1 
+and 4.2). 
+ 
+Development Scale and Electrical Demand 
+Design 2 substantially reduces the number of data center buildings compared with 
+Design 1, but the applicant continues to identify a maximum electrical demand of 2,100 
+MW. The smaller building footprint and lower building heights do not, by themselves, 
+demonstrate that electrical infrastructure or operating impacts would be reduced. 
+The LVPC recommends that the applicant explain how the stated electrical demand 
+relates to the six-building configuration, including anticipated demand per building, 
+supporting equipment loads and the proposed sequence of development. The 
+assessment should distinguish contracted electrical service, additional capacity under 
+consideration and electricity that may be generated on-site. 
+ 
+The eastern site plans (CS-211 and CS-212) depict a proposed power plant, electrical 
+equipment and substantial battery storage areas. The eastern zoning information also 
+describes the proposed use as data center development and a power plant. In contrast, 
+the narrative indicates that on-site generation remains subject to future design 
+decisions. The LVPC recommends reconciling these descriptions and identifying which 
+improvements are included in the current land development application. 
+ 
+The applicant should provide a coordinated infrastructure plan identifying the location, 
+size and purpose of each major electrical facility. This should include substations, 
+transformers, standby generators, battery energy storage systems, fuel-related 
+equipment and any generation intended for regular operation. The applicant should also 
+identify applicable approvals and which facilities may constitute separate principal uses 
+23
+
+[page 24]
+ 
+   
+ 
+rather than accessory improvements. The Township should evaluate the relevant 
+zoning classifications with its Solicitor. 
+ 
+The LVPC supports continued coordination with FirstEnergy and the responsible 
+regulatory agencies to document the facilities necessary to serve each phase, their 
+implementation schedule and responsibility for associated costs. This would help align 
+infrastructure planning with development intensity and regional capacity (of Policies 1.1 
+and 1.4). 
+ 
+Natural Resources 
+The project narrative references an Environmental Impact Statement and separate 
+stormwater narratives for the eastern and western portions of the campus. These 
+documents should be available to the Township and reviewing agencies to evaluate the 
+cumulative environmental effects of the full development. Particular attention should be 
+given to mapped wetlands, streams, steep slopes, riparian buffers and protected 
+species habitat. The applicant should also document existing and proposed vegetation 
+conditions, identify areas suitable for restoration, and preserve undisturbed natural 
+features wherever feasible.  
+ 
+Continued coordination with PADEP, the Northampton County Conservation District and 
+applicable environmental agencies is recommended to advance conservation of natural 
+resources and reduce potential environmental impacts (of Policies 3.1 and 3.2). 
+ 
+Scenic Character, Building Appearance and Riverfront Compatibility 
+The Design 2 narrative identifies typical building heights of 35 feet, compared with 
+approximately 80 feet under Design 1. This lower profile could lessen the visual 
+prominence of the data center buildings from surrounding properties and public 
+viewpoints. However, the visual impact of the overall campus will also depend on the 
+size and placement of buildings, grading, electrical installations, outdoor equipment, 
+perimeter fencing and the condition of existing vegetation. Power generation and battery 
+storage facilities on the eastern property are particularly important because of their 
+proximity to the Delaware River corridor. 
+ 
+The LVPC recommends providing building elevations and visual simulations showing 
+how the completed campus would appear from River Road, Route 611, the Upper 
+Mount Bethel Community Park, nearby residential areas and representative viewpoints 
+across the Delaware River. Simulations should include buildings and supporting 
+infrastructure, rather than only the data center structures. 
+ 
+The proposed landscape buffers and berms should be evaluated for their ability to 
+screen equipment and reduce the perceived scale of development. The LVPC 
+encourages preserving existing trees where possible and using native vegetation, 
+building articulation and materials that respond to the site's rural and riverfront setting. 
+The National Park Service, Lower Delaware Wild and Scenic River Management 
+Council and affected neighboring municipalities should be included in appropriate 
+24
+
+[page 25]
+ 
+   
+ 
+scenic-resource coordination. This approach supports development that responds to the 
+region's distinctive landscape and community character (of Policies 3.2 and 5.4). 
+ 
+Regional Trail Connectivity and Employee Accessibility 
+A conceptual regional trail follows the River Road corridor in the FutureLV Parks 
+Recreation and Open Space plan map. This location offers a potential connection 
+between trail facilities in Portland Borough and the broader Slate Belt trail network 
+extending south toward Lower Mount Bethel Township. 
+The LVPC previously encouraged incorporating trail connections into the River Pointe 
+industrial park. Design 2 should continue to accommodate the long-term opportunity for 
+a connected trail along the site's frontage. 
+ 
+The applicant is encouraged to work with the Township and LVPC to identify an 
+appropriate trail alignment, account for roadway crossings and utility conflicts, and 
+preserve sufficient space for future construction. An easement or other appropriate 
+arrangement should be considered where supported by the applicable municipal 
+requirements and agreements. 
+ 
+Internal pedestrian circulation should provide safe routes between parking areas, 
+building entrances and employee amenities. Bicycle parking and sheltered pedestrian 
+waiting areas would further improve accessibility. 
+ 
+With approximately 600 employees anticipated, the LVPC also encourages discussion 
+with the Lehigh and Northampton Transportation Authority (LANTA) about potential 
+future service. Identifying a suitable location for transit passenger loading, a shelter and 
+an accessible pedestrian connection could reduce barriers to future transportation 
+options (of Policies 2.2, 5.2 and 5.3). 
+ 
+Transportation Analysis and Regional Roadway Conditions 
+Dynamic Traffic submitted a Trip Generation Comparison memorandum dated October 
+12, 2026. Rather than preparing a separate Transportation Impact Study (TIS) for 
+Design 2, the memorandum compares the western building program with the western 
+development analyzed in the Design 1 TIS and concludes that the earlier analysis 
+provides a conservative basis for evaluating Design 2. 
+ 
+The LVPC recognizes that fewer data center buildings may generate less routine traffic. 
+However, several assumptions require clarification. 
+ 
+Trip Generation and Study Scope 
+The trip generation memorandum evaluates five western buildings totaling 1,251,010 
+square feet. The Master Site Plan (CS-200) also identifies a 228,186-square-foot data 
+center on the eastern property, resulting in approximately 1,479,196 square feet across 
+the six data center buildings. This differs from the narrative's approximately 1.4-million-
+square-foot total. The LVPC recommends reconciling these figures and updating the 
+transportation documentation to clearly account for the complete Design 2 proposal, 
+25
+
+[page 26]
+ 
+   
+ 
+including the eastern development and any trips associated with power generation, 
+maintenance and supporting facilities. 
+ 
+The LVPC independently evaluated the narrative's 1.4 million square feet using ITE 
+Land Use Code 160 and calculated approximately 775 weekday vehicle trips, including 
+80 trips during the morning peak hour and 70 during the evening peak hour. However, 
+the proposed development exceeds the square-footage range of the underlying ITE 
+data. The average-rate methodology produces considerably higher estimates than the 
+fitted-curve approach. 
+The applicant should compare these methods, explain the selected assumptions and 
+demonstrate that anticipated employee shifts, service deliveries and other operating 
+characteristics are reflected in the analysis. The Township and PennDOT should also 
+confirm whether the Design 1 study's traffic assumptions and recommended 
+improvements remain applicable to the full Design 2 configuration. 
+ 
+Roadway Capacity and Rail Bridge Constraints 
+The existing transportation network has several limitations identified during previous 
+River Pointe reviews, including constrained access to the regional highway system and 
+the Norfolk Southern railroad bridge over Delaware Avenue/Route 1039 north of the 
+development. 
+ 
+The bridge provides approximately 13 feet, 8 inches of vertical clearance. Its limited 
+width and nearby overhead utilities may also constrain movement by large trucks and 
+specialized equipment. These conditions are particularly relevant during construction 
+and installation of electrical transformers, generators and other oversized components. 
+The LVPC strongly encourages the applicant to coordinate with Norfolk Southern, 
+PennDOT, the Pennsylvania Public Utility Commission, Portland Borough and Upper 
+Mount Bethel Township to assess bridge clearances, roadway width, utility conflicts and 
+feasible safety improvements. The proposed southbound right-turn lane at River Road 
+and Demi Road should also be evaluated for feasibility given its proximity to the railroad 
+crossing. 
+ 
+The Design 1 TIS identifies improvements at the Portland-Columbia Bridge approaches, 
+including intersection realignments and coordinated traffic signals. The applicant should 
+clarify whether these improvements remain necessary under Design 2, the status of 
+associated agency approvals and how their construction would be coordinated with the 
+campus's development phases. The transportation assessment should consider the 
+cumulative effects of surrounding industrial uses, not only traffic generated by the 
+subject buildings (of Policies 2.2 and 2.4). 
+ 
+Construction Traffic, Loading and Site Circulation 
+The project narrative references a construction traffic management plan, but one was 
+not included in the materials provided to LVPC. A construction-specific assessment is 
+recommended because temporary truck movements and delivery of major electrical 
+equipment may have different impacts than routine data center operations. 
+26
+
+[page 27]
+ 
+   
+ 
+The construction plan should estimate vehicle volumes, identify designated routes, 
+staging locations and delivery restrictions, and address potential conflicts with nearby 
+residential areas, roadways and the railroad bridge. 
+ 
+The narrative also identifies 24 loading docks, although their locations are not clearly 
+depicted on the site plans. The LVPC recommends showing the loading facilities and 
+providing adequate truck waiting and staging areas to prevent vehicles from obstructing 
+internal roadways or access drives. 
+A vehicle-turning analysis should demonstrate safe circulation for delivery trucks, 
+emergency vehicles and refuse collection vehicles, including access around the larger 
+individual buildings proposed under Design 2. 
+ 
+New Marshfield Drive is identified for dedication to the Township. The applicant and 
+Township should document future maintenance responsibilities, including snow 
+removal, pavement maintenance and other long-term roadway obligations. 
+Electric vehicle charging stations should also be considered in employee parking areas, 
+along with appropriate electrical connections at loading facilities to reduce unnecessary 
+idling (of Policies 2.2 and 3.4). 
+ 
+Water Supply, Sewer Service and Cooling 
+The project proposes connecting to Portland Borough public water and wastewater 
+systems. The narrative estimates domestic water use and wastewater generation at 
+approximately 17,500 gallons per day. Fire protection would rely in part on on-site 
+storage totaling up to three million gallons. 
+ 
+Design 2 proposes a closed-loop water cooling system that recirculates cooling fluid 
+rather than relying on routine evaporative cooling. The applicant states that the initial 
+cooling system fill would come from an approved off-site source and that cooling fluids 
+would be collected for off-site disposal when necessary. The LVPC recognizes the 
+potential water conservation benefits of this system. The applicant should nonetheless 
+provide a complete water demand assessment distinguishing domestic consumption, 
+the initial cooling-system fill, periodic replenishment, fire storage filling and any process 
+water requirements associated with electrical generation. 
+ 
+Documentation from Portland's water and sewer service providers should identify 
+available capacity, proposed extensions, necessary improvements and the schedule for 
+providing service. The review should also consider how infrastructure construction and 
+service commitments may affect existing users. 
+ 
+Act 58 of 2026, effective December 7, 2026, requires the water-supply evidence 
+specified in MPC §503.1 to be presented before final subdivision and land development 
+approval. The Township should coordinate this requirement with the applicant and 
+applicable service providers. 
+ 
+The LVPC encourages maintaining the proposed water conservation measures while 
+documenting their full operating requirements (of Policies 1.1, 3.1 and 3.2). 
+27
+
+[page 28]
+ 
+   
+ 
+ 
+Noise, Air Emissions, Heat and Mechanical Equipment 
+Even with fewer data center buildings, Design 2 may generate substantial continuous 
+noise and heat from cooling equipment, transformers and other mechanical systems. 
+The proposed electrical generation and battery storage facilities introduce additional 
+operational considerations. 
+ 
+The project narrative anticipates a future acoustical study. The LVPC recommends 
+preparing this assessment using the final equipment configuration, including the 
+cumulative sound from all six buildings and associated electrical facilities. The study 
+should identify existing background conditions and predict sound levels at nearby 
+residences, property boundaries, the Community Park and other sensitive locations. 
+Evaluation should address continuous operations, low-frequency or tonal noise, 
+generator testing and any proposed regular power-generation activities. The applicant 
+should identify the equipment enclosures, acoustic barriers and operating practices 
+needed to meet applicable standards. Post-construction sound measurements are 
+recommended to confirm that operating conditions are consistent with the approved 
+analysis. 
+ 
+Information should also be provided on the amount and location of heat discharged from 
+the cooling and generation systems, including potential impacts on surrounding 
+property, vegetation and equipment. For proposed emission sources, the applicant 
+should identify fuel types, capacity, anticipated operating hours and applicable PADEP 
+permits. These studies would provide a more complete basis for determining the 
+compatibility of the proposed use with nearby land uses and natural resources (of 
+Policies 3.2 and 5.3). 
+ 
+Emergency Access and Operational Safety 
+Design 2 consolidates data center activity into fewer, larger buildings but continues to 
+rely on an extensive internal road network. Emergency access, equipment isolation and 
+incident response should be evaluated for the entire campus rather than for individual 
+buildings alone. 
+ 
+The plans identify emergency connections to Potomac Street and River Road. The 
+LVPC recommends confirming that these routes provide reliable access for responding 
+fire, police and emergency medical personnel, with suitable turning areas, roadway 
+widths, surface conditions and access controls. 
+ 
+Individual building pads should have adequate access for emergency vehicles from 
+more than one direction where feasible. Particular attention should be given to Building 
+Pad 9 and other locations served by extended internal access drives. A clear system of 
+building numbers, directional signage and emergency access markers should be 
+incorporated into the plans. Appropriate emergency-route signage should also be 
+coordinated along Route 611 and other approaches to the site. 
+ 
+28
+
+[page 29]
+ 
+   
+ 
+The applicant should work with local responders and Northampton County emergency 
+management personnel to develop a campus-wide emergency response plan. This 
+should address high-voltage equipment, generators, battery systems, fire-water storage, 
+fuel and chemical inventories, emergency shutdowns, spill response and evacuation 
+procedures. 
+ 
+Emergency responder orientation and training should be completed before facilities 
+begin operation. These measures support coordinated emergency planning and public 
+safety (of Policy 5.1). 
+ 
+Conclusion 
+Design 2 presents a different development configuration from Design 1, with fewer 
+buildings and reduced building heights. These changes could provide certain benefits 
+for transportation and visual compatibility. Because both Design 1 and Design 2 have 
+been submitted for the same property, the LVPC urges the Township to maintain clear 
+records of which design and associated infrastructure are being considered for 
+approval. The applicant is encouraged to provide a written response to the LVPC 
+recommendations, identifying proposed revisions, outstanding technical studies and 
+planned mitigation. 
+ 
+The applicant indicates that it intends to communicate with the Township, reviewing 
+agencies and residents during the development process. Continued public access to 
+relevant environmental, transportation and utility information would help residents and 
+municipal officials understand the project's proposed operations and impacts. The LVPC 
+supports this coordination and encourages the applicant to provide clear summaries of 
+technical studies, major design changes and proposed mitigation measures as 
+information becomes available (of Policy 1.4). 
+ 
+Municipalities, when considering land developments, should reasonably attempt to be 
+consistent with FutureLV: The Regional Plan, as required by the Pennsylvania 
+Municipalities Planning Code (MPC) [Article I §105, Article III §§303, 304 and 306(a), 
+and Article VI §603(j)]. The LVPC review does not include an in-depth examination of 
+the plans relative to municipal subdivision and land development ordinance 
+requirements, which are addressed through the Township's review. 
+ 
+The LVPC has copied appropriate agencies and neighboring municipalities to support 
+coordinated land use decisions across municipal boundaries (of Policy 1.4). 
+ 
+Sincerely, 
+ 
+Jill Seitz, AICP  
+Director of Regional Planning + Policy 
+29
+
+[page 30]
+ 
+ 
+ 
+ 
+ 
+ 
+November XX, 2026 
+ 
+Cathy Fletcher, Director of Planning and Zoning 
+City of Bethlehem 
+10 E Church St 
+Bethlehem, PA 18018 
+  
+Re: Bethlehem Earth Commerce Data Center – Land Use of Regional Significance 
+City of Bethlehem 
+Northampton County 
+ 
+Dear Director Fletcher, 
+ 
+The Lehigh Valley Planning Commission (LVPC) considered the proposed project at the 
+LVPC Comprehensive Planning Committee and Full Commission meetings, pursuant to 
+the Pennsylvania Municipalities Planning Code (MPC). The meetings occurred on: 
+ 
+LVPC Comprehensive Planning 
+Committee Meeting:    
+  
+November 17, 2026, at 12:00 PM (Virtual)  
+ 
+https://lvpc.org/lvpc-meetings  
+LVPC Full Commission  
+Meeting:  
+  
+November 19, 2026, at 7:00 PM Virtual 
+ 
+https://lvpc.org/lvpc-meetings  
+ 
+Background 
+Bethlehem Earth LP proposes to construct an 805,000-square-foot, two-story data 
+center at 3700 Commerce Center Boulevard (parcel P7-15-2C). The 68.1-acre property 
+would accommodate an 80-foot tall building with a 402,500-square-foot footprint, 
+generator yards, a 123,750-square-foot electrical substation area, parking, stormwater 
+facilities and associated infrastructure. Access and utility connections are proposed 
+across the adjacent 20.7-acre property at 3200 Commerce Center Boulevard (parcel 
+P7-15-2B). 
+ 
+The site is located within the City's Industrial (IN) zoning district, on land formerly 
+associated with Bethlehem Steel manufacturing operations.  
+ 
+The surrounding Commerce Center area has been developed primarily with large 
+industrial and distribution facilities. The East Branch Saucon Creek runs along the 
+southern edge of the properties, with wetlands, wooded areas and steep slopes located 
+near the creek corridor. The site is also near the City of Bethlehem's boundary with 
+Lower Saucon Township and the UGI Bethlehem LNG facility. 
+30
+
+[page 31]
+ 
+   
+ 
+ Google Aerial Imagery 
+ 
+The submission is missing essential information about the data center's proposed 
+operations and associated infrastructure needs. The plans identify generator yards, a 
+private electrical substation and water treatment and storage infrastructure, but do not 
+adequately describe their capacity, equipment, operations or potential impacts. 
+These details are essential to evaluating the project's effects on infrastructure, natural 
+resources, public health and neighboring properties.  
+ 
+Regional Land Use and Site Suitability 
+The properties are identified within a Development area on the FutureLV General Land 
+Use Plan. Development areas generally contain existing development and infrastructure 
+and are appropriate locations for continued development and redevelopment. Reusing 
+previously disturbed industrial land supports the Regional Plan's recommendations to 
+encourage the use of vacant and underutilized properties (of Policy 5.4). 
+ 
+31
+
+[page 32]
+ 
+   
+ 
+ 
+ 
+ 
+The project would reuse land formerly associated with Bethlehem Steel operations 
+within an established industrial development area. This supports the efficient use of 
+existing infrastructure and redevelopment of underutilized properties (of Policies 1.1 and 
+5.4). The proposed land use is generally compatible with the surrounding industrial 
+development pattern. However, the intensity and operational characteristics of the 
+facility require further evaluation to demonstrate that the development will use 
+infrastructure responsibly and minimize impacts on nearby properties (of Policies 1.4, 
+3.1, 3.2 and 5.4). 
+ 
+Electrical Demand and Infrastructure 
+The plans identify a proposed privately owned electrical substation occupying 
+approximately 123,750 square feet. However, the submission does not identify the data 
+center's projected electrical demand, the substation's capacity or the infrastructure 
+improvements needed to provide service. 
+ 
+The LVPC recommends that the applicant: 
+• Identify the anticipated electrical demand, including the maximum load at full 
+operation and any planned expansion. 
+• Provide written coordination with PPL Electric Utilities confirming the proposed 
+service arrangement, available capacity and any necessary transmission, 
+distribution or substation improvements. 
+• Identify whether off-site utility improvements are needed, who will be responsible 
+for their costs and how service reliability for existing customers will be 
+maintained. 
+• Provide the anticipated Power Usage Effectiveness (PUE) and describe 
+measures to reduce energy consumption and incorporate renewable energy 
+sources. 
+32
+
+[page 33]
+ 
+   
+ 
+ 
+These measures would support responsible infrastructure investment, protect the 
+reliability of existing services and advance regional energy sustainability goals (of 
+Policies 3.4 and 4.6). 
+ 
+Water Supply, Cooling and Wastewater 
+The project description identifies water treatment and storage infrastructure, and the 
+utility plans depict water and sewer connections. However, the submission does not 
+describe the proposed cooling technology or quantify the facility's anticipated water use 
+and wastewater generation. 
+ 
+Data centers can have substantially different water demands depending on their cooling 
+systems. The LVPC recommends that the applicant identify the type of cooling system 
+proposed, including whether it uses air cooling, evaporative cooling, water cooling or a 
+hybrid system. 
+ 
+The applicant should also provide: 
+• Projected daily, peak and annual water demand, including cooling, equipment 
+maintenance and domestic uses. 
+• The proposed source and capacity of water treatment and storage facilities, 
+along with any water reuse or conservation measures. 
+• The anticipated wastewater volume and discharge characteristics, including any 
+cooling-system discharge. 
+• Written coordination with Bethlehem Water and Sewer Resources confirming 
+adequate capacity for the facility's projected demands, including periods of 
+drought or peak system demand. 
+ 
+The LVPC also encourages evaluation of water-efficient cooling alternatives and water 
+reuse opportunities to reduce long-term demand on regional water resources (of 
+Policies 3.2 and 3.4). 
+ 
+Noise, Vibration, Air Quality and Heat 
+The plans identify generator yards along both sides of the proposed building. These 
+areas, together with the electrical substation and cooling equipment, have the potential 
+to generate continuous noise, vibration, heat and air emissions. The application does 
+not provide sufficient information about these systems to evaluate their impacts. 
+ 
+The LVPC recommends that the applicant identify the number, location, capacity and 
+fuel type of all proposed generators, along with fuel storage, emissions controls and 
+anticipated testing and maintenance schedules. The applicant should identify applicable 
+state and federal air quality permitting requirements. A professional noise and vibration 
+impact study should evaluate the facility under full operational conditions, including 
+cooling equipment, transformers, generator testing and other mechanical systems. The 
+evaluation should address audible and low-frequency noise, identify anticipated levels 
+at property boundaries and nearby sensitive properties, and recommend mitigation 
+where necessary. 
+33
+
+[page 34]
+ 
+   
+ 
+ 
+The applicant should also provide a thermal impact assessment identifying where waste 
+heat will be discharged and whether the cooling system could affect nearby properties 
+or environmental resources. 
+ 
+The need for noise attenuation, equipment screening, generator testing schedules and 
+other mitigation measures should be evaluated and incorporated into the final site 
+design based on the results of these evaluations. Post-construction testing should also 
+be considered to verify actual operating conditions (of Policies 3.2 and 5.3). 
+ 
+Natural Resources 
+The East Branch Saucon Creek is a significant natural resource along the southern 
+edge of the development. The plans identify nearby wetlands, watercourse buffers, 
+steep slopes and stormwater management facilities. The LVPC recognizes the 
+proposed buffers and landscaping intended to separate development from the creek 
+corridor. The applicant should confirm that the proposed grading, drainage facilities, 
+utility improvements and equipment areas will not adversely affect the creek, wetlands 
+or associated buffers to protect surface water and groundwater, manage stormwater 
+runoff and minimize the environmental impacts of development (of Policies 3.1 and 3.2). 
+ 
+The proposed landscape improvements offer opportunities to reduce visual impacts, 
+restore vegetation and improve the transition between industrial development and the 
+surrounding natural landscape. These measures support context-sensitive development 
+and environmental stewardship (of Policies 3.2 and 5.4). 
+ 
+Emergency Services and Public Safety 
+Data centers present specialized emergency response considerations because of their 
+electrical infrastructure, backup power systems, security controls and potential 
+hazardous materials. 
+ 
+The proposed facility includes a long access driveway with staffed security controls and 
+a separate emergency access point closer to the building. The LVPC recommends that 
+the applicant coordinate with the City of Bethlehem's fire, police and emergency medical 
+services to confirm adequate emergency access, equipment clearances, fire 
+suppression, water supply and procedures for entering the secured site. 
+ 
+The applicant should prepare an emergency response plan identifying the proposed 
+electrical and mechanical systems, fuel and chemical storage, equipment isolation 
+procedures, emergency shutdown protocols and any specialized response 
+requirements. Emergency access signage should be installed along Commerce Center 
+Boulevard and other appropriate approaches to direct responders to the correct 
+entrance. 
+ 
+Coordination with surrounding municipalities and nearby industrial facilities, including 
+the UGI Bethlehem LNG facility as appropriate, is also encouraged to support regional 
+emergency preparedness (of Policies 1.4 and 5.1). 
+34
+
+[page 35]
+ 
+   
+ 
+ 
+Transportation 
+The applicant submitted a trip generation evaluation prepared by Kimley-Horn using the 
+Institute of Transportation Engineers (ITE) Trip Generation Manual, 12th Edition, Land 
+Use Code 160, Data Center. 
+ 
+The study estimates 588 weekday daily vehicle trips, including 72 trips during the 
+morning site peak hour and 64 during the afternoon site peak hour. The LVPC reviewed 
+the trip generation calculations and confirmed the projected totals. 
+ 
+These estimates suggest relatively limited operational traffic compared with other 
+industrial uses of similar building size. However, employee shift schedules have not 
+been established, and the study provides limited information about construction traffic, 
+truck deliveries and other service vehicles. 
+ 
+The project's access to an established industrial roadway network, comparatively low 
+projected operational vehicle trips, proposed sidewalks and bicycle parking support 
+efficient transportation and improved access options for employees (of Policies 2.2, 2.3, 
+5.1 and 5.3). 
+ 
+Freight Operations and Site Access 
+Access would be provided by an existing driveway from Commerce Center Boulevard, 
+with improvements to accommodate truck turning movements and a proposed 
+westbound left-turn lane. 
+ 
+The submitted plans include truck and fire apparatus turning exhibits. The LVPC 
+recommends supplementing these exhibits with information on anticipated construction 
+and operational truck activity, delivery schedules and the types of vehicles that will 
+regularly serve the facility. Garbage trucks and other service vehicles should be 
+included in the turning analysis where applicable. 
+ 
+The applicant should also evaluate dedicated truck parking or staging areas to prevent 
+vehicles from waiting along access drives when multiple deliveries arrive. The proposed 
+security gate should provide sufficient vehicle queuing space without obstructing 
+internal circulation or emergency access. 
+ 
+A construction transportation plan should identify truck volumes, anticipated routes, 
+construction-related access needs and measures to minimize conflicts with existing 
+Commerce Center operations. Final driveway design, sight distances and proposed 
+roadway improvements should be coordinated with the City and applicable reviewing 
+agencies (of Policies 2.2 and 5.1). 
+ 
+Pedestrian Access and Sustainable Transportation 
+Sidewalks are proposed along the site access drive, and pedestrian connections are 
+included within the development. These improvements support safer movement 
+35
+
+[page 36]
+ 
+   
+ 
+between parking areas, building entrances and other site facilities (of Policies 5.1 and 
+5.3). 
+ 
+LANTA Route 105 operates along Hellertown Road (PA 412), and Route 605 serves 
+Commerce Center Boulevard, including a stop near the adjacent McKesson facility. The 
+LVPC encourages the applicant to coordinate with LANTA and the City to ensure that 
+employees have a safe, accessible pedestrian route between the transit stops and the 
+facility. 
+ 
+The plans also identify bicycle parking near the building. The LVPC supports this 
+provision and encourages the installation of electric vehicle charging infrastructure, or 
+accommodations for future charging facilities, within the employee parking areas (of 
+Policies 2.3, 2.5 and 5.3). 
+ 
+Conclusion 
+The Bethlehem Earth Commerce Data Center is proposed on a previously disturbed 
+industrial property within an area designated for Development in FutureLV: The 
+Regional Plan. This location is generally appropriate for industrial redevelopment and 
+offers opportunities to make use of existing infrastructure. 
+ 
+However, the submitted materials do not provide sufficient information for the LVPC to 
+determine the project's overall impact and alignment with FutureLV Goals and Policies. 
+The proposed generator yards, electrical substation, water infrastructure and cooling 
+systems are integral parts of the development. Their operational characteristics and 
+associated impacts must be understood to properly evaluate the project. 
+ 
+The LVPC strongly recommends that the City obtain and review the additional 
+information identified in this letter before taking final action on the land development 
+plan, to the extent authorized by applicable ordinances and state law. Where additional 
+studies are not expressly required under the standards governing the application, the 
+LVPC encourages the City and applicant to work collaboratively to provide this 
+information for public and agency review. 
+ 
+If additional information or subsequent design changes substantially modify the 
+submitted plans, the revised materials should be provided to the LVPC for further review 
+before plan signing and recordation. 
+ 
+Municipalities, when considering land developments, should reasonably attempt to be 
+consistent with FutureLV: The Regional Plan, as required by the Pennsylvania 
+Municipalities Planning Code (MPC) [Article I §105, Article III §§303, 304 and 306(a), 
+and Article VI §603(j)]. The LVPC review does not include an in-depth examination of 
+the plans relative to municipal subdivision and land development ordinance 
+requirements, which are addressed through the Township's review. 
+ 
+The LVPC has copied appropriate agencies and neighboring municipalities to support 
+coordinated land use decisions across municipal boundaries (of Policy 1.4). 
+36
+
+[page 37]
+ 
+   
+ 
+ 
+Sincerely, 
+ 
+Jill Seitz, AICP  
+Director of Regional Planning + Policy 
+37
+
+[page 38]
+ 
+   
+ 
+ 
+ 
+ 
+ 
+Ms. Donna Asure, Manager 
+Forks Township 
+1606 Sullivan Trail  
+Easton, PA 18040 
+ 
+Re: 605 Kuebler Road – Land Use of Regional Significance  
+Forks Township  
+Northampton County   
+  
+Dear Ms. Asure,  
+ 
+The Lehigh Valley Planning Commission (LVPC) considered the subject preliminary land 
+development application at its Comprehensive Planning Committee and Full Commission 
+meetings, pursuant to the Pennsylvania Municipalities Planning Code (MPC). The meetings 
+occurred on:  
+  
+LVPC Comprehensive Planning Committee 
+Meeting:     
+   
+November 17, 2026, at 12:00 PM (Virtual)   
+  
+https://lvpc.org/lvpc-meetings   
+LVPC Full Commission   
+Meeting:   
+   
+November 19, 2026, at 7:00 PM Virtual  
+  
+https://lvpc.org/lvpc-meetings   
+ 
+Background 
+The application proposes redeveloping a former Dixie cup facility that is currently a brownfield 
+into a 465,500 square-foot warehouse, at 605 Kuebler Road (PIN: J9 15 8 & J9 21 3). The site 
+still contains most of the foundations of the original building, as well as the parking lots and 
+substation. The site also contains a railroad crossing and is directly adjacent to Kesslerville 
+Road.  
+38
+
+[page 39]
+  
+   
+ 
+Land Use 
+ 
+FutureLV: The Regional Plan General Land Use Map identifies the site in three different 
+overlapping sections. The project is located within the Development Area, where factors 
+appropriate for development may exist, but also in the Farmland Preservation Area, which is 
+predominantly agriculture and recommended to remain agricultural. The site is also located 
+within the Preservation buffer, areas where the factors may be present but conservation may 
+also be appropriate. FutureLV lays out specific development criteria for determining whether an 
+area of the preservation buffer is appropriate for development: 
+ 
+• If 'the proposal is consistent with the conservation of high-priority natural resources' as 
+outlined in the Natural Resources Map in FutureLV.  
+The Natural Resource Map in FutureLV highlights several different existing natural 
+resources on the site, including the 1% Annual Chance Flood Hazard, Natural Heritage 
+Inventory Supporting Landscape, which contains environmentally sensitive species or 
+habitats, steep slopes, and several surface depressions from mapping provided by 
+USGS. The proposal does take steps to ‘minimize the environmental impact of 
+39
+
+[page 40]
+  
+   
+ 
+development’ (of Policy 3.2) by providing flood studies and mitigation to reduce the 
+impact of flood hazard as a part of their conditional approval, expanding basins to 
+contain the extra stormwater created by the steep slopes, and including karst mitigation 
+in the erosion and sedimentation plan. The Natural Heritage Inventory Supporting 
+Landscaping is unlikely to contain the sensitive species because of the existing 
+brownfield, but the LVPC recommends the township consider requesting a Pennsylvania 
+Natural Diversity Inventory (PNDI).  
+ 
+• If 'the site is contiguous to existing development'. 
+ 
+Most of the site's surroundings to the north, east, and south are industrial like 
+warehousing and manufacturing. To the west of the site are several high-density 
+residential neighborhoods with both condos and single-family homes. Given the site was 
+previously industrial prior to much of the surrounding industrial expansion and the 
+construction of adjacent SR 1009, the site serves as the outer limits of development in 
+the industrial area and is contiguous.  
+ 
+• If 'Adequate sewage conveyance capacity, allocation, and treatment capacity is available 
+at the site'.  
+ 
+The site will connect to the Easton Area Joint Sewer Authority System and a will-serve 
+letter should be requested prior to final approval of land development.  
+ 
+• If 'the site is identified in the municipal comprehensive plan, zoning ordinance and Act 
+537 sewage facilities plan for development/public sewage disposal'. 
+ 
+The site is identified in the Forks Township 2022 Comprehensive Plan as a site for future 
+Industrial Development and is in the Industrial Designation District (ID) which is 
+permitted as a conditional use under the zoning ordinance and was granted permission 
+by the Forks Township Board of Supervisors on June 4, 2026.  
+ 
+• If 'The site will be served by public water with adequate supply and delivery capacity'.  
+ 
+The site will connect to the Easton Suburban Water Authority to provide public water, 
+and a will-serve letter should be requested prior to final approval of land development.  
+ 
+• If 'The development will not create adverse impacts to the transportation system with 
+respect to roads, bridges, transit facilities and bicycle/pedestrian facilities, including 
+traffic safety or congestion, based on accepted transportation planning and engineering 
+professional standards'. 
+ 
+The project submitted a Traffic Impact Study (TIS), and a supplemental review as a part 
+of the study. According to the Institute of Transportation Engineers (ITE) Trip Generation 
+Manual, 12th Edition, ITE Land Use Code 150, Warehouse, based on the 473,000 
+square foot facility, will generate 71 new AM trips, 80 new PM trips and 653 Total New 
+Trips during Weekdays. The LVPC noted a discrepancy in the square-footage of the 
+land development plans and the traffic impact study, so the LVPC relied on the higher of 
+the two numbers for the ITE estimate to create a more conservative estimate. The 
+original site, a 355,947 square-foot manufacturing facility, is estimated to have 
+generated the same number of truck trips as the proposed use while generating 260 
+40
+
+[page 41]
+  
+   
+ 
+fewer daily car trips compared to the new proposed use. Therefore, the development will 
+not create adverse impacts exceeding the previous impacts of development 
+ 
+Overall, the site is largely consistent with the development criteria in FutureLV, and the township 
+should take steps like ensuring the sewage and water capacity is available, and the 
+environmentally sensitive features will not be impacted by development in order to ‘guide 
+location and intensity of development’ (of Policy 1.1). The proposal also ‘encourages reuse of 
+vacant and underutilized properties’ (of Policy 5.4).  
+ 
+The LVPC encourages the developer to consider opportunities for incorporating sustainable 
+energy systems that reduce overhead operational costs and ‘reduce climate change impacts 
+through mitigation and adaptation’ (of Policy 3.4), such as geothermal energy systems, green 
+roofs, solar panels and greywater reuse for irrigation and plumbing. Some systems, like green 
+roofs, can also provide additional opportunity to 'manage the rate, volume and quality of storm 
+runoff' and ‘minimize environmental impacts of development to protect the health, safety, and 
+welfare of the public’ (of Policy 3.2)  
+ 
+The LVPC also makes the following recommendations related to the potential impacts of freight 
+on the site to ‘strengthen freight mobility to minimize quality of life impacts to residents’ (of 
+Policy 2.4): 
+ 
+• The LVPC supports the addition of a truck turning report with fire truck and garbage 
+truck turn radii in the plan.   
+ 
+• The LVPC supports the inclusion of truck parking on the site. However, the trailer 
+parking spaces are only 55’; a connected tractor trailer requires 70 feet of parking to 
+safely park and allows movement of other vehicles around the parked vehicle. It is not 
+clear if the parking spaces are long term or available to address hours of 
+compliance. These “overnight” or long-term parking spaces are a critical safety element 
+for drivers and trucks as well as the community to provide safe and designated parking 
+locations for drivers who may not be allowed to drive. Truck parking is a national 
+problem and freight-centric facilities such as this project can accommodate a limited 
+number of parking spaces to help the truck parking shortage. It is strongly recommended 
+that several parking spaces be provided for tractor-trailers who may require them to rest 
+and reset their hours-of-service timeframes. 
+ 
+• There are no shown snow removal provisions for compliance with the Pennsylvania Snow 
+Removal law requiring snow and ice to be removed from the tops of vehicles so as not to 
+cause road hazards and unsafe conditions. Snow removal equipment to provide 
+compliance with the law for drivers is becoming commonplace for freight-centric 
+facilities. 
+ 
+Additionally, the employee parking lots are an opportunity for the installation of vehicle charging 
+infrastructure to accommodate the emergence of electric vehicles by most automobile 
+manufacturers.  It is also recommended that medium and heavy-duty vehicle charging be 
+planned for as the availability of medium and heavy-duty short haul trucks and tractor trailers 
+emerges through industry confidence in purchasing these non-fossil fuel powered vehicles and 
+refrigerated trailers. Environmental noise and pollution mitigation should begin with the ability of 
+the trailer storage areas to connect to electricity for refrigeration units of trailers that are able to 
+have a hybrid run operation of diesel or other fuel and electricity. These efforts would help 
+41
+
+[page 42]
+  
+   
+ 
+‘reduce transportation-related emissions’, ‘minimize the environmental impact of development’, 
+and ‘reduce climate change impacts through mitigation and adaptation’ (of Policies 2.2, 3.2 & 
+3.4)  
+ 
+The LVPC commends the proposed sidewalk along the frontage of the site which supports 
+pedestrian safety and reducing fatalities toward zero (of Policies 5.1 and 5.3). The sidewalk 
+should also be expanded within the site to run along the driveways and create a full loop 
+through the site. Where pedestrian paths cross internal truck circulation routes, high-visibility 
+crosswalk markings and signage should be provided to enhance safety for employees walking 
+within the site to further Policies 5.1 and 5.3.  
+ 
+The sidewalks should include the “Truncated Dome Pattern for ADA Detectable Warning 
+Surfaces (ADW). These are an Americans with Disabilities Act (ADA) infrastructure requirement 
+and should be constructed to meet ADA Federal Guidelines and ‘ensure transportation 
+accessibility for all persons’ (of Policy 5.2).  
+ 
+Municipalities, when considering subdivision/land developments, should reasonably attempt to 
+be consistent with FutureLV: The Regional Plan, as required by the Pennsylvania Municipalities 
+Planning Code (MPC) [Article 1§105, Article III§303, §304 & §306(a), Article VI§603(j)]. The 
+LVPC review does not include an in-depth examination of plans relative to subdivision design 
+standards or ordinance requirements since these items are covered in the municipal review. 
+ 
+Sincerely,  
+ 
+ 
+Jacob Weinberg 
+Community and Regional Planner 
+ 
+ 
+ 
+ 
+42
+
+[page 43]
+ 
+                 Project Review Summary Sheet  
+  
+Comprehensive Planning Committee                                                                                                              Date: November 2026 
+ 
+Project 
+ 
+Municipality 
+ 
+Brief Statement of Purpose 
+ 
+LVPC Comment 
+Zoning Map 
+Amendment 
+Lower Mount 
+Bethel 
+Township 
+Martins Creek LLC Private Petition - to 
+Amend the Lower Mount Bethel Township 
+Zoning Map and change the zoning 
+classification of properties identified at 
+Northampton County from AP-Agricultural 
+Preservation Zoning District to I-Industrial 
+Zoning District.  
+The proposed zoning map amendment presents an opportunity to 
+accommodate industrial growth adjacent to established quarry and 
+power generation operations, potentially making more efficient use of 
+existing infrastructure and supporting economic development. However, 
+it would also expand industrial zoning into an undeveloped area 
+identified for farmland preservation in FutureLV, near natural and 
+scenic resources of regional importance. 
+Subdivision 
+and Land 
+Development 
+Ordinance 
+Palmer 
+Township 
+Palmer Township Subdivision and Land 
+Development Ordinance - to update the 
+structure and usability of the ordinance, 
+better align with other municipal and 
+county plans, make improvements to 
+streets and active transportation, improve 
+recreation area and environmental 
+provisions, and requires studies that 
+inform the decision making while adding 
+steps to expedite reviews and 
+transparency. 
+The substantial update represents the achievement of many goals 
+outlined in FutureLV: The Regional Plan by ‘integrating efficiency 
+measures and emerging technologies’ and ‘supporting evolution and 
+adaptability of government’ (of Policy 1.1).  
+Zoning 
+Ordinance 
+Amendment 
+City of 
+Bethlehem 
+Health Care Adaptive Reuse in 
+Residential Districts -  to create ‘heathcare 
+adaptive reuse’ as a permitted use in the 
+Single-Family Residential District (RS) 
+and add several provisions under 
+additional requirements for certain uses. 
+The implementation of this ordinance would allow an existing 
+nonconforming use to become a conforming use without needing to 
+meet the requirements of said use as a part of the adaptive reuse.  The 
+proposal also does not define what ‘healthcare adaptive reuse’ means 
+which makes measuring its potential impact difficult. 
+43
