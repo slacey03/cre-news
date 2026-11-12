@@ -8,6 +8,9 @@ Reads data/<source>/health.json (one entry per run, written by the collectors) a
   ALERT  - no new documents for 75+ days (boards meet at least monthly)
   WARN   - a single error (often a temporary outage), or listing count dropped by 70%+ vs normal,
            or no new documents for 45+ days
+Also checks the LVPC BuildLV market stats job (feeds Market Pulse on the website):
+  ALERT  - its last 2 runs failed, or no new monthly report has been stored for 60+ days (LVPC posts monthly)
+  WARN   - its last run failed, or no new report for 45+ days
 Writes data/health.json and health_report.md; exits 0. The workflow turns ALERTs into a GitHub issue.
 """
 import glob, json, os, statistics, sys
@@ -66,6 +69,40 @@ def check(key):
     return out
 
 
+def check_buildlv():
+    """Market Pulse source: newest stored BuildLV report and the stats job's recent runs."""
+    out = dict(key="lvpc_buildlv", name="LVPC BuildLV market stats (Market Pulse)", level="ok", problems=[], runs=0, documents=0)
+    def flag(level, msg):
+        out["problems"].append(f"{level}: {msg}")
+        if level == "ALERT" or out["level"] == "ok":
+            out["level"] = level.lower()
+    runs = [r for r in os.environ.get("BUILDLV_RUNS", "").split(",") if r]
+    out["runs"] = len(runs)
+    if runs and runs[0] == "failure":
+        flag("ALERT" if len(runs) > 1 and runs[1] == "failure" else "WARN",
+             "the BuildLV stats job failed" + (" on its last 2 runs" if len(runs) > 1 and runs[1] == "failure" else " on its last run"))
+    if not os.environ.get("SUPABASE_DB_URL"):
+        return out
+    sys.path.insert(0, os.path.dirname(__file__))
+    from db import connect
+    conn = connect()
+    row = conn.execute("select count(*), max(month), max(collected_at) from market_stats where source = 'LVPC BuildLV'").fetchone()
+    conn.close()
+    n, month, collected = row
+    out.update(documents=n or 0, last_new=collected.date().isoformat() if collected else None,
+               last_run=None, found=None, new=None)
+    if not collected:
+        flag("ALERT", "no BuildLV reports stored")
+        return out
+    days = (NOW - collected).days
+    latest = f"latest report: {month:%B %Y}"
+    if days >= 60:
+        flag("ALERT", f"no new monthly report in {days} days ({latest}); Market Pulse on the website is going stale")
+    elif days >= 45:
+        flag("WARN", f"no new monthly report in {days} days ({latest})")
+    return out
+
+
 def save_db(results):
     """Latest health per source in Supabase (private table) for a future status panel."""
     sys.path.insert(0, os.path.dirname(__file__))
@@ -91,6 +128,11 @@ def main():
     keys += sorted(os.path.basename(os.path.dirname(p)) for p in glob.glob(os.path.join(ROOT, "data", "*", "health.json"))
                    if os.path.basename(os.path.dirname(p)) not in keys)
     results = [check(k) for k in keys]
+    try:
+        results.append(check_buildlv())
+    except Exception as e:
+        results.append(dict(key="lvpc_buildlv", name="LVPC BuildLV market stats (Market Pulse)", level="warn",
+                            problems=[f"WARN: could not check BuildLV stats: {e}"], runs=0, documents=0))
     alerts = [r for r in results if r["level"] == "alert"]
     warns = [r for r in results if r["level"] == "warn"]
     if COLLECT_CONCLUSION not in ("success", "skipped"):
