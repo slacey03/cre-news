@@ -212,7 +212,7 @@
     <div class="alt">
       <a href="#" id="forgot">Set or reset your password</a>
       <span>·</span>
-      <a href="#" id="magic">Email me a one-time sign-in link instead</a>
+      <a href="#" id="magic">First time here, or prefer no password? Email me a sign-in link</a>
     </div>
   </form>
 
@@ -294,7 +294,7 @@ $('magic').onclick = async e => {
   if (!email) { say(msg, 'Enter your email above first.'); $('email').focus(); return; }
   say(msg, 'Checking…');
   if (!(await allowed(email))) return;
-  const { error } = await sb.auth.signInWithOtp({ email, options: { emailRedirectTo: location.origin + '/dashboard', shouldCreateUser: false } });
+  const { error } = await sb.auth.signInWithOtp({ email, options: { emailRedirectTo: location.origin + '/dashboard', shouldCreateUser: true } });
   say(msg, error ? 'Could not send the link: ' + error.message
     : 'Check your inbox for a sign-in link. It signs in the device you open it on.', !error);
 };
