@@ -12,11 +12,11 @@
   /* ── Same palette, type and base as the NewsTracker ── */
   :root {
     --bg: #ffffff;
-    --bg-alt: #f5f3ec;
-    --ink: #0f0f0d;
-    --ink-soft: #2d2d28;
-    --ink-faded: #6b6b62;
-    --rule: #e3dfd2;
+    --bg-alt: #F3F5F8;
+    --ink: #111417;
+    --ink-soft: #2B2F35;
+    --ink-faded: #646B74;
+    --rule: #E1E5EB;
     --primary: #2d5a3d;
     --primary-dark: #1f3f2a;
     --accent: #4a8c61;
@@ -164,7 +164,7 @@
   .cta:hover { border-color: var(--primary); color: var(--primary); }
   .cta.primary { background: var(--primary); border-color: var(--primary); color: #fff; }
   .cta.primary:hover { background: var(--primary-dark); color: #fff; }
-  .hero-card { border: 1px solid var(--rule); border-radius: 4px; background: var(--bg); box-shadow: 0 18px 40px -24px rgba(15, 15, 13, 0.25); overflow: hidden; }
+  .hero-card { border: 1px solid var(--rule); border-radius: 4px; background: var(--bg); box-shadow: 0 18px 40px -24px rgba(17,20,23,.25); overflow: hidden; }
   .hero-card .hc-head { font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--ink-faded); padding: 12px 18px; background: var(--bg-alt); border-bottom: 1px solid var(--rule); display: flex; justify-content: space-between; }
   .hero-card .hc-head .live { color: var(--primary); }
   .hero-card .hc-head .live::before { content: "● "; color: var(--accent); }
@@ -202,7 +202,7 @@
   .tz-name { font-family: 'Playfair Display', serif; font-weight: 700; font-size: 18px; line-height: 1.25; margin-bottom: 10px; }
   .tag { font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.08em; text-transform: uppercase; padding: 3px 7px; border: 1px solid var(--rule); border-radius: 2px; margin-right: 4px; display: inline-block; }
   .tag.cat { background: var(--primary); color: #fff; border-color: var(--primary); }
-  .tag.stage { color: var(--warn); border-color: #e7d6b1; }
+  .tag.stage { color: var(--warn); border-color: #D3DBE6; }
   .more-link { display: inline-block; margin-top: 18px; font-family: 'DM Mono', monospace; font-size: 11px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--primary); text-decoration: none; }
   .more-link:hover { text-decoration: underline; }
 
@@ -242,6 +242,90 @@
   .live-now .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--accent); box-shadow: 0 0 0 4px rgba(74, 140, 97, 0.15); }
   .closing { padding: 32px 24px; }
   }
+:root { --third: #1F3A5F; --third-dark: #142944; --third-soft: #E8EEF6; }
+  .brand-nav a.nav-signup { background: var(--third); border-color: var(--third); }
+  .brand-nav a.active { position: relative; color: var(--ink) !important; }
+  .brand-nav a.active::after { content: ""; position: absolute; left: 0; right: 0; bottom: -10px; height: 3px; background: var(--third); border-radius: 2px; }
+  .fullbleed { box-shadow: 0 0 0 100vmax var(--fb); clip-path: inset(0 -100vmax); background: var(--fb); }
+
+  .cta.primary { background: var(--third); border-color: var(--third); }
+  .kicker, .kicker::before { color: var(--third); }
+  .jump { position: sticky; top: 0; z-index: 20; display: flex; gap: 26px; align-items: center; padding: 12px 0; background: rgba(255,255,255,.96);
+          border-bottom: 1px solid var(--rule); font-family: 'DM Mono', monospace; font-size: 11px; letter-spacing: .12em; text-transform: uppercase; }
+  .jump span { color: var(--ink-faded); } .jump a { color: var(--ink-soft); text-decoration: none; padding-bottom: 3px; border-bottom: 2px solid transparent; }
+  @media (max-width: 768px) { .jump { gap: 18px; overflow-x: auto; white-space: nowrap; scrollbar-width: none; margin: 0 -16px; padding: 12px 16px; } .jump span { display: none; } .statband .stats-strip { border: none; } }
+  .jump a.on { color: var(--third); border-color: var(--third); }
+  .statband { --fb: var(--third); padding: 34px 0; margin: 0; }
+  .statband .stats-strip { margin: 0; border-color: rgba(255,255,255,.16); }
+  .statband .stat { border-color: rgba(255,255,255,.16); }
+  .statband .stat-label { color: #b4c3d8; } .statband .stat-value { color: #fff; }
+  .statband .stat:first-child .stat-value { color: #9fd0ae; }
+  .block.alt { --fb: var(--bg-alt); border-top: none; }
+  .block { border-top: none; }
+  .block-kicker { color: var(--third); font-weight: 500; }
+  .block-kicker b { color: var(--third); font-weight: 500; margin-right: 6px; }
+  .closing { background: var(--third); }
+  .closing .cta { background: #fff; color: var(--third); border-color: #fff; }
+
+  /* all-white sections: chapters split by labels + thin rules; only the stats and closing are solid bands */
+  .block.fullbleed { box-shadow: none !important; background: none !important; clip-path: none !important; }
+  .block { border-top: 1px solid var(--rule) !important; }
+  .statband + .block, .jump + .statband + .block { border-top: none !important; }
+
+  /* flow mockup */
+  .block { padding: 40px 0 !important; }
+  .block h2 { margin-bottom: 22px !important; }
+  .statband { padding: 26px 0 !important; }
+  .pulse-grid { display: grid; grid-template-columns: 0.9fr 1.1fr; gap: 44px; align-items: center; }
+  .big { font-family: 'Playfair Display', serif; font-weight: 800; font-size: clamp(54px, 7vw, 88px); line-height: 1; color: var(--third); letter-spacing: -0.03em; }
+  .big span { font-size: 0.38em; font-weight: 700; color: var(--ink-soft); letter-spacing: 0; }
+  .big-sub { font-size: 16px; color: var(--ink-soft); margin: 10px 0 10px; }
+  .delta { display: inline-block; font-family: 'DM Mono', monospace; font-size: 12px; letter-spacing: .06em; color: var(--primary); background: #e8f2eb; padding: 6px 10px; border-radius: 3px; margin-bottom: 18px; }
+  .facts { list-style: none; border-top: 1px solid var(--rule); }
+  .facts li { padding: 10px 0; border-bottom: 1px dotted var(--rule); font-size: 15px; color: var(--ink-soft); }
+  .facts b { color: var(--ink); } .facts em { color: var(--primary); font-style: normal; font-size: 13px; }
+  .chart { width: 100%; height: auto; display: block; }
+  .chart .ax { font-family: 'DM Mono', monospace; font-size: 11px; fill: var(--ink-faded); }
+  .legend { font-family: 'DM Mono', monospace; font-size: 11px; letter-spacing: .06em; color: var(--ink-soft); margin-bottom: 8px; display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+  .legend .k { width: 12px; height: 12px; border-radius: 2px; display: inline-block; } .k25 { background: #cfd6df; } .k26 { background: var(--third); }
+  .legend .unit { margin-left: auto; color: var(--ink-faded); }
+  .src { font-size: 12px; color: var(--ink-faded); margin-top: 6px; }
+  .flow { list-style: none; display: grid; grid-template-columns: repeat(3, 1fr); gap: 32px; position: relative; padding-top: 8px; }
+  .flow::before { content: ""; position: absolute; top: 33px; left: 30px; right: 30%; height: 2px; background: linear-gradient(90deg, var(--third), var(--third) 50%, var(--accent-soft)); }
+  .flow li { position: relative; }
+  .flow .n { width: 52px; height: 52px; border-radius: 50%; background: var(--third); color: #fff; display: grid; place-items: center; font-family: 'Playfair Display', serif; font-weight: 800; font-size: 24px; margin-bottom: 16px; position: relative; z-index: 1; box-shadow: 0 0 0 6px #fff; }
+  .flow h3 { font-family: 'Playfair Display', serif; font-size: 24px; margin-bottom: 6px; }
+  .flow p { font-size: 14.5px; color: var(--ink-soft); line-height: 1.6; }
+  .who { display: grid; grid-template-columns: 1fr 1fr; column-gap: 48px; border-top: 1px solid var(--ink); }
+  .who > div { display: grid; grid-template-columns: 200px 1fr; gap: 16px; padding: 14px 0; border-bottom: 1px solid var(--rule); }
+  .who dt { font-family: 'Playfair Display', serif; font-weight: 700; font-size: 18px; }
+  .who dd { font-size: 14.5px; color: var(--ink-soft); line-height: 1.5; }
+  @media (max-width: 768px) {
+    .pulse-grid { grid-template-columns: 1fr; gap: 24px; }
+    .flow { grid-template-columns: 1fr; gap: 22px; }
+    .flow::before { top: 26px; bottom: 40px; left: 25px; right: auto; width: 2px; height: auto; background: var(--third); }
+    .flow li { padding-left: 72px; } .flow .n { position: absolute; left: 0; top: 0; margin: 0; }
+    .who { grid-template-columns: 1fr; } .who > div { grid-template-columns: 1fr; gap: 4px; }
+  }
+
+  .facts { display: block; } .facts li { display: block; }
+  @media (max-width: 768px) { .flow::before { bottom: auto; height: calc(100% - 150px); } }
+
+  /* navy palette: white base, black text, green = brand, navy = action/navigation, cool gray panels, no gold */
+  .tz .tz-name, .tz-name { color: var(--ink) !important; }
+  .tz-meta .town, .source-name { color: var(--ink-faded) !important; }
+  .tag.stage { color: var(--ink-soft) !important; border-color: var(--rule) !important; background: var(--bg) !important; }
+
+  /* phones: keep the whole menu on one line under the logo */
+  @media (max-width: 600px) {
+    .brand-nav { flex-wrap: nowrap !important; overflow-x: auto; scrollbar-width: none; gap: 12px !important; font-size: 10px !important; letter-spacing: 0.06em !important; width: 100%; padding-bottom: 12px; }
+    .brand-nav::-webkit-scrollbar { display: none; }
+    .brand-nav a { flex: 0 0 auto; white-space: nowrap; }
+    .brand-nav a.nav-login, .brand-nav a.nav-signup { padding: 7px 9px 6px !important; }
+    .brand-nav a.nav-login { margin-left: auto; }
+    .brand-nav a.active:not(.nav-signup):not(.nav-login)::after { bottom: -6px !important; }
+  }
+  @media (max-width: 360px) { .brand-nav { gap: 9px !important; font-size: 9px !important; letter-spacing: 0.03em !important; } .brand-nav a.nav-login, .brand-nav a.nav-signup { padding: 6px 7px 5px !important; } }
 </style>
 </head>
 <body>
@@ -300,36 +384,53 @@
     <div class="stat"><div class="stat-label">Municipalities</div><div class="stat-value" id="s-munis">–</div></div>
   </div>
 
-  <section class="block">
-    <div class="block-kicker">How it works</div>
-    <h2>The earliest signs of a deal are buried in <span class="green">municipal PDFs.</span> We dig them out.</h2>
-    <div class="steps">
-      <div class="step"><div class="step-num">01 · COLLECT</div><h3>Agendas, every day</h3><p>Agendas, packets, minutes and hearing notices from township, borough and city boards, plus the Lehigh Valley Planning Commission's regional reviews. Collected daily, scanned pages included.</p></div>
-      <div class="step"><div class="step-num">02 · READ</div><h3>AI pulls out the deal facts</h3><p>Project name, address, parcel, owner, applicant, request, zoning, acreage, square footage, stage and the vote, pulled straight from the record with a link to the source document.</p></div>
-      <div class="step"><div class="step-num">03 · TRACK</div><h3>One project, one timeline</h3><p>Every appearance of a project across boards and months is linked into a single record, so you see where it stands and what's next.</p></div>
-    </div>
-  </section>
-
-  <section class="block">
+  <section class="block" id="s1">
     <div class="block-kicker">Moving through the boards right now</div>
     <h2>Recent projects from the <span class="green">live feed.</span></h2>
-    <div class="teaser" id="teaser"><div class="tz"><div class="tz-name">Loading…</div></div></div>
+    <div class="teaser" id="teaser"><div class="tz"><div class="tz-name">Loading…</div>
     <a class="more-link" href="/dashboard">Open the dashboard →</a>
   </section>
 
-  <section class="block">
-    <div class="block-kicker">Who it's for</div>
-    <h2>Built by a commercial real estate broker, for the people who <span class="green">need to know first.</span></h2>
-    <div class="audience">
-      <div class="aud"><h3>Brokers</h3><p>Spot new retail pads, land plays and tenant moves before the signs go up.</p></div>
-      <div class="aud"><h3>Developers</h3><p>Watch competing projects, rezonings and what boards are approving.</p></div>
-      <div class="aud"><h3>Lenders & investors</h3><p>Track pipeline, entitlement risk and timing in the markets you finance.</p></div>
-      <div class="aud"><h3>Engineers & attorneys</h3><p>Follow applications, variances and decisions across every municipality.</p></div>
-      <div class="aud"><h3>Retailers & site selectors</h3><p>See where new drive-thrus, stores and centers are heading next.</p></div>
+  <section class="block pulse" id="s2">
+    <div class="block-kicker">Market pulse · Lehigh Valley</div>
+    <div class="pulse-grid">
+      <div>
+        <div class="big" id="p-big">—</div>
+        <div class="big-sub" id="p-sub">of non-residential development proposed</div>
+        <div class="delta" id="p-delta" style="display:none"></div>
+        <ul class="facts" id="p-facts"></ul>
+      </div>
+      <div class="chart-wrap">
+        <div class="legend" id="p-legend"></div>
+        <div id="p-chart"></div>
+        <div class="src">Source: Lehigh Valley Planning Commission, BuildLV monthly reports</div>
+      </div>
     </div>
   </section>
 
-  <section class="block">
+  <section class="block" id="s3">
+    <div class="block-kicker">How it works</div>
+    <h2>The earliest signs of a deal are buried in <span class="green">municipal PDFs.</span> We dig them out.</h2>
+    <ol class="flow">
+      <li><span class="n">1</span><h3>Collect</h3><p>Agendas, packets, minutes and hearing notices from township, borough and city boards, plus regional planning reviews. Every day.</p></li>
+      <li><span class="n">2</span><h3>Read</h3><p>AI pulls out name, address, parcel, applicant, request, zoning, acreage, square footage, stage and the vote, linked to the source.</p></li>
+      <li><span class="n">3</span><h3>Track</h3><p>Every appearance across boards and months becomes one timeline, so you see where a project stands and what's next.</p></li>
+    </ol>
+  </section>
+
+  <section class="block" id="s4">
+    <div class="block-kicker">Who it's for</div>
+    <h2>Built for the people who <span class="green">need to know first.</span></h2>
+    <dl class="who">
+      <div><dt>Brokers</dt><dd>Spot new retail pads, land plays and tenant moves before the signs go up.</dd></div>
+      <div><dt>Developers</dt><dd>Watch competing projects, rezonings and what boards are approving.</dd></div>
+      <div><dt>Lenders &amp; investors</dt><dd>Track pipeline, entitlement risk and timing in the markets you finance.</dd></div>
+      <div><dt>Engineers &amp; attorneys</dt><dd>Follow applications, variances and decisions across every municipality.</dd></div>
+      <div><dt>Retailers &amp; site selectors</dt><dd>See where new drive-thrus, stores and centers are heading next.</dd></div>
+    </dl>
+  </section>
+
+  <section class="block" id="s5">
     <div class="block-kicker">Coverage</div>
     <div class="coverage">
       <div>
@@ -347,6 +448,7 @@
         <li><span>Additional states</span><span class="st next">Planned</span></li>
       </ul>
     </div>
+  
   </section>
 
   <section class="closing">
@@ -365,6 +467,7 @@
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
+<script src="/pulse.js"></script>
 <script>
 // A sign-in link from an older email may land here: pass it on to the dashboard.
 // Sign-in or password emails that land on the home page are passed on to the right page.
@@ -396,5 +499,47 @@ sb.from('pipeline_teaser').select('*').then(({ data }) => {
     </a>`).join('');
 });
 </script>
-</body>
+<script>
+(function(){
+  // "On this page" jump menu, numbered chapters, stats band
+  const blocks=[...document.querySelectorAll('section.block')];
+  const names={s1:'Live projects',s2:'Market pulse',s3:'How it works',s4:"Who it's for",s5:'Coverage'};
+  const jump=document.createElement('div'); jump.className='jump';
+  const hero=document.querySelector('.hero'); hero.parentNode.insertBefore(jump, hero.nextSibling);
+  const st=document.querySelector('.stats-strip'); const band=document.createElement('div'); band.className='statband fullbleed';
+  st.parentNode.insertBefore(band, st); band.appendChild(st);
+  window.numberChapters=function(){
+    const vis=blocks.filter(b=>b.style.display!=='none');
+    vis.forEach((b,i)=>{ const k=b.querySelector('.block-kicker'); if(!k) return; if(!k.dataset.t) k.dataset.t=k.textContent; k.innerHTML='<b>0'+(i+1)+' ·</b>'+k.dataset.t; });
+    jump.innerHTML='<span>On this page</span>'+vis.map(b=>`<a href="#${b.id}" data-s="${b.id}">${names[b.id]||''}</a>`).join('');
+    spy();
+  };
+  function spy(){
+    let cur=null; const y=window.scrollY+120;
+    blocks.forEach(b=>{ if(b.style.display!=='none' && b.offsetTop<=y) cur=b.id; });
+    jump.querySelectorAll('a').forEach((a,i)=>a.classList.toggle('on', a.dataset.s===(cur||(i===0&&a.dataset.s))));
+  }
+  window.addEventListener('scroll', spy, {passive:true});
+  numberChapters();
+})();
+
+// Market Pulse from LVPC BuildLV (public figures); the section stays hidden if they can't be loaded
+(async function(){
+  const sec=document.getElementById('s2');
+  try {
+    const P=await loadPulse(sb); if(!P) throw 0;
+    const F=pulseFmt, n=x=>Number(x).toLocaleString('en-US');
+    document.getElementById('p-big').innerHTML=F.sqft(P.sqft).replace(/([MK])$/,'$1')+' <span>sq ft</span>';
+    document.getElementById('p-sub').textContent='of non-residential development proposed, '+P.range;
+    if(P.sqftPct!=null){ const d=document.getElementById('p-delta'); d.textContent=F.arrow(P.sqftPct)+' vs. the same months of '+(P.year-1); d.style.display=''; }
+    const facts=[];
+    if(P.industrial) facts.push(`<li><b>${F.sqft(P.industrial)} sq ft</b> of it industrial</li>`);
+    facts.push(`<li><b>${n(P.units)}</b> housing units proposed${P.unitsPct!=null?` <em>(${F.pct(P.unitsPct)})</em>`:''}</li>`);
+    facts.push(`<li><b>${n(P.plans)}</b> plans reviewed${P.plansPct!=null?` <em>(${F.pct(P.plansPct)})</em>`:''}</li>`);
+    document.getElementById('p-facts').innerHTML=facts.join('');
+    document.getElementById('p-legend').innerHTML=(P.hasPrev?`<span class="k k25"></span>${P.year-1} `:'')+`<span class="k k26"></span>${P.year} <span class="unit">sq ft proposed / month</span>`;
+    document.getElementById('p-chart').innerHTML=pulseChart(P,560,220,{axis:true,cls:'chart'});
+  } catch(e) { sec.style.display='none'; window.numberChapters && numberChapters(); }
+})();
+</script></body>
 </html>

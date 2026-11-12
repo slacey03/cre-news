@@ -12,11 +12,11 @@
   /* ── Same palette, type and base as the NewsTracker ── */
   :root {
     --bg: #ffffff;
-    --bg-alt: #f5f3ec;
-    --ink: #0f0f0d;
-    --ink-soft: #2d2d28;
-    --ink-faded: #6b6b62;
-    --rule: #e3dfd2;
+    --bg-alt: #F3F5F8;
+    --ink: #111417;
+    --ink-soft: #2B2F35;
+    --ink-faded: #646B74;
+    --rule: #E1E5EB;
     --primary: #2d5a3d;
     --primary-dark: #1f3f2a;
     --accent: #4a8c61;
@@ -151,6 +151,33 @@
   .brand-nav a.nav-signup:hover { background: var(--primary-dark, #1f3f2a); color: #fff; }
   .brand-nav a.nav-login.active, .brand-nav a.nav-signup.active { border-bottom: none; }
   @media (max-width: 768px) { .brand-nav { flex-wrap: wrap; row-gap: 10px; } }
+  /* ZoningTrack navy design (Nov 2026): white base, black text, green = brand, navy = action/navigation, cool gray panels */
+  :root { --third: #1F3A5F; --third-dark: #142944; --third-soft: #E8EEF6; }
+  .brand-nav a.nav-signup { background: var(--third) !important; border-color: var(--third) !important; color: #fff !important; }
+  .brand-nav a.active:not(.nav-signup):not(.nav-login) { position: relative; color: var(--ink) !important; border-bottom: none !important; }
+  .brand-nav a.active:not(.nav-signup):not(.nav-login)::after { content: ""; position: absolute; left: 0; right: 0; bottom: -10px; height: 3px; background: var(--third); border-radius: 2px; }
+  .masthead-meta span:first-child::before { color: var(--third) !important; }
+  .masthead-meta span:first-child { color: var(--third); }
+
+  .btn { background: var(--third) !important; border-color: var(--third) !important; }
+  .founder-line { border-left: 3px solid var(--third); }
+  .monogram { background: var(--third) !important; color: #fff !important; border-color: var(--third) !important; }
+
+  /* navy palette: white base, black text, green = brand, navy = action/navigation, cool gray panels, no gold */
+  .tz .tz-name, .tz-name { color: var(--ink) !important; }
+  .tz-meta .town, .source-name { color: var(--ink-faded) !important; }
+  .tag.stage { color: var(--ink-soft) !important; border-color: var(--rule) !important; background: var(--bg) !important; }
+
+  /* phones: keep the whole menu on one line under the logo */
+  @media (max-width: 600px) {
+    .brand-nav { flex-wrap: nowrap !important; overflow-x: auto; scrollbar-width: none; gap: 12px !important; font-size: 10px !important; letter-spacing: 0.06em !important; width: 100%; padding-bottom: 12px; }
+    .brand-nav::-webkit-scrollbar { display: none; }
+    .brand-nav a { flex: 0 0 auto; white-space: nowrap; }
+    .brand-nav a.nav-login, .brand-nav a.nav-signup { padding: 7px 9px 6px !important; }
+    .brand-nav a.nav-login { margin-left: auto; }
+    .brand-nav a.active:not(.nav-signup):not(.nav-login)::after { bottom: -6px !important; }
+  }
+  @media (max-width: 360px) { .brand-nav { gap: 9px !important; font-size: 9px !important; letter-spacing: 0.03em !important; } .brand-nav a.nav-login, .brand-nav a.nav-signup { padding: 6px 7px 5px !important; } }
 </style>
 </head>
 <body>

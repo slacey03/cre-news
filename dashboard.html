@@ -12,16 +12,16 @@
   /* ── Same palette, type and base as the NewsTracker ── */
   :root {
     --bg: #ffffff;
-    --bg-alt: #f5f3ec;
-    --ink: #0f0f0d;
-    --ink-soft: #2d2d28;
-    --ink-faded: #6b6b62;
-    --rule: #e3dfd2;
+    --bg-alt: #F3F5F8;
+    --ink: #111417;
+    --ink-soft: #2B2F35;
+    --ink-faded: #646B74;
+    --rule: #E1E5EB;
     --primary: #2d5a3d;
     --primary-dark: #1f3f2a;
     --accent: #4a8c61;
     --accent-soft: #9fc9ad;
-    --warn: #a47c2c;
+    --warn: #3D5573;
     --danger: #8b3a2a;
   }
 
@@ -192,7 +192,7 @@
   .tl-req { font-size: 13px; color: var(--ink-soft); margin: 2px 0 4px; }
   .tl-out { font-family: 'Playfair Display', serif; font-style: italic; color: var(--warn); font-size: 15px; }
   .tl-item a { font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--primary); }
-  .tag.stage { background: var(--bg); color: var(--warn); border-color: #e7d6b1; }
+  .tag.stage { background: var(--bg); color: var(--warn); border-color: #D3DBE6; }
   .tag.cat { background: var(--primary); color: #fff; border-color: var(--primary); }
   .lock { padding: 28px 24px; text-align: center; border-top: 1px solid var(--rule); background: var(--bg-alt); }
   .lock h3 { font-family: 'Playfair Display', serif; font-size: 22px; margin-bottom: 8px; }
@@ -220,8 +220,50 @@
   .news-sum { font-size: 13.5px; color: var(--ink-soft); line-height: 1.55; margin-bottom: 8px; }
   .news-match { font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: 0.06em; color: var(--primary); }
   .from-news { font-family: 'DM Mono', monospace; font-size: 9px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--warn); margin-left: 6px; }
-  .tl-item.newsy::before { border-color: var(--warn); background: #fbf3e2; }
+  .tl-item.newsy::before { border-color: var(--warn); background: #F3F5F8; }
   .tl-item.newsy .tl-date { color: var(--warn); }
+  /* ZoningTrack navy design (Nov 2026): white base, black text, green = brand, navy = action/navigation, cool gray panels */
+  :root { --third: #1F3A5F; --third-dark: #142944; --third-soft: #E8EEF6; }
+  .brand-nav a.nav-signup { background: var(--third); border-color: var(--third); }
+  .brand-nav a.active { position: relative; color: var(--ink) !important; }
+  .brand-nav a.active::after { content: ""; position: absolute; left: 0; right: 0; bottom: -10px; height: 3px; background: var(--third); border-radius: 2px; }
+  .fullbleed { box-shadow: 0 0 0 100vmax var(--fb); clip-path: inset(0 -100vmax); background: var(--fb); }
+
+  .item.active { border-left: 4px solid var(--third); padding-left: 18px; background: var(--third-soft); }
+  .filter-btn.active { background: var(--third); border-color: var(--third); color: #fff; }
+  .crumb { font-family: 'DM Mono', monospace; font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--ink-faded); margin-bottom: 14px; }
+  .crumb a { color: var(--ink-faded); text-decoration: none; } .crumb b { color: var(--third); font-weight: 500; }
+  .detail .label, .detail .section > .label { color: var(--third) !important; font-weight: 500; }
+  .tl-item.now::before { background: var(--third); border-color: var(--third); box-shadow: 0 0 0 4px rgba(31,58,95,.18); }
+  .tl-item.now .tl-date::after { content: "  · WHERE IT STANDS"; color: var(--third); }
+  .tag.newwk { background: var(--third); color: #fff; border-color: var(--third); }
+  .tag.cat { background: var(--primary); }
+  .field .label { color: var(--ink-faded) !important; font-weight: 400; }
+
+  .pulse-strip { display: grid; grid-template-columns: auto 1fr auto; gap: 24px; align-items: center; border: 1px solid var(--rule); border-left: 3px solid var(--third); border-radius: 4px; padding: 14px 18px; margin-bottom: 22px; }
+  .pulse-strip .pk { font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: .14em; text-transform: uppercase; color: var(--third); }
+  .pulse-strip .pv { font-family: 'Playfair Display', serif; font-weight: 800; font-size: 28px; color: var(--third); line-height: 1; }
+  .pulse-strip .ps { font-size: 13px; color: var(--ink-soft); }
+  .pulse-strip .pf { display: flex; gap: 22px; flex-wrap: wrap; font-size: 13px; color: var(--ink-soft); } .pulse-strip .pf b { color: var(--ink); }
+  .pulse-strip svg { width: 180px; height: 40px; }
+  @media (max-width: 768px) { .pulse-strip { grid-template-columns: 1fr; gap: 10px; } .pulse-strip svg { width: 100%; } }
+
+  /* navy palette: white base, black text, green = brand, navy = action/navigation, cool gray panels, no gold */
+  .tz .tz-name, .tz-name { color: var(--ink) !important; }
+  .tz-meta .town, .source-name { color: var(--ink-faded) !important; }
+  .tag.stage { color: var(--ink-soft) !important; border-color: var(--rule) !important; background: var(--bg) !important; }
+
+  /* phones: keep the whole menu on one line under the logo */
+  @media (max-width: 600px) {
+    .brand-nav { flex-wrap: nowrap !important; overflow-x: auto; scrollbar-width: none; gap: 12px !important; font-size: 10px !important; letter-spacing: 0.06em !important; width: 100%; padding-bottom: 12px; }
+    .brand-nav::-webkit-scrollbar { display: none; }
+    .brand-nav a { flex: 0 0 auto; white-space: nowrap; }
+    .brand-nav a.nav-login, .brand-nav a.nav-signup { padding: 7px 9px 6px !important; }
+    .brand-nav a.nav-login { margin-left: auto; }
+    .brand-nav a.active:not(.nav-signup):not(.nav-login)::after { bottom: -6px !important; }
+  }
+  @media (max-width: 360px) { .brand-nav { gap: 9px !important; font-size: 9px !important; letter-spacing: 0.03em !important; } .brand-nav a.nav-login, .brand-nav a.nav-signup { padding: 6px 7px 5px !important; } }
+  @media (max-width: 360px) { .section-title { font-size: 38px !important; } }
 </style>
 </head>
 <body>
@@ -267,6 +309,7 @@
   </div>
 
   <div class="auth-bar" id="auth-bar"></div>
+  <div class="pulse-strip" id="pulse" style="display:none"></div>
 
   <div class="controls" id="controls" style="display:none">
     <div class="search-wrap">
@@ -297,6 +340,7 @@
 </div>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
+<script src="/pulse.js"></script>
 <script>
 // Public project URL and publishable ("anon") key: safe to ship in a web page. Data access is enforced by database rules.
 const SUPABASE_URL = 'https://jrlircehkzivwkcauzdt.supabase.co';
@@ -383,6 +427,22 @@ function matches(r) {
   return true;
 }
 
+const isNew = r => r.first_seen && (Date.now() - new Date(r.first_seen + 'T12:00:00')) / 86400000 <= 7;
+
+async function renderPulse() {
+  const P = window.loadPulse ? await loadPulse(sb) : null;
+  const el = document.getElementById('pulse');
+  if (!P) return;
+  const L = P.latest, F = pulseFmt;
+  el.innerHTML = `<div><div class="pk">Market pulse · LVPC BuildLV</div><div class="pv">${F.sqft(P.sqft)} sq ft</div>
+    <div class="ps">non-residential proposed, ${esc(P.range)}${P.sqftPct != null ? ` · <b style="color:var(--primary)">${F.arrow(P.sqftPct)}</b>` : ''}</div></div>
+    <div class="pf"><span><b>${esc(P.series[P.series.length - 1].m)}:</b> ${num(L.plans)} plans · ${F.sqft(Number(L.nonres_sqft_total) || 0)} sq ft · ${num(L.units_total || 0)} units</span>
+      ${P.industrial ? `<span><b>Industrial YTD:</b> ${F.sqft(P.industrial)} sq ft</span>` : ''}
+      <span><b>Housing YTD:</b> ${num(P.units)} units${P.unitsPct != null ? ' (' + F.pct(P.unitsPct) + ')' : ''}</span></div>
+    ${pulseChart(P, 180, 40)}`;
+  el.style.display = '';
+}
+
 function renderFeed() {
   const list = ROWS.filter(matches);
   const feed = document.getElementById('feed');
@@ -392,7 +452,7 @@ function renderFeed() {
       <div class="item-meta"><span class="source-name">${esc(r.municipality)}</span><span>${esc(fmtDate(r.last_seen))}</span></div>
       <div class="item-title">${esc(r.name)}</div>
       ${member && r.address ? `<div class="item-ai">${esc(r.address)}</div>` : ''}
-      <div class="tags"><span class="tag cat">${esc(r.category)}</span><span class="tag stage">${esc(r.stage)}</span>${r.mentions > 1 ? `<span class="tag">${r.mentions} meetings</span>` : ''}${member && (r.news || []).length ? `<span class="tag stage">In the news</span>` : ''}</div>
+      <div class="tags">${isNew(r) ? '<span class="tag newwk">New this week</span>' : ''}<span class="tag cat">${esc(r.category)}</span><span class="tag stage">${esc(r.stage)}</span>${r.mentions > 1 ? `<span class="tag">${r.mentions} meetings</span>` : ''}${member && (r.news || []).length ? `<span class="tag stage">In the news</span>` : ''}</div>
     </div>`).join('')
     + (list.length > 400 ? `<div class="more">Showing 400 of ${list.length}. Narrow with search or filters.</div>` : '')
     + (!member ? `<div class="lock"><h3>Hundreds more projects</h3><p>Join the waitlist to be first in line when full access opens.</p><a class="btn primary" href="/waitlist">Sign up for the waitlist</a></div>` : '');
@@ -416,6 +476,7 @@ function renderDetail() {
   if (!r) { el.innerHTML = ''; return; }
   const head = `
     <button class="btn back-btn" onclick="closeDetail()">← Back to list</button>
+    <div class="crumb"><a href="/dashboard" onclick="return crumbTo('all')">Dashboard</a> › ${member ? `<a href="/dashboard" onclick="return crumbTo(${esc(JSON.stringify(r.municipality || ''))})">${esc(r.municipality)}</a>` : esc(r.municipality)} › <b>${esc(r.name)}</b></div>
     <div class="detail-meta">${esc(r.municipality)} · first seen ${esc(fmtDate(r.first_seen))} · last activity ${esc(fmtDate(r.last_seen))}</div>
     <div class="detail-title">${esc(r.name)}</div>
     <div class="tags" style="margin-bottom:22px"><span class="tag cat">${esc(r.category)}</span><span class="tag stage">${esc(r.stage)}</span><span class="tag">${r.mentions} meeting${r.mentions === 1 ? '' : 's'}</span></div>`;
@@ -434,6 +495,7 @@ function renderDetail() {
                       : `In the news since ${fmtDate(r.news_first)} · first seen in municipal records ${fmtDate(r.first_seen)}.`;
   }
   const tl = (r.timeline || []).concat(news.map(n => ({ date: n.date, board: n.outlet, kind: 'news', request: n.headline, url: n.url, newsy: true }))).sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+  const nowItem = tl.find(t => !t.newsy);
   const link = t => {
     const u = (t.url || '').includes('webapi.legistar.com') ? t.source_page : (t.url || t.source_page);
     return u ? `<a href="${esc(u)}" target="_blank" rel="noopener">Source document ↗</a>` : '';
@@ -453,7 +515,7 @@ function renderDetail() {
       ${field('Size', r.size)}${field('Boards', (r.boards || []).join(', '))}${field('Stage', r.stage)}
     </div>
     <div class="section"><div class="label">Timeline</div><div class="tl">
-      ${tl.map(t => `<div class="tl-item ${t.newsy ? 'newsy' : ''}"><div class="tl-date">${esc(fmtDate(t.date))}${t.newsy ? ' · IN THE NEWS' : ''}</div>
+      ${tl.map(t => `<div class="tl-item ${t.newsy ? 'newsy' : ''} ${t === nowItem ? 'now' : ''}"><div class="tl-date">${esc(fmtDate(t.date))}${t.newsy ? ' · IN THE NEWS' : ''}</div>
         <div class="tl-board">${esc(t.board)} · ${esc(t.kind)}</div>
         ${t.request ? `<div class="tl-req">${esc(t.request)}</div>` : ''}
         ${t.outcome ? `<div class="tl-out">${esc(t.outcome)}</div>` : ''}
@@ -500,7 +562,18 @@ document.getElementById('filter-group').addEventListener('click', e => {
 ['search', 'township', 'hide-minor'].forEach(id =>
   document.getElementById(id).addEventListener(id === 'search' ? 'input' : 'change', renderFeed));
 
+// Breadcrumb: back to the whole list, or to this municipality's projects
+function crumbTo(town) {
+  const sel = document.getElementById('township');
+  if (member && sel) { sel.value = [...sel.options].some(o => o.value === town) ? town : 'all'; }
+  renderFeed();
+  if (isPhone() && document.body.classList.contains('show-detail')) closeDetail();
+  else document.getElementById('feed').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  return false;
+}
+
 loadStats();
+renderPulse();
 sb.auth.getSession().then(({ data }) => loadData(data.session));
 sb.auth.onAuthStateChange((event, session) => { if (event === 'SIGNED_IN' || event === 'SIGNED_OUT') loadData(session); });
 </script>

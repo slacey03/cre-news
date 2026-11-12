@@ -52,6 +52,12 @@ create table if not exists market_stats (
 alter table market_stats enable row level security;
 drop policy if exists members_read_market on market_stats;
 create policy members_read_market on market_stats for select to authenticated using (public.is_member());
+-- Public Market Pulse: LVPC publishes these regional totals openly, so the headline figures are readable by anyone.
+create or replace view market_pulse as
+  select month, coalesce(lehigh_plans, 0) + coalesce(northampton_plans, 0) as plans, units_total, nonres_sqft_total,
+         nullif(sqft->>'industrial', '')::numeric as industrial_sqft, nullif(sqft->>'warehouse', '')::numeric as warehouse_sqft
+  from market_stats where source = 'LVPC BuildLV';
+grant select on market_pulse to anon, authenticated;
 """
 
 

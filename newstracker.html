@@ -11,17 +11,17 @@
   :root {
     /* ZoningTrack brand palette */
     --bg: #ffffff;              /* clean white background */
-    --bg-alt: #f5f3ec;          /* warm off-white for cards/strips/hover states */
-    --ink: #0f0f0d;             /* dark ink, near-black */
-    --ink-soft: #2d2d28;
-    --ink-faded: #6b6b62;
-    --rule: #e3dfd2;            /* subtle dividers */
+    --bg-alt: #F3F5F8;          /* warm off-white for cards/strips/hover states */
+    --ink: #111417;             /* dark ink, near-black */
+    --ink-soft: #2B2F35;
+    --ink-faded: #646B74;
+    --rule: #E1E5EB;            /* subtle dividers */
     --primary: #2d5a3d;         /* primary green */
     --primary-dark: #1f3f2a;
     --accent: #4a8c61;          /* accent green */
     --accent-soft: #9fc9ad;     /* light green (text on dark) */
     --good: #2d5a3d;
-    --warn: #a47c2c;
+    --warn: #3D5573;
     --danger: #8b3a2a;
   }
 
@@ -585,6 +585,42 @@
   .brand-nav a.nav-signup:hover { background: var(--primary-dark, #1f3f2a); color: #fff; }
   .brand-nav a.nav-login.active, .brand-nav a.nav-signup.active { border-bottom: none; }
   @media (max-width: 768px) { .brand-nav { flex-wrap: wrap; row-gap: 10px; } }
+  /* ZoningTrack navy design (Nov 2026): white base, black text, green = brand, navy = action/navigation, cool gray panels */
+  :root { --third: #1F3A5F; --third-dark: #142944; --third-soft: #E8EEF6; }
+  .brand-nav a.nav-signup { background: var(--third) !important; border-color: var(--third) !important; color: #fff !important; }
+  .brand-nav a.active:not(.nav-signup):not(.nav-login) { position: relative; color: var(--ink) !important; border-bottom: none !important; }
+  .brand-nav a.active:not(.nav-signup):not(.nav-login)::after { content: ""; position: absolute; left: 0; right: 0; bottom: -10px; height: 3px; background: var(--third); border-radius: 2px; }
+  .masthead-meta span:first-child::before { color: var(--third) !important; }
+  .masthead-meta span:first-child { color: var(--third); }
+
+  .filter-btn.active { background: var(--third) !important; border-color: var(--third) !important; color: #fff !important; }
+  .page-btn.active { background: var(--third) !important; border-color: var(--third) !important; color: #fff !important; }
+  .container .stats-strip, .stats-strip { background: var(--third) !important; border-color: var(--third) !important; }
+  .stats-strip .stat { background: transparent !important; }
+  .stats-strip .stat { border-color: rgba(255,255,255,.15) !important; }
+  .stats-strip .stat-label { color: #b4c3d8 !important; } .stats-strip .stat-value, .stats-strip .stat-value .unit { color: #fff !important; }
+  .source-name { color: var(--third) !important; }
+
+  /* navy palette: white base, black text, green = brand, navy = action/navigation, cool gray panels, no gold */
+  .tz .tz-name, .tz-name { color: var(--ink) !important; }
+  .tz-meta .town, .source-name { color: var(--ink-faded) !important; }
+  .tag.stage { color: var(--ink-soft) !important; border-color: var(--rule) !important; background: var(--bg) !important; }
+
+  /* phones: keep the whole menu on one line under the logo */
+  @media (max-width: 600px) {
+    .brand-nav { flex-wrap: nowrap !important; overflow-x: auto; scrollbar-width: none; gap: 12px !important; font-size: 10px !important; letter-spacing: 0.06em !important; width: 100%; padding-bottom: 12px; }
+    .brand-nav::-webkit-scrollbar { display: none; }
+    .brand-nav a { flex: 0 0 auto; white-space: nowrap; }
+    .brand-nav a.nav-login, .brand-nav a.nav-signup { padding: 7px 9px 6px !important; }
+    .brand-nav a.nav-login { margin-left: auto; }
+    .brand-nav a.active:not(.nav-signup):not(.nav-login)::after { bottom: -6px !important; }
+  }
+  @media (max-width: 360px) { .brand-nav { gap: 9px !important; font-size: 9px !important; letter-spacing: 0.03em !important; } .brand-nav a.nav-login, .brand-nav a.nav-signup { padding: 6px 7px 5px !important; } }
+  @media (max-width: 768px) {
+    .controls { grid-template-columns: minmax(0, 1fr) !important; }
+    .filter-group { overflow-x: auto; scrollbar-width: none; }
+    .filter-btn { flex: 0 0 auto; }
+  }
 </style>
 </head>
 <body>
@@ -14306,13 +14342,16 @@ function matchesSearch(article, term) {
   return (article.title + ' ' + article.summary + ' ' + article.source).toLowerCase().includes(t);
 }
 
+// Topic scores run roughly 3-13; 8+ is the top few percent.
+const HIGH_SIGNAL = 8;
 function scoreBadgeClass(score) {
-  if (score >= 14) return 'high';
-  if (score >= 9) return 'med';
+  if (score >= HIGH_SIGNAL) return 'high';
+  if (score >= 6) return 'med';
   return '';
 }
 
 function render() {
+  DATA.articles.forEach(cleanArticle);
   const list = DATA.articles
     .filter(a => matchesFilter(a, activeFilter))
     .filter(a => matchesSearch(a, searchTerm));
@@ -14433,13 +14472,28 @@ function buildPaginationHtml(current, total) {
   return html;
 }
 
+// Google News items: the real publisher is the " - Publisher" ending of the title, and the summary repeats the title.
+function decodeEntities(s) { const t = document.createElement('textarea'); t.innerHTML = String(s || ''); return t.value.replace(/\u00a0/g, ' ').replace(/\s+/g, ' ').trim(); }
+function cleanArticle(a) {
+  if (a._clean) return a;
+  let title = decodeEntities(a.title), summary = decodeEntities(a.summary), source = a.source || '';
+  if (/^Google News/i.test(source) || a.domain === 'news.google.com') {
+    const m = title.match(/^(.*\S)\s+[-–—]\s+([^-–—]{2,60})$/);
+    source = m ? m[2].trim() : 'News';
+    if (m) title = m[1];
+  }
+  if (summary.endsWith(source)) summary = summary.slice(0, -source.length).trim();
+  if (!summary || summary === title || title.startsWith(summary) || summary.startsWith(title)) summary = '';
+  return Object.assign(a, { title, summary, source, _clean: true });
+}
+
 function escapeHtml(s) {
   return String(s || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 }
 
 function renderStats() {
   document.getElementById('stat-count').innerHTML = DATA.articles.length;
-  document.getElementById('stat-high').innerHTML = DATA.articles.filter(a => a.topic_score >= 14).length;
+  document.getElementById('stat-high').innerHTML = DATA.articles.filter(a => a.topic_score >= HIGH_SIGNAL).length;
 
   const now = Date.now() / 1000;
   const recent = DATA.articles.filter(a => a.published_ts && (now - a.published_ts) < 7 * 86400).length;
