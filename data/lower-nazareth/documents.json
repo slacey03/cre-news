@@ -203,6 +203,23 @@
   "text": "Agenda",
   "url": "https://lowernazareth.com/Documents/Boards and Commissions/Board of Supervisors/Agenda and Minutes/2026/102826 BOS Agenda-AMEDNED.pdf?t=202610290936180"
  },
+ "agenda_governing-body_2026-11-11_b4afdb97d4": {
+  "board": "Governing Body",
+  "chars": 1452,
+  "collected_at": "2026-11-12T18:26:36+00:00",
+  "context": "11/11/26 Regular Meeting Agenda",
+  "county": "Northampton",
+  "kind": "agenda",
+  "meeting_date": "2026-11-11",
+  "municipality": "Lower Nazareth Township",
+  "ocr": false,
+  "pages": 1,
+  "rolling": false,
+  "sha256": "b4afdb97d4f068101f849002f782c8a642e69a0aeae4cd72ddd362dcee7a864d",
+  "source_page": "https://lowernazareth.com/boards_commissions/agendas___minutes.php",
+  "text": "Agenda",
+  "url": "https://lowernazareth.com/Documents/Boards and Commissions/Board of Supervisors/Agenda and Minutes/2026/111126 BOS Agenda-Amended.pdf?t=202611121202270"
+ },
  "agenda_governing-body_2026-11-11_dcf02c91fd": {
   "board": "Governing Body",
   "chars": 1392,
@@ -321,6 +338,23 @@
   "source_page": "https://lowernazareth.com/boards_commissions/pc_agendas___minutes.php",
   "text": "Agenda",
   "url": "https://lowernazareth.com/2026-10 PC Agenda.pdf?t=202610161024220"
+ },
+ "agenda_planning-commission_2026-11-16_db73d69bfe": {
+  "board": "Planning Commission",
+  "chars": 1151,
+  "collected_at": "2026-11-12T18:27:05+00:00",
+  "context": "11/16/26 Planning Commission Agenda",
+  "county": "Northampton",
+  "kind": "agenda",
+  "meeting_date": "2026-11-16",
+  "municipality": "Lower Nazareth Township",
+  "ocr": false,
+  "pages": 1,
+  "rolling": true,
+  "sha256": "db73d69bfe649758f1ef32779819d2863f8034261e27ee721f12d41cea79b3db",
+  "source_page": "https://lowernazareth.com/boards_commissions/pc_agendas___minutes.php",
+  "text": "Agenda",
+  "url": "https://lowernazareth.com/2026-11 PC Agenda - Final Update.pdf?t=202611121053410"
  },
  "agenda_zoning-hearing-board_2026-06-23_539270e85f": {
   "board": "Zoning Hearing Board",
@@ -610,6 +644,23 @@
   "source_page": "https://lowernazareth.com/boards_commissions/agendas___minutes.php",
   "text": "Minutes",
   "url": "https://lowernazareth.com/Documents/Boards and Commissions/Board of Supervisors/Agenda and Minutes/2026/102026 BOS Minutes NASD CA.pdf?t=202610291013420"
+ },
+ "minutes_governing-body_2026-10-28_2338d55473": {
+  "board": "Governing Body",
+  "chars": 18303,
+  "collected_at": "2026-11-12T18:27:05+00:00",
+  "context": "10/28/26 Regular Meeting Agenda Minutes",
+  "county": "Northampton",
+  "kind": "minutes",
+  "meeting_date": "2026-10-28",
+  "municipality": "Lower Nazareth Township",
+  "ocr": true,
+  "pages": 9,
+  "rolling": false,
+  "sha256": "2338d5547318599c3d93ff0ad1211dd6e25a695d7c79fdab8a5466c45d0fbdea",
+  "source_page": "https://lowernazareth.com/boards_commissions/agendas___minutes.php",
+  "text": "Minutes",
+  "url": "https://lowernazareth.com/Documents/Boards and Commissions/Board of Supervisors/Agenda and Minutes/2026/102826 BOS Minutes.pdf?t=202611121205150"
  },
  "minutes_planning-commission_2026-05-18_f4fa8e04f5": {
   "board": "Planning Commission",

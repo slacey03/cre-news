@@ -35,6 +35,24 @@
   "text": "Planning Commission",
   "url": "https://mooretownship.org/agendas/planagenda.pdf"
  },
+ "agenda_planning-commission_2026-11-23_e96aaba292": {
+  "board": "Planning Commission",
+  "chars": 2198,
+  "collected_at": "2026-11-12T18:25:50+00:00",
+  "county": "Northampton",
+  "drive_id": null,
+  "kind": "agenda",
+  "meeting_date": "2026-11-23",
+  "municipality": "Moore Township",
+  "ocr": false,
+  "on_home_page": true,
+  "pages": 2,
+  "rolling": true,
+  "sha256": "e96aaba292efb1156d14a33fcfac98fc02bc547aba6fcf55350570d756d42233",
+  "source_page": "https://mooretownship.org/",
+  "text": "Planning Commission",
+  "url": "https://mooretownship.org/agendas/planagenda.pdf"
+ },
  "agenda_zoning-hearing-board_2026-11-02_a4f70d1481": {
   "board": "Zoning Hearing Board",
   "chars": 2536,

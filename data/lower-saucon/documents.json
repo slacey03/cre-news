@@ -16,6 +16,23 @@
   "text": "Current Agenda",
   "url": "https://www.lowersaucontownship.org/Documents/Government/Planning Commission/Agendas/PC Packet - 10-22-2026 revised.pdf"
  },
+ "agenda_planning-commission_2026-11-19_f1cae087fa": {
+  "board": "Planning Commission",
+  "chars": 29802,
+  "collected_at": "2026-11-12T18:26:38+00:00",
+  "context": "",
+  "county": "Northampton",
+  "kind": "agenda",
+  "meeting_date": "2026-11-19",
+  "municipality": "Lower Saucon Township",
+  "ocr": false,
+  "pages": 34,
+  "rolling": false,
+  "sha256": "f1cae087fad404da1be203f3412b6950ea96ab000a9d9a567e56aee57eeeaf24",
+  "source_page": "https://www.lowersaucontownship.org/government/planning_commission/index.php",
+  "text": "Current Agenda",
+  "url": "https://www.lowersaucontownship.org/Documents/Government/Planning Commission/Agendas/PC Packet - 11-19-2026.pdf"
+ },
  "agenda_zoning-hearing-board_2026-10-26_d5b0acdc0b": {
   "board": "Zoning Hearing Board",
   "chars": 8066,

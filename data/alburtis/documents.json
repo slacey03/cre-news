@@ -214,5 +214,23 @@
   "source_page": "https://www.alburtis.org/minutes.html",
   "text": "October 14, 2026 7:00 PM Borough Hall",
   "url": "https://www.alburtis.org/minutes/14oct26.pdf"
+ },
+ "minutes_governing-body_2026-10-28_7cb0b20244": {
+  "board": "Governing Body",
+  "chars": 5008,
+  "collected_at": "2026-11-12T18:24:59+00:00",
+  "county": "Lehigh",
+  "drive_id": null,
+  "kind": "minutes",
+  "meeting_date": "2026-10-28",
+  "municipality": "Alburtis Borough",
+  "ocr": false,
+  "on_home_page": false,
+  "pages": 2,
+  "rolling": false,
+  "sha256": "7cb0b202441c09fb3603354775500fe032633013f7c555236844ec808c864955",
+  "source_page": "https://www.alburtis.org/minutes.html",
+  "text": "October 28, 2026 7:00 PM Borough Hall",
+  "url": "https://www.alburtis.org/minutes/28oct26.pdf"
  }
 }
