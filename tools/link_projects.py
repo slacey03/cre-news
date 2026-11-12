@@ -312,7 +312,8 @@ def main():
                   Jsonb(p["timeline"]), Jsonb(p.get("news") or []), p.get("news_first")) for p in pipeline])
             cur.executemany("update projects set pipeline_id = %s where id = %s", [(v, k) for k, v in mapping.items()])
     conn.execute(open(os.path.join(os.path.dirname(__file__), "..", "db", "access.sql")).read()); conn.commit()
-    print("access rules applied (public teaser + members-only pipeline)")
+    print("access rules applied (public teaser + members-only pipeline); members on list:",
+          conn.execute("select count(*) from members").fetchone()[0])
     report(rows, pipeline)
 
 
