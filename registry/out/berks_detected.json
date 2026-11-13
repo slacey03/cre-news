@@ -1,0 +1,3547 @@
+[
+ {
+  "key": "albany-berks",
+  "name": "Albany Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.albanytwpberks.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.albanytwpberks.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "Wix"
+  ],
+  "vendors": {},
+  "links": {
+   "minutes": [
+    "https://www.albanytwpberks.org/meeting-minutes"
+   ],
+   "meetings": [
+    "https://www.albanytwpberks.org/meeting-minutes",
+    "https://www.albanytwpberks.org/_files/ugd/9177a1_f0cf7f886a354dc3ac810d5764645fbf.pdf"
+   ],
+   "zoning": [
+    "https://www.albanytwpberks.org/zoning"
+   ],
+   "notices": [
+    "https://www.albanytwpberks.org/_files/ugd/9177a1_4ac83fac475b40f7b7e29e6ef31b5e20.pdf"
+   ]
+  },
+  "doc_page": {
+   "kind": "minutes",
+   "text": "Meeting Minutes",
+   "url": "https://www.albanytwpberks.org/meeting-minutes"
+  },
+  "doc_page_profile": {
+   "pdf_links": 217,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "Wix.com Website Builder",
+  "credit": ""
+ },
+ {
+  "key": "alsace-berks",
+  "name": "Alsace Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "http://www.alsacetownship.org/"
+  ],
+  "reachable": false,
+  "final_url": null,
+  "status": null,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {},
+  "doc_page": null,
+  "doc_page_profile": null,
+  "robots": "",
+  "notes": [
+   "http://www.alsacetownship.org/: robots-disallowed",
+   "https://alsacetownship.org: robots-disallowed"
+  ]
+ },
+ {
+  "key": "amity-berks",
+  "name": "Amity Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://amitytownshippa.com/wp/"
+  ],
+  "reachable": true,
+  "final_url": "https://amitytownshippa.com/wp/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {},
+  "doc_page": null,
+  "doc_page_profile": null,
+  "robots": "no robots.txt",
+  "notes": [],
+  "generator": "",
+  "credit": ""
+ },
+ {
+  "key": "bally-berks",
+  "name": "Bally Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://ballyboro.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://ballyboro.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://ballyboro.org/council-agendas/",
+    "https://ballyboro.org/documents/council-agendas/"
+   ],
+   "minutes": [
+    "https://ballyboro.org/council-minutes/",
+    "https://ballyboro.org/documents/council-minutes/"
+   ],
+   "meetings": [
+    "https://ballyboro.org/boro-events/",
+    "https://ballyboro.org/documents/council-minutes/"
+   ],
+   "planning": [
+    "https://ballyboro.org/government/planning-and-zoning/"
+   ],
+   "zoning": [
+    "https://ballyboro.org/government/planning-and-zoning/"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Council Agendas",
+   "url": "https://ballyboro.org/council-agendas/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 47,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "Elementor 4.4.0; features: additional_custom_breakpoints; se",
+  "credit": ""
+ },
+ {
+  "key": "bechtelsville-berks",
+  "name": "Bechtelsville Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://www.bechtelsville.org/"
+  ],
+  "reachable": false,
+  "final_url": "https://bechtelsville.org/",
+  "status": 403,
+  "blocked": true,
+  "cms": [],
+  "vendors": {},
+  "links": {},
+  "doc_page": null,
+  "doc_page_profile": null,
+  "robots": "robots.txt present",
+  "notes": [
+   "https://www.bechtelsville.org/: HTTP 403 (bot protection)",
+   "http://www.bechtelsville.org/: HTTP 403 (bot protection)",
+   "https://bechtelsville.org: HTTP 403 (bot protection)"
+  ]
+ },
+ {
+  "key": "bern-berks",
+  "name": "Bern Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.berntownship.org/newsite/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.berntownship.org/newsite/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "http://www.berntownship.org/newsite/2026/11/06/11_2026-planning-agenda/",
+    "http://www.berntownship.org/newsite/2026/10/30/11_2026-supervisors-agenda/",
+    "http://www.berntownship.org/newsite/2026/10/26/10_2026-btma-agenda/"
+   ],
+   "meetings": [
+    "http://www.berntownship.org/newsite/calendar-id4888/",
+    "http://www.berntownship.org/newsite/t-r-calendar/",
+    "http://www.berntownship.org/newsite/t-r-calendar-2/",
+    "http://www.berntownship.org/newsite/wp-content/uploads/2026_Bern_Twp_Meeting_Dates.pdf",
+    "http://www.berntownship.org/newsite/2026/08/26/a-conditional-use-hearing-will-be-held-at-the-september-supervisors-meeting/"
+   ],
+   "planning": [
+    "http://www.berntownship.org/newsite/township-of-bern/planning-commission/",
+    "http://www.berntownship.org/newsite/2026/11/06/11_2026-planning-agenda/"
+   ],
+   "zoning": [
+    "http://www.berntownship.org/newsite/township-of-bern/zoning-hearing-board/",
+    "http://www.berntownship.org/newsite/township-of-bern/zoning-applications/"
+   ],
+   "notices": [
+    "http://www.berntownship.org/newsite/township-of-bern/zoning-hearing-board/",
+    "http://www.berntownship.org/newsite/2026/11/05/public-notice/",
+    "http://www.berntownship.org/newsite/2026/08/26/a-conditional-use-hearing-will-be-held-at-the-september-supervisors-meeting/"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "11_2026 Planning Agenda",
+   "url": "https://www.berntownship.org/newsite/2026/11/06/11_2026-planning-agenda/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "no robots.txt",
+  "notes": [],
+  "generator": "WordPress 7.1.4",
+  "credit": ""
+ },
+ {
+  "key": "bernville-berks",
+  "name": "Bernville Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "http://bernvilleborough.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://bernvilleborough.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://bernvilleborough.org/documents/agenda-and-meeting-minutes/"
+   ],
+   "minutes": [
+    "https://bernvilleborough.org/documents/agenda-and-meeting-minutes/"
+   ],
+   "meetings": [
+    "https://bernvilleborough.org/government/council-meetings/",
+    "https://bernvilleborough.org/documents/agenda-and-meeting-minutes/",
+    "https://bernvilleborough.org/our-community/calendar-of-events/",
+    "https://bernvilleborough.org/our-community/calendar-of-events/?mc_id=76",
+    "https://bernvilleborough.org/special-meeting-notice-2/",
+    "https://bernvilleborough.org/workshop-meeting-rescheduled/"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Meeting Minutes",
+   "url": "https://bernvilleborough.org/documents/agenda-and-meeting-minutes/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "WordPress 7.1.4",
+  "credit": "Mindburn Solutions Login"
+ },
+ {
+  "key": "bethel-berks",
+  "name": "Bethel Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "http://betheltwp.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://betheltwp.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://betheltwp.org/minutes-and-agendas/"
+   ],
+   "minutes": [
+    "https://betheltwp.org/minutes-and-agendas/"
+   ],
+   "meetings": [
+    "https://betheltwp.org/event/municipal-authority-meeting-6pm-3/",
+    "https://betheltwp.org/event/eac-meeting-7pm-8/"
+   ],
+   "planning": [
+    "https://betheltwp.org/government/planning-commision/"
+   ],
+   "zoning": [
+    "https://betheltwp.org/government/zoning-hearing-board/",
+    "https://betheltwp.org/departments/zoning/"
+   ],
+   "notices": [
+    "https://betheltwp.org/government/zoning-hearing-board/"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "",
+   "url": "https://betheltwp.org/minutes-and-agendas/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "Divi v.4.27.9",
+  "credit": "Mindburn."
+ },
+ {
+  "key": "birdsboro-berks",
+  "name": "Birdsboro Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "http://www.birdsboropa.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://birdsboropa.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "minutes": [
+    "https://birdsboropa.org/council"
+   ],
+   "meetings": [
+    "https://birdsboropa.org/council"
+   ],
+   "planning": [
+    "https://birdsboropa.org/planning-commission/"
+   ]
+  },
+  "doc_page": {
+   "kind": "minutes",
+   "text": "Council Meeting Minutes",
+   "url": "https://birdsboropa.org/council/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 191,
+   "newest_year": 2027,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "WordPress 7.1.4",
+  "credit": ""
+ },
+ {
+  "key": "boyertown-berks",
+  "name": "Boyertown Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://www.boyertownborough.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.boyertownborough.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "CivicPlus"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.boyertownborough.org/agendacenter"
+   ],
+   "minutes": [
+    "https://www.boyertownborough.org/agendacenter"
+   ],
+   "meetings": [
+    "https://www.boyertownborough.org/CivicAlerts.aspx?AID=36",
+    "https://www.boyertownborough.org/calendar.aspx?view=list&year=2026&month=11&day=12&CID=14",
+    "https://www.boyertownborough.org/calendar.aspx?view=list&year=2026&month=11&day=13&CID=14",
+    "https://www.boyertownborough.org/calendar.aspx?view=list&year=2026&month=11&day=14&CID=14",
+    "https://www.boyertownborough.org/calendar.aspx?view=list&year=2026&month=11&day=15&CID=14",
+    "https://www.boyertownborough.org/calendar.aspx?view=list&year=2026&month=11&day=16&CID=14"
+   ],
+   "notices": [
+    "https://www.boyertownborough.org/CivicAlerts.aspx?AID=36"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Agenda Center",
+   "url": "https://www.boyertownborough.org/AgendaCenter"
+  },
+  "doc_page_profile": {
+   "pdf_links": 240,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present; blocks AI crawlers",
+  "notes": [],
+  "generator": "",
+  "credit": "",
+  "agenda_center": "https://www.boyertownborough.org/AgendaCenter"
+ },
+ {
+  "key": "brecknock-berks",
+  "name": "Brecknock Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.brecknockberks.com/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.brecknockberks.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://irp.cdn-website.com/af79e430/files/uploaded/Rec+Board+11.10.26+Agenda.pdf"
+   ],
+   "minutes": [
+    "https://www.brecknockberks.com/meeting-minutes"
+   ],
+   "meetings": [
+    "https://www.brecknockberks.com/2024-meeting-dates",
+    "https://www.brecknockberks.com/meeting-minutes",
+    "https://www.brecknockberks.com/community-calendar",
+    "https://irp.cdn-website.com/af79e430/files/uploaded/2026+Meeting+Dates+Notice.pdf",
+    "https://irp.cdn-website.com/af79e430/files/uploaded/BOS+2027+Budget+Meeting+Notice+revised.pdf",
+    "https://irp.cdn-website.com/af79e430/files/uploaded/Rec+Board+11.10.26+Agenda.pdf"
+   ],
+   "zoning": [
+    "https://www.brecknockberks.com/code-enforcement/zoning/permits",
+    "https://www.brecknockberks.com/zoning-hearing-board",
+    "https://www.brecknockberks.com/zoning-hearing-boardaf0dcb89"
+   ],
+   "notices": [
+    "https://www.brecknockberks.com/zoning-hearing-board",
+    "https://www.brecknockberks.com/zoning-hearing-boardaf0dcb89"
+   ]
+  },
+  "doc_page": {
+   "kind": "minutes",
+   "text": "MEETING MINUTES",
+   "url": "https://www.brecknockberks.com/meeting-minutes"
+  },
+  "doc_page_profile": {
+   "pdf_links": 315,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "",
+  "credit": ""
+ },
+ {
+  "key": "caernarvon-berks",
+  "name": "Caernarvon Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "http://www.caernarvon.org/"
+  ],
+  "reachable": true,
+  "final_url": "http://www.caernarvon.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "Revize"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "http://www.caernarvon.org/government/board_of_supervisors/meeting_agendas_2025.php",
+    "http://www.caernarvon.org/government/planning_commission/planning_commission_agendas.php"
+   ],
+   "minutes": [
+    "http://www.caernarvon.org/government/board_of_supervisors/meeting_minutes.php",
+    "http://www.caernarvon.org/government/planning_commission/planning_commission_minutes.php"
+   ],
+   "meetings": [
+    "http://www.caernarvon.org/government/board_of_supervisors/meeting_agendas_2025.php",
+    "http://www.caernarvon.org/government/board_of_supervisors/meeting_minutes.php",
+    "http://www.caernarvon.org/government/board_of_supervisors/meeting_dates.php",
+    "http://www.caernarvon.org/government/board_of_supervisors/meeting_order_of_business.php",
+    "http://www.caernarvon.org/news_detail_T5_R116.php",
+    "http://www.caernarvon.org/calendar.php"
+   ],
+   "planning": [
+    "http://www.caernarvon.org/government/building_permits/planning___zoning_applications.php",
+    "http://www.caernarvon.org/government/planning_commission/index.php",
+    "http://www.caernarvon.org/government/planning_commission/planning_commission_agendas.php",
+    "http://www.caernarvon.org/government/planning_commission/planning_commission_minutes.php",
+    "http://www.caernarvon.org/government/zoning_planning_ordinances.php"
+   ],
+   "zoning": [
+    "http://www.caernarvon.org/government/building_permits/planning___zoning_applications.php",
+    "http://www.caernarvon.org/government/zoning_planning_ordinances.php",
+    "http://www.caernarvon.org/government/zoning_board.php"
+   ],
+   "notices": [
+    "http://www.caernarvon.org/government/hearing_documents.php"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Board of Supervisors Meeting Agendas",
+   "url": "http://www.caernarvon.org/government/board_of_supervisors/meeting_agendas_2025.php"
+  },
+  "doc_page_profile": {
+   "pdf_links": 2,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "no robots.txt",
+  "notes": [],
+  "generator": "",
+  "credit": "revize."
+ },
+ {
+  "key": "centerport-berks",
+  "name": "Centerport Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://centerportboro.net/"
+  ],
+  "reachable": true,
+  "final_url": "https://centerportboro.net/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "meetings": [
+    "https://centerportboro.net/about-us/calendar/"
+   ],
+   "zoning": [
+    "https://centerportboro.net/ordinances-permits/building-zoning-permits/"
+   ]
+  },
+  "doc_page": {
+   "kind": "zoning",
+   "text": "Building & Zoning Permits",
+   "url": "https://centerportboro.net/ordinances-permits/building-zoning-permits/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "Elementor 4.4.0; features: e_font_icon_svg, additional_custo",
+  "credit": "DaBrian"
+ },
+ {
+  "key": "centre-berks",
+  "name": "Centre Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://centretownship.com/"
+  ],
+  "reachable": true,
+  "final_url": "https://centretownship.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "minutes": [
+    "https://centretownship.com/meeting-minutes/"
+   ],
+   "meetings": [
+    "https://centretownship.com/meeting-minutes/",
+    "https://centretownship.com/municipal/meetings/"
+   ],
+   "zoning": [
+    "https://centretownship.com/zoning/"
+   ]
+  },
+  "doc_page": {
+   "kind": "minutes",
+   "text": "MEETING MINUTES",
+   "url": "https://centretownship.com/meeting-minutes/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 104,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "WordPress 4.9.26",
+  "credit": "WordPress."
+ },
+ {
+  "key": "colebrookdale-berks",
+  "name": "Colebrookdale Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "http://colebrookdale.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://colebrookdale.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://colebrookdale.org/meeting-minutes"
+   ],
+   "minutes": [
+    "https://colebrookdale.org/meeting-minutes"
+   ],
+   "meetings": [
+    "https://colebrookdale.org/meeting-information",
+    "https://colebrookdale.org/meeting-minutes",
+    "https://colebrookdale.org/downloadmanager/download.aspx?downloadid=813"
+   ],
+   "notices": [
+    "https://colebrookdale.org/downloadmanager/download.aspx?downloadid=808"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Agenda & Meeting Minutes",
+   "url": "https://colebrookdale.org/meeting-minutes"
+  },
+  "doc_page_profile": {
+   "pdf_links": 303,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "",
+  "credit": ""
+ },
+ {
+  "key": "cumru-berks",
+  "name": "Cumru Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "http://www.cumrutownship.com/"
+  ],
+  "reachable": true,
+  "final_url": "http://www.cumrutownship.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {
+   "YouTube (video)": [
+    "youtube.com/@cumrutwp.9674"
+   ]
+  },
+  "links": {
+   "agendas": [
+    "http://www.cumrutownship.com/images/BOC_11122026_Budget_Meeting_Agenda.pdf"
+   ],
+   "minutes": [
+    "http://www.cumrutownship.com/boardscommissions/bocmeetingminutes.html"
+   ],
+   "meetings": [
+    "http://www.cumrutownship.com/boardscommissions/meetingschedule.html",
+    "http://www.cumrutownship.com/boardscommissions/bocmeetingminutes.html",
+    "http://www.cumrutownship.com/images/BOC_11122026_Budget_Meeting_Agenda.pdf"
+   ],
+   "planning": [
+    "http://www.cumrutownship.com/boardscommissions/planningcommission.html"
+   ],
+   "zoning": [
+    "http://www.cumrutownship.com/boardscommissions/zoninghearingboard.html",
+    "http://www.cumrutownship.com/images/Data_Center_Overlay_District_Zoning_text_and_map_amendments_-_Ordinance_798_April_2026pdf.pdf",
+    "http://www.cumrutownship.com/images/Ordinance_799-_TND_Overlay_District_with_color_maps_6.01.26.pdf"
+   ],
+   "notices": [
+    "http://www.cumrutownship.com/boardscommissions/zoninghearingboard.html"
+   ]
+  },
+  "doc_page": {
+   "kind": "minutes",
+   "text": "BOC Meeting Minutes",
+   "url": "http://www.cumrutownship.com/boardscommissions/bocmeetingminutes.html"
+  },
+  "doc_page_profile": {
+   "pdf_links": 436,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "",
+  "credit": ""
+ },
+ {
+  "key": "district-berks",
+  "name": "District Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "http://www.districttownship.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://districttownship.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "planning": [
+    "https://districttownship.org//planning-commission/"
+   ],
+   "zoning": [
+    "https://districttownship.org//zoning-hearing-board/"
+   ],
+   "notices": [
+    "https://districttownship.org//zoning-hearing-board/"
+   ]
+  },
+  "doc_page": {
+   "kind": "planning",
+   "text": "Planning Commission",
+   "url": "https://districttownship.org/planning-commission/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 38,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "Powered by Slider Revolution 5.4.8.3 - responsive, Mobile-Fr",
+  "credit": ""
+ },
+ {
+  "key": "douglass-berks",
+  "name": "Douglass Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://douglassberks.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://douglassberks.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "meetings": [
+    "https://douglassberks.org/calendar",
+    "https://douglassberks.org/board-of-supervisors/meeting-dates"
+   ],
+   "planning": [
+    "https://douglassberks.org/board-of-supervisors/planning-commission"
+   ],
+   "zoning": [
+    "https://douglassberks.org/zoning"
+   ]
+  },
+  "doc_page": {
+   "kind": "planning",
+   "text": "Planning Commission",
+   "url": "https://douglassberks.org/board-of-supervisors/planning-commission"
+  },
+  "doc_page_profile": {
+   "pdf_links": 1,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "",
+  "credit": ""
+ },
+ {
+  "key": "earl-berks",
+  "name": "Earl Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://earltwpberks.com/"
+  ],
+  "reachable": true,
+  "final_url": "https://earltwpberks.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "meetings": [
+    "https://earltwpberks.com/calendar"
+   ],
+   "planning": [
+    "https://earltwpberks.com/subdivision-and-land-use-ordinance"
+   ],
+   "zoning": [
+    "https://earltwpberks.com/zoning-ordinance"
+   ]
+  },
+  "doc_page": {
+   "kind": "planning",
+   "text": "Subdivision and Land Use Ordinance",
+   "url": "https://earltwpberks.com/subdivision-and-land-use-ordinance"
+  },
+  "doc_page_profile": {
+   "pdf_links": 2,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "",
+  "credit": ""
+ },
+ {
+  "key": "exeter-berks",
+  "name": "Exeter Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "http://www.exetertownship.com/"
+  ],
+  "reachable": false,
+  "final_url": null,
+  "status": null,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {},
+  "doc_page": null,
+  "doc_page_profile": null,
+  "robots": "",
+  "notes": [
+   "http://www.exetertownship.com/: robots-disallowed",
+   "https://exetertownship.com: robots-disallowed"
+  ]
+ },
+ {
+  "key": "fleetwood-berks",
+  "name": "Fleetwood Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://www.fleetwoodboro.com/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.fleetwoodboro.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.fleetwoodboro.com/wp-content/uploads/Fleetwood-Borough-Authority-agenda-251020.pdf"
+   ],
+   "minutes": [
+    "https://www.fleetwoodboro.com/officials-minutes/",
+    "https://www.fleetwoodboro.com/officials-minutes/council-committees/"
+   ],
+   "meetings": [
+    "https://www.fleetwoodboro.com/calendar/",
+    "https://www.fleetwoodboro.com/wp-content/uploads/1CW8890-Notice-2026-Meeting-Schedule.pdf"
+   ]
+  },
+  "doc_page": {
+   "kind": "minutes",
+   "text": "Officials & Minutes",
+   "url": "https://www.fleetwoodboro.com/officials-minutes/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 25,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "",
+  "credit": ""
+ },
+ {
+  "key": "greenwich-berks",
+  "name": "Greenwich Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "http://www.greenwichtownshippa.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.greenwichtownshippa.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "minutes": [
+    "https://www.greenwichtownshippa.org/bos-minutes"
+   ],
+   "meetings": [
+    "https://www.greenwichtownshippa.org/calendar"
+   ]
+  },
+  "doc_page": {
+   "kind": "minutes",
+   "text": "BOS Minutes",
+   "url": "https://www.greenwichtownshippa.org/bos-minutes"
+  },
+  "doc_page_profile": {
+   "pdf_links": 11,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "",
+  "credit": ""
+ },
+ {
+  "key": "hamburg-berks",
+  "name": "Hamburg Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://hamburgboro.com/"
+  ],
+  "reachable": true,
+  "final_url": "https://hamburgboro.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress",
+   "GoDaddy Builder"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://hamburgboro.com/wp-content/uploads/2023/07/agenda.4th-Monday.pdf",
+    "https://hamburgboro.com/wp-content/uploads/2026/10/Council-Agenda-October-2026.pdf",
+    "https://hamburgboro.com/wp-content/uploads/2024/06/Council-Meeting-Agenda-062024.pdf",
+    "https://hamburgboro.com/wp-content/uploads/2024/03/20240318135143063.pdf",
+    "https://hamburgboro.com/wp-content/uploads/2024/03/03.26.24-Finance-Safety-PR.pdf"
+   ],
+   "minutes": [
+    "https://www.ecode360.com/documents/pub/HA2343/Minutes/"
+   ],
+   "meetings": [
+    "https://hamburgboro.com/wp-content/uploads/2026/10/Council-Agenda-October-2026.pdf",
+    "https://hamburgboro.com/wp-content/uploads/2024/06/Council-Meeting-Agenda-062024.pdf",
+    "https://hamburgboro.com/wp-content/uploads/2024/03/20240318135143063.pdf",
+    "https://hamburgboro.com/wp-content/uploads/2024/03/03.26.24-Finance-Safety-PR.pdf",
+    "https://www.ecode360.com/documents/pub/HA2343/Minutes/"
+   ],
+   "planning": [
+    "https://hamburgboro.com/subdivision-and-land-development/"
+   ],
+   "zoning": [
+    "https://hamburgboro.com/wp-content/uploads/2024/01/NOTICE-OF-HEARING-HAMBURG-ZONING-Hoffman.pdf"
+   ],
+   "notices": [
+    "https://hamburgboro.com/wp-content/uploads/2024/01/NOTICE-OF-HEARING-HAMBURG-ZONING-Hoffman.pdf"
+   ]
+  },
+  "doc_page": {
+   "kind": "minutes",
+   "text": "",
+   "url": "https://ecode360.com/documents/pub/HA2343/Minutes"
+  },
+  "doc_page_profile": {
+   "pdf_links": 1,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "",
+  "credit": ""
+ },
+ {
+  "key": "heidelberg-berks",
+  "name": "Heidelberg Township (Berks)",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "http://heidelbergtownship.org/"
+  ],
+  "reachable": true,
+  "final_url": "http://heidelbergtownship.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "Webs.com"
+  ],
+  "vendors": {},
+  "links": {
+   "minutes": [
+    "http://heidelbergtownship.org/index_html_files/Jan15Minutes.pdf",
+    "http://heidelbergtownship.org/index_html_files/Feb15Minutes.pdf",
+    "http://heidelbergtownship.org/index_html_files/Mar15Minutes.pdf",
+    "http://heidelbergtownship.org/index_html_files/Apr15Minutes.pdf",
+    "http://heidelbergtownship.org/index_html_files/May15Minutes.pdf",
+    "http://heidelbergtownship.org/index_html_files/Jun15Minutes.pdf"
+   ],
+   "planning": [
+    "http://heidelbergtownship.org/index_html_files/108%20-%20Subdivision%20and%20Development.pdf",
+    "http://heidelbergtownship.org/index_html_files/WesternBerksJointPlanning.pdf",
+    "http://heidelbergtownship.org/index_html_files/minor_sub.pdf",
+    "http://heidelbergtownship.org/index_html_files/major_sub.pdf"
+   ],
+   "zoning": [
+    "http://heidelbergtownship.org/index_html_files/Joint%20Zoning%20Ordinance%20Book.pdf",
+    "http://heidelbergtownship.org/index_html_files/Ordinance%20180%20Amend%20Zoning%20Map.pdf",
+    "http://heidelbergtownship.org/index_html_files/Ordinance%20181%20Joint%20Zoning%20Ordinance%20addition%20of%20Marian%20Township.pdf",
+    "http://heidelbergtownship.org/index_html_files/WesternBerksJointPlanning.pdf",
+    "http://heidelbergtownship.org/index_html_files/ZoningMap.pdf",
+    "http://heidelbergtownship.org/index_html_files/zoninghearing.pdf"
+   ],
+   "notices": [
+    "http://heidelbergtownship.org/index_html_files/zoninghearing.pdf"
+   ]
+  },
+  "doc_page": null,
+  "doc_page_profile": null,
+  "robots": "no robots.txt",
+  "notes": [],
+  "generator": "Xara HTML filter v.10.0.8.50",
+  "credit": ""
+ },
+ {
+  "key": "hereford-berks",
+  "name": "Hereford Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.herefordtownship.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.herefordtownship.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "Wix"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.herefordtownship.org/minutes-and-agendas",
+    "https://www.herefordtownship.org/_files/ugd/fda4b0_b5189736e9e14f9ea9c1858361c7d3b6.docx?dn=11-17-26.docx",
+    "https://www.herefordtownship.org/_files/ugd/fda4b0_8355ad85296c4074ad8b5350df5af355.docx?dn=6-26-24.docx",
+    "https://www.herefordtownship.org/_files/ugd/fda4b0_f34e71e3fd414578bc6e02a3f1335dec.pdf"
+   ],
+   "minutes": [
+    "https://www.herefordtownship.org/minutes-and-agendas"
+   ],
+   "meetings": [
+    "https://www.herefordtownship.org/_files/ugd/fda4b0_b5189736e9e14f9ea9c1858361c7d3b6.docx?dn=11-17-26.docx",
+    "https://www.herefordtownship.org/_files/ugd/fda4b0_8355ad85296c4074ad8b5350df5af355.docx?dn=6-26-24.docx"
+   ],
+   "planning": [
+    "https://www.herefordtownship.org/_files/ugd/fda4b0_8355ad85296c4074ad8b5350df5af355.docx?dn=6-26-24.docx"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Minutes and Agendas",
+   "url": "https://www.herefordtownship.org/minutes-and-agendas"
+  },
+  "doc_page_profile": {
+   "pdf_links": 104,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "Wix.com Website Builder",
+  "credit": ""
+ },
+ {
+  "key": "jefferson-berks",
+  "name": "Jefferson Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://jeffersontwpbc.com/"
+  ],
+  "reachable": true,
+  "final_url": "https://jeffersontwpbc.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "meetings": [
+    "https://jeffersontwpbc.com/meet-dates/"
+   ],
+   "zoning": [
+    "https://jeffersontwpbc.com/zoning/"
+   ]
+  },
+  "doc_page": {
+   "kind": "zoning",
+   "text": "Zoning",
+   "url": "https://jeffersontwpbc.com/zoning/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 2,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "WordPress 7.1.4",
+  "credit": "mindburn"
+ },
+ {
+  "key": "kenhorst-berks",
+  "name": "Kenhorst Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://kenhorstborough.com/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.kenhorstborough.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "meetings": [
+    "https://www.kenhorstborough.com/borough-council-meetings",
+    "https://www.kenhorstborough.com/calendar"
+   ],
+   "zoning": [
+    "https://www.kenhorstborough.com/zoning05d911db"
+   ]
+  },
+  "doc_page": {
+   "kind": "zoning",
+   "text": "ZONING",
+   "url": "https://www.kenhorstborough.com/zoning05d911db"
+  },
+  "doc_page_profile": {
+   "pdf_links": 2,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "",
+  "credit": ""
+ },
+ {
+  "key": "kutztown-berks",
+  "name": "Kutztown Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://www.kutztownboro.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.kutztownboro.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.kutztownboro.org/elected-officials/meetings/",
+    "https://www.kutztownboro.org/elected-officials/committees/"
+   ],
+   "minutes": [
+    "https://www.kutztownboro.org/elected-officials/meetings/",
+    "https://www.kutztownboro.org/elected-officials/committees/"
+   ],
+   "meetings": [
+    "https://www.kutztownboro.org/elected-officials/meetings/",
+    "https://www.kutztownboro.org/wp-content/uploads/Borough-of-Kutztown-2026-Meetings.pdf",
+    "https://www.kutztownboro.org/event/borough-council-meeting-nov-26/",
+    "https://www.kutztownboro.org/events/"
+   ],
+   "planning": [
+    "https://www.kutztownboro.org/departments/communitydevelopment/subdivision/",
+    "https://www.kutztownboro.org/commissions/pc/",
+    "https://www.kutztownboro.org/event/borough-planning-commission-workshop-nov-26/"
+   ],
+   "zoning": [
+    "https://www.kutztownboro.org/wp-content/uploads/Zoning-Map-18x24-Original-scaled.jpg"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Council Meeting Minutes & Current Agenda",
+   "url": "https://www.kutztownboro.org/elected-officials/meetings/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 131,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "",
+  "credit": "Sheila Sacks"
+ },
+ {
+  "key": "laureldale-berks",
+  "name": "Laureldale Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://www.laureldaleboro.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.laureldaleboro.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "meetings": [
+    "https://www.laureldaleboro.org/calendar",
+    "https://www.laureldaleboro.org/meetings",
+    "https://irp.cdn-website.com/34268fda/files/uploaded/WORKSHOP+MEETING+10052026.docx",
+    "https://irp.cdn-website.com/34268fda/files/uploaded/2026+WORKSHOP+AND+COUNCIL+MEETING+DATES-6200b443.pdf"
+   ]
+  },
+  "doc_page": {
+   "kind": "meetings",
+   "text": "CALENDAR",
+   "url": "https://www.laureldaleboro.org/calendar"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "",
+  "credit": ""
+ },
+ {
+  "key": "leesport-berks",
+  "name": "Leesport Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://leesport.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://leesport.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "http://leesport.org/doc/4.pdf"
+   ],
+   "minutes": [
+    "http://leesport.org/doc/2.pdf",
+    "http://leesport.org/doc/1_Meeting_Minutes_June_2026_COMPLETE.pdf",
+    "http://leesport.org/doc/MINUTES_MARCH_2026.pdf",
+    "http://leesport.org/doc/Minutes_February_2026.pdf",
+    "http://leesport.org/doc/Minutes_January_2026.pdf",
+    "http://leesport.org/doc/Reorganization_meeting_minutes_2026.pdf"
+   ],
+   "meetings": [
+    "http://leesport.org/doc/Meeting_Dates_Revised_2026.pdf",
+    "http://leesport.org/doc/Boro_Zoom_Link.pdf",
+    "http://leesport.org/doc/August_2026_Meeting_Dates.pdf",
+    "http://leesport.org/doc/1_Meeting_Minutes_June_2026_COMPLETE.pdf",
+    "http://leesport.org/doc/Reorganization_meeting_minutes_2026.pdf",
+    "http://leesport.org/doc/Reorganizational_Meeting_AD2026.pdf"
+   ],
+   "zoning": [
+    "https://leesport.org/permits-zoning.html"
+   ]
+  },
+  "doc_page": {
+   "kind": "zoning",
+   "text": "PERMITS & ZONING",
+   "url": "https://leesport.org/permits-zoning.html"
+  },
+  "doc_page_profile": {
+   "pdf_links": 20,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "",
+  "credit": ""
+ },
+ {
+  "key": "lenhartsville-berks",
+  "name": "Lenhartsville Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://lenhartsville.com/"
+  ],
+  "reachable": true,
+  "final_url": "https://lenhartsville.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "GoDaddy Builder"
+  ],
+  "vendors": {},
+  "links": {
+   "meetings": [
+    "https://lenhartsville.com/monthly-business-meetings"
+   ]
+  },
+  "doc_page": {
+   "kind": "meetings",
+   "text": "Monthly Business Meetings",
+   "url": "https://lenhartsville.com/monthly-business-meetings"
+  },
+  "doc_page_profile": {
+   "pdf_links": 1,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "Starfield Technologies; Go Daddy Website Builder 8.0.0000",
+  "credit": ""
+ },
+ {
+  "key": "longswamp-berks",
+  "name": "Longswamp Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.longswamptownship.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.longswamptownship.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "Revize"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.longswamptownship.org/government/agendas___minutes.php"
+   ],
+   "minutes": [
+    "https://www.longswamptownship.org/government/agendas___minutes.php"
+   ],
+   "meetings": [
+    "https://www.longswamptownship.org/government/meeting_schedule.php",
+    "https://www.longswamptownship.org/calendar.php"
+   ],
+   "planning": [
+    "https://www.longswamptownship.org/government/boards___commissions___committees/planning_commission/index.php"
+   ],
+   "zoning": [
+    "https://www.longswamptownship.org/departments/zoning/index.php",
+    "https://www.longswamptownship.org/departments/zoning/rental_properties.php",
+    "https://www.longswamptownship.org/departments/zoning/forms___applications.php",
+    "https://www.longswamptownship.org/departments/zoning/permits.php",
+    "https://www.longswamptownship.org/government/boards___commissions___committees/zoning_hearing_board/index.php",
+    "https://www.longswamptownship.org/resources/maps___plans/zoning_maps.php"
+   ],
+   "notices": [
+    "https://www.longswamptownship.org/government/boards___commissions___committees/zoning_hearing_board/index.php"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Agendas & Minutes",
+   "url": "https://www.longswamptownship.org/government/agendas___minutes.php"
+  },
+  "doc_page_profile": {
+   "pdf_links": 916,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "no robots.txt",
+  "notes": [],
+  "generator": "",
+  "credit": "revize."
+ },
+ {
+  "key": "lower-alsace-berks",
+  "name": "Lower Alsace Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://latownship.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://latownship.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress",
+   "GoDaddy Builder",
+   "Drupal"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://latownship.org/agenda-lower-alsace-township-board-of-supervisors-meeting-november-11th-2026-at-630-p-m-at-the-lower-alsace-township-municipal-building-1200-carsonia-avenue/",
+    "https://latownship.org/agenda-lower-alsace-township-board-of-supervisors-special-meeting-october-21st-2026-at-830-a-m-at-the-lower-alsace-township-municipal-building-1200-carsonia-avenue/"
+   ],
+   "meetings": [
+    "https://latownship.org/wp-content/uploads/2026/01/2026_LowerAlsaceCalendar.pdf",
+    "https://latownship.org/governance/meetings/",
+    "https://latownship.org/agenda-lower-alsace-township-board-of-supervisors-meeting-november-11th-2026-at-630-p-m-at-the-lower-alsace-township-municipal-building-1200-carsonia-avenue/",
+    "https://latownship.org/agenda-lower-alsace-township-board-of-supervisors-special-meeting-october-21st-2026-at-830-a-m-at-the-lower-alsace-township-municipal-building-1200-carsonia-avenue/"
+   ],
+   "planning": [
+    "https://latownship.org/resident-info/subdivision-land-development/"
+   ],
+   "zoning": [
+    "https://latownship.org/permits/zoning-permits/",
+    "https://latownship.org/resident-info/zoning/"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "AGENDA \u2013 LOWER ALSACE TOWNSHIP BOARD OF SUPERVISORS\u2019 MEETING \u2013 NOVEMBER 11TH, 20",
+   "url": "https://latownship.org/agenda-lower-alsace-township-board-of-supervisors-meeting-november-11th-2026-at-630-p-m-at-the-lower-alsace-township-municipal-building-1200-carsonia-avenue/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 2,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "",
+  "credit": ""
+ },
+ {
+  "key": "lower-heidelberg-berks",
+  "name": "Lower Heidelberg Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.lowerheidelbergtownship.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://lowerheidelbergtownship.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "minutes": [
+    "https://lowerheidelbergtownship.org/meeting-minutes/"
+   ],
+   "meetings": [
+    "https://lowerheidelbergtownship.org/calendar/",
+    "https://lowerheidelbergtownship.org/meeting-minutes/"
+   ],
+   "zoning": [
+    "https://lowerheidelbergtownship.org/zoning/"
+   ]
+  },
+  "doc_page": {
+   "kind": "minutes",
+   "text": "Meeting Minutes",
+   "url": "https://lowerheidelbergtownship.org/meeting-minutes/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 71,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "WordPress 7.1.4",
+  "credit": ""
+ },
+ {
+  "key": "lyons-berks",
+  "name": "Lyons Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://server724.com/lyons/"
+  ],
+  "reachable": true,
+  "final_url": "https://server724.com/lyons/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "meetings": [
+    "http://www.server724.com/lyons/calendar.html"
+   ]
+  },
+  "doc_page": {
+   "kind": "meetings",
+   "text": "Lyons Calendar",
+   "url": "http://www.server724.com/lyons/calendar.html"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "no robots.txt",
+  "notes": [],
+  "generator": "",
+  "credit": ""
+ },
+ {
+  "key": "maidencreek-berks",
+  "name": "Maidencreek Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://maidencreek.net/"
+  ],
+  "reachable": true,
+  "final_url": "https://maidencreek.net/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "meetings": [
+    "https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:d4384ec5-585e-414c-b0b1-7fcc94cb1fa6",
+    "https://maidencreek.net/calendar/recycling-day-for-red-zone/2026-11-13/",
+    "https://maidencreek.net/calendar/leaf-pickup-4/",
+    "https://maidencreek.net/calendar/maidencreek-township-authority-meeting/2026-11-19/",
+    "https://maidencreek.net/calendar/recycling-day-for-blue-zone/2026-11-20/",
+    "https://maidencreek.net/calendar/"
+   ],
+   "planning": [
+    "https://maidencreek.net/planning-commission/"
+   ],
+   "zoning": [
+    "https://maidencreek.net/zoning-and-permits/",
+    "https://maidencreek.net/zoning-hearing/"
+   ],
+   "notices": [
+    "https://maidencreek.net/zoning-hearing/"
+   ]
+  },
+  "doc_page": {
+   "kind": "planning",
+   "text": "Planning Commission",
+   "url": "https://maidencreek.net/planning-commission/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 45,
+   "newest_year": 2027,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "Elementor 4.3.5; features: additional_custom_breakpoints; se",
+  "credit": ""
+ },
+ {
+  "key": "marion-berks",
+  "name": "Marion Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.mariontwpberks.com/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.mariontwpberks.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "CivicPlus"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.mariontwpberks.com/AgendaCenter",
+    "https://www.mariontwpberks.com/agendacenter"
+   ],
+   "minutes": [
+    "https://www.mariontwpberks.com/AgendaCenter"
+   ],
+   "meetings": [
+    "https://www.mariontwpberks.com/agendacenter",
+    "https://www.mariontwpberks.com/calendar.aspx?CID=14",
+    "https://www.mariontwpberks.com/calendar.aspx?view=list&year=2026&month=11&day=12&CID=14",
+    "https://www.mariontwpberks.com/calendar.aspx?view=list&year=2026&month=11&day=17&CID=14",
+    "https://www.mariontwpberks.com/calendar.aspx?view=list&year=2026&month=11&day=18&CID=14",
+    "https://www.mariontwpberks.com/calendar.aspx?view=list&year=2026&month=11&day=19&CID=14"
+   ],
+   "planning": [
+    "https://www.mariontwpberks.com/Calendar.aspx?EID=349"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Agenda Center",
+   "url": "https://www.mariontwpberks.com/AgendaCenter"
+  },
+  "doc_page_profile": {
+   "pdf_links": 64,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present; blocks AI crawlers",
+  "notes": [],
+  "generator": "",
+  "credit": "",
+  "agenda_center": "https://www.mariontwpberks.com/AgendaCenter"
+ },
+ {
+  "key": "maxatawny-berks",
+  "name": "Maxatawny Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.maxatawny.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.maxatawny.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "minutes": [
+    "https://www.maxatawny.org/bos-minutes.html"
+   ],
+   "meetings": [
+    "https://www.maxatawny.org/calendar.html"
+   ],
+   "planning": [
+    "https://drive.google.com/file/d/1o2FlAcPWZWKSULXuHWzvl2HG9yRpIV2O/view"
+   ],
+   "zoning": [
+    "https://drive.google.com/file/d/1uhWK3G08_qvHZhdR2vd-zoE-93-kqriG/view"
+   ],
+   "notices": [
+    "https://drive.google.com/file/d/1uhWK3G08_qvHZhdR2vd-zoE-93-kqriG/view"
+   ]
+  },
+  "doc_page": {
+   "kind": "minutes",
+   "text": "BOS Minutes",
+   "url": "https://www.maxatawny.org/bos-minutes.html"
+  },
+  "doc_page_profile": {
+   "pdf_links": 11,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "",
+  "credit": ""
+ },
+ {
+  "key": "mohnton-berks",
+  "name": "Mohnton Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://mohntonboro.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://mohntonboro.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress",
+   "GoDaddy Builder"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://mohntonboro.org/agenda-minutes/"
+   ],
+   "minutes": [
+    "https://mohntonboro.org/agenda-minutes/"
+   ],
+   "meetings": [
+    "https://mohntonboro.org/wp-content/uploads/2025/12/BROCHURE-PA-Mohnton-Trifold2026_v01-Press.pdf",
+    "https://www.google.com/calendar/render?cid=webcal%3A%2F%2Fmohntonboro.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist",
+    "https://outlook.office.com/owa?path=/calendar/action/compose&rru=addsubscription&url=webcal%3A%2F%2Fmohntonboro.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Mohnton+Borough+Moving+Services+|+Mohnton+Borough",
+    "https://outlook.live.com/owa?path=/calendar/action/compose&rru=addsubscription&url=webcal%3A%2F%2Fmohntonboro.org%2F%3Fpost_type%3Dtribe_events%26ical%3D1%26eventDisplay%3Dlist&name=Mohnton+Borough+Moving+Services+|+Mohnton+Borough"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Agenda & Minutes",
+   "url": "https://mohntonboro.org/agenda-minutes/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 111,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "WordPress 7.1.4",
+  "credit": ""
+ },
+ {
+  "key": "mount-penn-berks",
+  "name": "Mount Penn Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://mtpennborough.com/"
+  ],
+  "reachable": true,
+  "final_url": "https://mtpennborough.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "GoDaddy Builder"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://mtpennborough.com/meeting-agendas",
+    "https://img1.wsimg.com/blobby/go/221ac26c-a63f-4e2d-a3a0-ff77c257ad19/00.0%20October%2027%2C%202026%20Business%20Meeting%20Agenda.pdf"
+   ],
+   "minutes": [
+    "https://mtpennborough.com/meeting-minutes",
+    "https://mtpennborough.com/minutes-2022"
+   ],
+   "meetings": [
+    "https://mtpennborough.com/meeting-agendas",
+    "https://mtpennborough.com/meeting-minutes",
+    "https://img1.wsimg.com/blobby/go/221ac26c-a63f-4e2d-a3a0-ff77c257ad19/00.0%20October%2027%2C%202026%20Business%20Meeting%20Agenda.pdf"
+   ],
+   "zoning": [
+    "https://mtpennborough.com/zoning-%26-saldo-ordinance",
+    "https://mtpennborough.com/zoning-%2F-zoning-map"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Meeting Agendas",
+   "url": "https://mtpennborough.com/meeting-agendas"
+  },
+  "doc_page_profile": {
+   "pdf_links": 104,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "Starfield Technologies; Go Daddy Website Builder 8.0.0000",
+  "credit": ""
+ },
+ {
+  "key": "muhlenberg-berks",
+  "name": "Muhlenberg Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.muhlenbergtwp.com/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.muhlenbergtwp.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "CivicPlus"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.muhlenbergtwp.com/446/Agendas-Minutes-Portal"
+   ],
+   "minutes": [
+    "https://www.muhlenbergtwp.com/446/Agendas-Minutes-Portal"
+   ],
+   "meetings": [
+    "https://www.muhlenbergtwp.com/",
+    "https://www.muhlenbergtwp.com/Calendar.aspx?EID=687",
+    "https://www.muhlenbergtwp.com/Calendar.aspx?EID=987",
+    "https://www.muhlenbergtwp.com/Calendar.aspx?EID=783",
+    "https://www.muhlenbergtwp.com/Calendar.aspx?EID=903",
+    "https://www.muhlenbergtwp.com/Calendar.aspx?EID=988"
+   ],
+   "planning": [
+    "https://www.muhlenbergtwp.com/Calendar.aspx?EID=903"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Agenda Center",
+   "url": "https://www.muhlenbergtwp.com/AgendaCenter"
+  },
+  "doc_page_profile": {
+   "pdf_links": 1,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present; blocks AI crawlers",
+  "notes": [],
+  "generator": "",
+  "credit": "",
+  "agenda_center": "https://www.muhlenbergtwp.com/AgendaCenter"
+ },
+ {
+  "key": "new-morgan-berks",
+  "name": "New Morgan Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://www.newmorganboro.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.newmorganboro.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "Wix"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.newmorganboro.org/borough-council",
+    "https://www.newmorganboro.org/2026-agendas-minutes",
+    "https://www.newmorganboro.org/2025-agendas-minutes",
+    "https://www.newmorganboro.org/new-morgan-borough-meetings",
+    "https://www.newmorganboro.org/2023-agendas-minutes",
+    "https://www.newmorganboro.org/2022-agendas-minutes"
+   ],
+   "minutes": [
+    "https://www.newmorganboro.org/borough-council",
+    "https://www.newmorganboro.org/2026-agendas-minutes",
+    "https://www.newmorganboro.org/2025-agendas-minutes",
+    "https://www.newmorganboro.org/new-morgan-borough-meetings",
+    "https://www.newmorganboro.org/2023-agendas-minutes",
+    "https://www.newmorganboro.org/2022-agendas-minutes"
+   ],
+   "meetings": [
+    "https://www.newmorganboro.org/new-morgan-borough-meetings",
+    "https://www.newmorganboro.org/meetings"
+   ],
+   "planning": [
+    "https://www.newmorganboro.org/planning-committee"
+   ],
+   "zoning": [
+    "https://www.newmorganboro.org/zoning-map"
+   ],
+   "notices": [
+    "https://www.newmorganboro.org/public-hearings",
+    "https://www.newmorganboro.org/proposed-ordinances"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Borough Council Agendas & Minutes",
+   "url": "https://www.newmorganboro.org/borough-council"
+  },
+  "doc_page_profile": {
+   "pdf_links": 5,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "Wix.com Website Builder",
+  "credit": ""
+ },
+ {
+  "key": "north-heidelberg-berks",
+  "name": "North Heidelberg Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://northheidelbergtwp.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://northheidelbergtwp.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://northheidelbergtwp.org/board-of-supervisors-agenda/"
+   ],
+   "minutes": [
+    "https://northheidelbergtwp.org/board-of-supervisors-meetings/"
+   ],
+   "meetings": [
+    "https://northheidelbergtwp.org/board-of-supervisors-meetings/",
+    "https://northheidelbergtwp.org/calendar/",
+    "https://northheidelbergtwp.org/calendar",
+    "https://northheidelbergtwp.org/calendar/?mc_id=80",
+    "https://northheidelbergtwp.org/calendar/?mc_id=69",
+    "https://northheidelbergtwp.org/calendar/?mc_id=81"
+   ],
+   "planning": [
+    "https://northheidelbergtwp.org/planning-commission/",
+    "https://northheidelbergtwp.org/calendar/?mc_id=80",
+    "https://northheidelbergtwp.org/calendar/?mc_id=81"
+   ],
+   "zoning": [
+    "https://northheidelbergtwp.org/zoning-hearing-board/"
+   ],
+   "notices": [
+    "https://northheidelbergtwp.org/zoning-hearing-board/"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "",
+   "url": "https://northheidelbergtwp.org/board-of-supervisors-agenda/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 4,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "WordPress 7.1.4",
+  "credit": "Mindburn Solutions"
+ },
+ {
+  "key": "oley-berks",
+  "name": "Oley Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://oleytownship.org/wrp/"
+  ],
+  "reachable": true,
+  "final_url": "https://oleytownship.org/wrp/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://oleytownship.org/wrp/wp-content/uploads/2026/11/BOARD_OF_SUPERVISORS_AGENDA.pdf"
+   ],
+   "minutes": [
+    "https://oleytownship.org/wrp/minutes/"
+   ],
+   "meetings": [
+    "https://oleytownship.org/wrp/meetings/"
+   ]
+  },
+  "doc_page": {
+   "kind": "minutes",
+   "text": "Minutes",
+   "url": "https://oleytownship.org/wrp/minutes/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 21,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "no robots.txt",
+  "notes": [],
+  "generator": "WordPress 7.1.4",
+  "credit": "WordPress"
+ },
+ {
+  "key": "ontelaunee-berks",
+  "name": "Ontelaunee Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://ontelauneetwp.net/"
+  ],
+  "reachable": true,
+  "final_url": "https://ontelauneetwp.net/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "minutes": [
+    "https://ontelauneetwp.net/blog/"
+   ],
+   "meetings": [
+    "https://ontelauneetwp.net/event-calendar/",
+    "https://ontelauneetwp.net/event-calendar/event-listings/"
+   ],
+   "planning": [
+    "https://ontelauneetwp.net/events/planning-commission-47/"
+   ],
+   "zoning": [
+    "https://ontelauneetwp.net/resident-resources/building-zoning/"
+   ]
+  },
+  "doc_page": {
+   "kind": "minutes",
+   "text": "Minutes/Newsletters",
+   "url": "https://ontelauneetwp.net/blog/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "Elementor 4.3.6; features: additional_custom_breakpoints; se",
+  "credit": ""
+ },
+ {
+  "key": "penn-berks",
+  "name": "Penn Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://penntownshipberks.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://penntownshipberks.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "minutes": [
+    "https://penntownshipberks.org/meeting-minutes-news/"
+   ],
+   "meetings": [
+    "https://penntownshipberks.org/meeting-minutes-news/",
+    "https://penntownshipberks.org/calendar/",
+    "https://penntownshipberks.org/calendar",
+    "https://penntownshipberks.org/calendar/?mc_id=159",
+    "https://penntownshipberks.org/calendar/?mc_id=147",
+    "https://penntownshipberks.org/calendar/?mc_id=161"
+   ],
+   "planning": [
+    "https://penntownshipberks.org/penn-township-planningcommission-meetingscheduled-for-thursdaynovember-12th-is-canceled/"
+   ],
+   "zoning": [
+    "https://penntownshipberks.org/wp-content/uploads/2024/03/Zoning-Map-11.13.2018.pdf"
+   ]
+  },
+  "doc_page": {
+   "kind": "minutes",
+   "text": "Meeting Minutes & News",
+   "url": "https://penntownshipberks.org/meeting-minutes-news/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "WordPress 7.1.4",
+  "credit": "Mindburn Solutions"
+ },
+ {
+  "key": "perry-berks",
+  "name": "Perry Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.perrytownshipberkscounty.com/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.perrytownshipberkscounty.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "Weebly"
+  ],
+  "vendors": {},
+  "links": {
+   "meetings": [
+    "https://www.perrytownshipberkscounty.com/meetings.html"
+   ],
+   "planning": [
+    "https://www.perrytownshipberkscounty.com/planning-commision.html"
+   ],
+   "zoning": [
+    "https://www.perrytownshipberkscounty.com/zoning-officer.html",
+    "https://www.perrytownshipberkscounty.com/zoning-hearing-board.html"
+   ],
+   "notices": [
+    "https://www.perrytownshipberkscounty.com/zoning-hearing-board.html",
+    "https://www.perrytownshipberkscounty.com/uploads/8/0/5/3/80531748/publication_notice-_zhb_gg.pdf"
+   ]
+  },
+  "doc_page": {
+   "kind": "planning",
+   "text": "Planning Commision",
+   "url": "https://www.perrytownshipberkscounty.com/planning-commision.html"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": 2027,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "",
+  "credit": "Weebly"
+ },
+ {
+  "key": "pike-berks",
+  "name": "Pike Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.piketownship.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.piketownship.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.piketownship.org/boards-commissions-councils/board-of-supervisors"
+   ],
+   "minutes": [
+    "https://www.piketownship.org/boards-commissions-councils/board-of-supervisors"
+   ],
+   "meetings": [
+    "https://www.piketownship.org/calendar"
+   ],
+   "planning": [
+    "https://www.piketownship.org/boards-commissions-councils/planning-zoning-commission"
+   ],
+   "zoning": [
+    "https://www.piketownship.org/boards-commissions-councils/planning-zoning-commission",
+    "https://www.piketownship.org/boards-commissions-councils/zoning-hearing-board"
+   ],
+   "notices": [
+    "https://www.piketownship.org/boards-commissions-councils/zoning-hearing-board"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Minutes & Agendas",
+   "url": "https://www.piketownship.org/boards-commissions-councils/board-of-supervisors"
+  },
+  "doc_page_profile": {
+   "pdf_links": 12,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "",
+  "credit": ""
+ },
+ {
+  "key": "reading",
+  "name": "City of Reading",
+  "county": "Berks",
+  "type": "city",
+  "urls": [
+   "https://www.readingpa.gov/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.readingpa.gov/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "Joomla"
+  ],
+  "vendors": {
+   "YouTube (video)": [
+    "youtube.com/channel/uctuxubrhejfx2jxy5f3rtmg"
+   ]
+  },
+  "links": {
+   "meetings": [
+    "https://www.readingpa.gov/calendar",
+    "https://www.readingpa.gov/calendar/nominations-and-appointments-committee-26",
+    "https://www.readingpa.gov/calendar/budget-review-6",
+    "https://www.readingpa.gov/calendar/city-s-2026-holiday-tree-lighting-ceremony",
+    "https://www.readingpa.gov/calendar/budget-review-capital-budget",
+    "https://www.readingpa.gov/calendar/zhb-notice-of-public-hearings-9"
+   ],
+   "planning": [
+    "https://www.readingpa.gov/zoning-and-planning",
+    "https://www.readingpa.gov/planning-and-land-development"
+   ],
+   "zoning": [
+    "https://www.readingpa.gov/zoning-and-planning",
+    "https://www.readingpa.gov/zonemap2",
+    "https://www.readingpa.gov/calendar/zhb-notice-of-public-hearings-9"
+   ],
+   "notices": [
+    "https://www.readingpa.gov/calendar/zhb-notice-of-public-hearings-9"
+   ]
+  },
+  "doc_page": {
+   "kind": "planning",
+   "text": "Zoning & Planning",
+   "url": "https://www.readingpa.gov/zoning-and-planning"
+  },
+  "doc_page_profile": {
+   "pdf_links": 6,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "no robots.txt",
+  "notes": [],
+  "generator": "",
+  "credit": ""
+ },
+ {
+  "key": "richmond-berks",
+  "name": "Richmond Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.richmond-township.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.richmond-township.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "GoDaddy Builder"
+  ],
+  "vendors": {},
+  "links": {
+   "minutes": [
+    "https://www.richmond-township.org/bos-minutes.html"
+   ],
+   "meetings": [
+    "https://www.richmond-township.org/calendar.html"
+   ]
+  },
+  "doc_page": {
+   "kind": "minutes",
+   "text": "BOS Minutes",
+   "url": "https://www.richmond-township.org/bos-minutes.html"
+  },
+  "doc_page_profile": {
+   "pdf_links": 11,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "no robots.txt",
+  "notes": [],
+  "generator": "",
+  "credit": "John Watkins of Watkins Architect Ltd."
+ },
+ {
+  "key": "robeson-berks",
+  "name": "Robeson Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.robesontownship.com/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.robesontownship.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.robesontownship.com/meeting-minutes-agendas",
+    "https://irp.cdn-website.com/f0e37e34/files/uploaded/11-12-2026+BOS+Workshop+Agenda.pdf"
+   ],
+   "minutes": [
+    "https://www.robesontownship.com/meeting-minutes-agendas"
+   ],
+   "meetings": [
+    "https://www.robesontownship.com/meeting-minutes-agendas",
+    "https://www.robesontownship.com/community-calendar"
+   ],
+   "zoning": [
+    "https://www.robesontownship.com/zoning-map",
+    "https://www.robesontownship.com/zoning-hearing-board"
+   ],
+   "notices": [
+    "https://www.robesontownship.com/zoning-hearing-board"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "MEETING MINUTES & AGENDAS",
+   "url": "https://www.robesontownship.com/meeting-minutes-agendas"
+  },
+  "doc_page_profile": {
+   "pdf_links": 344,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "",
+  "credit": ""
+ },
+ {
+  "key": "robesonia-berks",
+  "name": "Robesonia Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "http://www.robesoniaboro.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.robesoniaboro.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "Wix"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.robesoniaboro.org/borough-council-agen"
+   ],
+   "minutes": [
+    "https://www.robesoniaboro.org/borouch-council-meeeting-minutes",
+    "https://www.robesoniaboro.org/copy-of-council-meeting-minutes"
+   ],
+   "meetings": [
+    "https://www.robesoniaboro.org/borough-council-agen",
+    "https://www.robesoniaboro.org/borouch-council-meeeting-minutes",
+    "https://www.robesoniaboro.org/copy-of-council-meeting-minutes"
+   ],
+   "zoning": [
+    "https://www.robesoniaboro.org/codes"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Meeting Schedule & Agenda",
+   "url": "https://www.robesoniaboro.org/borough-council-agen"
+  },
+  "doc_page_profile": {
+   "pdf_links": 2,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "Wix.com Website Builder",
+  "credit": ""
+ },
+ {
+  "key": "rockland-berks",
+  "name": "Rockland Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://rocklandtownshipberks.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://rocklandtownshipberks.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://rocklandtownshipberks.org/downloadmanager/download.aspx?id=487",
+    "https://rocklandtownshipberks.org/downloadmanager/download.aspx?id=493",
+    "https://rocklandtownshipberks.org/downloadmanager/download.aspx?id=491"
+   ],
+   "minutes": [
+    "https://rocklandtownshipberks.org/board-of-supervisors/board-meeting-minutes",
+    "https://rocklandtownshipberks.org/planning-commission/planning-commission-meeting-minutes"
+   ],
+   "meetings": [
+    "https://rocklandtownshipberks.org/downloadmanager/download.aspx?id=487",
+    "https://rocklandtownshipberks.org/downloadmanager/download.aspx?id=493",
+    "https://rocklandtownshipberks.org/downloadmanager/download.aspx?id=491",
+    "https://rocklandtownshipberks.org/downloadmanager/download.aspx?id=492",
+    "https://rocklandtownshipberks.org/downloadmanager/download.aspx?id=454",
+    "https://rocklandtownshipberks.org/downloadmanager/download.aspx?id=8"
+   ],
+   "planning": [
+    "https://rocklandtownshipberks.org/planning-commission",
+    "https://rocklandtownshipberks.org/planning-commission/planning-commission-meeting-schedule",
+    "https://rocklandtownshipberks.org/planning-commission/planning-commission-meeting-minutes"
+   ],
+   "zoning": [
+    "https://rocklandtownshipberks.org/zoning-hearing-board"
+   ],
+   "notices": [
+    "https://rocklandtownshipberks.org/downloadmanager/download.aspx?id=492",
+    "https://rocklandtownshipberks.org/downloadmanager/download.aspx?id=454",
+    "https://rocklandtownshipberks.org/zoning-hearing-board"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "10/28/2026 PC/Joint Workshop Meeting Agenda",
+   "url": "https://rocklandtownshipberks.org/downloadmanager/download.aspx?id=487"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "",
+  "credit": ""
+ },
+ {
+  "key": "ruscombmanor-berks",
+  "name": "Ruscombmanor Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://ruscombmanor.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://ruscombmanor.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://ruscombmanor.org/worp/meetings/"
+   ],
+   "meetings": [
+    "https://ruscombmanor.org/worp/meetings/"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Meetings & Agendas",
+   "url": "https://ruscombmanor.org/meetings/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 2,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "WordPress 7.1.4",
+  "credit": ""
+ },
+ {
+  "key": "shillington-berks",
+  "name": "Shillington Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://shillingtonboro.com/"
+  ],
+  "reachable": true,
+  "final_url": "https://shillingtonboro.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://shillingtonboro.com/wp-content/uploads/2023/04/Council-Agenda.pdf",
+    "https://shillingtonboro.com/wp-content/uploads/2023/04/Authority-Agenda.pdf",
+    "https://shillingtonboro.com/wp-content/uploads/2023/04/Zoning-Agenda.pdf",
+    "https://shillingtonboro.com/wp-content/uploads/2023/04/Planning-Commission-Agenda.pdf",
+    "https://shillingtonboro.com/wp-content/uploads/2023/04/Civil-Service-Agenda.pdf"
+   ],
+   "minutes": [
+    "https://shillingtonboro.com/minutes-reports/"
+   ],
+   "meetings": [
+    "https://shillingtonboro.com/events"
+   ],
+   "planning": [
+    "https://shillingtonboro.com/wp-content/uploads/2023/04/Planning-Commission-Agenda.pdf"
+   ],
+   "zoning": [
+    "https://shillingtonboro.com/wp-content/uploads/2023/04/Zoning-Agenda.pdf"
+   ]
+  },
+  "doc_page": {
+   "kind": "minutes",
+   "text": "Minutes & Reports",
+   "url": "https://shillingtonboro.com/minutes-reports/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 139,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "WordPress 7.1.4",
+  "credit": ""
+ },
+ {
+  "key": "shoemakersville-berks",
+  "name": "Shoemakersville Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://shoeyboro.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://shoeyboro.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://shoeyboro.org/agendas/",
+    "https://shoeyboro.org/document/council-agenda-november-3rd-2026/"
+   ],
+   "minutes": [
+    "https://shoeyboro.org/minutes/"
+   ],
+   "meetings": [
+    "https://shoeyboro.org/calendar/",
+    "https://shoeyboro.org/events/borough-council-meeting/?occurrence=2026-11-03",
+    "https://shoeyboro.org/events/borough-council-meeting/?occurrence=2026-12-01"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Agendas",
+   "url": "https://shoeyboro.org/agendas/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 146,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "Elementor 4.4.0; features: additional_custom_breakpoints; se",
+  "credit": ""
+ },
+ {
+  "key": "sinking-spring-berks",
+  "name": "Sinking Spring Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://sinkingspringboro.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://sinkingspringboro.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://sinkingspringboro.org/documents/council-meeting-minutes-agendas",
+    "https://sinkingspringboro.org/document/council-agenda-november-12th-2026"
+   ],
+   "minutes": [
+    "https://sinkingspringboro.org/documents/council-meeting-minutes-agendas"
+   ],
+   "meetings": [
+    "https://sinkingspringboro.org/local-government/meeting-dates-3",
+    "https://sinkingspringboro.org/documents/council-meeting-minutes-agendas",
+    "https://sinkingspringboro.org/calendar",
+    "https://sinkingspringboro.org/document/2026-trash-recycling-calendar",
+    "https://sinkingspringboro.org/events/borough-council-meeting-2",
+    "https://sinkingspringboro.org/uncategorized/council-meeting-venue-change"
+   ],
+   "planning": [
+    "https://sinkingspringboro.org/departments/planning-zoning",
+    "https://sinkingspringboro.org/events/planning-commission-meeting"
+   ],
+   "zoning": [
+    "https://sinkingspringboro.org/departments/planning-zoning"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Meeting Minutes & Agendas",
+   "url": "https://sinkingspringboro.org/documents/council-meeting-minutes-agendas"
+  },
+  "doc_page_profile": {
+   "pdf_links": 164,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "Site Kit by Google 1.188.0",
+  "credit": ""
+ },
+ {
+  "key": "south-heidelberg-berks",
+  "name": "South Heidelberg Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.shtwp.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.shtwp.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "CivicPlus"
+  ],
+  "vendors": {
+   "YouTube (video)": [
+    "youtube.com/channel/uceaxtd9hq4nvs824cltzeig"
+   ]
+  },
+  "links": {
+   "agendas": [
+    "https://www.shtwp.org/agendacenter"
+   ],
+   "minutes": [
+    "https://www.shtwp.org/agendacenter"
+   ],
+   "meetings": [
+    "https://www.shtwp.org/",
+    "https://www.shtwp.org/calendar.aspx?view=list&year=2026&month=11&day=17&CID=14",
+    "https://www.shtwp.org/calendar.aspx?view=list&year=2026&month=11&day=24&CID=14",
+    "https://www.shtwp.org/calendar.aspx?view=list&year=2026&month=12&day=1&CID=14",
+    "https://www.shtwp.org/calendar.aspx?view=list&year=2026&month=12&day=3&CID=14",
+    "https://www.shtwp.org/Calendar.aspx?EID=469"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Agenda Center",
+   "url": "https://www.shtwp.org/AgendaCenter"
+  },
+  "doc_page_profile": {
+   "pdf_links": 116,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present; blocks AI crawlers",
+  "notes": [],
+  "generator": "",
+  "credit": "",
+  "agenda_center": "https://www.shtwp.org/AgendaCenter"
+ },
+ {
+  "key": "spring-berks",
+  "name": "Spring Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.springtwpberks.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.springtwpberks.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "meetings": [
+    "https://www.springtwpberks.org/category/events-calendar"
+   ],
+   "planning": [
+    "https://www.springtwpberks.org/planning-commission",
+    "https://www.springtwpberks.org/engineering-planning",
+    "https://www.springtwpberks.org/planning-commission-seeks-canidate-to-fill-future-vacant-position"
+   ],
+   "zoning": [
+    "https://www.springtwpberks.org/zoning-hearing-board"
+   ],
+   "notices": [
+    "https://www.springtwpberks.org/zoning-hearing-board"
+   ]
+  },
+  "doc_page": {
+   "kind": "planning",
+   "text": "Planning Commission",
+   "url": "https://www.springtwpberks.org/planning-commission"
+  },
+  "doc_page_profile": {
+   "pdf_links": 87,
+   "newest_year": 2027,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "",
+  "credit": "WebTek"
+ },
+ {
+  "key": "st-lawrence-berks",
+  "name": "St. Lawrence Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://stlawboro.us/"
+  ],
+  "reachable": true,
+  "final_url": "https://stlawboro.us/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "GoDaddy Builder"
+  ],
+  "vendors": {
+   "YouTube (video)": [
+    "youtube.com/@st.lawrenceborough2253/streams",
+    "youtube.com/channel/uc47chxeprf2js6nkmo3us8w"
+   ]
+  },
+  "links": {
+   "agendas": [
+    "https://stlawboro.us/agendas"
+   ],
+   "minutes": [
+    "https://stlawboro.us/meeting-minutes"
+   ],
+   "meetings": [
+    "https://www.youtube.com/@st.lawrenceborough2253/streams",
+    "https://stlawboro.us/meeting-minutes",
+    "https://stlawboro.us/calendar"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Agendas",
+   "url": "https://stlawboro.us/agendas"
+  },
+  "doc_page_profile": {
+   "pdf_links": 80,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "Starfield Technologies; Go Daddy Website Builder 8.0.0000",
+  "credit": "Cookie Policy This website uses cookies."
+ },
+ {
+  "key": "tilden-berks",
+  "name": "Tilden Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://tildentownship.com/"
+  ],
+  "reachable": true,
+  "final_url": "https://tildentownship.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "meetings": [
+    "https://tildentownship.com/calendar/",
+    "https://calendar.google.com/calendar/u/0?cid=dGlsZGVudG93bnNoaXAuY29tXzI0dHJoaTJoMWtsMnVtdDRrbmZ0NHN0c2xjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20",
+    "https://support.google.com/calendar/answer/37100"
+   ],
+   "planning": [
+    "https://tildentownship.com/planning-commission/"
+   ],
+   "zoning": [
+    "https://tildentownship.com/zoning-hearing-board/"
+   ],
+   "notices": [
+    "https://tildentownship.com/zoning-hearing-board/"
+   ]
+  },
+  "doc_page": {
+   "kind": "planning",
+   "text": "Planning Commission",
+   "url": "https://tildentownship.com/planning-commission/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 17,
+   "newest_year": 2027,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "WordPress 7.1.4",
+  "credit": "TreeBranch Media"
+ },
+ {
+  "key": "topton-berks",
+  "name": "Topton Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://toptonborough.com/"
+  ],
+  "reachable": true,
+  "final_url": "https://toptonborough.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {
+   "YouTube (video)": [
+    "youtube.com/channel/uc94k59clkat6qyvxy9wk8gq"
+   ]
+  },
+  "links": {
+   "agendas": [
+    "https://toptonborough.com/index.php/council-minutes/"
+   ],
+   "minutes": [
+    "https://toptonborough.com/index.php/council-minutes/"
+   ],
+   "meetings": [
+    "https://toptonborough.com/index.php/calendar/",
+    "https://toptonborough.com/index.php/events/borough-council-meeting-47/",
+    "https://toptonborough.com/index.php/events/borough-council-meeting-46/"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Minutes & Agendas",
+   "url": "https://toptonborough.com/index.php/council-minutes/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 435,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "WordPress 6.4.14",
+  "credit": ""
+ },
+ {
+  "key": "tulpehocken-berks",
+  "name": "Tulpehocken Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://tulpytwp.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://tulpytwp.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://tulpytwp.org/wp-content/uploads/2026/11/7635-Lancaster-Ave-11.19.26-ZHB-Agenda.pdf",
+    "https://tulpytwp.org/wp-content/uploads/2026/11/11-11-26-BOS-Agenda.pdf",
+    "https://tulpytwp.org/wp-content/uploads/2026/11/11-11-26-BOS-Budget-Mtg-Agenda-1.pdf",
+    "https://tulpytwp.org/wp-content/uploads/2026/11/11-05-26-PC-Meeting-Agenda.pdf"
+   ],
+   "minutes": [
+    "https://tulpytwp.org/minutes/"
+   ],
+   "meetings": [
+    "https://tulpytwp.org/wp-content/uploads/2026/05/2026-meetings-Rev-5.2026.pdf",
+    "https://tulpytwp.org/wp-content/uploads/2026/11/11-11-26-BOS-Agenda.pdf",
+    "https://tulpytwp.org/wp-content/uploads/2026/11/11-11-26-BOS-Budget-Mtg-Agenda-1.pdf",
+    "https://tulpytwp.org/wp-content/uploads/2026/11/11-05-26-PC-Meeting-Agenda.pdf",
+    "https://tulpytwp.org/wp-content/uploads/2026/11/11-11-26-Special-Mtg-for-2027-Prelim-Budget-Review.pdf"
+   ],
+   "planning": [
+    "https://tulpytwp.org/wp-content/uploads/2026/11/11-05-26-PC-Meeting-Agenda.pdf"
+   ],
+   "zoning": [
+    "https://tulpytwp.org/wp-content/uploads/2026/11/7635-Lancaster-Ave-11.19.26-ZHB-Agenda.pdf",
+    "https://tulpytwp.org/wp-content/uploads/2026/11/7635-Lancaster-Ave-Broadway-Group-ZHB-2026-Public-Hearing-Notice.pdf",
+    "https://tulpytwp.org/wp-content/uploads/2024/02/Zoning-Map-01-02-2024.pdf",
+    "https://tulpytwp.org/wp-content/uploads/2022/02/tul-twp_2013-4_zoning-ordinance.pdf",
+    "https://tulpytwp.org/wp-content/uploads/2022/02/tul-twp_2014-2_amendment-to-zoning-ordinance.pdf",
+    "https://tulpytwp.org/wp-content/uploads/2022/02/tul-twp_2017-2_zoning-ordinance-update-regarding-medical-marijuana-wcf-and-signs.pdf"
+   ],
+   "notices": [
+    "https://tulpytwp.org/wp-content/uploads/2026/11/7635-Lancaster-Ave-11.19.26-ZHB-Agenda.pdf",
+    "https://tulpytwp.org/wp-content/uploads/2026/11/7635-Lancaster-Ave-Broadway-Group-ZHB-2026-Public-Hearing-Notice.pdf",
+    "https://tulpytwp.org/wp-content/uploads/2026/11/Tulpe-Comcast-Ordinance-Notice-for-publication.pdf"
+   ]
+  },
+  "doc_page": {
+   "kind": "minutes",
+   "text": "MINUTES",
+   "url": "https://tulpytwp.org/minutes/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 510,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "WordPress 7.1.4",
+  "credit": "mindburn"
+ },
+ {
+  "key": "union-berks",
+  "name": "Union Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.unionberks.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.unionberks.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "Wix"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.unionberks.org/_files/ugd/12dddd_2428f707f6944914af4bcc395b9d2fd8.pdf",
+    "https://www.unionberks.org/_files/ugd/12dddd_b95ad964177844c2bb9f8d213f53f5fe.docx?dn=Agenda%20FINAL%20August%20.2026_%20(002)%20-%20Rev.%20SDE.docx",
+    "https://www.unionberks.org/_files/ugd/12dddd_c33317b0cd19430896ac7953eb187e07.pdf"
+   ],
+   "meetings": [
+    "https://www.unionberks.org/calendar"
+   ],
+   "planning": [
+    "https://www.unionberks.org/planning-zoning",
+    "https://www.unionberks.org/copy-of-planning-commission",
+    "https://www.unionberks.org/copy-of-planning-zoning",
+    "https://www.unionberks.org/_files/ugd/12dddd_e4c2d32888af4153ba6d575fb235e381.pdf"
+   ],
+   "zoning": [
+    "https://www.unionberks.org/planning-zoning",
+    "https://www.unionberks.org/copy-of-planning-commission",
+    "https://www.unionberks.org/copy-of-planning-zoning",
+    "https://www.unionberks.org/_files/ugd/12dddd_49271e79b6e24f82a560bd8361394020.pdf"
+   ],
+   "notices": [
+    "https://www.unionberks.org/copy-of-planning-zoning"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "\u200b",
+   "url": "https://www.unionberks.org/_files/ugd/12dddd_b95ad964177844c2bb9f8d213f53f5fe.docx?dn=Agenda%20FINAL%20August%20.2026_%20(002)%20-%20Rev.%20SDE.docx"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "Wix.com Website Builder",
+  "credit": ""
+ },
+ {
+  "key": "upper-bern-berks",
+  "name": "Upper Bern Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://upperberntownship.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://upperberntownship.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://upperberntownship.org/wp-content/uploads/BOS-Hearing-Agenda-11-12-26_0001.pdf",
+    "https://upperberntownship.org/",
+    "https://upperberntownship.org/https-upperberntownship-org-wp-content-uploads-pc-agenda-04-28-26-pdf/",
+    "https://upperberntownship.org/zoning-hearing-agenda/",
+    "https://upperberntownship.org/wp-content/uploads/Auditor-Agenda-2026-Public-1.pdf"
+   ],
+   "meetings": [
+    "https://upperberntownship.org/index.php",
+    "https://upperberntownship.org/",
+    "https://upperberntownship.org/meeting-procedures/",
+    "https://upperberntownship.org/special-meetings/",
+    "https://upperberntownship.org/https-upperberntownship-org-wp-content-uploads-pc-agenda-04-28-26-pdf/"
+   ],
+   "planning": [
+    "https://upperberntownship.org/planning-commission/",
+    "https://upperberntownship.org/https-upperberntownship-org-wp-content-uploads-pc-agenda-04-28-26-pdf/"
+   ],
+   "zoning": [
+    "https://upperberntownship.org/zoning-hearing-agenda/"
+   ],
+   "notices": [
+    "https://upperberntownship.org/wp-content/uploads/BOS-Hearing-Agenda-11-12-26_0001.pdf",
+    "https://upperberntownship.org/zoning-hearing-agenda/"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Special Meetings Agenda \u2013 Coming Soon",
+   "url": "https://upperberntownship.org/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 4,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "WordPress 7.1.4",
+  "credit": "TreeBranch Media"
+ },
+ {
+  "key": "upper-tulpehocken-berks",
+  "name": "Upper Tulpehocken Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.uppertulpehockentownship.com/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.uppertulpehockentownship.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "Weebly"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.uppertulpehockentownship.com/uploads/1/3/8/1/138178811/zhb_116_mill_rd_2026_agenda.docx"
+   ],
+   "meetings": [
+    "https://www.uppertulpehockentownship.com/meetings.html"
+   ],
+   "planning": [
+    "https://www.uppertulpehockentownship.com/planning-commission.html"
+   ],
+   "zoning": [
+    "https://www.uppertulpehockentownship.com/zoning-officer-code-official.html",
+    "https://www.uppertulpehockentownship.com/zoning-hearing-board.html",
+    "https://www.uppertulpehockentownship.com/uploads/1/3/8/1/138178811/116_mill_rd_zhb_notice_2026.docx",
+    "https://www.uppertulpehockentownship.com/uploads/1/3/8/1/138178811/zhb_116_mill_rd_2026_agenda.docx"
+   ],
+   "notices": [
+    "https://www.uppertulpehockentownship.com/zoning-hearing-board.html"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "116 Mill Rd ZHB Agenda",
+   "url": "https://www.uppertulpehockentownship.com/uploads/1/3/8/1/138178811/zhb_116_mill_rd_2026_agenda.docx"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "",
+  "credit": ""
+ },
+ {
+  "key": "washington-berks",
+  "name": "Washington Township (Berks)",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://washtwpberks.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://washtwpberks.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://washtwpberks.org/calendar-2/action~agenda/events_limit~5/request_format~json/",
+    "https://washtwpberks.org/calendar-2/action~agenda/page_offset~-1/events_limit~5/request_format~json/",
+    "https://washtwpberks.org/calendar-2/action~agenda/page_offset~1/events_limit~5/request_format~json/",
+    "https://washtwpberks.org/?elementor_library=twp-gov-board-of-supervisors-agendas",
+    "https://washtwpberks.org/?elementor_library=twp-gov-planning-commission-agenda"
+   ],
+   "meetings": [
+    "https://washtwpberks.org/calendar",
+    "https://washtwpberks.org/calendar/",
+    "https://washtwpberks.org/calendar-2/action~agenda/events_limit~5/request_format~json/",
+    "https://washtwpberks.org/calendar-2/action~month/events_limit~5/request_format~json/",
+    "https://washtwpberks.org/calendar-2/action~agenda/page_offset~-1/events_limit~5/request_format~json/",
+    "https://washtwpberks.org/calendar-2/action~agenda/page_offset~1/events_limit~5/request_format~json/"
+   ],
+   "planning": [
+    "https://washtwpberks.org/land-development/",
+    "https://washtwpberks.org/wp-content/uploads/2024/02/Subdivision-and-Land-Development-Application-2024.pdf",
+    "https://washtwpberks.org/land-development",
+    "https://washtwpberks.org/?elementor_library=twp-gov-planning-commission-agenda",
+    "https://washtwpberks.org/event/planning-commission-meeting-2?instance_id=2544"
+   ],
+   "zoning": [
+    "https://washtwpberks.org/zoning-map/",
+    "https://washtwpberks.org/wp-content/uploads/2024/02/Zoning-Hearing-Board-Application-2024.pdf",
+    "https://washtwpberks.org/zoning-map"
+   ],
+   "notices": [
+    "https://washtwpberks.org/wp-content/uploads/2024/02/Zoning-Hearing-Board-Application-2024.pdf",
+    "https://washtwpberks.org/wp-content/uploads/2026/10/P-Notice-Data-Center2.pdf"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Agenda",
+   "url": "https://washtwpberks.org/calendar-2/action~agenda/events_limit~5/request_format~json"
+  },
+  "doc_page_profile": {
+   "pdf_links": 12,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "Sender.net 2.10.16",
+  "credit": "Enter.Net"
+ },
+ {
+  "key": "wernersville-berks",
+  "name": "Wernersville Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://www.wernersvilleborough.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.wernersvilleborough.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress",
+   "GoDaddy Builder"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.wernersvilleborough.org/wp-content/uploads/2026/11/Agenda-Budget-Workshop-11-10-2026.pdf"
+   ],
+   "meetings": [
+    "https://www.wernersvilleborough.org/who-we-are/"
+   ],
+   "zoning": [
+    "http://kraftcodeservices.com/"
+   ],
+   "notices": [
+    "https://www.wernersvilleborough.org/wp-content/uploads/2026/10/1E93535-Hearing-Notice-228-Marcello-Circle-30-W-Washington-Avenue.docx"
+   ]
+  },
+  "doc_page": {
+   "kind": "zoning",
+   "text": "Code Enforcement & Zoning Officers & Permit Applications",
+   "url": "https://kraftmunicipalgroup.com"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": 2024,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "WordPress 5.2.21",
+  "credit": ""
+ },
+ {
+  "key": "west-reading-berks",
+  "name": "West Reading Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://www.westreadingborough.com/"
+  ],
+  "reachable": true,
+  "final_url": "https://westreadingborough.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "WordPress"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://westreadingborough.com/borough-council/borough-council-meeting-agendas/",
+    "https://westreadingborough.com/civil-service-commission/civil-service-commission-meeting-agendas/",
+    "https://westreadingborough.com/economic-development-committee/economic-development-committee-meeting-agendas/",
+    "https://westreadingborough.com/environmental-advisory-council/environmental-advisory-council-meeting-agendas/",
+    "https://westreadingborough.com/finance-committee/finance-committee-meeting-agendas/",
+    "https://westreadingborough.com/planning-commission/planning-commission-meeting-agendas/"
+   ],
+   "minutes": [
+    "https://westreadingborough.com/borough-council/borough-council-meeting-minutes/",
+    "https://westreadingborough.com/economic-development-committee/economic-development-committee-meeting-minutes/",
+    "https://westreadingborough.com/environmental-advisory-council/environmental-advisory-council-meeting-minutes/",
+    "https://westreadingborough.com/finance-committee/finance-committee-meeting-minutes/",
+    "https://westreadingborough.com/planning-commission/planning-commission-meeting-minutes/",
+    "https://westreadingborough.com/recreation/recreation-commission-meeting-minutes/"
+   ],
+   "meetings": [
+    "https://westreadingborough.com/borough-council/borough-council-meeting-agendas/",
+    "https://westreadingborough.com/borough-council/borough-council-meeting-minutes/",
+    "https://westreadingborough.com/civil-service-commission/civil-service-commission-meeting-agendas/",
+    "https://westreadingborough.com/economic-development-committee/economic-development-committee-meeting-agendas/",
+    "https://westreadingborough.com/economic-development-committee/economic-development-committee-meeting-minutes/",
+    "https://westreadingborough.com/environmental-advisory-council/environmental-advisory-council-meeting-agendas/"
+   ],
+   "planning": [
+    "https://westreadingborough.com/planning-commission/planning-commission-meeting-agendas/",
+    "https://westreadingborough.com/planning-commission/planning-commission-meeting-minutes/",
+    "https://westreadingborough.com/planning-commission/planning-zoning/",
+    "https://westreadingborough.com/code-enforcement/subdivision-land-development/",
+    "https://westreadingborough.com/fire-department/escape-planning/",
+    "https://westreadingborough.com/planning-commission/"
+   ],
+   "zoning": [
+    "https://westreadingborough.com/planning-commission/planning-zoning/",
+    "https://westreadingborough.com/zoning-hearing-board/zoning-appeal-hearing/",
+    "https://westreadingborough.com/zoning-hearing-board/zoning-ordinance/",
+    "https://westreadingborough.com/zoning-hearing-board/"
+   ],
+   "notices": [
+    "https://westreadingborough.com/zoning-hearing-board/zoning-appeal-hearing/",
+    "https://westreadingborough.com/zoning-hearing-board/zoning-ordinance/",
+    "https://westreadingborough.com/zoning-hearing-board/"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Meeting Agendas",
+   "url": "https://westreadingborough.com/borough-council/borough-council-meeting-agendas/"
+  },
+  "doc_page_profile": {
+   "pdf_links": 159,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "Divi Child v.1.0",
+  "credit": ""
+ },
+ {
+  "key": "windsor-berks",
+  "name": "Windsor Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.windsortownshipberkscounty.com/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.windsortownshipberkscounty.com/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "Wix"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.windsortownshipberkscounty.com/about-6",
+    "https://www.windsortownshipberkscounty.com/history"
+   ],
+   "minutes": [
+    "https://www.windsortownshipberkscounty.com/history"
+   ],
+   "meetings": [
+    "https://www.windsortownshipberkscounty.com/about-6",
+    "https://www.windsortownshipberkscounty.com/history",
+    "https://www.windsortownshipberkscounty.com/post/board-of-supervisors-workshop-meetings-2026"
+   ],
+   "zoning": [
+    "https://www.windsortownshipberkscounty.com/zoning-hearings",
+    "https://www.windsortownshipberkscounty.com/zoning-map",
+    "https://www.windsortownshipberkscounty.com/post/public-notice-19-november-2026-zoning-hearing"
+   ],
+   "notices": [
+    "https://www.windsortownshipberkscounty.com/zoning-hearings",
+    "https://www.windsortownshipberkscounty.com/post/public-notice-19-november-2026-zoning-hearing"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Monthly Agenda and Upcoming Meeting",
+   "url": "https://www.windsortownshipberkscounty.com/about-6"
+  },
+  "doc_page_profile": {
+   "pdf_links": 2,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "Wix.com Website Builder",
+  "credit": ""
+ },
+ {
+  "key": "womelsdorf-berks",
+  "name": "Womelsdorf Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://www.womelsdorfborough.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.womelsdorfborough.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "CivicPlus"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.womelsdorfborough.org/agendacenter"
+   ],
+   "minutes": [
+    "https://www.womelsdorfborough.org/agendacenter"
+   ],
+   "meetings": [
+    "https://www.womelsdorfborough.org/calendar.aspx",
+    "https://www.womelsdorfborough.org/calendar.aspx?view=list&year=2026&month=11&day=26&CID=14",
+    "https://www.womelsdorfborough.org/Calendar.aspx?EID=363",
+    "https://www.womelsdorfborough.org/calendar.aspx?CID=14"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Agenda Center",
+   "url": "https://www.womelsdorfborough.org/AgendaCenter"
+  },
+  "doc_page_profile": {
+   "pdf_links": 80,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present; blocks AI crawlers",
+  "notes": [],
+  "generator": "",
+  "credit": "",
+  "agenda_center": "https://www.womelsdorfborough.org/AgendaCenter"
+ },
+ {
+  "key": "wyomissing-berks",
+  "name": "Wyomissing Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://wyomissingboro.org/"
+  ],
+  "reachable": true,
+  "final_url": "https://wyomissingboro.org/",
+  "status": 200,
+  "blocked": false,
+  "cms": [
+   "CivicPlus"
+  ],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://wyomissingboro.org/AgendaCenter"
+   ],
+   "minutes": [
+    "https://wyomissingboro.org/AgendaCenter"
+   ],
+   "meetings": [
+    "https://wyomissingboro.org/",
+    "https://wyomissingboro.org/calendar.aspx?view=list&year=2026&month=11&day=16&CID=14,23",
+    "https://wyomissingboro.org/calendar.aspx?view=list&year=2026&month=11&day=17&CID=14,23",
+    "https://wyomissingboro.org/calendar.aspx?view=list&year=2026&month=11&day=19&CID=14,23",
+    "https://wyomissingboro.org/calendar.aspx?view=list&year=2026&month=11&day=25&CID=14,23",
+    "https://wyomissingboro.org/calendar.aspx?view=list&year=2026&month=11&day=30&CID=14,23"
+   ],
+   "zoning": [
+    "https://wyomissingboro.org/169/Permits-Zoning-Codes-Enforcement"
+   ]
+  },
+  "doc_page": {
+   "kind": "agendas",
+   "text": "Agenda Center",
+   "url": "https://wyomissingboro.org/AgendaCenter"
+  },
+  "doc_page_profile": {
+   "pdf_links": 323,
+   "newest_year": 2026,
+   "has_2026": true
+  },
+  "robots": "robots.txt present; blocks AI crawlers",
+  "notes": [],
+  "generator": "",
+  "credit": "",
+  "agenda_center": "https://wyomissingboro.org/AgendaCenter"
+ },
+ {
+  "key": "berks-county",
+  "name": "Berks County",
+  "county": "Berks",
+  "type": "county",
+  "urls": [
+   "https://www.berkspa.gov/"
+  ],
+  "reachable": true,
+  "final_url": "https://www.berkspa.gov/",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "agendas": [
+    "https://www.berkspa.gov/getmedia/f33df2c8-30cc-48d8-bf86-2b54de17076a/Agenda.pdf"
+   ],
+   "minutes": [
+    "https://opendata.berkspa.gov/search?sort=Date%20Created%7Ccreated%7Cdesc&tags=commissioners"
+   ],
+   "meetings": [
+    "https://www.berkspa.gov/departments/commissioners/meetings",
+    "https://opendata.berkspa.gov/search?sort=Date%20Created%7Ccreated%7Cdesc&tags=commissioners"
+   ],
+   "planning": [
+    "https://www.berkspa.gov/departments/planning-commission"
+   ]
+  },
+  "doc_page": {
+   "kind": "minutes",
+   "text": "Commissioners' Board Meeting Minutes",
+   "url": "https://opendata.berkspa.gov/search?sort=Date%20Created%7Ccreated%7Cdesc&tags=commissioners"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "",
+  "credit": ""
+ },
+ {
+  "key": "bcpc",
+  "name": "Berks County Planning Commission",
+  "county": "Berks",
+  "type": "regional",
+  "urls": [
+   "https://www.berkspa.gov/Departments/Planning-Commission/Subdivision"
+  ],
+  "reachable": true,
+  "final_url": "https://www.berkspa.gov/departments/planning-commission/subdivision",
+  "status": 200,
+  "blocked": false,
+  "cms": [],
+  "vendors": {},
+  "links": {
+   "minutes": [
+    "https://opendata.berkspa.gov/search?categories=%252Fcategories%252Fminutes%252Fplanning&sort=Date%20Created%7Ccreated%7Cdesc"
+   ],
+   "meetings": [
+    "https://opendata.berkspa.gov/search?categories=%252Fcategories%252Fminutes%252Fplanning&sort=Date%20Created%7Ccreated%7Cdesc"
+   ],
+   "planning": [
+    "https://www.berkspa.gov/departments/planning-commission/subdivision",
+    "https://www.berkspa.gov/departments/planning-commission",
+    "https://www.berkspa.gov/departments/planning-commission/about-us",
+    "https://opendata.berkspa.gov/search?categories=%252Fcategories%252Fminutes%252Fplanning&sort=Date%20Created%7Ccreated%7Cdesc",
+    "https://www.berkspa.gov/departments/planning-commission/guiding-plans",
+    "https://www.berkspa.gov/getmedia/3a929a2d-65df-4f73-90d0-1db5da6023c2/Current-Subdivision-Reports.pdf"
+   ]
+  },
+  "doc_page": {
+   "kind": "minutes",
+   "text": "Meeting Minutes",
+   "url": "https://opendata.berkspa.gov/search?categories=%252Fcategories%252Fminutes%252Fplanning&sort=Date%20Created%7Ccreated%7Cdesc"
+  },
+  "doc_page_profile": {
+   "pdf_links": 0,
+   "newest_year": null,
+   "has_2026": false
+  },
+  "robots": "robots.txt present",
+  "notes": [],
+  "generator": "",
+  "credit": ""
+ }
+]
