@@ -113,8 +113,10 @@ def muni_resolver():
         t = re.sub(r"\b(township|twp|borough|boro|city of|city|county|co|pa|pennsylvania|of the)\b\.?", " ", t)
         return " ".join(re.sub(r"[^a-z ]", " ", t).split())
     by = defaultdict(list)
+    bare = defaultdict(list)  # 'washington' -> every Washington Township, whatever county
     for m in reg:
         by[norm(m["name"])].append(m)
+        bare[norm(re.sub(r"\(.*?\)", " ", m["name"]))].append(m)
     def resolve(text, counties=None):
         if not text:
             return None
@@ -122,7 +124,11 @@ def muni_resolver():
         head = norm(re.split(r"[,(;]", text)[0])
         cands = by.get(head) or [m for k, ms in by.items() for m in ms if k and re.search(rf"\b{re.escape(k)}\b", norm(text))]
         if counties:  # a county planning commission's report only covers its own county
-            cands = [m for m in cands if any(c in (m.get("county") or "").lower() for c in counties)]
+            inc = lambda m: any(c in (m.get("county") or "").lower() for c in counties)
+            cands = [m for m in cands if inc(m)]
+            if not cands:  # only when the county leaves exactly one town of that name
+                b = [m for m in bare.get(head, []) if inc(m)]
+                cands = b if len(b) == 1 else []
         if not cands:
             return None
         if len(cands) > 1:
