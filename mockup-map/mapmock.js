@@ -74,4 +74,5 @@
   const orig = renderFeed;
   renderFeed = function () { orig(); draw(); };
   window.__map = map;
+  if (ROWS.length) draw();  // the list may have loaded before this script ran
 })();
