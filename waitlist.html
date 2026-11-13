@@ -114,6 +114,8 @@
   .step2-actions { display: flex; align-items: center; gap: 18px; margin-top: 8px; }
   .skip-link { font-family: 'DM Mono', monospace; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-faded); background: none; border: none; cursor: pointer; text-decoration: underline; }
   .skip-link:hover { color: var(--primary); }
+  .field label .req { color: #8b3a2a; text-transform: none; }
+  .step2-error { display: none; color: #8b3a2a; font-size: 13px; margin: 4px 0 10px; }
 
   .success { display: none; padding: 8px 0; }
   .success .signup-title { color: var(--primary); }
@@ -277,43 +279,52 @@
 
             <!-- STEP 2: profile -->
             <div class="step2" id="step2">
-              <div class="stat-label" style="color:var(--primary)">Step 2 of 2 · Optional</div>
+              <div class="stat-label" style="color:var(--primary)">Step 2 of 2</div>
               <div class="signup-title">Tell us a bit about you</div>
               <p class="signup-sub">Helps us prioritize the municipalities and features you care about.</p>
               <div class="step2-email">Signing up as <strong id="step2-email-display"></strong></div>
 
               <div class="row">
                 <div class="field">
-                  <label for="mce-FNAME">First name</label>
+                  <label for="mce-FNAME">First name <span class="opt">(optional)</span></label>
                   <input type="text" name="FNAME" id="mce-FNAME" autocomplete="given-name" />
                 </div>
                 <div class="field">
-                  <label for="mce-LNAME">Last name</label>
+                  <label for="mce-LNAME">Last name <span class="opt">(optional)</span></label>
                   <input type="text" name="LNAME" id="mce-LNAME" autocomplete="family-name" />
                 </div>
               </div>
               <div class="field">
-                <label for="mce-COMPANY">Company</label>
-                <input type="text" name="COMPANY" id="mce-COMPANY" autocomplete="organization" />
+                <label for="mce-COMPANY">Company <span class="req">*</span></label>
+                <input type="text" name="COMPANY" id="mce-COMPANY" autocomplete="organization" required />
               </div>
               <div class="field">
-                <label for="mce-ROLE">What best describes you?</label>
-                <select name="ROLE" id="mce-ROLE">
+                <label for="mce-ROLE">What best describes you? <span class="req">*</span></label>
+                <select name="ROLE" id="mce-ROLE" required>
                   <option value="">Select one…</option>
                   <option value="Investor">Investor</option>
                   <option value="Developer">Developer</option>
                   <option value="Broker/Agent">Broker/Agent</option>
                   <option value="Attorney">Attorney</option>
+                  <option value="Lender">Lender</option>
+                  <option value="Retailer/Tenant">Retailer/Tenant</option>
+                  <option value="Engineer/Architect">Engineer/Architect</option>
+                  <option value="Municipal/Planning">Municipal/Planning</option>
+                  <option value="Appraiser">Appraiser</option>
                   <option value="Other">Other</option>
                 </select>
+              </div>
+              <div class="field">
+                <label for="mce-PHONE">Phone <span class="opt">(optional · for launch updates only)</span></label>
+                <input type="tel" name="PHONE" id="mce-PHONE" autocomplete="tel" placeholder="(610) 555-0123" />
               </div>
               <div class="field">
                 <label for="mce-MUNICIP">Municipalities you care about <span class="opt">(optional)</span></label>
                 <input type="text" name="MUNICIP" id="mce-MUNICIP" placeholder="e.g. South Whitehall, Lower Macungie" />
               </div>
+              <p class="step2-error" id="step2-error" role="alert"></p>
               <div class="step2-actions">
                 <button class="btn" type="submit">Join the Waitlist</button>
-                <button class="skip-link" type="submit">Skip for now</button>
               </div>
             </div>
 
@@ -439,11 +450,19 @@
   // Final submit (either button) — posts to Mailchimp in a new tab, then show success
   document.getElementById('mc-form').addEventListener('submit', function(e) {
     if (!EMAIL_RE.test(heroEmail.value.trim())) { e.preventDefault(); return; }
-    if (e.submitter && e.submitter.classList.contains('skip-link')) {
-      ['mce-FNAME','mce-LNAME','mce-COMPANY','mce-ROLE','mce-MUNICIP'].forEach(function(id) {
-        document.getElementById(id).value = '';
-      });
+    // role and company are required; phone and names are optional
+    var missing = ['mce-COMPANY', 'mce-ROLE'].map(function(id) { return document.getElementById(id); })
+      .filter(function(el) { return !el.value.trim(); });
+    var err = document.getElementById('step2-error');
+    if (missing.length) {
+      e.preventDefault();
+      missing.forEach(flagBad);
+      missing[0].focus();
+      err.textContent = 'Please add your ' + missing.map(function(el) { return el.id === 'mce-ROLE' ? 'role' : 'company'; }).join(' and ') + '.';
+      err.style.display = 'block';
+      return;
     }
+    err.style.display = 'none';
     setTimeout(function() {
       document.getElementById('mc-form').style.display = 'none';
       document.getElementById('hero-success').style.display = 'block';
