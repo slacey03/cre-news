@@ -1,0 +1,6 @@
+projects: 718
+with house-number address: 235
+geocoder: {'pinned': 176, 'no match': 37, 'ambiguous (tie)': 10, 'matched a different address (rejected)': 12}
+pinned: 176 of 718 (25%)
+notable (map default view) pinned: 132 of 457 (29%)
+page errors: []
