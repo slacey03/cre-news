@@ -264,7 +264,42 @@
   }
   @media (max-width: 360px) { .brand-nav { gap: 9px !important; font-size: 9px !important; letter-spacing: 0.03em !important; } .brand-nav a.nav-login, .brand-nav a.nav-signup { padding: 6px 7px 5px !important; } }
   @media (max-width: 360px) { .section-title { font-size: 38px !important; } }
+
+  /* Project map (Nov 2026): satellite by default, pins only for exact street-address matches */
+  .map-panel { border: 1px solid var(--rule); border-radius: 4px; margin-bottom: 16px; overflow: hidden; background: #fff; position: relative; }
+  .map-head { display: flex; justify-content: space-between; align-items: center; gap: 12px; padding: 10px 14px; border-bottom: 1px solid var(--rule); flex-wrap: wrap; }
+  .map-head .mk { font-family: 'DM Mono', monospace; font-size: 11px; letter-spacing: .12em; text-transform: uppercase; color: var(--ink); font-weight: 600; }
+  .map-head .mc { font-size: 13px; color: var(--ink-faded); margin-left: 8px; }
+  .map-head .unpinned { font-size: 12px; color: var(--third); background: none; border: none; cursor: pointer; text-decoration: underline; margin-left: 10px; padding: 0; font-family: inherit; }
+  .map-head .unpinned.on { font-weight: 700; }
+  .seg { display: inline-flex; border: 1px solid var(--rule); border-radius: 3px; overflow: hidden; }
+  .seg button { font-family: 'DM Mono', monospace; font-size: 11px; letter-spacing: .1em; text-transform: uppercase; padding: 7px 14px; border: none; background: #fff; color: var(--ink-soft); cursor: pointer; }
+  .seg button.on { background: var(--third); color: #fff; }
+  #map { height: 470px; background: #dfe3e8; }
+  .map-legend { display: flex; flex-wrap: wrap; gap: 6px 18px; padding: 10px 14px; border-top: 1px solid var(--rule); font-size: 12px; color: var(--ink-soft); align-items: center; }
+  .map-legend i { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 6px; vertical-align: -1px; border: 1.5px solid #fff; box-shadow: 0 0 0 1px rgba(0,0,0,.15); }
+  .map-legend .note { margin-left: auto; color: var(--ink-faded); }
+  .leaflet-control-layers { font-family: 'DM Mono', monospace; font-size: 11px; letter-spacing: .08em; text-transform: uppercase; border-radius: 3px !important; }
+  .leaflet-popup-content { margin: 12px 14px; font-family: 'DM Sans', sans-serif; }
+  .pp .pt { font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: .12em; text-transform: uppercase; color: var(--ink-faded); margin-bottom: 4px; }
+  .pp b { font-family: 'Playfair Display', serif; font-size: 15px; line-height: 1.25; display: block; margin-bottom: 4px; color: var(--ink); }
+  .pp .pa { font-size: 12px; color: var(--ink-soft); }
+  .pp .pc { font-size: 11px; color: var(--ink-faded); margin: 6px 0 8px; text-transform: capitalize; }
+  .pp a { color: var(--third); font-weight: 600; font-size: 12px; text-decoration: none; }
+  body.map-public #map { height: 300px; }
+  .map-lock { position: absolute; inset: 49px 0 0 0; display: flex; align-items: center; justify-content: center; background: rgba(17,20,23,.35); z-index: 500; }
+  .map-lock .lock { border: none; border-radius: 4px; max-width: 420px; margin: 16px; box-shadow: 0 8px 30px rgba(0,0,0,.25); background: #fff; }
+  body.list-only #map, body.list-only .map-legend, body.list-only .map-lock { display: none; }
+  @media (max-width: 768px) {
+    #map { height: 62vh; }
+    body:not(.view-map) #map, body:not(.view-map) .map-legend, body:not(.view-map) .map-lock { display: none; }
+    body.view-map .workspace { display: none; }
+    .map-legend .note { margin-left: 0; width: 100%; }
+    .map-head .mc { display: block; margin: 2px 0 0; font-size: 12px; }
+    .map-head .unpinned { margin: 4px 0 0; display: block; }
+  }
 </style>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
 </head>
 <body>
 
@@ -327,6 +362,16 @@
     <label class="check"><input type="checkbox" id="hide-minor" checked> Hide minor residential</label>
   </div>
 
+  <div class="map-panel" id="map-panel">
+    <div class="map-head">
+      <div><span class="mk">Project map</span><span class="mc" id="map-count"></span><button class="unpinned" id="unpinned" type="button" style="display:none"></button></div>
+      <div class="seg" id="map-seg"><button data-v="list" type="button">List</button><button data-v="map" type="button" class="on">Map</button></div>
+    </div>
+    <div id="map"></div>
+    <div class="map-legend" id="map-legend"></div>
+    <div class="map-lock" id="map-lock" style="display:none"><div class="lock"><h3>The project map is for members</h3><p>Every tracked project with an exact address, pinned on satellite imagery and filterable by type and township.</p><a class="btn primary" href="/waitlist">Sign up for the waitlist</a></div></div>
+  </div>
+
   <div class="workspace">
     <div class="feed" id="feed"><div class="empty">Loading projects…</div></div>
     <div class="detail" id="detail"></div>
@@ -341,6 +386,7 @@
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.min.js"></script>
 <script src="/pulse.js"></script>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
 <script>
 // Public project URL and publishable ("anon") key: safe to ship in a web page. Data access is enforced by database rules.
 const SUPABASE_URL = 'https://jrlircehkzivwkcauzdt.supabase.co';
@@ -419,6 +465,7 @@ function matches(r) {
   const town = document.getElementById('township').value;
   if (document.getElementById('hide-minor').checked && ['residential minor', 'property maintenance'].includes(r.category)) return false;
   if (town !== 'all' && r.municipality !== town) return false;
+  if (unpinnedOnly && r.lat != null) return false;
   if (activeFilter !== 'all' && !GROUPS[activeFilter].includes(r.category)) return false;
   if (q) {
     const hay = [r.name, r.address, r.parcel, r.applicant, r.owner, r.municipality, r.use, r.request, r.zoning, (r.plan_numbers || []).join(' '), (r.news || []).map(n => n.headline).join(' ')].join(' ').toLowerCase();
@@ -445,6 +492,7 @@ async function renderPulse() {
 
 function renderFeed() {
   const list = ROWS.filter(matches);
+  renderMap();
   const feed = document.getElementById('feed');
   if (!list.length) { feed.innerHTML = '<div class="empty">No projects match these filters.</div>'; return; }
   feed.innerHTML = list.slice(0, 400).map(r => `
@@ -570,6 +618,87 @@ function crumbTo(town) {
   if (isPhone() && document.body.classList.contains('show-detail')) closeDetail();
   else document.getElementById('feed').scrollIntoView({ behavior: 'smooth', block: 'start' });
   return false;
+}
+
+
+// ---- Project map: satellite by default; a pin only where the exact street address was matched (tools/geocode.py) ----
+let unpinnedOnly = false;
+const MAP_COLORS = { commercial: '#1F3A5F', industrial: '#C98A1B', residential: '#2d5a3d', zoning: '#7D5BA6', other: '#7A828C' };
+const MAP_LABEL = { commercial: 'Commercial', industrial: 'Industrial', residential: 'Residential', zoning: 'Zoning change', other: 'Institutional / other' };
+const groupOf = c => Object.keys(GROUPS).find(k => GROUPS[k].includes(c)) || 'other';
+let map = null, pinLayer = null, markers = {}, fitKey = null, lastActive = null;
+document.getElementById('map-legend').innerHTML = Object.keys(MAP_COLORS).map(k => `<span><i style="background:${MAP_COLORS[k]}"></i>${MAP_LABEL[k]}</span>`).join('')
+  + '<span class="note">Pins only where the exact street address was matched</span>';
+
+function initMap() {
+  if (map || !window.L) return;
+  map = L.map('map', { scrollWheelZoom: false }).setView([40.65, -75.43], 10);
+  const ESRI = 'https://server.arcgisonline.com/ArcGIS/rest/services/';
+  const tile = (path, o) => L.tileLayer(ESRI + path + '/MapServer/tile/{z}/{y}/{x}', o);
+  map.createPane('labels'); map.getPane('labels').style.zIndex = 450; map.getPane('labels').style.pointerEvents = 'none';
+  const satellite = L.layerGroup([
+    tile('World_Imagery', { attribution: 'Imagery &copy; Esri, Maxar, Earthstar Geographics', maxZoom: 19 }),
+    tile('Reference/World_Transportation', { pane: 'labels', maxZoom: 19, opacity: .8 }),
+    tile('Reference/World_Boundaries_and_Places', { pane: 'labels', maxZoom: 19 })]);
+  const streets = L.layerGroup([
+    tile('Canvas/World_Light_Gray_Base', { attribution: 'Tiles &copy; Esri, HERE, Garmin, &copy; OpenStreetMap contributors', maxZoom: 16 }),
+    tile('Canvas/World_Light_Gray_Reference', { pane: 'labels', maxZoom: 16 })]);
+  satellite.addTo(map);
+  L.control.layers({ 'Satellite': satellite, 'Map': streets }, null, { position: 'topright', collapsed: isPhone() }).addTo(map);
+  pinLayer = L.layerGroup().addTo(map);
+}
+
+function setMapView(v) {
+  document.querySelectorAll('#map-seg button').forEach(b => b.classList.toggle('on', b.dataset.v === v));
+  document.body.classList.toggle('view-map', v === 'map');
+  document.body.classList.toggle('list-only', v === 'list' && !isPhone());
+  setTimeout(() => { if (map) { map.invalidateSize(); fitKey = null; renderMap(); } }, 60);
+}
+document.getElementById('map-seg').addEventListener('click', e => { const b = e.target.closest('button'); if (b) setMapView(b.dataset.v); });
+document.getElementById('unpinned').addEventListener('click', () => { unpinnedOnly = !unpinnedOnly; renderFeed(); });
+setMapView(isPhone() ? 'list' : 'map');
+
+function openFromMap(id) {               // the pin card's "View project" link
+  if (isPhone()) setMapView('list');
+  selectItem(id);
+  return false;
+}
+
+function renderMap() {
+  initMap();
+  if (!map) return;
+  const lock = document.getElementById('map-lock'), btn = document.getElementById('unpinned');
+  if (document.body.classList.contains('map-public') !== !member) { document.body.classList.toggle('map-public', !member); setTimeout(() => map.invalidateSize(), 30); }
+  if (!member) {                          // public: locked preview, no pins
+    lock.style.display = ''; pinLayer.clearLayers();
+    document.getElementById('map-count').textContent = 'Members only'; btn.style.display = 'none';
+    return;
+  }
+  lock.style.display = 'none';
+  const wasUnpinned = unpinnedOnly; unpinnedOnly = false;
+  const list = ROWS.filter(matches); unpinnedOnly = wasUnpinned;
+  const pinned = list.filter(r => r.lat != null), missing = list.length - pinned.length;
+  document.getElementById('map-count').textContent = `${pinned.length} of ${list.length} projects pinned`;
+  btn.style.display = missing ? '' : 'none';
+  btn.textContent = unpinnedOnly ? 'Show all projects' : `List the ${missing} not on the map`;
+  btn.classList.toggle('on', unpinnedOnly);
+  if (map.getSize().x < 50 || map.getSize().y < 50) return;   // hidden (phone list view); drawn when shown
+  pinLayer.clearLayers(); markers = {};
+  pinned.sort((a, b) => (a.id === activeId) - (b.id === activeId)).forEach(r => {
+    const on = r.id === activeId;
+    const m = L.circleMarker([r.lat, r.lon], { radius: on ? 11 : 8, color: on ? '#FFD84D' : '#fff', weight: on ? 4 : 2.5, fillColor: MAP_COLORS[groupOf(r.category)], fillOpacity: 1 });
+    m.bindPopup(`<div class="pp"><div class="pt">${esc(r.municipality)}</div><b>${esc(r.name)}</b><div class="pa">${esc(r.address || '')}</div>
+      <div class="pc">${esc(r.category)} · ${esc(r.stage || '')}</div><a href="${esc(urlFor(r.id))}" onclick="return openFromMap('${r.id}')">View project →</a></div>`, { maxWidth: 260 });
+    m.on('click', () => {
+      map.setView([r.lat, r.lon], Math.max(map.getZoom(), 17));
+      if (!isPhone()) { selectItem(r.id); setTimeout(() => { markers[r.id] && markers[r.id].openPopup(); document.querySelector('.item.active')?.scrollIntoView({ block: 'nearest' }); }, 30); }
+    });
+    pinLayer.addLayer(m); markers[r.id] = m;
+  });
+  const key = [activeFilter, document.getElementById('township').value, document.getElementById('hide-minor').checked, document.getElementById('search').value].join('|');
+  if (key !== fitKey && pinned.length) { map.fitBounds(L.latLngBounds(pinned.map(r => [r.lat, r.lon])), { padding: [24, 24], maxZoom: 15 }); fitKey = key; }
+  else if (activeId !== lastActive && markers[activeId] && !isPhone()) map.panTo(markers[activeId].getLatLng());
+  lastActive = activeId;
 }
 
 loadStats();

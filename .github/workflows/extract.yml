@@ -6,7 +6,7 @@ on:
       limit: { default: "1000" }
   push:
     branches: [main]
-    paths: ["tools/extract.py", "tools/link_projects.py", "db/**"]
+    paths: ["tools/extract.py", "tools/link_projects.py", "tools/geocode.py", "db/**"]
   workflow_run:
     workflows: ["Load Supabase"]
     types: [completed]
@@ -29,5 +29,9 @@ jobs:
           WAIT_MIN: "55"
       - name: Link mentions into one record per project
         run: python tools/link_projects.py
+        env:
+          SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL }}
+      - name: Map pins (Census geocoder, exact address matches only)
+        run: pip install requests && python tools/geocode.py
         env:
           SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL }}

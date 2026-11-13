@@ -24,7 +24,9 @@ jobs:
           [ "$s" != "none" ] || { echo "FAIL stats"; fail=1; }
           m=$(get "market_pulse?select=month&limit=50" | jq 'if type=="array" then length else -1 end'); echo "market pulse months: $m"
           [ "$m" -ge 1 ] || { echo "FAIL market pulse"; fail=1; }
-          for t in pipeline projects documents members municipalities extract_batches market_stats; do
+          l=$(get "pipeline_teaser?select=lat,lon&limit=1" | jq -r 'if type=="array" then "exposed" else "hidden" end'); echo "teaser map coordinates: $l"
+          [ "$l" = "hidden" ] || { echo "FAIL: map coordinates are visible in the public teaser"; fail=1; }
+          for t in pipeline projects documents members municipalities extract_batches market_stats geocode_cache; do
             r=$(get "$t?select=*&limit=1" | jq -c 'if type=="array" then length else "refused" end')
             echo "$t: $r"
             [ "$r" = "0" ] || [ "$r" = '"refused"' ] || { echo "FAIL: $t is readable with the public key"; fail=1; }

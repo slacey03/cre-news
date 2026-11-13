@@ -34,3 +34,7 @@ jobs:
         run: python tools/link_projects.py
         env:
           SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL }}
+      - name: Map pins (re-applied after the project table is rebuilt)
+        run: pip install requests && python tools/geocode.py
+        env:
+          SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL }}
