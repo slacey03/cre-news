@@ -16,13 +16,19 @@ const stub = member => `window.supabase={createClient(){const P=${JSON.stringify
     await pg.goto('http://127.0.0.1:8765/dashboard.html'); await pg.waitForTimeout(2500);
     return [c, pg];
   }
-  const pick = await (async () => { // a notable commercial project with a pin, for the "selected" shots
-    const want = ['retail', 'medical', 'mixed-use', 'restaurant', 'office'];
-    return (P.find(r => r.lat != null && want.includes(r.category) && (r.news || []).length) || P.find(r => r.lat != null && want.includes(r.category)) || {}).id;
-  })();
+  let pick = null;
+  async function choose(pg) { // a pinned notable commercial project (with news if possible), else any pin
+    return pg.evaluate(() => {
+      const ids = Object.keys(window.__markers || {}); const want = ['retail', 'medical', 'mixed-use', 'restaurant', 'office'];
+      const rows = ROWS.filter(r => ids.includes(r.id));
+      const r = rows.find(r => want.includes(r.category) && (r.news || []).length) || rows.find(r => want.includes(r.category)) || rows[0];
+      return r && r.id;
+    });
+  }
   const tiles = pg => pg.waitForFunction(() => [...document.querySelectorAll('.leaflet-tile')].every(t => t.complete), null, { timeout: 15000 }).catch(() => {});
   const desk = { viewport: { width: 1400, height: 1500 } };
   let [c, pg] = await page(desk, true);
+  pick = await choose(pg); console.log('markers', await pg.evaluate(() => Object.keys(window.__markers || {}).length), 'pick', pick);
   await pg.evaluate(id => window.__markers[id].fire('click'), pick); await pg.waitForTimeout(800); await tiles(pg);
   const top = await pg.evaluate(() => document.querySelector('.map-panel').offsetTop - 140);
   await pg.evaluate(y => window.scrollTo(0, y), top); await pg.waitForTimeout(500);
