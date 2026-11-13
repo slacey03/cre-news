@@ -25,7 +25,19 @@ DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
 MUNICIPALITIES = [
     {"key": "forks", "name": "Forks Township", "county": "Northampton",
      "base": "https://www.forkstownship.org"},
+    # Berks County (Nov 2026)
+    {"key": "boyertown-berks", "name": "Boyertown Borough", "county": "Berks", "base": "https://www.boyertownborough.org"},
+    {"key": "marion-berks", "name": "Marion Township", "county": "Berks", "base": "https://www.mariontwpberks.com"},
+    {"key": "muhlenberg-berks", "name": "Muhlenberg Township", "county": "Berks", "base": "https://www.muhlenbergtwp.com"},
+    {"key": "south-heidelberg-berks", "name": "South Heidelberg Township", "county": "Berks", "base": "https://www.shtwp.org"},
+    {"key": "womelsdorf-berks", "name": "Womelsdorf Borough", "county": "Berks", "base": "https://www.womelsdorfborough.org"},
+    {"key": "wyomissing-berks", "name": "Wyomissing Borough", "county": "Berks", "base": "https://wyomissingboro.org"},
 ]
+# Boards worth reading for development activity; parks, library, pension, police etc. are skipped
+KEEP_BOARD = re.compile(r"planning|zoning|council|supervisors|commissioners|redevelop|historic|harb|land develop|subdivision|"
+                        r"economic|municipal authority|board of trustees|hearing", re.I)
+SKIP_BOARD = re.compile(r"park|recreation|library|shade tree|pension|police|fire|civil service|audit|emergency|ems\b|"
+                        r"veteran|holiday|environmental advisory|tree|youth|senior|\\barts?\\b", re.I)
 
 
 FOUND = {}  # source key -> documents found on its listing page this run (filled by every collector)
@@ -150,6 +162,8 @@ def collect(muni):
     listing = parse_agenda_center(sess.get(urljoin(muni["base"], "/AgendaCenter")).text, muni["base"])
     cutoff = date.today() - timedelta(days=LOOKBACK_DAYS)
     # new documents, plus earlier scanned documents that haven't been OCR'd yet
+    listing = [d for d in listing if KEEP_BOARD.search(d["board"]) and not SKIP_BOARD.search(d["board"])] \
+        if muni["key"] != "forks" else listing   # Forks keeps its existing all-boards history
     todo = [d for d in listing if d["meeting_date"] >= cutoff.isoformat()
             and (d["doc_id"] not in index or (index[d["doc_id"]].get("needs_ocr") and not index[d["doc_id"]].get("ocr")))]
     FOUND[muni["key"]] = len(listing)
