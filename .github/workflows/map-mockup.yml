@@ -1,0 +1,38 @@
+name: Map mockup (temporary)
+on:
+  push:
+    branches: [mockup/map]
+permissions:
+  contents: write
+jobs:
+  mockup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install "psycopg[binary]" requests
+      - run: python mockup-map/geocode.py
+        env:
+          SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL }}
+      - uses: actions/setup-node@v4
+        with: { node-version: "20" }
+      - run: npm i --no-save playwright@1.49.1 && npx playwright install --with-deps chromium
+      - name: Build the mockup page
+        run: |
+          cp dashboard.html pulse.js mockup-map/build/
+          python - <<'PY'
+          p = "mockup-map/build/dashboard.html"; s = open(p).read()
+          s = s.replace("</head>", '<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">\n</head>', 1)
+          s = s.replace('<script src="/pulse.js"></script>', '<script src="/pulse.js"></script>\n<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>')
+          i = s.rindex("</body>"); s = s[:i] + '<script src="/mapmock.js"></script>\n' + s[i:]
+          open(p, "w").write(s)
+          PY
+          cp mockup-map/mapmock.js mockup-map/build/
+      - run: |
+          (cd mockup-map/build && python -m http.server 8765 >/dev/null 2>&1 &)
+          sleep 2 && node mockup-map/shoot.js
+      - name: Save screenshots to this branch (no project data)
+        run: |
+          git config user.name "github-actions"; git config user.email "github-actions@users.noreply.github.com"
+          git add mockup-map/out/*.png mockup-map/out/stats.txt && git commit -m "Map mockup screenshots" && git push
