@@ -1,5 +1,5 @@
 """
-Detect, for each municipality in registry/lehigh_valley.json:
+Detect, for each municipality in registry/<region>.json (default lehigh_valley; e.g. berks):
   - whether the website is reachable (and whether it blocks automated visitors),
   - the website platform (CivicPlus, Granicus govAccess, Revize, WordPress, ...),
   - any agenda/meeting vendor it links to (Granicus, Legistar, CivicClerk, eSCRIBE, ...),
@@ -223,13 +223,15 @@ def summarize(d):
 
 
 if __name__ == "__main__":
-    munis = json.load(open(os.path.join(HERE, "lehigh_valley.json")))
+    import sys
+    region = sys.argv[1] if len(sys.argv) > 1 else "lehigh_valley"   # registry/<region>.json
+    munis = [m for m in json.load(open(os.path.join(HERE, f"{region}.json"))) if m.get("urls")]
     with ThreadPoolExecutor(max_workers=8) as ex:  # different sites in parallel; each site is paced
         results = list(ex.map(detect, munis))
     os.makedirs(os.path.join(HERE, "out"), exist_ok=True)
-    json.dump(results, open(os.path.join(HERE, "out", "lehigh_valley_detected.json"), "w"), indent=1, default=list)
+    json.dump(results, open(os.path.join(HERE, "out", f"{region}_detected.json"), "w"), indent=1, default=list)
     rows = [summarize(d) for d in results]
-    with open(os.path.join(HERE, "out", "lehigh_valley_registry.csv"), "w", newline="") as f:
+    with open(os.path.join(HERE, "out", f"{region}_registry.csv"), "w", newline="") as f:
         w = csv.DictWriter(f, fieldnames=list(rows[0])); w.writeheader(); w.writerows(rows)
     for r in rows:
         print(f"{r['name'][:34]:34} {r['collection_route'][:40]:40} {r['website_platform'][:28]}")

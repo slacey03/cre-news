@@ -90,12 +90,24 @@ def name_key(name):
     return k
 
 
-REGISTRY = os.path.join(os.path.dirname(__file__), "..", "registry", "lehigh_valley.json")
+REGISTRIES = [os.path.join(os.path.dirname(__file__), "..", "registry", f) for f in ("lehigh_valley.json", "berks.json")]
+REGISTRY = REGISTRIES[0]
+# regional bodies whose documents cover many towns -> the counties those towns can be in
+REGIONAL_COUNTIES = {"lvpc": ("lehigh", "northampton"), "lehigh-county": ("lehigh",), "northampton-county": ("northampton",),
+                     "bcpc": ("berks",), "berks-county": ("berks",)}
+
+
+def load_registry():
+    out = []
+    for f in REGISTRIES:
+        if os.path.exists(f):
+            out += json.load(open(f))
+    return out
 
 
 def muni_resolver():
     """Map a free-text municipality ('Lower Macungie Township', 'Washington Twp., Northampton County') to a registry key."""
-    reg = [m for m in json.load(open(REGISTRY)) if m.get("type") not in ("county", "regional")]
+    reg = [m for m in load_registry() if m.get("type") not in ("county", "regional")]
     def norm(t):
         t = (t or "").lower()
         t = re.sub(r"\b(township|twp|borough|boro|city of|city|county|co|pa|pennsylvania|of the)\b\.?", " ", t)
@@ -103,12 +115,14 @@ def muni_resolver():
     by = defaultdict(list)
     for m in reg:
         by[norm(m["name"])].append(m)
-    def resolve(text):
+    def resolve(text, counties=None):
         if not text:
             return None
         t = text.lower()
         head = norm(re.split(r"[,(;]", text)[0])
         cands = by.get(head) or [m for k, ms in by.items() for m in ms if k and re.search(rf"\b{re.escape(k)}\b", norm(text))]
+        if counties:  # a county planning commission's report only covers its own county
+            cands = [m for m in cands if any(c in (m.get("county") or "").lower() for c in counties)]
         if not cands:
             return None
         if len(cands) > 1:
@@ -288,10 +302,10 @@ def main():
                d.url, d.source_page, p.project_municipality
         from projects p join documents d on d.id = p.document_id""").fetchall()
     resolve, reg = muni_resolver()
-    regional = {r["municipality_key"] for r in rows if r["municipality_key"] in ("lvpc", "lehigh-county", "northampton-county")}
-    for r in rows:  # file projects from regional documents (LVPC, counties) under the town they are in
+    regional = {r["municipality_key"] for r in rows if r["municipality_key"] in REGIONAL_COUNTIES}
+    for r in rows:  # file projects from regional documents (LVPC, BCPC, counties) under the town they are in
         if r["municipality_key"] in regional:
-            m = resolve(r.get("project_municipality"))
+            m = resolve(r.get("project_municipality"), REGIONAL_COUNTIES[r["municipality_key"]])
             if m:
                 r["municipality_key"], r["municipality"] = m["key"], m["name"]
     pipeline, mapping = build(rows)

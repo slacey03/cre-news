@@ -1,0 +1,675 @@
+[
+ {
+  "key": "albany-berks",
+  "name": "Albany Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.albanytwpberks.org/"
+  ]
+ },
+ {
+  "key": "alsace-berks",
+  "name": "Alsace Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "http://www.alsacetownship.org/"
+  ]
+ },
+ {
+  "key": "amity-berks",
+  "name": "Amity Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://amitytownshippa.com/wp/"
+  ]
+ },
+ {
+  "key": "bally-berks",
+  "name": "Bally Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://ballyboro.org/"
+  ]
+ },
+ {
+  "key": "bechtelsville-berks",
+  "name": "Bechtelsville Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://www.bechtelsville.org/"
+  ]
+ },
+ {
+  "key": "bern-berks",
+  "name": "Bern Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.berntownship.org/newsite/"
+  ]
+ },
+ {
+  "key": "bernville-berks",
+  "name": "Bernville Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "http://bernvilleborough.org/"
+  ]
+ },
+ {
+  "key": "bethel-berks",
+  "name": "Bethel Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "http://betheltwp.org/"
+  ]
+ },
+ {
+  "key": "birdsboro-berks",
+  "name": "Birdsboro Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "http://www.birdsboropa.org/"
+  ]
+ },
+ {
+  "key": "boyertown-berks",
+  "name": "Boyertown Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://www.boyertownborough.org/"
+  ]
+ },
+ {
+  "key": "brecknock-berks",
+  "name": "Brecknock Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.brecknockberks.com/"
+  ]
+ },
+ {
+  "key": "caernarvon-berks",
+  "name": "Caernarvon Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "http://www.caernarvon.org/"
+  ]
+ },
+ {
+  "key": "centerport-berks",
+  "name": "Centerport Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://centerportboro.net/"
+  ]
+ },
+ {
+  "key": "centre-berks",
+  "name": "Centre Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://centretownship.com/"
+  ]
+ },
+ {
+  "key": "colebrookdale-berks",
+  "name": "Colebrookdale Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "http://colebrookdale.org/"
+  ]
+ },
+ {
+  "key": "cumru-berks",
+  "name": "Cumru Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "http://www.cumrutownship.com/"
+  ]
+ },
+ {
+  "key": "district-berks",
+  "name": "District Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "http://www.districttownship.org/"
+  ]
+ },
+ {
+  "key": "douglass-berks",
+  "name": "Douglass Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://douglassberks.org/"
+  ]
+ },
+ {
+  "key": "earl-berks",
+  "name": "Earl Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://earltwpberks.com/"
+  ]
+ },
+ {
+  "key": "exeter-berks",
+  "name": "Exeter Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "http://www.exetertownship.com/"
+  ]
+ },
+ {
+  "key": "fleetwood-berks",
+  "name": "Fleetwood Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://www.fleetwoodboro.com/"
+  ]
+ },
+ {
+  "key": "greenwich-berks",
+  "name": "Greenwich Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "http://www.greenwichtownshippa.org/"
+  ]
+ },
+ {
+  "key": "hamburg-berks",
+  "name": "Hamburg Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://hamburgboro.com/"
+  ]
+ },
+ {
+  "key": "heidelberg-berks",
+  "name": "Heidelberg Township (Berks)",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "http://heidelbergtownship.org/"
+  ]
+ },
+ {
+  "key": "hereford-berks",
+  "name": "Hereford Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.herefordtownship.org/"
+  ]
+ },
+ {
+  "key": "jefferson-berks",
+  "name": "Jefferson Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://jeffersontwpbc.com/"
+  ]
+ },
+ {
+  "key": "kenhorst-berks",
+  "name": "Kenhorst Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://kenhorstborough.com/"
+  ]
+ },
+ {
+  "key": "kutztown-berks",
+  "name": "Kutztown Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://www.kutztownboro.org/"
+  ]
+ },
+ {
+  "key": "laureldale-berks",
+  "name": "Laureldale Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://www.laureldaleboro.org/"
+  ]
+ },
+ {
+  "key": "leesport-berks",
+  "name": "Leesport Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://leesport.org/"
+  ]
+ },
+ {
+  "key": "lenhartsville-berks",
+  "name": "Lenhartsville Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://lenhartsville.com/"
+  ]
+ },
+ {
+  "key": "longswamp-berks",
+  "name": "Longswamp Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.longswamptownship.org/"
+  ]
+ },
+ {
+  "key": "lower-alsace-berks",
+  "name": "Lower Alsace Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://latownship.org/"
+  ]
+ },
+ {
+  "key": "lower-heidelberg-berks",
+  "name": "Lower Heidelberg Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.lowerheidelbergtownship.org/"
+  ]
+ },
+ {
+  "key": "lyons-berks",
+  "name": "Lyons Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://server724.com/lyons/"
+  ]
+ },
+ {
+  "key": "maidencreek-berks",
+  "name": "Maidencreek Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://maidencreek.net/"
+  ]
+ },
+ {
+  "key": "marion-berks",
+  "name": "Marion Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.mariontwpberks.com/"
+  ]
+ },
+ {
+  "key": "maxatawny-berks",
+  "name": "Maxatawny Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.maxatawny.org/"
+  ]
+ },
+ {
+  "key": "mohnton-berks",
+  "name": "Mohnton Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://mohntonboro.org/"
+  ]
+ },
+ {
+  "key": "mount-penn-berks",
+  "name": "Mount Penn Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://mtpennborough.com/"
+  ]
+ },
+ {
+  "key": "muhlenberg-berks",
+  "name": "Muhlenberg Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.muhlenbergtwp.com/"
+  ]
+ },
+ {
+  "key": "new-morgan-berks",
+  "name": "New Morgan Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://www.newmorganboro.org/"
+  ]
+ },
+ {
+  "key": "north-heidelberg-berks",
+  "name": "North Heidelberg Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://northheidelbergtwp.org/"
+  ]
+ },
+ {
+  "key": "oley-berks",
+  "name": "Oley Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://oleytownship.org/wrp/"
+  ]
+ },
+ {
+  "key": "ontelaunee-berks",
+  "name": "Ontelaunee Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://ontelauneetwp.net/"
+  ]
+ },
+ {
+  "key": "penn-berks",
+  "name": "Penn Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://penntownshipberks.org/"
+  ]
+ },
+ {
+  "key": "perry-berks",
+  "name": "Perry Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.perrytownshipberkscounty.com/"
+  ]
+ },
+ {
+  "key": "pike-berks",
+  "name": "Pike Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.piketownship.org/"
+  ]
+ },
+ {
+  "key": "reading",
+  "name": "City of Reading",
+  "county": "Berks",
+  "type": "city",
+  "urls": [
+   "https://www.readingpa.gov/"
+  ]
+ },
+ {
+  "key": "richmond-berks",
+  "name": "Richmond Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.richmond-township.org/"
+  ]
+ },
+ {
+  "key": "robeson-berks",
+  "name": "Robeson Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.robesontownship.com/"
+  ]
+ },
+ {
+  "key": "robesonia-berks",
+  "name": "Robesonia Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "http://www.robesoniaboro.org/"
+  ]
+ },
+ {
+  "key": "rockland-berks",
+  "name": "Rockland Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://rocklandtownshipberks.org/"
+  ]
+ },
+ {
+  "key": "ruscombmanor-berks",
+  "name": "Ruscombmanor Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://ruscombmanor.org/"
+  ]
+ },
+ {
+  "key": "shillington-berks",
+  "name": "Shillington Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://shillingtonboro.com/"
+  ]
+ },
+ {
+  "key": "shoemakersville-berks",
+  "name": "Shoemakersville Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://shoeyboro.org/"
+  ]
+ },
+ {
+  "key": "sinking-spring-berks",
+  "name": "Sinking Spring Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://sinkingspringboro.org/"
+  ]
+ },
+ {
+  "key": "south-heidelberg-berks",
+  "name": "South Heidelberg Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.shtwp.org/"
+  ]
+ },
+ {
+  "key": "spring-berks",
+  "name": "Spring Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.springtwpberks.org/"
+  ]
+ },
+ {
+  "key": "st-lawrence-berks",
+  "name": "St. Lawrence Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://stlawboro.us/"
+  ]
+ },
+ {
+  "key": "strausstown-berks",
+  "name": "Strausstown Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": []
+ },
+ {
+  "key": "tilden-berks",
+  "name": "Tilden Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://tildentownship.com/"
+  ]
+ },
+ {
+  "key": "topton-berks",
+  "name": "Topton Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://toptonborough.com/"
+  ]
+ },
+ {
+  "key": "tulpehocken-berks",
+  "name": "Tulpehocken Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://tulpytwp.org/"
+  ]
+ },
+ {
+  "key": "union-berks",
+  "name": "Union Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.unionberks.org/"
+  ]
+ },
+ {
+  "key": "upper-bern-berks",
+  "name": "Upper Bern Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://upperberntownship.org/"
+  ]
+ },
+ {
+  "key": "upper-tulpehocken-berks",
+  "name": "Upper Tulpehocken Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.uppertulpehockentownship.com/"
+  ]
+ },
+ {
+  "key": "washington-berks",
+  "name": "Washington Township (Berks)",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://washtwpberks.org/"
+  ]
+ },
+ {
+  "key": "wernersville-berks",
+  "name": "Wernersville Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://www.wernersvilleborough.org/"
+  ]
+ },
+ {
+  "key": "west-reading-berks",
+  "name": "West Reading Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://www.westreadingborough.com/"
+  ]
+ },
+ {
+  "key": "windsor-berks",
+  "name": "Windsor Township",
+  "county": "Berks",
+  "type": "township",
+  "urls": [
+   "https://www.windsortownshipberkscounty.com/"
+  ]
+ },
+ {
+  "key": "womelsdorf-berks",
+  "name": "Womelsdorf Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://www.womelsdorfborough.org/"
+  ]
+ },
+ {
+  "key": "wyomissing-berks",
+  "name": "Wyomissing Borough",
+  "county": "Berks",
+  "type": "borough",
+  "urls": [
+   "https://wyomissingboro.org/"
+  ]
+ },
+ {
+  "key": "berks-county",
+  "name": "Berks County",
+  "county": "Berks",
+  "type": "county",
+  "urls": [
+   "https://www.berkspa.gov/"
+  ]
+ },
+ {
+  "key": "bcpc",
+  "name": "Berks County Planning Commission",
+  "county": "Berks",
+  "type": "regional",
+  "urls": [
+   "https://www.berkspa.gov/Departments/Planning-Commission/Subdivision"
+  ]
+ }
+]

@@ -29,12 +29,12 @@ from db import connect
 MODELS = ["claude-sonnet-5-5", "claude-sonnet-5"]
 REFRESH_DAYS = int(os.environ.get("NEWS_REFRESH_DAYS", "30"))   # re-check active projects this often
 ACTIVE_DAYS = int(os.environ.get("NEWS_ACTIVE_DAYS", "90"))     # ...if they had board activity this recently
-REGIONAL = ("lvpc", "lehigh-county", "northampton-county")  # town unknown -> never searched
+REGIONAL = ("lvpc", "lehigh-county", "northampton-county", "bcpc", "berks-county")  # town unknown -> never searched
 NOTABLE = ("retail", "restaurant", "office", "medical", "hotel/hospitality", "industrial/warehouse", "multifamily",
            "mixed-use", "redevelopment property", "residential subdivision", "institutional")
 NEWS_DOMAINS = {
     "lehighvalleynews.com": "Lehigh Valley News", "mcall.com": "The Morning Call", "lehighvalleylive.com": "LehighValleyLive",
-    "wfmz.com": "WFMZ-TV 69 News", "lehighvalleypublicmedia.org": "Lehigh Valley Public Media", "lvb.com": "Lehigh Valley Business",
+    "wfmz.com": "WFMZ-TV 69 News", "readingeagle.com": "Reading Eagle", "berksweekly.com": "Berks Weekly", "lehighvalleypublicmedia.org": "Lehigh Valley Public Media", "lvb.com": "Lehigh Valley Business",
     "sauconsource.com": "Saucon Source", "patch.com": "Patch", "pennlive.com": "PennLive", "inquirer.com": "Philadelphia Inquirer",
     "readingeagle.com": "Reading Eagle", "poconorecord.com": "Pocono Record", "tapinto.net": "TAPinto", "69news.com": "WFMZ-TV 69 News",
     "wlvr.org": "Lehigh Valley Public Media", "bizjournals.com": "Philadelphia Business Journal", "therecordherald.com": "The Record Herald",

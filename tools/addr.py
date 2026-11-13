@@ -82,7 +82,7 @@ def key(a):
 def town_names(municipality):
     """Names an article may use for the municipality: 'Lower Saucon Township' -> ['lower saucon']."""
     base = re.sub(r"\b(township|twp|borough|boro|city of|city)\b\.?", " ", (municipality or "").lower())
-    base = re.sub(r"\((lehigh|northampton)\)", " ", base)
+    base = re.sub(r"\((lehigh|northampton|berks)\)", " ", base)
     base = " ".join(base.replace(",", " ").split())
     return [base] if base else []
 

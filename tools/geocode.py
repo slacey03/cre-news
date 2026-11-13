@@ -20,7 +20,7 @@ from db import connect
 import addr
 
 URL = "https://geocoding.geo.census.gov/geocoder/geographies/addressbatch"
-COUNTY_FIPS = {"lehigh": "077", "northampton": "095"}
+COUNTY_FIPS = {"lehigh": "077", "northampton": "095", "berks": "011"}
 DEFAULT_FIPS = set(COUNTY_FIPS.values())
 RETRY_AFTER = timedelta(days=30)
 
@@ -47,6 +47,32 @@ POSTAL = {
     "chapman": ["Bath"], "north catasauqua": ["Catasauqua"], "east bangor": ["Bangor"], "roseto": ["Bangor"],
 }
 
+# Berks County: mailing cities by municipality key (names like Heidelberg/Washington also exist in the Lehigh Valley)
+POSTAL_BY_KEY = {
+    "albany-berks": ["Kempton", "New Tripoli"], "alsace-berks": ["Temple", "Reading", "Oley"], "amity-berks": ["Douglassville", "Birdsboro"],
+    "bern-berks": ["Reading", "Leesport"], "bethel-berks": ["Bethel"], "brecknock-berks": ["Mohnton", "Denver"],
+    "caernarvon-berks": ["Morgantown", "Elverson"], "centre-berks": ["Mohrsville", "Leesport", "Bernville"],
+    "colebrookdale-berks": ["Boyertown", "Gilbertsville"], "cumru-berks": ["Reading", "Shillington", "Mohnton"],
+    "district-berks": ["Boyertown", "Barto"], "douglass-berks": ["Boyertown", "Gilbertsville"], "earl-berks": ["Boyertown", "Oley"],
+    "exeter-berks": ["Reading", "Birdsboro", "Douglassville"], "greenwich-berks": ["Lenhartsville", "Kempton", "Krumsville"],
+    "heidelberg-berks": ["Robesonia", "Womelsdorf"], "hereford-berks": ["Hereford", "Bally", "Barto"],
+    "jefferson-berks": ["Bethel", "Bernville", "Robesonia"], "longswamp-berks": ["Mertztown", "Topton", "Alburtis"],
+    "lower-alsace-berks": ["Reading", "Mount Penn"], "lower-heidelberg-berks": ["Reading", "Wernersville", "Sinking Spring"],
+    "maidencreek-berks": ["Blandon", "Fleetwood", "Leesport"], "marion-berks": ["Womelsdorf", "Stouchsburg"],
+    "maxatawny-berks": ["Kutztown"], "muhlenberg-berks": ["Reading", "Temple", "Laureldale"],
+    "north-heidelberg-berks": ["Robesonia", "Bernville", "Womelsdorf"], "oley-berks": ["Oley"], "ontelaunee-berks": ["Leesport", "Reading"],
+    "penn-berks": ["Bernville", "Leesport"], "perry-berks": ["Shoemakersville", "Hamburg", "Mohrsville"], "pike-berks": ["Oley", "Boyertown"],
+    "richmond-berks": ["Fleetwood", "Virginville"], "robeson-berks": ["Birdsboro", "Mohnton", "Elverson"], "rockland-berks": ["Fleetwood", "Oley"],
+    "ruscombmanor-berks": ["Fleetwood"], "south-heidelberg-berks": ["Wernersville", "Sinking Spring", "Robesonia"],
+    "spring-berks": ["Reading", "Sinking Spring", "Wernersville"], "tilden-berks": ["Hamburg"],
+    "tulpehocken-berks": ["Myerstown", "Bethel", "Rehrersburg"], "union-berks": ["Douglassville", "Birdsboro"],
+    "upper-bern-berks": ["Shartlesville", "Hamburg"], "upper-tulpehocken-berks": ["Strausstown", "Shartlesville"],
+    "washington-berks": ["Barto", "Bally", "Boyertown"], "windsor-berks": ["Hamburg"],
+    "reading": ["Reading"], "mount-penn-berks": ["Reading"], "kenhorst-berks": ["Reading"], "laureldale-berks": ["Reading"],
+    "west-reading-berks": ["Reading"], "wyomissing-berks": ["Wyomissing", "Reading"], "st-lawrence-berks": ["Reading"],
+    "lyons-berks": ["Lyon Station"], "new-morgan-berks": ["Morgantown"], "centerport-berks": ["Centerport", "Shoemakersville"],
+}
+
 SETUP = """
 create table if not exists geocode_cache (
   addr_key text primary key, street text, town text, status text, lat double precision, lon double precision,
@@ -57,8 +83,8 @@ alter table pipeline add column if not exists lon double precision;
 """
 
 
-def key_of(street, town):
-    return re.sub(r"\s+", " ", f"{street}|{town}".lower()).strip()
+def key_of(street, mkey):
+    return re.sub(r"\s+", " ", f"{street}|{mkey}".lower()).strip()
 
 
 def census(rows):
@@ -96,14 +122,14 @@ def main():
         town = (addr.town_names(muni) or [""])[0]
         if not town:
             continue
-        k = key_of(street, town)
+        k = key_of(street, mkey or town)
         project_keys[k].append(pid)
         c = cache.get(k)
         if c and (c[1] == "pinned" or now - c[4] < RETRY_AFTER):
             continue
         fips = COUNTY_FIPS.get(county_of.get(mkey, "").replace(" county", "").strip())
         want[k] = dict(street=street, town=town, parsed=parsed, fips={fips} if fips else DEFAULT_FIPS,
-                       cities=[town.title()] + [c for c in POSTAL.get(town, []) if c.lower() != town])
+                       cities=[town.title()] + [c for c in POSTAL_BY_KEY.get(mkey) or POSTAL.get(town, []) if c.lower() != town])
     print(f"{len(project_keys)} distinct project addresses; {len(want)} to look up now ({len(project_keys) - len(want)} cached)")
 
     keys = list(want)
