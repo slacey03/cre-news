@@ -1,7 +1,7 @@
 // MOCKUP ONLY: a map added to the dashboard. Pins = projects whose exact street address the Census geocoder matched.
 (function () {
-  const COLORS = { commercial: '#1F3A5F', industrial: '#C98A1B', residential: '#2d5a3d', other: '#7A828C' };
-  const LABEL = { commercial: 'Commercial', industrial: 'Industrial', residential: 'Residential', other: 'Institutional / other' };
+  const COLORS = { commercial: '#1F3A5F', industrial: '#C98A1B', residential: '#2d5a3d', zoning: '#7D5BA6', other: '#7A828C' };
+  const LABEL = { commercial: 'Commercial', industrial: 'Industrial', residential: 'Residential', zoning: 'Zoning change', other: 'Institutional / other' };
   const groupOf = c => Object.keys(GROUPS).find(k => GROUPS[k].includes(c)) || 'other';
   const st = document.createElement('style');
   st.textContent = `
@@ -46,7 +46,7 @@
     seg.querySelectorAll('button').forEach(b => b.classList.toggle('on', b.dataset.v === v));
     document.body.classList.toggle('view-map', v === 'map');
     document.body.classList.toggle('list-only', v === 'list' && !isPh());
-    setTimeout(() => map.invalidateSize(), 50);
+    setTimeout(() => { map.invalidateSize(); if (!fitted) draw(); }, 50);
   };
   seg.addEventListener('click', e => { const b = e.target.closest('button'); if (b) setView(b.dataset.v); });
   if (isPh()) setView('list'); else setView('map');
@@ -70,7 +70,7 @@
       m.on('click', () => { if (!isPh()) { selectItem(r.id); setTimeout(() => { window.__markers[r.id] && window.__markers[r.id].openPopup(); document.querySelector('.item.active')?.scrollIntoView({ block: 'nearest' }); }, 30); } });
       layer.addLayer(m); window.__markers[r.id] = m;
     });
-    if (!fitted && pinned.length) { map.fitBounds(L.latLngBounds(pinned.map(r => [r.lat, r.lon])), { padding: [24, 24] }); fitted = true; }
+    if (!fitted && pinned.length && map.getSize().x > 50 && map.getSize().y > 50) { map.fitBounds(L.latLngBounds(pinned.map(r => [r.lat, r.lon])), { padding: [24, 24] }); fitted = true; }
   }
   const orig = renderFeed;
   renderFeed = function () { orig(); draw(); };
