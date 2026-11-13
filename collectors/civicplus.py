@@ -37,7 +37,7 @@ MUNICIPALITIES = [
 KEEP_BOARD = re.compile(r"planning|zoning|council|supervisors|commissioners|redevelop|historic|harb|land develop|subdivision|"
                         r"economic|municipal authority|board of trustees|hearing", re.I)
 SKIP_BOARD = re.compile(r"park|recreation|library|shade tree|pension|police|fire|civil service|audit|emergency|ems\b|"
-                        r"veteran|holiday|environmental advisory|tree|youth|senior|\\barts?\\b", re.I)
+                        r"veteran|holiday|environmental advisory|tree|youth|senior|\barts?\b", re.I)
 
 
 FOUND = {}  # source key -> documents found on its listing page this run (filled by every collector)
