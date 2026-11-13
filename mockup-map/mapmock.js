@@ -16,6 +16,8 @@
   .map-legend { display: flex; flex-wrap: wrap; gap: 6px 18px; padding: 10px 14px; border-top: 1px solid var(--rule); font-size: 12px; color: var(--ink-soft); align-items: center; }
   .map-legend i { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 6px; vertical-align: -1px; border: 1.5px solid #fff; box-shadow: 0 0 0 1px rgba(0,0,0,.15); }
   .map-legend .note { margin-left: auto; color: var(--ink-faded); }
+  .leaflet-control-layers { font-family: 'DM Mono', monospace; font-size: 11px; letter-spacing: .08em; text-transform: uppercase; border-radius: 3px !important; }
+  .leaflet-control-layers-base label { margin: 2px 0; }
   .leaflet-popup-content { margin: 12px 14px; font-family: 'DM Sans', sans-serif; }
   .pp .pt { font-family: 'DM Mono', monospace; font-size: 10px; letter-spacing: .12em; text-transform: uppercase; color: var(--ink-faded); margin-bottom: 4px; }
   .pp b { font-family: 'Playfair Display', serif; font-size: 15px; line-height: 1.25; display: block; margin-bottom: 4px; color: var(--ink); }
@@ -52,9 +54,20 @@
   if (isPh()) setView('list'); else setView('map');
 
   const map = L.map('map', { scrollWheelZoom: false, zoomControl: true }).setView([40.65, -75.43], 10);
-  const ESRI = 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/';
-  L.tileLayer(ESRI + 'World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}', { attribution: 'Tiles &copy; Esri, HERE, Garmin, &copy; OpenStreetMap contributors', maxZoom: 16 }).addTo(map);
-  L.tileLayer(ESRI + 'World_Light_Gray_Reference/MapServer/tile/{z}/{y}/{x}', { maxZoom: 16, pane: 'overlayPane' }).addTo(map);
+  const ESRI = 'https://server.arcgisonline.com/ArcGIS/rest/services/';
+  const tile = (path, o) => L.tileLayer(ESRI + path + '/MapServer/tile/{z}/{y}/{x}', o);
+  map.createPane('labels'); map.getPane('labels').style.zIndex = 450; map.getPane('labels').style.pointerEvents = 'none';
+  const satellite = L.layerGroup([
+    tile('World_Imagery', { attribution: 'Imagery &copy; Esri, Maxar, Earthstar Geographics', maxZoom: 19 }),
+    tile('Reference/World_Transportation', { pane: 'labels', maxZoom: 19, opacity: .8 }),
+    tile('Reference/World_Boundaries_and_Places', { pane: 'labels', maxZoom: 19 }),
+  ]);
+  const streets = L.layerGroup([
+    tile('Canvas/World_Light_Gray_Base', { attribution: 'Tiles &copy; Esri, HERE, Garmin, &copy; OpenStreetMap contributors', maxZoom: 16 }),
+    tile('Canvas/World_Light_Gray_Reference', { pane: 'labels', maxZoom: 16 }),
+  ]);
+  satellite.addTo(map);
+  L.control.layers({ 'Satellite': satellite, 'Map': streets }, null, { position: 'topright', collapsed: false }).addTo(map);
   const layer = L.layerGroup().addTo(map);
   window.__markers = {};
   let fitted = false;
@@ -64,10 +77,10 @@
     document.getElementById('map-count').textContent = `${pinned.length} of ${list.length} projects pinned`;
     pinned.sort((a, b) => (a.id === activeId) - (b.id === activeId)).forEach(r => {
       const g = groupOf(r.category), on = r.id === activeId;
-      const m = L.circleMarker([r.lat, r.lon], { radius: on ? 11 : 7, color: on ? '#111417' : '#fff', weight: on ? 3 : 2, fillColor: COLORS[g], fillOpacity: .95 });
+      const m = L.circleMarker([r.lat, r.lon], { radius: on ? 11 : 8, color: on ? '#FFD84D' : '#fff', weight: on ? 4 : 2.5, fillColor: COLORS[g], fillOpacity: 1 });
       m.bindPopup(`<div class="pp"><div class="pt">${esc(r.municipality)}</div><b>${esc(r.name)}</b><div class="pa">${esc(r.address || '')}</div>
         <div class="pc">${esc(r.category)} · ${esc(r.stage || '')}</div><a href="#" onclick="selectItem('${r.id}');return false">View project →</a></div>`, { maxWidth: 260 });
-      m.on('click', () => { if (!isPh()) { selectItem(r.id); setTimeout(() => { window.__markers[r.id] && window.__markers[r.id].openPopup(); document.querySelector('.item.active')?.scrollIntoView({ block: 'nearest' }); }, 30); } });
+      m.on('click', () => { map.setView([r.lat, r.lon], Math.max(map.getZoom(), 17)); if (!isPh()) { selectItem(r.id); setTimeout(() => { window.__markers[r.id] && window.__markers[r.id].openPopup(); document.querySelector('.item.active')?.scrollIntoView({ block: 'nearest' }); }, 30); } });
       layer.addLayer(m); window.__markers[r.id] = m;
     });
     if (!fitted && pinned.length && map.getSize().x > 50 && map.getSize().y > 50) { map.fitBounds(L.latLngBounds(pinned.map(r => [r.lat, r.lon])), { padding: [24, 24] }); fitted = true; }
