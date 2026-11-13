@@ -71,6 +71,24 @@
   "text": "Zoning Hearing Board",
   "url": "https://mooretownship.org/agendas/zhbagenda.pdf"
  },
+ "agenda_zoning-hearing-board_2026-12-02_9cf2ae7427": {
+  "board": "Zoning Hearing Board",
+  "chars": 1436,
+  "collected_at": "2026-11-13T17:52:49+00:00",
+  "county": "Northampton",
+  "drive_id": null,
+  "kind": "agenda",
+  "meeting_date": "2026-12-02",
+  "municipality": "Moore Township",
+  "ocr": true,
+  "on_home_page": true,
+  "pages": 1,
+  "rolling": true,
+  "sha256": "9cf2ae74278cc83e80fe3b55156b75dcfc6f82497f6ec2552fa895f88f14d278",
+  "source_page": "https://mooretownship.org/",
+  "text": "Zoning Hearing Board",
+  "url": "https://mooretownship.org/agendas/zhbagenda.pdf"
+ },
  "minutes_governing-body_2026-05-07_2c180c3084": {
   "board": "Governing Body",
   "chars": 11735,
