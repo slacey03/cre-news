@@ -214,5 +214,23 @@
   "source_page": "https://www.lehightownship.com/bos_minutes.html",
   "text": "October 13, 2026 7:00 PM Municipal Building",
   "url": "https://www.lehightownship.com/minutes/13oct26.pdf"
+ },
+ "minutes_governing-body_2026-10-27_de1268c17e": {
+  "board": "Governing Body",
+  "chars": 20597,
+  "collected_at": "2026-11-14T16:41:14+00:00",
+  "county": "Northampton",
+  "drive_id": null,
+  "kind": "minutes",
+  "meeting_date": "2026-10-27",
+  "municipality": "Lehigh Township",
+  "ocr": false,
+  "on_home_page": false,
+  "pages": 7,
+  "rolling": false,
+  "sha256": "de1268c17e45a7c1b0b67412c243b0e7c8359ff03491b3b7a37edd9841879588",
+  "source_page": "https://www.lehightownship.com/bos_minutes.html",
+  "text": "October 27, 2026 7:00 PM Municipal Building",
+  "url": "https://www.lehightownship.com/minutes/27oct26.pdf"
  }
 }

@@ -214,5 +214,23 @@
   "source_page": "https://www.macungie.pa.us/council_minutes.html",
   "text": "November 2, 2026",
   "url": "https://www.macungie.pa.us/council/02nov26.pdf"
+ },
+ "minutes_governing-body_2026-11-16_deb96f2979": {
+  "board": "Governing Body",
+  "chars": 172309,
+  "collected_at": "2026-11-14T16:43:39+00:00",
+  "county": "Lehigh",
+  "drive_id": null,
+  "kind": "minutes",
+  "meeting_date": "2026-11-16",
+  "municipality": "Macungie Borough",
+  "ocr": true,
+  "on_home_page": false,
+  "pages": 85,
+  "rolling": false,
+  "sha256": "deb96f297930b9e867fd5cc303e05e6658676ec93e423803581f28178353002c",
+  "source_page": "https://www.macungie.pa.us/council_minutes.html",
+  "text": "November 16, 2026",
+  "url": "https://www.macungie.pa.us/council/16nov26.pdf"
  }
 }

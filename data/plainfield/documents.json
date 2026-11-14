@@ -179,6 +179,24 @@
   "text": "October 22, 2026",
   "url": "https://plainfieldtownship.org/agendas/22oct26-bos-agenda2.pdf"
  },
+ "agenda_governing-body_2026-11-18_424d3d6226": {
+  "board": "Governing Body",
+  "chars": 4046,
+  "collected_at": "2026-11-14T16:41:09+00:00",
+  "county": "Northampton",
+  "drive_id": null,
+  "kind": "agenda",
+  "meeting_date": "2026-11-18",
+  "municipality": "Plainfield Township",
+  "ocr": false,
+  "on_home_page": false,
+  "pages": 3,
+  "rolling": false,
+  "sha256": "424d3d62263f197bcf992dd6e06bdf3f3dfc1cf15356c4c5ef39cc18a8ccde4a",
+  "source_page": "https://plainfieldtownship.org/bos-minutes.html",
+  "text": "November 18, 2026",
+  "url": "https://plainfieldtownship.org/agendas/18nov26-bos-agenda.pdf"
+ },
  "minutes_governing-body_2026-05-06_7905945dc5": {
   "board": "Governing Body",
   "chars": 6662,
