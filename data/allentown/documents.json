@@ -7532,6 +7532,207 @@
   "source_page": "https://allentownpa.legistar.com/MeetingDetail.aspx?LEGID=6156&GID=582&G=8D1E2BEA-B6DB-43D0-87C6-049E237EFA18",
   "url": "https://webapi.legistar.com/v1/allentownpa/events/6156/eventitems"
  },
+ "agenda-items_city-council_2026-11-18_6157": {
+  "agenda_items": [
+   {
+    "action": null,
+    "agenda_note": null,
+    "matter": null,
+    "matter_name": null,
+    "matter_type": null,
+    "minutes_note": null,
+    "number": null,
+    "result": null,
+    "seq": 1,
+    "title": "Roll Call"
+   },
+   {
+    "action": null,
+    "agenda_note": "Council meetings are held on the first and third Wednesday of each month beginning at 6:30 pm in Council Chambers.  For copies of the agenda or meeting announcements, please visit our website at www.allentownpa.gov  or contact the Clerk at Michael.Hanlon@allentownpa.gov to receive an email notice of the meetings.",
+    "matter": null,
+    "matter_name": null,
+    "matter_type": null,
+    "minutes_note": null,
+    "number": null,
+    "result": null,
+    "seq": 15,
+    "title": "ADJOURN"
+   },
+   {
+    "action": null,
+    "agenda_note": null,
+    "matter": "15-8751",
+    "matter_name": null,
+    "matter_type": "Ordinance",
+    "minutes_note": null,
+    "number": null,
+    "result": null,
+    "seq": 3,
+    "title": "Bill 85\r\nAmending the 2026 Capital Fund Budget to provide for an increase of Two Hundred Thousand Dollars ($200,000.00) to fund a completion of a feasibility study evaluating the conversion of select one-way streets to two-way streets. This grant is fully reimbursable and once the project has been completed, the City will be reimbursed."
+   },
+   {
+    "action": null,
+    "agenda_note": null,
+    "matter": null,
+    "matter_name": null,
+    "matter_type": null,
+    "minutes_note": null,
+    "number": null,
+    "result": null,
+    "seq": 5,
+    "title": "Budget Review"
+   },
+   {
+    "action": null,
+    "agenda_note": null,
+    "matter": "15-8788",
+    "matter_name": null,
+    "matter_type": "Ordinance",
+    "minutes_note": null,
+    "number": null,
+    "result": null,
+    "seq": 4,
+    "title": "Bill 95\r\nAmending the 2026 Capital Fund Budget to provide for an increase of One Million Nine Hundred Thousand Dollars ($1,900,000.00) to fund the upgrade of the school zone flashers at Twenty-Six (26) locations throughout the city. This grant is funded through the Transportation Alternatives Set Aside Program (TASA)."
+   },
+   {
+    "action": null,
+    "agenda_note": null,
+    "matter": "15-8786",
+    "matter_name": null,
+    "matter_type": "Ordinance",
+    "minutes_note": null,
+    "number": null,
+    "result": null,
+    "seq": 10,
+    "title": "Bill 86\r\nAn Ordinance of the City of Allentown, County of Lehigh and Commonwealth of Pennsylvania, establishing and adopting the Solid Waste Enterprise Fund Budget for 2027 and amending Article 1131, Municipal Waste Storage, Collection and Disposal by maintaining the Solid Waste Fee at Seven Hundred Forty ($740) Dollars."
+   },
+   {
+    "action": null,
+    "agenda_note": null,
+    "matter": "15-8783",
+    "matter_name": null,
+    "matter_type": "Ordinance",
+    "minutes_note": null,
+    "number": null,
+    "result": null,
+    "seq": 11,
+    "title": "Bill 88\r\nAn Ordinance of the City of Allentown, County of Lehigh, and Commonwealth of Pennsylvania, adopting the Liquid Fuels Fund Budget for 2027."
+   },
+   {
+    "action": null,
+    "agenda_note": null,
+    "matter": "15-8781",
+    "matter_name": null,
+    "matter_type": "Ordinance",
+    "minutes_note": null,
+    "number": null,
+    "result": null,
+    "seq": 12,
+    "title": "Bill 89\r\nAn Ordinance of the City of Allentown, County of Lehigh, and Commonwealth of Pennsylvania, establishing the General Fund, Administrative Order Fund, Risk Management Fund, Debt Service Fund, Equipment Fund, Golf Fund, and Housing Fund Budgets for 2027."
+   },
+   {
+    "action": null,
+    "agenda_note": null,
+    "matter": "15-8787",
+    "matter_name": null,
+    "matter_type": "Ordinance",
+    "minutes_note": null,
+    "number": null,
+    "result": null,
+    "seq": 13,
+    "title": "Bill 90\r\nAn Ordinance of the City of Allentown, County of Lehigh and Commonwealth of Pennsylvania, establishing and adopting the Stormwater Fund Budget for 2027 and amending Article 393.15 \u2013 Stormwater Utility Fee by maintaining the Stormwater Utility Fee at Twenty ($20) Dollars per Five Hundred (500) square feet of impervious surface."
+   },
+   {
+    "action": null,
+    "agenda_note": null,
+    "matter": "15-8808",
+    "matter_name": null,
+    "matter_type": "Ordinance",
+    "minutes_note": null,
+    "number": null,
+    "result": null,
+    "seq": 14,
+    "title": "Bill 97\r\nAn Ordinance of the City of Allentown, County of Lehigh, and Commonwealth of Pennsylvania, adopting the Capital Projects Fund Budget for 2027."
+   },
+   {
+    "action": null,
+    "agenda_note": null,
+    "matter": null,
+    "matter_name": null,
+    "matter_type": null,
+    "minutes_note": null,
+    "number": null,
+    "result": null,
+    "seq": 9,
+    "title": "Bills under review:"
+   },
+   {
+    "action": null,
+    "agenda_note": null,
+    "matter": "15-8869",
+    "matter_name": null,
+    "matter_type": "Discussion",
+    "minutes_note": null,
+    "number": null,
+    "result": null,
+    "seq": 6,
+    "title": "Public Works Information"
+   },
+   {
+    "action": null,
+    "agenda_note": null,
+    "matter": "15-8804",
+    "matter_name": null,
+    "matter_type": "Discussion",
+    "minutes_note": null,
+    "number": null,
+    "result": null,
+    "seq": 8,
+    "title": "Budget Materials"
+   },
+   {
+    "action": null,
+    "agenda_note": null,
+    "matter": "15-8779",
+    "matter_name": null,
+    "matter_type": "Discussion",
+    "minutes_note": null,
+    "number": null,
+    "result": null,
+    "seq": 7,
+    "title": "Salaries"
+   },
+   {
+    "action": null,
+    "agenda_note": null,
+    "matter": null,
+    "matter_name": null,
+    "matter_type": null,
+    "minutes_note": null,
+    "number": null,
+    "result": null,
+    "seq": 2,
+    "title": "Bills for review and to be forwarded to the council meeting that follows."
+   }
+  ],
+  "agenda_pdf": "https://allentownpa.legistar1.com/allentownpa/meetings/2026/11/6157_A_City_Council_26-11-18_Meeting_Agenda.pdf",
+  "agenda_status": "Final",
+  "board": "City Council",
+  "chars": 2510,
+  "collected_at": "2026-11-17T19:18:54+00:00",
+  "county": "Lehigh",
+  "event_id": 6157,
+  "kind": "agenda items",
+  "meeting_date": "2026-11-18",
+  "meeting_time": "5:30 PM",
+  "minutes_pdf": null,
+  "minutes_status": "Draft",
+  "modified_utc": "2026-11-17T16:50:39.88",
+  "municipality": "City of Allentown",
+  "sha256": "bfbb1a663db9fb998cbafbf57184ef201d601fdb4e9305a440f9589faa17878b",
+  "source_page": "https://allentownpa.legistar.com/MeetingDetail.aspx?LEGID=6157&GID=582&G=8D1E2BEA-B6DB-43D0-87C6-049E237EFA18",
+  "url": "https://webapi.legistar.com/v1/allentownpa/events/6157/eventitems"
+ },
  "agenda-items_city-council_2026-11-18_6172": {
   "agenda_items": [
    {
@@ -7651,7 +7852,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 15,
+    "seq": 16,
     "title": "ORDINANCES FOR FINAL PASSAGE (To be Voted On):"
    },
    {
@@ -7663,7 +7864,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 21,
+    "seq": 22,
     "title": "CONSENT AGENDA"
    },
    {
@@ -7675,7 +7876,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 23,
+    "seq": 24,
     "title": "RESOLUTIONS FOR FINAL PASSAGE (To be Voted On):"
    },
    {
@@ -7687,7 +7888,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 33,
+    "seq": 34,
     "title": "ORDINANCES FOR INTRODUCTION (To be referred to Committee with public comment prior to referral)"
    },
    {
@@ -7699,7 +7900,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 38,
+    "seq": 39,
     "title": "RESOLUTIONS FOR INTRODUCTION (Can be voted on or Referred to Committee):"
    },
    {
@@ -7711,7 +7912,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 39,
+    "seq": 40,
     "title": "NEW BUSINESS"
    },
    {
@@ -7723,7 +7924,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 40,
+    "seq": 41,
     "title": "GOOD AND WELFARE"
    },
    {
@@ -7735,7 +7936,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 41,
+    "seq": 42,
     "title": "ADJOURN"
    },
    {
@@ -7771,7 +7972,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 31,
+    "seq": 32,
     "title": "R167\r\nApproves the submission of the formal application for the local share account grant on behalf of Fine Feather Foundation to support the establishment of a new location at 302 N. 5th Street, Allentown, PA including necessary building improvements and renovations, and to secure a five-year lease with potential to own."
    },
    {
@@ -7783,7 +7984,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 24,
+    "seq": 25,
     "title": "R160\r\nApproves the submission of the formal application for the local share account grant on behalf of The Jewish Community Center of the Lehigh Valley to support the upgrade of their building infrastructure at 702 N. 22nd Street, Allentown, PA  18104."
    },
    {
@@ -7795,7 +7996,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 25,
+    "seq": 26,
     "title": "R161\r\nApproves the submission of the formal application for the local share account grant on behalf of Lehigh Valley Health Network to support the purchase of educational and clinical training equipment for the new Sidney Kimmel Medical College located at 702 Hamilton Street, Allentown, PA, 18101."
    },
    {
@@ -7807,7 +8008,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 26,
+    "seq": 27,
     "title": "R162\r\nApproves the submission of the formal application for the local share account grant on behalf of West Park Civic Association to support renovation of the historic park bandshell at 1524 W. Linden Street, Allentown, PA 18102 (between 15th and 17th Streets)."
    },
    {
@@ -7819,7 +8020,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 27,
+    "seq": 28,
     "title": "R163\r\nAuthorizes the submission of a Formal Application for the Local Share Account (LSA) Grant for funding from the Pennsylvania Department of Community and Economic Development Services in the amount of One Million Dollars ($1,000,000) that will support the rehabilitation of the Trout Creek sewer shed furthering the City\u2019s objective to reduce inflow and rain derived infiltration."
    },
    {
@@ -7831,7 +8032,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 28,
+    "seq": 29,
     "title": "R164\r\nAuthorizes the submission of a Formal Application for the Local Share Account (LSA) Grant for funding from the Pennsylvania Department of Community and Economic Development Services in the amount of Forty-Seven Thousand Eight Hundred Fifty-Three Dollars and Thirty cents ($47,853.30) for the design and construction of a trench training simulator that will provide the Allentown Fire Department the ability to train for and respond to additional hazards and emergencies."
    },
    {
@@ -7843,7 +8044,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 29,
+    "seq": 30,
     "title": "R165\r\nApproves the submission of the formal application for the local share account grant on behalf of Phoebe Ministries to support construction at Phoebe Apartments, located at 1901 W. Linden St. Allentown, PA  18104."
    },
    {
@@ -7855,7 +8056,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 30,
+    "seq": 31,
     "title": "R166\r\nApproves the submission of the formal application for the local share account grant on behalf of Allentown Symphony Association, Inc. to support the restoration and repointing of the brick and stone masonry at Miller Symphony Hall on 23 N. 6th Street, Allentown, PA  18101."
    },
    {
@@ -7867,7 +8068,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 34,
+    "seq": 35,
     "title": "Bill 98\r\nAmending the 2026 Fire Department budget to provide for a supplemental appropriation of Nine Hundred Seven Thousand Six Hundred Twenty-Five ($907,625.00) Dollars to fund the replacement of all Self-Contained Breathing Apparatus (SCBA) equipment for the Allentown Fire Department as part of the FEMA U.S. Department of Homeland Security Assistance to Firefighters Grant the City was awarded. This grant requires match funding."
    },
    {
@@ -7879,7 +8080,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 35,
+    "seq": 36,
     "title": "Bill 99\r\nAmending the 2026 Fire Department budget to provide for a supplemental appropriation of Three Hundred Seventy-Five Thousand ($375,000.00) Dollars from the Commonwealth Financing Authority through a Statewide Local Share Account Grant. These funds will be utilized to purchase a bomb robot that will improve mission operation capabilities."
    },
    {
@@ -7903,7 +8104,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 19,
+    "seq": 20,
     "title": "Bill 85\r\nAmending the 2026 Capital Fund Budget to provide for an increase of Two Hundred Thousand Dollars ($200,000.00) to fund a completion of a feasibility study evaluating the conversion of select one-way streets to two-way streets. This grant is fully reimbursable and once the project has been completed, the City will be reimbursed."
    },
    {
@@ -7915,7 +8116,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 18,
+    "seq": 19,
     "title": "Bill 84\r\nAmending City Code Chapter 455, Property Maintenance Code, Article II, Licensing Residential Rental Units, to establish a fee for additional systematic inspections resulting from substantiated code violations; and amending Article III, Inspection of Residential and Commercial Properties, to establish a single inspection cancellation and no-show fee for mixed-use properties."
    },
    {
@@ -7927,7 +8128,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 17,
+    "seq": 18,
     "title": "Bill 82\r\nAmending the Allentown City Code by adding Chapter 653, Workforce Housing, to promote the development of workforce housing within the City of Allentown by establishing affordability requirements for certain multifamily rental housing developments involving ten (10) or more dwelling units that receive tax abatements under the City's Local Economic Revitalization Tax Assistance (LERTA) Program, receive at least $250,000 in City Housing Trust Fund funding, or acquire or utilize publicly owned or controlled land, subject to certain exceptions."
    },
    {
@@ -7939,7 +8140,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 22,
+    "seq": 23,
     "title": "R159\r\nCity Council does hereby give advice and consent to the following reappointments and appointments to the Board of Parks and Recreation, Council of Youth and Property Rehabilitation Board of Appeals submitted to this Council by Mayor Matt Tuerk."
    },
    {
@@ -7951,7 +8152,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 16,
+    "seq": 17,
     "title": "Bill 45\r\nAmends Chapter 19, Civil Service Board, of the Codified Ordinances, titled \u201cRules of the City of Allentown Civil Service Board Governing the Appointment and Promotion of Police Officers and Firefighters\u201d by removing \u201cFailed to register with the Selective Service System\u201d as a disqualifier for the Civil Service Test. \r\n\r\nThe proposed Bill approves the City of Allentown Police and Fire Civil Service Board\u2019s repeal of its Rules that automatically disqualify an applicant for police officer or firefighter from examination for or selection from an eligibility list if the applicant has failed to register with the Selective Service System. The Bill modernizes the Board\u2019s Rules and harmonizes the Rules with both Pennsylvania law and recently enacted Federal law"
    },
    {
@@ -7963,7 +8164,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 32,
+    "seq": 33,
     "title": "R168\r\nApproves Two Transfers \u2013 $30,000.00 Traffic Planning & Control; $26,351.69 Park Maintenance."
    },
    {
@@ -7975,7 +8176,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 36,
+    "seq": 37,
     "title": "Bill 100\r\nAmending the 2026 Capital Fund Budget to provide for an increase of Four Hundred Eighty-Six Thousand and Four Hundred Ninety and 00/100 ($486,490.00) Dollars to the newly created capital account for signal modernization to the intersection of 14th Street and Tilghman Street as part of the Green Light Go (GLG) Grant the City was awarded. This grant is partially reimbursable and requires match funding."
    },
    {
@@ -7987,7 +8188,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 37,
+    "seq": 38,
     "title": "Bill 101\r\nAmending the 2026 Capital Fund Budget to provide for an increase of Seven Hundred Nineteen Thousand and 00/100 Dollars ($719,000.00) to fund the installation of high-efficiency LED pedestrian lighting citywide, improving nighttime visibility and safety while reducing energy use. This is grant funded through the Carbon Reduction Funds with no match required."
    },
    {
@@ -8023,7 +8224,7 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 42,
+    "seq": 43,
     "title": "Reference Materials:\r\n     Council Rules\r\n     Procurement Code\r\n     Ethics Code"
    },
    {
@@ -8035,15 +8236,27 @@
     "minutes_note": null,
     "number": null,
     "result": null,
-    "seq": 20,
+    "seq": 21,
     "title": "Bill 95\r\nAmending the 2026 Capital Fund Budget to provide for an increase of One Million Nine Hundred Thousand Dollars ($1,900,000.00) to fund the upgrade of the school zone flashers at Twenty-Six (26) locations throughout the city. This grant is funded through the Transportation Alternatives Set Aside Program (TASA)."
+   },
+   {
+    "action": null,
+    "agenda_note": null,
+    "matter": "15-8868",
+    "matter_name": null,
+    "matter_type": "Discussion",
+    "minutes_note": null,
+    "number": null,
+    "result": null,
+    "seq": 15,
+    "title": "Controller's Report"
    }
   ],
   "agenda_pdf": "https://allentownpa.legistar1.com/allentownpa/meetings/2026/11/6172_A_City_Council_26-11-18_Meeting_Agenda.pdf",
   "agenda_status": "Final",
   "board": "City Council",
-  "chars": 9729,
-  "collected_at": "2026-11-16T20:38:24+00:00",
+  "chars": 9757,
+  "collected_at": "2026-11-17T19:18:59+00:00",
   "county": "Lehigh",
   "event_id": 6172,
   "kind": "agenda items",
@@ -8051,9 +8264,9 @@
   "meeting_time": "6:30 PM",
   "minutes_pdf": null,
   "minutes_status": "Draft",
-  "modified_utc": "2026-11-16T17:52:39.853",
+  "modified_utc": "2026-11-17T15:54:57.433",
   "municipality": "City of Allentown",
-  "sha256": "90ac0d181ba2461d99e1d84424a0d429189a0cbb2fc92783a3398d0af68c8d41",
+  "sha256": "fb6f6346db5cf22a16b2cd6eb66ef25421623f86606e7cd84fb104cd422f0c19",
   "source_page": "https://allentownpa.legistar.com/MeetingDetail.aspx?LEGID=6172&GID=582&G=8D1E2BEA-B6DB-43D0-87C6-049E237EFA18",
   "url": "https://webapi.legistar.com/v1/allentownpa/events/6172/eventitems"
  },

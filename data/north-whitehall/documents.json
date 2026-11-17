@@ -203,6 +203,23 @@
   "text": "22 Sep 2026 pc.pdf",
   "url": "https://www.northwhitehall.org/Documents/Agenda and Minutes/Planning Commission/2026/22 Sep 2026 pc.pdf?t=202611121124280"
  },
+ "meeting document_planning-commission_2026-11-24_620beb5496": {
+  "board": "Planning Commission",
+  "chars": 1987,
+  "collected_at": "2026-11-17T19:17:08+00:00",
+  "context": "24 Nov 2026(CANCELLED)",
+  "county": "Lehigh",
+  "kind": "meeting document",
+  "meeting_date": "2026-11-24",
+  "municipality": "North Whitehall Township",
+  "ocr": false,
+  "pages": 2,
+  "rolling": false,
+  "sha256": "620beb54963be5eaec344531cc24f88155795f0428af50b82c8df62808f7e479",
+  "source_page": "https://www.northwhitehall.org/boards_commissions/agendas_and_minutes_.php",
+  "text": "Nov 24 2026.pdf",
+  "url": "https://www.northwhitehall.org/Documents/Agenda and Minutes/Planning Commission/2026/Nov 24 2026.pdf?t=202611171318150"
+ },
  "minutes_governing-body_2026-07-13_d80712ab60": {
   "board": "Governing Body",
   "chars": 13152,

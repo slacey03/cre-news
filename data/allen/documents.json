@@ -88,5 +88,23 @@
   "source_page": "https://www.allentownship.org/bos-minutes.html",
   "text": "September 22, 2026",
   "url": "https://www.allentownship.org/minutes/22sep26.pdf"
+ },
+ "minutes_governing-body_2026-10-13_c658386547": {
+  "board": "Governing Body",
+  "chars": 7415,
+  "collected_at": "2026-11-17T19:15:34+00:00",
+  "county": "Northampton",
+  "drive_id": null,
+  "kind": "minutes",
+  "meeting_date": "2026-10-13",
+  "municipality": "Allen Township",
+  "ocr": false,
+  "on_home_page": false,
+  "pages": 3,
+  "rolling": false,
+  "sha256": "c658386547ca86db0fe834f5a226162903b962bf1a3446abc362ada5db2b070e",
+  "source_page": "https://www.allentownship.org/bos-minutes.html",
+  "text": "October 13, 2026",
+  "url": "https://www.allentownship.org/minutes/13oct26.pdf"
  }
 }

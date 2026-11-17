@@ -649,6 +649,21 @@
   "title": "Board of Supervisors Minutes",
   "url": "https://www.forkstownship.org/AgendaCenter/ViewFile/Minutes/_10052026-359"
  },
+ "minutes_10082026-360": {
+  "board": "Planning Commission",
+  "chars": 5808,
+  "collected_at": "2026-11-17T19:13:45+00:00",
+  "county": "Northampton",
+  "doc_id": "minutes_10082026-360",
+  "kind": "minutes",
+  "meeting_date": "2026-10-08",
+  "municipality": "Forks Township",
+  "needs_ocr": true,
+  "ocr": true,
+  "pages": 4,
+  "title": "Planning Commission Minutes",
+  "url": "https://www.forkstownship.org/AgendaCenter/ViewFile/Minutes/_10082026-360"
+ },
  "minutes_10132026-364": {
   "board": "Board of Supervisors",
   "chars": 4706,
