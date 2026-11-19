@@ -1,0 +1,19 @@
+name: Members
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["db/access.sql", "tools/members.py"]
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install "psycopg[binary]"
+      - name: Apply access rules, list members, self-test the checks
+        run: python tools/members.py
+        env:
+          SUPABASE_DB_URL: ${{ secrets.SUPABASE_DB_URL }}

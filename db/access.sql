@@ -5,16 +5,22 @@ create table if not exists members (
   email_hash text primary key,          -- sha256 of the lower-cased email (keeps emails out of the public repo)
   note text,
   added_at timestamptz default now());
+alter table members add column if not exists expires_at timestamptz;   -- null = no end date
 alter table members enable row level security;
 insert into members (email_hash, note) values
   ('05eb1d5eeff45c863f1b9a25799520d8c0a3c630167b4c47bc710e9c0e496b52', 'owner'),
   ('75a70b0ffc526998adbe6e8f36e242f01b3bfa354d5708431383ea2067dddfc9', 'member (added by owner 2026-11-12)')
   on conflict (email_hash) do nothing;
+-- complimentary access through Dec 31, 2026 (Eastern); ends on its own
+insert into members (email_hash, note, expires_at) values
+  ('8cee59bb01179abc8441dffb72d7dcd8e17730bb0ee83129343cab693eab0cc3', 'complimentary through 2026-12-31 (added by owner 2026-11-19)', '2027-01-01 00:00 America/New_York')
+  on conflict (email_hash) do update set note = excluded.note, expires_at = excluded.expires_at;
 
 create or replace function public.is_member() returns boolean
   language sql stable security definer set search_path = public as $$
   select exists (select 1 from members
-                 where email_hash = encode(sha256(convert_to(lower(coalesce(auth.jwt() ->> 'email', '')), 'UTF8')), 'hex'))
+                 where email_hash = encode(sha256(convert_to(lower(coalesce(auth.jwt() ->> 'email', '')), 'UTF8')), 'hex')
+                   and (expires_at is null or expires_at > now()))
 $$;
 revoke all on function public.is_member() from public;
 grant execute on function public.is_member() to anon, authenticated;
@@ -47,7 +53,8 @@ grant select on public.pipeline_teaser, public.pipeline_stats to anon, authentic
 create or replace function public.can_login(email text) returns boolean
   language sql stable security definer set search_path = public as $$
   select exists (select 1 from members
-                 where email_hash = encode(sha256(convert_to(lower(trim(coalesce(email, ''))), 'UTF8')), 'hex'))
+                 where email_hash = encode(sha256(convert_to(lower(trim(coalesce(email, ''))), 'UTF8')), 'hex')
+                   and (expires_at is null or expires_at > now()))
 $$;
 revoke all on function public.can_login(text) from public;
 grant execute on function public.can_login(text) to anon, authenticated;
