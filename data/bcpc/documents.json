@@ -359,5 +359,24 @@
   "source_page": "https://www.berkspa.gov/Departments/Planning-Commission/Subdivision",
   "title": "2026-08-Aug-to-Sep-Reports.pdf",
   "url": "https://www.berkspa.gov/getmedia/2255461b-0b00-476e-b7a2-0392acb47f61/2026-08-Aug-to-Sep-Reports.pdf"
+ },
+ "report_2026-10-27_dbfd4d1c32_p1": {
+  "board": "Berks County Planning Commission",
+  "chars": 15222,
+  "collected_at": "2026-11-19T19:09:38+00:00",
+  "county": "Berks",
+  "file_sha256": "dbfd4d1c3243b8c3f29e97c58dc220de6bc4489e3755850950b8d5ee4214da51",
+  "kind": "report",
+  "meeting_date": "2026-10-27",
+  "municipality": "Berks County Planning Commission",
+  "ocr": false,
+  "pages": 16,
+  "part": 1,
+  "parts": 1,
+  "regional": true,
+  "sha256": "f94ca8f49248c30dca9063ccd91416a9fbec3f529f241f06d4f20ed9d4124e04",
+  "source_page": "https://www.berkspa.gov/Departments/Planning-Commission/Subdivision",
+  "title": "2026-09-Sep-to-Oct-Reports.pdf",
+  "url": "https://www.berkspa.gov/getmedia/eafcedeb-e96d-456c-bc52-1dd382cd798d/2026-09-Sep-to-Oct-Reports.pdf"
  }
 }

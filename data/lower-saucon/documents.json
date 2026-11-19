@@ -67,6 +67,23 @@
   "text": "Current Agenda",
   "url": "https://www.lowersaucontownship.org/Documents/Government/Zoning Department/Agendas/ZHB - 26-11-23 - Packet.pdf"
  },
+ "meeting document_governing-body_2026-10-14_e9a251813e": {
+  "board": "Governing Body",
+  "chars": 9790,
+  "collected_at": "2026-11-19T19:05:38+00:00",
+  "context": "10/14/2026 document seq 0.00 Special Meeting/6:30 p.m.",
+  "county": "Northampton",
+  "kind": "meeting document",
+  "meeting_date": "2026-10-14",
+  "municipality": "Lower Saucon Township",
+  "ocr": false,
+  "pages": 6,
+  "rolling": false,
+  "sha256": "e9a251813e4b2600e1d9c7ccaf01f24701026fda89989c107da7167530b1e5e8",
+  "source_page": "https://www.lowersaucontownship.org/government/council/agendas_and_minutes.php",
+  "text": "10/14/2026",
+  "url": "https://www.lowersaucontownship.org/Documents/Government/Council/Minutes/2026/10-14-2026JF Special Meeting Council Approved for Website.pdf?t=202611182005580"
+ },
  "minutes_governing-body_2026-05-20_8e87bedf9c": {
   "board": "Governing Body",
   "chars": 66226,
@@ -219,6 +236,23 @@
   "source_page": "https://www.lowersaucontownship.org/government/council/agendas_and_minutes.php",
   "text": "10/21/2026",
   "url": "https://www.lowersaucontownship.org/Documents/Government/Council/Minutes/2026/10-21-2026JF Minutes for Council Approved for Website.pdf?t=202611050904160"
+ },
+ "minutes_governing-body_2026-11-04_ccc12f7aac": {
+  "board": "Governing Body",
+  "chars": 43552,
+  "collected_at": "2026-11-19T19:05:43+00:00",
+  "context": "11/04/2026 document seq 5.00 Regular Meeting/6:30 PM",
+  "county": "Northampton",
+  "kind": "minutes",
+  "meeting_date": "2026-11-04",
+  "municipality": "Lower Saucon Township",
+  "ocr": false,
+  "pages": 15,
+  "rolling": false,
+  "sha256": "ccc12f7aacb2c085fdec6933c8d421bc08c9f3b257ef5f78d102c08d11fda2e9",
+  "source_page": "https://www.lowersaucontownship.org/government/council/agendas_and_minutes.php",
+  "text": "11/04/2026",
+  "url": "https://www.lowersaucontownship.org/Documents/Government/Council/Minutes/2026/11-04-2026JF Minutes for Council Approved for Website.pdf?t=202611182005070"
  },
  "minutes_planning-commission_2026-06-25_97288dc4c3": {
   "board": "Planning Commission",
