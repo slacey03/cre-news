@@ -128,6 +128,7 @@
   .colophon { margin-top: 48px; padding: 28px 0; border-top: 1px solid var(--rule); font-family: 'DM Mono', monospace; font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-faded); display: flex; justify-content: space-between; flex-wrap: wrap; gap: 12px; }
   .colophon a { color: var(--primary); text-decoration: none; }
   .colophon a:hover { text-decoration: underline; }
+  .colophon a.mail { text-transform: none; letter-spacing: 0.02em; font-size: 12px; }
 
   @media (max-width: 960px) {
     .story-grid { grid-template-columns: 1fr; gap: 36px; }
@@ -225,13 +226,13 @@
         <div class="founder-name">Get in touch</div>
         <div class="founder-role">Questions, partnerships or press</div>
       </div>
-      <a class="btn" href="/waitlist" id="contact-btn" data-u="sml003" data-d="outlook.com">Email us →</a>
+      <a class="btn" href="/waitlist" id="contact-btn" data-u="hello" data-d="zoningtrack.com" data-show>Email us →</a>
     </div>
   </section>
 
   <div class="colophon">
     <span>© 2026 ZoningTrack · Pennsylvania</span>
-    <span><a href="/waitlist" class="contact-link" data-u="sml003" data-d="outlook.com">Contact us →</a></span>
+    <span><a href="/about" class="mail" data-u="hello" data-d="zoningtrack.com" data-show>Email us</a></span>
     <span>Powered by ZoningTrack</span>
   </div>
 </div>
@@ -241,7 +242,7 @@
 document.querySelectorAll('[data-u][data-d]').forEach(function (a) {
   var e = a.getAttribute('data-u') + '@' + a.getAttribute('data-d');
   a.href = 'mailto:' + e + '?subject=' + encodeURIComponent('ZoningTrack inquiry');
-  if (a.id === 'contact-btn') a.textContent = e;
+  if (a.hasAttribute('data-show')) a.textContent = e;
 });
 </script>
 </body>
