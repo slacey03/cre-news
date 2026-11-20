@@ -193,5 +193,20 @@
   "pages": 8,
   "title": "Borough Council Minutes",
   "url": "https://www.boyertownborough.org/AgendaCenter/ViewFile/Minutes/_10052026-177"
+ },
+ "minutes_10222026-178": {
+  "board": "Planning Commission",
+  "chars": 3704,
+  "collected_at": "2026-11-20T18:43:12+00:00",
+  "county": "Berks",
+  "doc_id": "minutes_10222026-178",
+  "kind": "minutes",
+  "meeting_date": "2026-10-22",
+  "municipality": "Boyertown Borough",
+  "needs_ocr": false,
+  "ocr": false,
+  "pages": 2,
+  "title": "Planning Commission Minutes",
+  "url": "https://www.boyertownborough.org/AgendaCenter/ViewFile/Minutes/_10222026-178"
  }
 }

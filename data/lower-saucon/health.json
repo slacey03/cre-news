@@ -103,5 +103,12 @@
 "found": 20,
 "new": 2,
 "error": null
+},
+{
+"run_at": "2026-11-20T18:46:28+00:00",
+"status": "ok",
+"found": 20,
+"new": 0,
+"error": null
 }
 ]

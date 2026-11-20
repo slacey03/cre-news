@@ -11051,6 +11051,135 @@
   "source_page": "https://allentownpa.legistar.com/MeetingDetail.aspx?LEGID=6161&GID=582&G=8D1E2BEA-B6DB-43D0-87C6-049E237EFA18",
   "url": "https://webapi.legistar.com/v1/allentownpa/events/6161/eventitems"
  },
+ "agenda-items_planning-commission_2026-12-08_6183": {
+  "agenda_items": [
+   {
+    "action": null,
+    "agenda_note": null,
+    "matter": null,
+    "matter_name": null,
+    "matter_type": null,
+    "minutes_note": null,
+    "number": null,
+    "result": null,
+    "seq": 1,
+    "title": "Call To Order"
+   },
+   {
+    "action": null,
+    "agenda_note": null,
+    "matter": null,
+    "matter_name": null,
+    "matter_type": null,
+    "minutes_note": null,
+    "number": null,
+    "result": null,
+    "seq": 4,
+    "title": "2. Project: 401 N 14th St\r\n     Applicant: Warehouse Holding Company \r\n     Location: 401 N 14th St\r\n     Description: Adaptive Reuse to Convert Vacant Warehouse into 8 Residential Dwelling\r\n                           Units. \r\n     File: 26-02 SP/ ZPM-2026-00282"
+   },
+   {
+    "action": null,
+    "agenda_note": null,
+    "matter": null,
+    "matter_name": null,
+    "matter_type": null,
+    "minutes_note": null,
+    "number": null,
+    "result": null,
+    "seq": 2,
+    "title": "1. Approval of Minutes from the Public Meeting of November 10, 2026"
+   },
+   {
+    "action": null,
+    "agenda_note": null,
+    "matter": null,
+    "matter_name": null,
+    "matter_type": null,
+    "minutes_note": null,
+    "number": null,
+    "result": null,
+    "seq": 3,
+    "title": "Adaptive Re-use"
+   },
+   {
+    "action": null,
+    "agenda_note": null,
+    "matter": null,
+    "matter_name": null,
+    "matter_type": null,
+    "minutes_note": null,
+    "number": null,
+    "result": null,
+    "seq": 5,
+    "title": "Administrative Matters"
+   },
+   {
+    "action": null,
+    "agenda_note": null,
+    "matter": null,
+    "matter_name": null,
+    "matter_type": null,
+    "minutes_note": null,
+    "number": null,
+    "result": null,
+    "seq": 6,
+    "title": "3. Adoption of the 2027 Planning Commission Meeting Calendar\r\n4. 2027 ACPC Workshop Date & Time"
+   },
+   {
+    "action": null,
+    "agenda_note": null,
+    "matter": null,
+    "matter_name": null,
+    "matter_type": null,
+    "minutes_note": null,
+    "number": null,
+    "result": null,
+    "seq": 7,
+    "title": "Public Comment on Non-Agenda Items"
+   },
+   {
+    "action": null,
+    "agenda_note": null,
+    "matter": null,
+    "matter_name": null,
+    "matter_type": null,
+    "minutes_note": null,
+    "number": null,
+    "result": null,
+    "seq": 8,
+    "title": "Adjournment"
+   },
+   {
+    "action": null,
+    "agenda_note": null,
+    "matter": null,
+    "matter_name": null,
+    "matter_type": null,
+    "minutes_note": null,
+    "number": null,
+    "result": null,
+    "seq": 9,
+    "title": "Teams Meeting Link: https://rebrand.ly/Dec-8-26\r\n\r\n                                      !! APPLICANTS ARE REQUIRED TO ATTEND !!\r\n                                              ANY QUESTIONS? CALL 610-437-7611\r\n\r\n                                Any updates or revisions to the agenda may be found at:\r\n                                           https://allentown.legistar.com/Calendar.aspx\r\n                                                 AGENDA IS SUBJECT TO CHANGE"
+   }
+  ],
+  "agenda_pdf": "https://allentownpa.legistar1.com/allentownpa/meetings/2026/12/6183_A_Planning_Commission_26-12-08_Meeting_Agenda.pdf",
+  "agenda_status": "Final",
+  "board": "Planning Commission",
+  "chars": 1056,
+  "collected_at": "2026-11-20T18:48:09+00:00",
+  "county": "Lehigh",
+  "event_id": 6183,
+  "kind": "agenda items",
+  "meeting_date": "2026-12-08",
+  "meeting_time": "12:15 PM",
+  "minutes_pdf": null,
+  "minutes_status": "Draft",
+  "modified_utc": "2026-11-20T15:57:02.273",
+  "municipality": "City of Allentown",
+  "sha256": "d59d6ae15b36cae96b35b42cb935c605007f439dea9f8ae1734f1b8de2824ab9",
+  "source_page": "https://allentownpa.legistar.com/MeetingDetail.aspx?LEGID=6183&GID=582&G=8D1E2BEA-B6DB-43D0-87C6-049E237EFA18",
+  "url": "https://webapi.legistar.com/v1/allentownpa/events/6183/eventitems"
+ },
  "agenda-items_redevelopment-authority_2026-05-13_5006": {
   "agenda_items": [
    {

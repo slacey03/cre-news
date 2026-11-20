@@ -17,6 +17,24 @@
   "text": "click here",
   "url": "https://www.lehightownship.com/bosagenda.pdf"
  },
+ "agenda_governing-body_2026-11-24_46c229a7f4": {
+  "board": "Governing Body",
+  "chars": 460,
+  "collected_at": "2026-11-20T18:45:36+00:00",
+  "county": "Northampton",
+  "drive_id": null,
+  "kind": "agenda",
+  "meeting_date": "2026-11-24",
+  "municipality": "Lehigh Township",
+  "ocr": false,
+  "on_home_page": false,
+  "pages": 1,
+  "rolling": true,
+  "sha256": "46c229a7f44e31fd34c9f58a6a66506b57b483414f4c523d26488b49203966f8",
+  "source_page": "https://www.lehightownship.com/bos_minutes.html",
+  "text": "click here",
+  "url": "https://www.lehightownship.com/bosagenda.pdf"
+ },
  "minutes_governing-body_2026-05-12_bf8549d857": {
   "board": "Governing Body",
   "chars": 28487,
