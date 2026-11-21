@@ -340,5 +340,41 @@
   "source_page": "https://plainfieldtownship.org/bos-minutes.html",
   "text": "24sep26.pdf",
   "url": "https://plainfieldtownship.org/minutes/24sep26.pdf"
+ },
+ "minutes_governing-body_2026-10-14_c2df04eb87": {
+  "board": "Governing Body",
+  "chars": 25522,
+  "collected_at": "2026-11-21T17:41:13+00:00",
+  "county": "Northampton",
+  "drive_id": null,
+  "kind": "minutes",
+  "meeting_date": "2026-10-14",
+  "municipality": "Plainfield Township",
+  "ocr": true,
+  "on_home_page": false,
+  "pages": 12,
+  "rolling": false,
+  "sha256": "c2df04eb8745442e7c44a865d416cef22d60f6d844eb5cb3f42132c03d5e2853",
+  "source_page": "https://plainfieldtownship.org/bos-minutes.html",
+  "text": "14oct26.pdf",
+  "url": "https://plainfieldtownship.org/minutes/14oct26.pdf"
+ },
+ "minutes_governing-body_2026-10-22_2042e1aa17": {
+  "board": "Governing Body",
+  "chars": 15203,
+  "collected_at": "2026-11-21T17:41:30+00:00",
+  "county": "Northampton",
+  "drive_id": null,
+  "kind": "minutes",
+  "meeting_date": "2026-10-22",
+  "municipality": "Plainfield Township",
+  "ocr": true,
+  "on_home_page": false,
+  "pages": 8,
+  "rolling": false,
+  "sha256": "2042e1aa1772c49e7bb81872951a91f137f9edb2942f7ed2110959ca46674555",
+  "source_page": "https://plainfieldtownship.org/bos-minutes.html",
+  "text": "22oct26.pdf",
+  "url": "https://plainfieldtownship.org/minutes/22oct26.pdf"
  }
 }
