@@ -84,6 +84,23 @@
   "text": "Current Agenda",
   "url": "https://www.lowersaucontownship.org/Documents/Government/Zoning Department/Agendas/ZHB - 26-11-23 - Packet.pdf"
  },
+ "agenda_zoning-hearing-board_2026-11-23_b139e90685": {
+  "board": "Zoning Hearing Board",
+  "chars": 195402,
+  "collected_at": "2026-11-23T22:14:35+00:00",
+  "context": "",
+  "county": "Northampton",
+  "kind": "agenda",
+  "meeting_date": "2026-11-23",
+  "municipality": "Lower Saucon Township",
+  "ocr": true,
+  "pages": 151,
+  "rolling": false,
+  "sha256": "b139e90685bfe563e350f54e016c146dc08d49647dbe6b4fd084e86631f71f54",
+  "source_page": "https://www.lowersaucontownship.org/government/zoning_hearing_board.php",
+  "text": "Current Agenda",
+  "url": "https://www.lowersaucontownship.org/Documents/Government/Zoning Department/Agendas/ZHB - 26-11-23 - Packet revised 11-23-26.pdf"
+ },
  "meeting document_governing-body_2026-10-14_e9a251813e": {
   "board": "Governing Body",
   "chars": 9790,

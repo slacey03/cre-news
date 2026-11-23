@@ -35,6 +35,24 @@
   "text": "here",
   "url": "https://bushkilltownship.com/forms/08_24_2026 PC.pdf"
  },
+ "agenda_planning-commission_2026-11-23_4256768d14": {
+  "board": "Planning Commission",
+  "chars": 656,
+  "collected_at": "2026-11-23T22:07:59+00:00",
+  "county": "Northampton",
+  "drive_id": null,
+  "kind": "agenda",
+  "meeting_date": "2026-11-23",
+  "municipality": "Bushkill Township",
+  "ocr": false,
+  "on_home_page": true,
+  "pages": 1,
+  "rolling": true,
+  "sha256": "4256768d14bfa1e3c8e1ee1a0f809f1ef3d29d18e721a143524303d9aad7a59f",
+  "source_page": "https://bushkilltownship.com/",
+  "text": "here",
+  "url": "https://bushkilltownship.com/forms/11_23_26 PC.pdf"
+ },
  "agenda_zoning-hearing-board_2026-08-10_d966dfbf41": {
   "board": "Zoning Hearing Board",
   "chars": 1153,

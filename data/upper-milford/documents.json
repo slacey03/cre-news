@@ -214,5 +214,23 @@
   "source_page": "https://www.uppermilford.net/bos-minutes",
   "text": "October 15, 2026",
   "url": "https://www.uppermilford.net/minutes/20261015.pdf"
+ },
+ "minutes_governing-body_2026-11-05_105f63be9a": {
+  "board": "Governing Body",
+  "chars": 11179,
+  "collected_at": "2026-11-23T22:07:18+00:00",
+  "county": "Lehigh",
+  "drive_id": null,
+  "kind": "minutes",
+  "meeting_date": "2026-11-05",
+  "municipality": "Upper Milford Township",
+  "ocr": false,
+  "on_home_page": false,
+  "pages": 5,
+  "rolling": true,
+  "sha256": "105f63be9a62e3cb96545de46b3c420cd895f9cf1ff7219a530e41173f022422",
+  "source_page": "https://www.uppermilford.net/bos-minutes",
+  "text": "November 5, 2026",
+  "url": "https://www.uppermilford.net/minutes/2026 11 05 Minutes.pdf"
  }
 }

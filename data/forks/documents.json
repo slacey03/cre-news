@@ -734,5 +734,20 @@
   "pages": 2,
   "title": "Board of Supervisors Minutes",
   "url": "https://www.forkstownship.org/AgendaCenter/ViewFile/Minutes/_11022026-365"
+ },
+ "minutes_11052026-366": {
+  "board": "Board of Supervisors",
+  "chars": 14690,
+  "collected_at": "2026-11-23T22:05:42+00:00",
+  "county": "Northampton",
+  "doc_id": "minutes_11052026-366",
+  "kind": "minutes",
+  "meeting_date": "2026-11-05",
+  "municipality": "Forks Township",
+  "needs_ocr": false,
+  "ocr": false,
+  "pages": 6,
+  "title": "Board of Supervisors Minutes",
+  "url": "https://www.forkstownship.org/AgendaCenter/ViewFile/Minutes/_11052026-366"
  }
 }

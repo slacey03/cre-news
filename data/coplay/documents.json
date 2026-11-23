@@ -232,5 +232,41 @@
   "source_page": "https://www.coplayborough.org/minutes.html",
   "text": "October 6, 2026",
   "url": "https://www.coplayborough.org/minutes/06oct26.pdf"
+ },
+ "minutes_governing-body_2026-10-13_fc50b05532": {
+  "board": "Governing Body",
+  "chars": 4974,
+  "collected_at": "2026-11-23T22:07:17+00:00",
+  "county": "Lehigh",
+  "drive_id": null,
+  "kind": "minutes",
+  "meeting_date": "2026-10-13",
+  "municipality": "Coplay Borough",
+  "ocr": false,
+  "on_home_page": false,
+  "pages": 2,
+  "rolling": false,
+  "sha256": "fc50b055322b3007c09730aba3d3f03ace35251e82c334ec37726c0d6dc9b2bd",
+  "source_page": "https://www.coplayborough.org/minutes.html",
+  "text": "October 13, 2026",
+  "url": "https://www.coplayborough.org/minutes/13oct26.pdf"
+ },
+ "minutes_governing-body_2026-11-03_01bae250bd": {
+  "board": "Governing Body",
+  "chars": 6098,
+  "collected_at": "2026-11-23T22:07:22+00:00",
+  "county": "Lehigh",
+  "drive_id": null,
+  "kind": "minutes",
+  "meeting_date": "2026-11-03",
+  "municipality": "Coplay Borough",
+  "ocr": false,
+  "on_home_page": false,
+  "pages": 2,
+  "rolling": false,
+  "sha256": "01bae250bd3f0d38906c756699ca1590208283e26974f343af2dff5cf020c93b",
+  "source_page": "https://www.coplayborough.org/minutes.html",
+  "text": "November 3, 2026",
+  "url": "https://www.coplayborough.org/minutes/03nov26.pdf"
  }
 }
