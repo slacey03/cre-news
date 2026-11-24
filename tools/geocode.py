@@ -176,9 +176,14 @@ def main():
         conn.execute("update pipeline set lat = null, lon = null")
         with conn.cursor() as cur:
             cur.executemany("update pipeline set lat = %s, lon = %s where id = %s", updates)
+    conn.commit()   # the block above is only a savepoint inside the open transaction: without this, nothing is saved
+    conn.close()
+    conn = connect()  # count from a fresh connection, so the log reports what was actually saved
     total = conn.execute("select count(*), count(lat) from pipeline").fetchone()
     print(f"map pins: {total[1]} of {total[0]} projects ({100 * total[1] / max(total[0], 1):.0f}%)")
     conn.close()
+    if updates and not total[1]:
+        sys.exit("map pins were not saved")
 
 
 if __name__ == "__main__":
