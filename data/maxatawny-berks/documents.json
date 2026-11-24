@@ -70,5 +70,23 @@
   "source_page": "https://www.maxatawny.org/bos-minutes.html",
   "text": "September 14, 2026",
   "url": "https://www.maxatawny.org/minutes/14sep26.pdf"
+ },
+ "minutes_governing-body_2026-10-12_34dfa7267a": {
+  "board": "Governing Body",
+  "chars": 5931,
+  "collected_at": "2026-11-24T20:44:55+00:00",
+  "county": "Berks",
+  "drive_id": null,
+  "kind": "minutes",
+  "meeting_date": "2026-10-12",
+  "municipality": "Maxatawny Township",
+  "ocr": false,
+  "on_home_page": false,
+  "pages": 3,
+  "rolling": false,
+  "sha256": "34dfa7267af3ed20bf3cf40bd35e30dd182b510204c3af992e352e8e39bf85db",
+  "source_page": "https://www.maxatawny.org/bos-minutes.html",
+  "text": "October 12, 2026",
+  "url": "https://www.maxatawny.org/minutes/12oct26.pdf"
  }
 }
