@@ -113,7 +113,7 @@ def parse_date(*texts):
         m = re.search(r"(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?[\s\-]*(20\d\d)(?!\d)", s, re.I)
         if m and (d := _d(m.group(2), MONTHS[m.group(1)[:3].lower()], 1)):
             return d
-        m = re.search(r"(?<!\d)(20\d\d)-(0[1-9]|1[0-2])(?![\d\-])", s)   # 2026-10-Borough-Council-Minutes
+        m = re.search(r"(?<!\d)(20\d\d)-(0[1-9]|1[0-2])(?!\d)", s)   # 2026-10-Borough-Council-Minutes
         if m and (d := _d(m.group(1), m.group(2), 1)):
             return d
         m = re.search(r"(?<![\d.\-/])(0[1-9]|1[0-2])[\s\-](20\d\d)(?!\d)", s)
