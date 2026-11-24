@@ -42,6 +42,8 @@ SITES = [
     ("moore", "Moore Township", "Northampton", "https://mooretownship.org/"),
     ("plainfield", "Plainfield Township", "Northampton", "https://plainfieldtownship.org/"),
     ("washington-northampton", "Washington Township (Northampton)", "Northampton", "https://washington-township.com/"),
+    # Berks County (Nov 2026)
+    ("maxatawny-berks", "Maxatawny Township", "Berks", "https://www.maxatawny.org/"),
 ]
 
 BOARDS = [  # (label, pattern on link text / file name / surrounding text)

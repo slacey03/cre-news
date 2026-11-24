@@ -1,0 +1,191 @@
+"""
+ZoningTrack page watcher: for municipalities whose websites are custom-built (WordPress, Joomla, Wix, hand-coded...),
+watch the specific pages where each board posts its agendas and minutes, and pick up new dated documents.
+
+Each site lists one or more pages. A page either belongs to one board (Planning Commission, Zoning Hearing Board,
+the governing body) or mixes boards, in which case the board is read from each link's text or file name. Only boards
+that matter for development are kept (parks, environmental, library, pension and similar are skipped). A document needs
+a meeting date in its link text or file name and must fall within LOOKBACK_DAYS; files already collected are skipped.
+
+Robots-aware and paced per host (shared PoliteSession), keeps going if a site or a file fails, records health for the
+daily health check. Output: data/<key>/documents.json and data/<key>/text/<doc_id>.txt (same format as civicplus).
+"""
+import hashlib, json, os, re, sys
+from datetime import date, datetime, timedelta, timezone
+from urllib.parse import urljoin, urlparse, unquote
+
+from bs4 import BeautifulSoup
+
+sys.path.insert(0, os.path.dirname(__file__))
+from civicplus import PoliteSession, pdf_text, ocr_text, FOUND, record_health
+
+LOOKBACK_DAYS = int(os.environ.get("LOOKBACK_DAYS", "190"))
+DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
+
+PC, ZHB = "Planning Commission", "Zoning Hearing Board"
+# (key, name, county, [(page url, board or None = read from each link)])
+SITES = [
+    ("reading", "City of Reading", "Berks", [
+        ("https://www.readingpa.gov/planning-commission-1", PC),
+        ("https://www.readingpa.gov/zoning-hearing-board", ZHB),
+        ("https://www.readingpa.gov/council-meeting-minutes-and-agendas", "City Council")]),
+    ("cumru-berks", "Cumru Township", "Berks", [
+        ("http://www.cumrutownship.com/boardscommissions/bocmeetingminutes.html", "Board of Commissioners"),
+        ("http://www.cumrutownship.com/boardscommissions/planningcommission.html", PC)]),
+    ("spring-berks", "Spring Township", "Berks", [
+        ("https://www.springtwpberks.org/planning-commission", PC),
+        ("https://www.springtwpberks.org/zoning-hearing-board", ZHB),
+        ("https://www.springtwpberks.org/board-of-supervisors", "Board of Supervisors")]),
+    ("robeson-berks", "Robeson Township", "Berks", [
+        ("https://www.robesontownship.com/meeting-minutes-agendas", None)]),
+]
+
+DOC = re.compile(r"\.(pdf)(\?|$)", re.I)
+# boards that aren't about development: never collected, whatever page they sit on
+OFF_BOARD = re.compile(r"\beac\b|environmental|park|recreation|library|pension|police|fire|civil service|audit|emergency|"
+                       r"shade tree|tree commission|veteran|youth|senior|arts?\b|human relations|blight|code.{0,12}appeal|"
+                       r"building.{0,12}appeal|ag(ricultural)? security|redevelopment authority|water authority", re.I)
+# non-meeting files that sit on the same pages
+NOT_MEETING = re.compile(r"application|checklist|fee|schedule|calendar|manual|specification|ordinance section|map\b|"
+                         r"newsletter|budget|form\b|instructions|guide|policy", re.I)
+BOARD_FROM_TEXT = [(ZHB, re.compile(r"zoning hearing|\bzhb\b|zoning board", re.I)),
+                   (PC, re.compile(r"planning commission|\bpc\b|planning", re.I)),
+                   ("Governing Body", re.compile(r"supervisors|\bbos\b|commissioners|\bboc\b|council|re-?organi[sz]ation", re.I))]
+MONTHS = {m: i for i, m in enumerate("jan feb mar apr may jun jul aug sep oct nov dec".split(), 1)}
+
+
+def _d(y, m, d):
+    y = int(y); y = y + 2000 if y < 100 else y
+    try:
+        return date(y, int(m), int(d))
+    except ValueError:
+        return None
+
+
+def parse_date(*texts):
+    """First meeting date found: 'November 17, 2026', 'November_17_2026', '11/17/26', '11-23-26', '1.5.26',
+    '02.19.2026', '2026-01-05', '01052026' (MMDDYYYY), '05jan26'."""
+    for t in texts:
+        if not t:
+            continue
+        t = unquote(t)
+        s = re.sub(r"[_+]", " ", t)
+        m = re.search(r"(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s*-?\s*(\d{1,2})(?:st|nd|rd|th)?\s*,?\s*-?\s*(20\d\d)", s, re.I)
+        if m and (d := _d(m.group(3), MONTHS[m.group(1)[:3].lower()], m.group(2))):
+            return d
+        m = re.search(r"(?<!\d)(20\d\d)-(\d{1,2})-(\d{1,2})(?!\d)", t)
+        if m and (d := _d(m.group(1), m.group(2), m.group(3))):
+            return d
+        m = re.search(r"(?<![\d.])(\d{1,2})[/.\-](\d{1,2})[/.\-](20\d\d|\d\d)(?![\d])", t)
+        if m and (d := _d(m.group(3), m.group(1), m.group(2))):
+            return d
+        m = re.search(r"(?<!\d)(0[1-9]|1[0-2])([0-3]\d)(20\d\d)(?!\d)", t)
+        if m and (d := _d(m.group(3), m.group(1), m.group(2))):
+            return d
+        m = re.search(r"(?<!\d)(\d{1,2})(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*(\d{2}|20\d\d)(?!\d)", t, re.I)
+        if m and (d := _d(m.group(3), MONTHS[m.group(2).lower()], m.group(1))):
+            return d
+    return None
+
+
+def kind_of(text, fname):
+    blob = f"{text} {fname}".lower()
+    if re.search(r"minute|\bmins?\b", blob):
+        return "minutes"
+    if re.search(r"decision|order|opinion", blob):
+        return "decision"
+    return "agenda"
+
+
+def find_docs(html, page_url, page_board):
+    """One record per dated development-board document linked from a page (duplicate links merged)."""
+    soup = BeautifulSoup(html, "html.parser")
+    best = {}
+    for a in soup.find_all("a", href=True):
+        url = urljoin(page_url, a["href"].strip()).split("#")[0]
+        if not DOC.search(url):
+            continue
+        text = " ".join(a.get_text(" ", strip=True).replace("\xa0", " ").split())
+        if url not in best or len(text) > len(best[url]):
+            best[url] = text
+    docs = []
+    for url, text in best.items():
+        fname = unquote(urlparse(url).path.rsplit("/", 1)[-1])
+        label = f"{text} {fname}"
+        if OFF_BOARD.search(label) or (NOT_MEETING.search(label) and not re.search(r"agenda|minute|hearing", label, re.I)):
+            continue
+        if re.search(r"cancel", label, re.I):
+            continue
+        board = page_board or next((b for b, rx in BOARD_FROM_TEXT if rx.search(label)), None)
+        if not board:
+            continue
+        meeting = parse_date(text, fname)
+        if not meeting:
+            continue
+        docs.append({"doc_id": kind_of(text, fname) + hashlib.sha1(url.encode()).hexdigest()[:12],
+                     "board": board, "kind": kind_of(text, fname), "title": text or fname,
+                     "meeting_date": meeting.isoformat(), "url": url, "source_page": page_url})
+    return docs
+
+
+def collect(site):
+    key, name, county, pages = site
+    out_dir = os.path.join(DATA_DIR, key); text_dir = os.path.join(out_dir, "text")
+    os.makedirs(text_dir, exist_ok=True)
+    index_path = os.path.join(out_dir, "documents.json")
+    index = json.load(open(index_path)) if os.path.exists(index_path) else {}
+    sessions = {}
+
+    def session_for(url):
+        host = urlparse(url).scheme + "://" + urlparse(url).netloc
+        if host not in sessions:
+            sessions[host] = PoliteSession(host)
+        return sessions[host]
+
+    listing, errors = {}, []
+    for page_url, board in pages:
+        try:
+            for d in find_docs(session_for(page_url).get(page_url).text, page_url, board):
+                listing.setdefault(d["doc_id"], d)
+        except Exception as e:   # one page down shouldn't stop the others
+            errors.append(f"{page_url}: {e}")
+            print(f"  ! {page_url}: {str(e)[:150]}")
+    if errors and not listing:
+        raise RuntimeError("; ".join(errors)[:300])
+    cutoff = (date.today() - timedelta(days=LOOKBACK_DAYS)).isoformat()
+    todo = [d for d in listing.values() if d["meeting_date"] >= cutoff and d["doc_id"] not in index]
+    FOUND[key] = len(listing)
+    print(f"[{key}] {len(listing)} dated documents listed, {len(todo)} new within {LOOKBACK_DAYS} days")
+
+    for d in sorted(todo, key=lambda x: x["meeting_date"]):
+        rec = dict(d, municipality=name, county=county, collected_at=datetime.now(timezone.utc).isoformat(timespec="seconds"))
+        rec.pop("doc_id")
+        try:
+            r = session_for(d["url"]).get(d["url"])
+            if not r.content.startswith(b"%PDF"):
+                raise ValueError(f"not a PDF ({r.headers.get('content-type', '?')})")
+            text, pages_n = pdf_text(r.content)
+            needs_ocr = len(text.strip()) < 50 * pages_n
+            if needs_ocr:
+                text = ocr_text(r.content)
+            rec.update(pages=pages_n, chars=len(text.strip()), needs_ocr=needs_ocr, ocr=needs_ocr)
+            open(os.path.join(text_dir, d["doc_id"] + ".txt"), "w").write(text)
+        except Exception as e:
+            print(f"  ! {d['doc_id']} {d['url']}: {str(e)[:120]}")
+            continue
+        index[d["doc_id"]] = rec
+        print(f"  + {d['meeting_date']} {d['board']} {d['kind']} ({rec['pages']}p, {rec['chars']} chars) {d['title'][:60]}")
+        json.dump(index, open(index_path, "w"), indent=1, sort_keys=True)
+    json.dump(index, open(index_path, "w"), indent=1, sort_keys=True)
+    return len(todo)
+
+
+if __name__ == "__main__":
+    only = sys.argv[1:]
+    for s in SITES:
+        if not only or s[0] in only:
+            try:
+                record_health(s[0], new=collect(s))
+            except Exception as e:
+                print(f"[{s[0]}] SKIPPED: {e}")
+                record_health(s[0], error=e)

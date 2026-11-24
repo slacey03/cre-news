@@ -26,6 +26,7 @@ jobs:
       - run: python collectors/legistar.py
       - run: python collectors/lvpc.py
       - run: python collectors/bcpc.py
+      - run: python collectors/pagewatch.py
       - name: Save collected documents
         run: |
           git config user.name "github-actions[bot]"
