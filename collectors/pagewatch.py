@@ -36,8 +36,29 @@ SITES = [
         ("https://www.springtwpberks.org/planning-commission", PC),
         ("https://www.springtwpberks.org/zoning-hearing-board", ZHB),
         ("https://www.springtwpberks.org/board-of-supervisors", "Board of Supervisors")]),
+    # batch 2
+    ("bern-berks", "Bern Township", "Berks", [
+        ("http://www.berntownship.org/newsite/township-of-bern/planning-commission/", PC),
+        ("http://www.berntownship.org/newsite/township-of-bern/zoning-hearing-board/", ZHB),
+        ("http://www.berntownship.org/newsite/board-of-supervisors/", "Board of Supervisors")]),
+    ("birdsboro-berks", "Birdsboro Borough", "Berks", [
+        ("https://birdsboropa.org/council/", "Borough Council"),
+        ("https://birdsboropa.org/planning-commission/", PC)]),
+    ("colebrookdale-berks", "Colebrookdale Township", "Berks", [
+        ("https://colebrookdale.org/meeting-minutes", None, {"doc": r"download\.aspx\?downloadid=|\.pdf(\?|$)"})]),
+    ("kutztown-berks", "Kutztown Borough", "Berks", [
+        ("https://www.kutztownboro.org/elected-officials/meetings/", "Borough Council"),
+        ("https://www.kutztownboro.org/commissions/pc/", PC),
+        ("https://www.kutztownboro.org/elected-officials/committees/", "Community Development & Public Safety Committee",
+         {"match": r"cdps"})]),
+    ("lower-heidelberg-berks", "Lower Heidelberg Township", "Berks", [
+        ("https://lowerheidelbergtownship.org/meeting-minutes/", None)]),
+    ("shillington-berks", "Shillington Borough", "Berks", [
+        ("https://shillingtonboro.com/minutes-reports/", None)]),
 ]
-# Not collected: Robeson Township posts its files on a host whose robots.txt disallows automated access
+# Not yet: Maidencreek (files on Dropbox, no year in links), West Reading (nothing posted since late 2025),
+# Sinking Spring (no agendas/minutes online).
+# Not collected: Robeson and Brecknock townships post their files on a host whose robots.txt disallows automated access
 # (irp.cdn-website.com). Needs the township's permission or another source.
 
 DOC = re.compile(r"\.(pdf)(\?|$)", re.I)
@@ -85,6 +106,19 @@ def parse_date(*texts):
         m = re.search(r"(?<!\d)(\d{1,2})(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*(\d{2}|20\d\d)(?!\d)", t, re.I)
         if m and (d := _d(m.group(3), MONTHS[m.group(2).lower()], m.group(1))):
             return d
+    for t in texts:   # last resort: month and year only ('January 2026 Agenda', 'CDPSAgendaJanuary2026', '03_2026_PC') -> 1st of month
+        if not t:
+            continue
+        s = re.sub(r"[_+]", " ", unquote(t))
+        m = re.search(r"(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?[\s\-]*(20\d\d)(?!\d)", s, re.I)
+        if m and (d := _d(m.group(2), MONTHS[m.group(1)[:3].lower()], 1)):
+            return d
+        m = re.search(r"(?<!\d)(20\d\d)-(0[1-9]|1[0-2])(?![\d\-])", s)   # 2026-10-Borough-Council-Minutes
+        if m and (d := _d(m.group(1), m.group(2), 1)):
+            return d
+        m = re.search(r"(?<![\d.\-/])(0[1-9]|1[0-2])[\s\-](20\d\d)(?!\d)", s)
+        if m and (d := _d(m.group(2), m.group(1), 1)):
+            return d
     return None
 
 
@@ -97,13 +131,16 @@ def kind_of(text, fname):
     return "agenda"
 
 
-def find_docs(html, page_url, page_board):
+def find_docs(html, page_url, page_board, opts=None):
     """One record per dated development-board document linked from a page (duplicate links merged)."""
+    opts = opts or {}
+    doc_rx = re.compile(opts["doc"], re.I) if opts.get("doc") else DOC
+    match_rx = re.compile(opts["match"], re.I) if opts.get("match") else None
     soup = BeautifulSoup(html, "html.parser")
     best = {}
     for a in soup.find_all("a", href=True):
         url = urljoin(page_url, a["href"].strip()).split("#")[0]
-        if not DOC.search(url):
+        if not doc_rx.search(url):
             continue
         text = " ".join(a.get_text(" ", strip=True).replace("\xa0", " ").split())
         if url not in best or len(text) > len(best[url]):
@@ -112,6 +149,8 @@ def find_docs(html, page_url, page_board):
     for url, text in best.items():
         fname = unquote(urlparse(url).path.rsplit("/", 1)[-1])
         label = f"{text} {fname}"
+        if match_rx and not match_rx.search(f"{label} {url}"):
+            continue
         if OFF_BOARD.search(label) or (NOT_MEETING.search(label) and not re.search(r"agenda|minute|hearing", label, re.I)):
             continue
         if re.search(r"cancel", label, re.I):
@@ -143,9 +182,10 @@ def collect(site):
         return sessions[host]
 
     listing, errors = {}, []
-    for page_url, board in pages:
+    for page in pages:
+        page_url, board, opts = (list(page) + [None])[:3]
         try:
-            for d in find_docs(session_for(page_url).get(page_url).text, page_url, board):
+            for d in find_docs(session_for(page_url).get(page_url).text, page_url, board, opts):
                 listing.setdefault(d["doc_id"], d)
         except Exception as e:   # one page down shouldn't stop the others
             errors.append(f"{page_url}: {e}")
