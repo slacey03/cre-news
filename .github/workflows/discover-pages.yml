@@ -6,11 +6,11 @@ on:
       keys: { description: "Town keys, space separated", default: "reading cumru-berks spring-berks robeson-berks maxatawny-berks" }
   push:
     branches: [main]
-    paths: ["tools/discover_pages.py"]
+    paths: ["tools/discover_pages.py.trigger"]
 jobs:
   discover:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5

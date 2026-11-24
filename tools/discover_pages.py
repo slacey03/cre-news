@@ -16,7 +16,7 @@ from civicplus import PoliteSession
 
 PAGEY = re.compile(r"agenda|minute|meeting|planning|zoning|council|supervisor|commission|board|hearing|government|document|calendar|archive", re.I)
 DOC = re.compile(r"\.(pdf|docx?)(\?|$)|drive\.google\.com/(file|open|uc)|docs\.google\.com|/DocumentCenter/View/|/ViewFile/|download", re.I)
-SKIP = re.compile(r"\.(jpe?g|png|gif|zip|mp4|mp3)(\?|$)|mailto:|tel:|facebook|twitter|instagram|youtube|#$", re.I)
+SKIP = re.compile(r"\.(jpe?g|png|gif|zip|mp4|mp3)(\?|$)|mailto:|tel:|facebook|twitter|instagram|youtube|#$|/calendar/.*\d{4}|/events?/.*\d{4}|[?&](date|month|ical)=", re.I)
 MAX_PAGES = 40
 
 
