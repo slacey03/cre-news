@@ -10,7 +10,7 @@ a meeting date in its link text or file name and must fall within LOOKBACK_DAYS;
 Robots-aware and paced per host (shared PoliteSession), keeps going if a site or a file fails, records health for the
 daily health check. Output: data/<key>/documents.json and data/<key>/text/<doc_id>.txt (same format as civicplus).
 """
-import hashlib, json, os, re, sys
+import hashlib, html as htmllib, io, json, os, re, sys, zipfile
 from datetime import date, datetime, timedelta, timezone
 from urllib.parse import urljoin, urlparse, unquote
 
@@ -55,13 +55,33 @@ SITES = [
         ("https://lowerheidelbergtownship.org/meeting-minutes/", None)]),
     ("shillington-berks", "Shillington Borough", "Berks", [
         ("https://shillingtonboro.com/minutes-reports/", None)]),
+    # batch 3
+    ("topton-berks", "Topton Borough", "Berks", [
+        ("https://toptonborough.com/index.php/council-minutes/", "Borough Council", {"kind": "minutes"})]),
+    ("mohnton-berks", "Mohnton Borough", "Berks", [
+        ("https://mohntonboro.org/agenda-minutes/", None, {"default": "Borough Council"})]),
+    ("mount-penn-berks", "Mount Penn Borough", "Berks", [
+        ("https://mtpennborough.com/meeting-agendas", None, {"default": "Borough Council"}),
+        ("https://mtpennborough.com/meeting-minutes", None, {"default": "Borough Council", "kind": "minutes"})]),
+    ("centre-berks", "Centre Township", "Berks", [
+        ("https://centretownship.com/meeting-minutes/", None, {"default": "Board of Supervisors", "kind": "minutes"})]),
+    ("hereford-berks", "Hereford Township", "Berks", [
+        ("https://www.herefordtownship.org/minutes-and-agendas", None, {"default": "Board of Supervisors"})]),
+    ("albany-berks", "Albany Township", "Berks", [
+        ("https://www.albanytwpberks.org/meeting-minutes", None, {"default": "Board of Supervisors", "kind": "minutes"})]),
+    ("tulpehocken-berks", "Tulpehocken Township", "Berks", [
+        ("https://tulpytwp.org/minutes/", None, {"default": "Board of Supervisors"})]),
+    ("jefferson-berks", "Jefferson Township", "Berks", [
+        ("https://jeffersontwpbc.com/meet-dates/", None, {"default": "Board of Supervisors"})]),
+    ("north-heidelberg-berks", "North Heidelberg Township", "Berks", [
+        ("https://northheidelbergtwp.org/board-of-supervisors-agenda/", None, {"default": "Board of Supervisors"})]),
 ]
 # Not yet: Maidencreek (files on Dropbox, no year in links), West Reading (nothing posted since late 2025),
-# Sinking Spring (no agendas/minutes online).
+# Sinking Spring, Shoemakersville, Bernville, Bethel and Penn (no recent agendas/minutes online).
 # Not collected: Robeson and Brecknock townships post their files on a host whose robots.txt disallows automated access
 # (irp.cdn-website.com). Needs the township's permission or another source.
 
-DOC = re.compile(r"\.(pdf)(\?|$)", re.I)
+DOC = re.compile(r"\.(pdf|docx)(\?|$)", re.I)
 # boards that aren't about development: never collected, whatever page they sit on
 OFF_BOARD = re.compile(r"\beac\b|environmental|park|recreation|library|pension|police|fire|civil service|audit|emergency|"
                        r"shade tree|tree commission|veteran|youth|senior|arts?\b|human relations|blight|code.{0,12}appeal|"
@@ -122,13 +142,22 @@ def parse_date(*texts):
     return None
 
 
+def docx_text(content):
+    """Plain text of a Word .docx: paragraphs from word/document.xml."""
+    xml = zipfile.ZipFile(io.BytesIO(content)).read("word/document.xml").decode("utf8", "ignore")
+    xml = re.sub(r"</w:p>|<w:br/>|<w:tab/>", "\n", xml)
+    return htmllib.unescape(re.sub(r"<[^>]+>", "", xml))
+
+
 def kind_of(text, fname):
     blob = f"{text} {fname}".lower()
     if re.search(r"minute|\bmins?\b", blob):
         return "minutes"
     if re.search(r"decision|order|opinion", blob):
         return "decision"
-    return "agenda"
+    if re.search(r"agenda", blob):
+        return "agenda"
+    return None
 
 
 def find_docs(html, page_url, page_board, opts=None):
@@ -155,14 +184,15 @@ def find_docs(html, page_url, page_board, opts=None):
             continue
         if re.search(r"cancel", label, re.I):
             continue
-        board = page_board or next((b for b, rx in BOARD_FROM_TEXT if rx.search(label)), None)
+        board = page_board or next((b for b, rx in BOARD_FROM_TEXT if rx.search(label)), None) or (opts or {}).get("default")
         if not board:
             continue
         meeting = parse_date(text, fname)
         if not meeting:
             continue
-        docs.append({"doc_id": kind_of(text, fname) + hashlib.sha1(url.encode()).hexdigest()[:12],
-                     "board": board, "kind": kind_of(text, fname), "title": text or fname,
+        kind = kind_of(text, fname) or (opts or {}).get("kind") or "agenda"
+        docs.append({"doc_id": kind + hashlib.sha1(url.encode()).hexdigest()[:12],
+                     "board": board, "kind": kind, "title": text or fname,
                      "meeting_date": meeting.isoformat(), "url": url, "source_page": page_url})
     return docs
 
@@ -202,12 +232,15 @@ def collect(site):
         rec.pop("doc_id")
         try:
             r = session_for(d["url"]).get(d["url"])
-            if not r.content.startswith(b"%PDF"):
-                raise ValueError(f"not a PDF ({r.headers.get('content-type', '?')})")
-            text, pages_n = pdf_text(r.content)
-            needs_ocr = len(text.strip()) < 50 * pages_n
-            if needs_ocr:
-                text = ocr_text(r.content)
+            if r.content.startswith(b"PK"):          # Word (.docx)
+                text, pages_n, needs_ocr = docx_text(r.content), 1, False
+            elif r.content.startswith(b"%PDF"):
+                text, pages_n = pdf_text(r.content)
+                needs_ocr = len(text.strip()) < 50 * pages_n
+                if needs_ocr:
+                    text = ocr_text(r.content)
+            else:
+                raise ValueError(f"not a PDF or Word file ({r.headers.get('content-type', '?')})")
             rec.update(pages=pages_n, chars=len(text.strip()), needs_ocr=needs_ocr, ocr=needs_ocr)
             open(os.path.join(text_dir, d["doc_id"] + ".txt"), "w").write(text)
         except Exception as e:
