@@ -18,6 +18,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 from civicplus import PoliteSession, ocr_text, FOUND, record_health
 
 LOOKBACK_DAYS = int(os.environ.get("LOOKBACK_DAYS", "190"))
+SINCE = date.fromisoformat(os.environ.get("LVPC_SINCE", "2025-01-01"))
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
 KEY, NAME, COUNTY = "lvpc", "Lehigh Valley Planning Commission", "Lehigh/Northampton"
 PAGE = "https://lvpc.org/lvpc-meetings"
@@ -92,7 +93,8 @@ def collect():
         url = urljoin(PAGE, a["href"])
         if re.search(r"\.pdf(\?|$)", url, re.I):
             links.setdefault(url.split("?")[0], url)
-    cutoff = date.today() - timedelta(days=LOOKBACK_DAYS)
+    # keep regional history back to SINCE (default Jan 2025) so big approvals from earlier in the year stay on the dashboard
+    cutoff = min(date.today() - timedelta(days=LOOKBACK_DAYS), SINCE)
     todo, skipped = [], []
     for base, url in links.items():
         fname = unquote(urlparse(base).path.rsplit("/", 1)[-1])
