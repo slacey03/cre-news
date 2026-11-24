@@ -36,9 +36,9 @@ SITES = [
         ("https://www.springtwpberks.org/planning-commission", PC),
         ("https://www.springtwpberks.org/zoning-hearing-board", ZHB),
         ("https://www.springtwpberks.org/board-of-supervisors", "Board of Supervisors")]),
-    ("robeson-berks", "Robeson Township", "Berks", [
-        ("https://www.robesontownship.com/meeting-minutes-agendas", None)]),
 ]
+# Not collected: Robeson Township posts its files on a host whose robots.txt disallows automated access
+# (irp.cdn-website.com). Needs the township's permission or another source.
 
 DOC = re.compile(r"\.(pdf)(\?|$)", re.I)
 # boards that aren't about development: never collected, whatever page they sit on
