@@ -1,1 +1,77 @@
-{}
+{
+ "minutes05299a283d2d": {
+  "board": "Governing Body",
+  "chars": 12888,
+  "collected_at": "2026-11-24T05:41:53+00:00",
+  "county": "Berks",
+  "kind": "minutes",
+  "meeting_date": "2026-09-01",
+  "municipality": "Shillington Borough",
+  "needs_ocr": false,
+  "ocr": false,
+  "pages": 7,
+  "source_page": "https://shillingtonboro.com/minutes-reports/",
+  "title": "Download",
+  "url": "https://shillingtonboro.com/wp-content/uploads/2026/10/2026-09-Borough-Council-Meeting-Minutes.pdf"
+ },
+ "minutes1afdc430a3f6": {
+  "board": "Governing Body",
+  "chars": 14533,
+  "collected_at": "2026-11-24T05:41:58+00:00",
+  "county": "Berks",
+  "kind": "minutes",
+  "meeting_date": "2026-10-01",
+  "municipality": "Shillington Borough",
+  "needs_ocr": true,
+  "ocr": true,
+  "pages": 7,
+  "source_page": "https://shillingtonboro.com/minutes-reports/",
+  "title": "Download",
+  "url": "https://shillingtonboro.com/wp-content/uploads/2026/11/2026-10-Borough-Council-Meeting-Minutes.pdf"
+ },
+ "minutes4599991b9bb3": {
+  "board": "Governing Body",
+  "chars": 13859,
+  "collected_at": "2026-11-24T05:41:37+00:00",
+  "county": "Berks",
+  "kind": "minutes",
+  "meeting_date": "2026-06-01",
+  "municipality": "Shillington Borough",
+  "needs_ocr": false,
+  "ocr": false,
+  "pages": 7,
+  "source_page": "https://shillingtonboro.com/minutes-reports/",
+  "title": "Download",
+  "url": "https://shillingtonboro.com/wp-content/uploads/2023/04/2026-06-Borough-Council-Meeting-Minutes-1.pdf"
+ },
+ "minutes89cb56cf1de7": {
+  "board": "Governing Body",
+  "chars": 14488,
+  "collected_at": "2026-11-24T05:41:42+00:00",
+  "county": "Berks",
+  "kind": "minutes",
+  "meeting_date": "2026-07-01",
+  "municipality": "Shillington Borough",
+  "needs_ocr": false,
+  "ocr": false,
+  "pages": 7,
+  "source_page": "https://shillingtonboro.com/minutes-reports/",
+  "title": "Download",
+  "url": "https://shillingtonboro.com/wp-content/uploads/2023/04/2026-07-Borough-Council-Meeting-Minutes-1.pdf"
+ },
+ "minutesdd4a065ba80a": {
+  "board": "Governing Body",
+  "chars": 12952,
+  "collected_at": "2026-11-24T05:41:48+00:00",
+  "county": "Berks",
+  "kind": "minutes",
+  "meeting_date": "2026-08-01",
+  "municipality": "Shillington Borough",
+  "needs_ocr": false,
+  "ocr": false,
+  "pages": 7,
+  "source_page": "https://shillingtonboro.com/minutes-reports/",
+  "title": "Download",
+  "url": "https://shillingtonboro.com/wp-content/uploads/2023/04/2026-08-Borough-Council-Meeting-Minutes.pdf"
+ }
+}
