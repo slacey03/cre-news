@@ -16,6 +16,7 @@ jobs:
     timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
+        with: { ref: main }   # a queued run starts from the latest saved data, not the commit that triggered it
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: sudo apt-get update -qq && sudo apt-get install -y -qq tesseract-ocr poppler-utils
