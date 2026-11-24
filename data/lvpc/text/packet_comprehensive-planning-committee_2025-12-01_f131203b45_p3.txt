@@ -1,0 +1,1086 @@
+
+
+[page 54]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+36 
+ 
+• Require applicants to demonstrate adequate public water and sewer service with 
+confirmation from utility or infrastructure providers. 
+ 
+Site Design 
+• Require Pennsylvania-native landscaping and buffering, especially along building 
+edges, loading areas, and property lines near non-industrial uses. 
+• Require visually aesthetic enclosures for loading docks, trailer parking, 
+dumpsters, utilities, and mechanical equipment. 
+• Ensure safe and adequate site access for emergency vehicles, considering 
+turning radii, drive aisle widths, and multiple access points for very large sites. 
+o Incorporate emergency service providers in the development review 
+process. 
+• Require on-site circulation plans that prevent on-road queueing and ensure safe 
+separation between truck traffic and employee or visitor traffic. 
+ 
+Impact Assessments 
+Require Community and Environmental Impact Statements evaluating: 
+• Trip generation, including truck volumes and peak-hour movements 
+• Traffic impacts on surrounding roadways and intersections 
+• Noise levels from trucking, mechanical systems, and 24/7 operations 
+• Emissions and air-quality impacts 
+• Emergency service needs and response requirements 
+• Municipal fiscal impacts, including infrastructure maintenance 
+• Freight routing patterns and mitigation of cut-through traffic in residential areas 
+ 
+Autonomous Vehicles and Freight-Based Land Uses 
+Autonomous vehicles (AVs) are self-driving technologies that use sensors, cameras, 
+radar, and artificial intelligence to navigate without or with limited human input. Within 
+the freight and logistics sector, autonomous technologies are emerging most rapidly 
+in long-haul trucking, last-mile delivery, and yard or warehouse operations. 
+ 
+Freight AVs range from autonomous tractor-trailers operating on major highway 
+corridors to automated yard tractors, forklifts, and delivery robots functioning within 
+controlled industrial environments. Fully autonomous trucking is permitted on public 
+roads, with the Pennsylvania Legislature signing Act 130 into law in 2022, which 
+authorizes automated vehicles on roadways with PennDOT certification. As technology 
+advances, logistics companies are investing heavily in AV-ready infrastructure, such as 
+smart distribution centers, digitally connected loading areas, and logistics corridors 
+designed for safe, efficient automation. 
+ 
+In the Lehigh Valley, where freight volumes are among the highest in Pennsylvania, 
+autonomous vehicle technologies are expected to play a growing role in improving 
+efficiency and addressing labor shortages in trucking and warehouse operations. 
+However, these innovations will also have land use, infrastructure, and safety 
+implications that municipalities should anticipate in local planning and regulatory 
+frameworks. 
+54
+
+[page 55]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+37 
+ 
+ 
+Best Practices 
+ 
+Comprehensive Plans Should: 
+• Recognize autonomous freight technology as a long-term trend in goods 
+movement and incorporate related infrastructure and workforce implications 
+into transportation, land use, and economic development elements. 
+• Identify AV-ready freight corridors and industrial districts where connected 
+infrastructure can be prioritized, particularly near interstates, intermodal 
+facilities, and business parks. 
+• Encourage partnerships with PennDOT, LVPC, and private-sector logistics 
+operators to coordinate pilot programs and share data on automation impacts. 
+ 
+Zoning Should: 
+• Define autonomous vehicle facilities (such as AV truck hubs, testing centers, 
+or charging depots) as specific use categories within industrial or logistics 
+districts. 
+• Require performance standards for noise, lighting, and safety 
+systems associated with continuous automated operations. 
+• Support adaptive reuse of existing freight facilities for AV staging, fleet 
+charging, and maintenance, ensuring compatibility with surrounding uses. 
+ 
+Subdivision and Land Development Ordinances Should: 
+• Require site plans to account for automated circulation patterns, vehicle 
+staging, and emergency access routes within industrial developments. 
+• Encourage the integration of smart infrastructure—including sensors, fiber 
+optic connectivity, and electric vehicle (EV) charging stations—into new 
+industrial park designs. 
+• Coordinate with PennDOT and regional planning agencies to ensure new 
+development aligns with connected-vehicle infrastructure standards and 
+emerging statewide AV policies. 
+55
+
+[page 56]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+38 
+ 
+Energy Generation, Storage and Management 
+ 
+Nuclear Energy 
+Nuclear facilities generate electricity through controlled nuclear reactions that produce 
+heat. Although Pennsylvania hosts large regional facilities, future trends may 
+include small modular reactors (SMRs) designed to serve regional grids, or 
+microreactors suitable for industrial campuses. 
+ 
+ 
+Graphic Credit: Stanford University, adapted from U.S. Department of Energy 
+ 
+Impacts: 
+• Require extensive siting buffers for safety and security 
+• Large cooling water demands and potential thermal discharges to waterways 
+• Transportation of nuclear fuel and waste presents regional logistics and safety 
+considerations 
+• Visual and psychological impacts due to public perception and security 
+infrastructure 
+ 
+Best Practices 
+ 
+Comprehensive Plans should: 
+• Identify appropriate regional-scale energy generation areas near transmission 
+infrastructure. 
+• Address emergency preparedness, evacuation routes, and coordination with 
+state and federal agencies. 
+ 
+56
+
+[page 57]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+39 
+ 
+Zoning should: 
+• Establish nuclear energy generation as a conditional use or special exception, 
+requiring review for safety, setback, and emergency coordination. 
+• Require substantial setbacks from residential districts, public facilities, and water 
+supplies. 
+• Consider overlay zones for large-scale energy infrastructure that encompass 
+utilities, transmission, and supporting facilities. 
+ 
+Subdivision & Land Development Ordinances should: 
+• Require detailed site plans including stormwater management, cooling water 
+systems, and transportation access. 
+• Coordinate with emergency management agencies for construction and 
+operations planning. 
+ 
+Solar Energy 
+Solar energy systems convert sunlight into electricity using photovoltaic (PV) panels or 
+solar thermal technologies. Systems range from small rooftop installations to utility-
+scale solar farms spanning dozens or hundreds of acres. 
+ 
+ 
+Photo Credit: Morning Call 
+A 30-acre solar array could generate enough power for approximately 10,000 homes depending on conditions. 
+ 
+Impacts: 
+• Large ground-mounted arrays may alter rural landscapes, consume farmland and 
+affect stormwater runoff. 
+• Reflectivity and glare can impact nearby roads or airports. 
+• Decommissioning and recycling of panels require long-term management plans. 
+ 
+57
+
+[page 58]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+40 
+ 
+Best Practices 
+ 
+Comprehensive Plans Should: 
+• Designate suitable areas for solar energy, prioritizing brownfields, rooftops, 
+parking lots and other previously disturbed lands. 
+• Integrate solar siting goals into future land use and energy resilience planning. 
+ 
+Zoning Should: 
+• Define solar energy systems by types, such as accessory, community-scale, 
+and utility-scale. 
+• Establish performance standards for glare, screening, setbacks, fencing and 
+pollinator-friendly groundcover. 
+• Consider agricultural zoning flexibility for dual-use “agrivoltaics” projects that 
+combine farming and energy production. 
+ 
+Subdivision & Land Development Ordinances Should: 
+• Require plans for grading, drainage and soil stabilization under arrays. 
+• Include decommissioning and financial assurance requirements to restore 
+land to pre-development conditions. 
+• Ensure access roads and fire lanes meet emergency service needs. 
+ 
+Hydroelectric 
+Hydroelectric power uses flowing or stored water to turn turbines and produce 
+electricity. While large dams are uncommon in Lehigh County, smaller run-of-
+river and micro-hydro projects may emerge on existing waterways or dam retrofits.  
+58
+
+[page 59]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+41 
+ 
+ 
+Photo Credit: Google Maps – at Riverview Park, Palmer Township, a hydroelectric plant is conceptualized adjacent to 
+the Chain Dam along the Lehigh River that could produce two megawatts of power, enough to energize 1,000 homes.  
+ 
+Impacts: 
+• Alteration of aquatic habitats and stream flow 
+• Fish migration barriers and sedimentation changes 
+• Potential flooding, erosion, or downstream water quality effects 
+• Safety considerations for public recreation and access near facilities 
+ 
+Best Practices 
+ 
+Comprehensive Plans should: 
+• Identify opportunities for renewable energy production using existing dams or 
+water infrastructure. 
+• Incorporate watershed and ecological protection objectives in energy planning. 
+ 
+Zoning should: 
+• Limit siting to areas with existing hydrologic infrastructure or previously altered 
+waterways. 
+• Require coordination with the Pennsylvania Department of Environmental 
+Protection (DEP) and U.S. Army Corps of Engineers. 
+• Include riparian buffer and floodplain protection requirements. 
+59
+
+[page 60]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+42 
+ 
+ 
+Subdivision & Land Development Ordinances should: 
+• Require hydrologic and environmental studies prior to approval. 
+• Evaluate impacts on public access, recreation, and streambank stabilization. 
+• Incorporate erosion and sedimentation control standards specific to water-based 
+facilities. 
+ 
+Wind Energy 
+Wind energy facilities convert the kinetic energy of wind into electricity using turbines. 
+Projects may be utility-scale, with large towers on ridgelines or open plains, or small-
+scale for agricultural or commercial sites. 
+ 
+Photo Credit: Morning Call 
+Approximately 100 acres of wind turbines powers 10,000 homes. 
+ 
+Potential Impacts: 
+• Visual and aesthetic changes to landscapes and ridgelines. 
+• Noise and shadow flicker effects on nearby residences. 
+• Bird and bat mortality, especially in migratory corridors. 
+• Construction access impacts on rural roadways and hillsides. 
+ 
+Best Practices 
+ 
+Comprehensive Plans should: 
+• Map ridgelines, open plains and other areas with sufficient wind resources while 
+protecting scenic and environmental resources. 
+• Incorporate policies for renewable energy production and community benefit 
+sharing. 
+ 
+Zoning should: 
+• Define wind energy systems by scale (small, community, utility). 
+60
+
+[page 61]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+43 
+ 
+• Require setbacks from dwellings, property lines, and public rights-of-way based 
+on turbine height. 
+• Include performance standards for noise, shadow flicker, and decommissioning. 
+• Require visual impact assessments and coordination with FAA and state aviation 
+agencies for turbine height compliance. 
+ 
+Subdivision & Land Development Ordinances should: 
+• Require construction access and grading plans that minimize erosion on steep 
+slopes. 
+• Include decommissioning and site restoration requirements with financial 
+guarantees. 
+• Ensure turbine foundations and electrical systems meet local and national safety 
+codes. 
+ 
+Storage of Power 
+Battery Energy Storage Systems (BESS) capture and hold energy for later use, 
+improving grid reliability and supporting renewable integration. Systems may 
+include battery storage (lithium-ion or flow batteries), thermal storage, or compressed 
+air systems, ranging from small on-site installations to large standalone “battery farms.” 
+ 
+ 
+Photo Credit: Energy Storage News 
+EOS Energy Enterprises manufactures battery storage systems in Turtle Creek Borough, Allegheny County PA. 
+ 
+ 
+61
+
+[page 62]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+44 
+ 
+Impacts: 
+• Fire safety and explosion risks from battery failures 
+• Noise and heat generation from cooling and ventilation systems 
+• Visual and compatibility issues in residential or mixed-use areas 
+• Decommissioning and disposal of batteries requiring specialized handling 
+  
+Best Practices 
+ 
+Comprehensive Plans should:  
+• Integrate microgrids into community resilience strategies for storms, grid failures, 
+and critical facilities (e.g., hospitals, data centers) 
+• Plan for integration with the utility grid, broadband, and emergency management 
+systems. 
+ 
+Zoning should:  
+• Allow in industrial, commercial, institutional or mixed-use zones where more 
+energy-consumptive land uses are located. 
+• Provide expedited permitting or density/intensity bonuses for renewable-powered 
+facilities. 
+• Establish energy storage as a distinct use, separate from general utilities or 
+manufacturing. 
+• Require compliance with National Fire Protection Association (NFPA) 855: 
+Standard for the Installation of Stationary Energy Storage Systems. 
+• Include setbacks, screening and fire safety access standards. 
+• Consider requiring special exception review for large standalone systems to 
+ensure compatibility. 
+ 
+Subdivision & Land Development Ordinances should: 
+• Require plans to show electrical connections, battery storage enclosures, 
+emergency access, fire suppression systems and noise buffers. 
+• Require fire safety measures, hazardous material handling protocols and 
+coordination with local first responders. 
+• Include decommissioning and recycling plans for spent batteries or equipment. 
+ 
+Alternative Fueling 
+As the transportation and industrial sectors transition toward cleaner and more efficient 
+technologies, alternative fueling infrastructure is becoming a critical component of local 
+and regional energy systems. These facilities support vehicles powered by electricity, 
+hydrogen, and compressed natural gas (CNG), each with unique siting, safety, and 
+infrastructure needs. 
+ 
+For municipalities, planning for these land uses helps reduce emissions, strengthen 
+regional competitiveness, and ensure the local road network and utility systems are 
+ready for the next generation of freight and passenger vehicles. 
+ 
+ 
+62
+
+[page 63]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+45 
+ 
+Electric Vehicle Charging Stations 
+Electric vehicle (EV) charging stations deliver electrical power to recharge battery-
+electric or plug-in hybrid vehicles. Facilities range from Level 1 and Level 2 chargers in 
+parking lots or garages to Direct Current (DC) fast-charging hubs serving fleets or 
+highway travelers. 
+ 
+Photo Credit: Morning Call 
+ 
+Impacts: 
+• Increased electrical load on local grids and potential need for utility coordination. 
+• Parking layout changes and accessibility requirements. 
+• Potential site design conflicts with pedestrian or traffic circulation. 
+ 
+Best Practices 
+ 
+Comprehensive Plans should: 
+• Incorporate EV infrastructure into transportation and sustainability elements. 
+• Identify strategic corridors and community destinations for charging investment 
+(downtowns, employment centers, freight routes). 
+• Encourage integration with renewable energy or battery-storage systems for grid 
+resilience. 
+•  
+Zoning should: 
+• Define EV charging stations as a principal or accessory use depending on scale. 
+63
+
+[page 64]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+46 
+ 
+• Allow Level 1 and 2 chargers by right in most zoning districts; require conditional 
+or special exception review for large DC fast-charging plazas. 
+• Establish standards for signage, lighting, screening, and Americans with 
+Disabilities Act-compliant accessibility. 
+• Encourage shared-use parking and integration with existing commercial or public 
+lots. 
+ 
+Subdivision & Land Development Ordinances Should: 
+• Require site plans showing electrical connections, conduit placement, and 
+protective bollards. 
+• Coordinate with utility providers early in design. 
+• Ensure drainage, landscaping, and pedestrian circulation maintain safety and 
+accessibility. 
+ 
+Hydrogen Fueling Stations 
+Hydrogen fueling stations store and dispense compressed hydrogen gas used to power 
+fuel-cell vehicles. These may serve heavy-duty fleets, transit vehicles, or long-haul 
+trucks and often co-locate with industrial or freight facilities. 
+ 
+Image Credit: Air Products 
+Air Products, headquartered in Upper Macungie Township, is the world’s largest hydrogen producer and builds 
+hydrogen fueling stations across the globe. 
+Impacts: 
+• High-pressure gas storage presents fire and explosion risks. 
+• Requires significant setbacks, emergency access, and ventilation. 
+64
+
+[page 65]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+47 
+ 
+• Visual and compatibility concerns near residential or commercial areas. 
+• High capital cost and reliance on specialized supply chains. 
+ 
+Best Practices 
+ 
+Comprehensive Plans Should: 
+• Incorporate hydrogen fueling infrastructure into transportation and sustainability 
+elements. 
+• Establish policies directing hydrogen fueling to appropriate corridors, particularly 
+near interstate interchanges or distribution centers. 
+• Coordinate with regional transportation and energy providers to ensure safety 
+and supply reliability. 
+• Include hydrogen infrastructure in climate and clean-energy strategies. 
+ 
+Zoning Should: 
+• Define hydrogen fueling as a distinct use under “Alternative Fueling Facilities.” 
+• Limit siting to industrial, highway commercial or heavy commercial districts. 
+• Require compliance with NFPA 2: Hydrogen Technologies Code and local fire-
+safety standards. 
+• Establish minimum setbacks from occupied structures and public rights-of-way. 
+• Require emergency access and signage consistent with hazardous-material 
+regulations. 
+ 
+Subdivision & Land Development Ordinances Should: 
+• Require engineered site plans detailing storage tanks, dispensing equipment, 
+containment and ventilation. 
+• Coordinate review with fire marshals and emergency management officials. 
+• Include drainage and containment design to prevent runoff contamination. 
+• Require decommissioning and inspection protocols for storage vessels. 
+ 
+Compressed Natural Gas (CNG) Fueling Stations 
+CNG stations store and dispense natural gas that has been compressed to less than 
+1% of its volume at standard atmospheric pressure. CNG is used by municipal fleets, 
+buses, and freight vehicles as a lower-emission alternative to gasoline or diesel. 
+65
+
+[page 66]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+48 
+ 
+ 
+Photo Credit: Morning Call 
+The Lehigh and Northampton Transportation Authority (LANTA) runs its fleet of buses on CNG generated by landfills, 
+and fuels buses at their facility located in the City of Allentown. 
+ 
+Impacts: 
+• Safety risks from pressurized gas storage and handling. 
+• Increased truck or bus traffic at fueling depots. 
+• Odor, noise, and visual impacts from compressors and venting equipment. 
+• Potential conflict with adjacent sensitive land uses if not properly sited. 
+ 
+Best Practices 
+ 
+Comprehensive Plans Should: 
+• Include policies supporting suitable corridor locations for CNG fueling, especially 
+near transit or logistics facilities. 
+• Integrate CNG planning with municipal fleet-conversion or clean-transportation 
+goals. 
+• Encourage co-location with maintenance yards or industrial parks to reduce land-
+use conflicts. 
+ 
+Zoning Should: 
+• Define CNG fueling as a specific land use under “Alternative Fueling” or “Utility 
+and Energy Uses.” 
+• Limit to highway commercial or industrial districts with adequate buffering. 
+• Include standards for noise, lighting, odor, and equipment screening. 
+• Ensure adequate distance from residential or institutional uses. 
+ 
+66
+
+[page 67]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+49 
+ 
+Subdivision & Land Development Ordinances Should: 
+• Require detailed site plans showing compressors, storage cylinders, piping, and 
+emergency shut-off locations. 
+• Include ventilation and containment systems in design review. 
+• Coordinate with utilities for gas-line pressure requirements and emergency 
+response planning. 
+• Require ongoing maintenance and inspection documentation for compliance. 
+ 
+Resource Extraction 
+While heavy industries like mining, quarrying and raw material processing have declined 
+in many regions, demand for certain materials is surging again due to the technologies 
+driving today’s economy. 
+ 
+Resource extraction and material supply industries encompass the mining, quarrying, 
+and processing of raw materials such as stone, cement, slate, and sand that form the 
+backbone of construction and manufacturing. In the Lehigh Valley, these industries 
+have long shaped regional identity and economic development. The Valley’s 
+abundant limestone and cement deposits supported the rise of the American cement 
+industry in the 19th and 20th centuries, while nearby slate, iron and aggregate 
+operations drove industrial growth that laid the foundation for today’s economy. 
+ 
+Image Credit: Google Aerial Imagery 
+Penn Slate operates an active slate mine in Washington Township just outside of Slatington Borough.  
+ 
+Although large-scale extraction has declined, this sector is transforming, not 
+disappearing. Modern operations are becoming more efficient, technology-driven, and 
+environmentally responsible, with greater emphasis on reclamation, material recycling, 
+and circular-economy practices. Many active quarries now integrate aggregate 
+recycling, soil blending, or material recovery operations to reduce waste and extend the 
+life of local resources. 
+ 
+67
+
+[page 68]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+50 
+ 
+At the same time, global industrial evolution is reshaping material demand. The 
+transition to clean energy, electric vehicles, advanced manufacturing, and digital 
+infrastructure is fueling a worldwide surge in demand for minerals such as lithium, 
+nickel, copper, and rare earth elements. While Pennsylvania is not a major source of 
+these critical minerals, it remains a significant supplier of construction materials and 
+cement and participates in national supply chains that depend on stable domestic 
+sources. As U.S. policy increasingly prioritizes domestic resource security and 
+recycling, Pennsylvania’s material-processing and reclamation industries will play a key 
+supporting role. 
+ 
+Locally, this means that even as new extraction slows, municipalities may see growth in 
+material handling, secondary processing and recycling operations that function much 
+like traditional resource extraction uses. These activities -- such as concrete and asphalt 
+recycling, metals reclamation, or the reuse of byproducts from energy or manufacturing 
+-- represent the modern evolution of the same land use category. 
+ 
+Impacts 
+• Environmental: Dust, noise, vibration and water quality impacts from extraction or 
+crushing operations.  Habitat disturbance and visual impacts in rural and scenic 
+areas. 
+• Infrastructure: Heavy truck traffic, roadway wear and safety concerns on local 
+roads serving quarry or processing sites. 
+• Land Use Compatibility - Conflicts with nearby residential or agricultural uses due 
+to noise, hours of operation, or aesthetics. 
+• Post-Use Challenges: Long-term management of inactive or reclaimed sites, 
+including safety and redevelopment readiness. 
+• Opportunities: Adaptive reuse of reclaimed sites for recreation, renewable 
+energy, stormwater management, or redevelopment. 
+ 
+Best Practices 
+ 
+Comprehensive Plans should: 
+• Recognize existing and historic mining, quarrying and cement production 
+areas within the Future Land Use Map. 
+• Designate mineral resource overlay areas consistent with the Pennsylvania 
+Municipalities Planning Code (§603(i)) to protect known deposits and ensure 
+compatibility with nearby uses. 
+• Plan for post-extraction reuse of sites for recreation, open space, energy 
+generation (e.g., solar installations) or redevelopment. 
+• Address connections between resource extraction, freight routes, and industrial 
+supply chains to ensure safe and efficient goods movement. 
+• Incorporate recycling, reclamation, and circular-material industries as emerging 
+components of the regional economy. 
+ 
+ 
+ 
+68
+
+[page 69]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+51 
+ 
+Zoning Should: 
+• Define extraction-related uses clearly (e.g., mineral 
+extraction, quarrying, aggregate recycling, material processing) to distinguish 
+between traditional extraction and modern reclamation or recycling. 
+• Limit these uses to industrial or mineral-resource districts with adequate buffering 
+from residential or institutional uses. 
+• Establish performance standards for blasting, dust, truck routing, and hours of 
+operation to minimize community impacts. 
+• Require landscaping, berming and visual screening to reduce aesthetic impacts. 
+• Support transitional and circular economy uses within existing industrial areas 
+that handle, recycle, or repurpose materials. 
+ 
+Subdivision & Land Development Ordinances Should: 
+• Require site and reclamation plans addressing grading, erosion control, 
+stormwater management and future site reuse. 
+• Coordinate with Pennsylvania DEP permitting under the Noncoal Surface Mining 
+Conservation and Reclamation Act and related regulations. 
+• Include truck circulation and access management standards to reduce conflicts 
+with local roads. 
+• Require bonding or financial assurance for reclamation and long-term 
+maintenance. 
+• Encourage redevelopment-ready reclamation that aligns with future land use and 
+economic goals 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+69
+
+[page 70]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+52 
+ 
+Managing Industrial Land Use Impacts 
+Lehigh County’s industrial landscape has already been shaped by decades of growth in 
+manufacturing, warehousing and logistics. These uses remain vital to the regional 
+economy, but they also generate ongoing impacts on infrastructure, utilities, the 
+environment, community character and quality of life. Municipalities can address these 
+challenges not only when new projects are proposed but also as part of managing the 
+day-to-day realities of existing industrial operations. The following topics outline key 
+areas of concern and provide best practices that local governments can use to manage 
+existing industrial land uses more effectively. 
+ 
+The following section outlines ways municipalities can address specific impacts. 
+ 
+Transportation Infrastructure 
+ 
+Roads and Bridges 
+Industrial development in Lehigh County depends heavily on the regional road network. 
+Warehousing, logistics and manufacturing generate substantial truck traffic that affects 
+local roads and bridges, particularly near highway interchanges and industrial corridors. 
+As freight volumes grow, municipalities must balance the economic benefits of access 
+with the costs of maintenance, congestion, and safety. 
+ 
+Mitigation Strategies and Best Practices 
+• Comprehensive Plans: Identify key freight routes and roadways suitable for 
+truck access. Discourage industrial development along local streets not built for 
+heavy vehicles. 
+• Zoning: Require industrial sites to locate near arterial roads or highway 
+interchanges, with clearly designated truck access points. 
+• SALDO: Mandate traffic impact studies for new or expanded industrial projects 
+and require developers to fund off-site roadway or intersection improvements. 
+o Require on-site design that safely accommodates truck turning 
+movements, staging, and parking without impacting public roads. 
+• Implement local truck routing ordinances or signage to keep heavy vehicles on 
+preferred corridors. 
+• Coordinate with PennDOT and Lehigh Valley Transportation Study (LVTS) to 
+prioritize freight-related infrastructure investments. 
+ 
+Air Travel 
+Air travel infrastructure, especially Lehigh Valley International Airport (ABE), is an 
+integral part of the region’s freight network, supporting time-sensitive shipments and 
+specialized cargo. Industrial and logistics growth around the airport creates both 
+opportunity and planning challenges, including noise exposure, airspace protection, and 
+land use compatibility. Municipalities near flight paths or airport influence areas must 
+balance economic development with community impacts and aviation safety. 
+ 
+ 
+70
+
+[page 71]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+53 
+ 
+Mitigation Strategies and Best Practices 
+• Comprehensive Plans: Include airport influence areas and flight paths in land 
+use maps to guide compatible development. 
+• Zoning: Establish airport overlay districts to limit building height, lighting and 
+electromagnetic interference. Ensure compatible land uses near airports. 
+o Encourage logistics and industrial uses that directly benefit from proximity 
+to the airport, while maintaining appropriate buffering from residential 
+areas. 
+• SALDO: Require Federal Aviation Administration (FAA) and airport authority 
+coordination for developments within defined approach or transition zones. 
+o Support multimodal connections between air freight facilities, roadways, 
+and rail to reduce congestion and improve efficiency. 
+Rail 
+Rail remains a key component of Lehigh County’s industrial and freight network, 
+connecting local industries to regional and national markets. Industrial development 
+near existing rail lines can improve efficiency and reduce truck dependency, but it also 
+presents unique safety, noise and access challenges. Municipalities can play a role in 
+protecting rail corridors, supporting rail-served development, and ensuring that rail-
+adjacent uses are compatible with surrounding communities. 
+ 
+Mitigation Strategies and Best Practices 
+• Comprehensive Plans: Identify and protect existing rail corridors and sidings for 
+industrial and freight uses; encourage redevelopment of brownfield or obsolete 
+industrial sites with rail access. 
+• Zoning: Create or update industrial districts that support rail-served uses, with 
+appropriate setbacks and buffering from sensitive land uses. 
+o Promote adaptive reuse of older industrial properties near rail for modern, 
+rail-compatible industries. 
+• SALDO: Require coordination with rail operators for developments adjacent to 
+rail lines or crossings; ensure safe design for truck and employee access. 
+o Support grade separation projects and safety enhancements at rail 
+crossings where feasible. 
+• Encourage rail as part of multimodal freight planning to reduce truck dependency 
+and roadway impacts. 
+ 
+Utility Infrastructure 
+ 
+Water 
+Industrial facilities can place significant demands on local water systems, whether 
+through high-volume users like food and beverage manufacturing, cold storage, or data 
+centers, or by expanding into areas without adequate infrastructure. In Lehigh County, 
+where communities rely on a mix of municipal systems, private wells, and regional 
+authorities, these pressures can strain capacity or create costly infrastructure needs. 
+ 
+ 
+ 
+71
+
+[page 72]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+54 
+ 
+Mitigation Strategies and Best Practices 
+• Comprehensive Plans: Map existing and planned water infrastructure to guide 
+industrial growth to serviceable areas. 
+• Zoning: Require water-intensive uses (e.g., data centers, food processors) to 
+locate in districts with adequate public water service. 
+• SALDO: Mandate proof of adequate water supply and capacity before plan 
+approval, including coordination letters from water providers. 
+• Require developers to fund necessary extensions or upgrades to municipal water 
+systems as opportunities present themselves, rather than shifting costs to the 
+community. 
+• Incorporate water conservation and efficiency requirements into zoning 
+performance standards, especially for high-demand uses. 
+• Encourage industrial users to adopt alternative water systems (graywater reuse, 
+rainwater harvesting) to reduce reliance on potable supplies. 
+ 
+Sewer 
+Industrial growth can overwhelm existing sewer systems, especially when large-scale 
+facilities concentrate in areas not built for high wastewater flows. In Lehigh County, 
+many municipalities with development areas rely on local sewer authorities with aging 
+infrastructure that may already be near capacity. Uncoordinated expansion can lead to 
+capacity shortfalls, costly upgrades and water quality risks, and service extensions may 
+drive unplanned sprawl or conflict with preservation goals. 
+ 
+Mitigation Strategies and Best Practices 
+• Comprehensive Plans: Identify areas with sufficient sewer capacity for industrial 
+growth and avoid designating sewer-dependent uses in areas without planned 
+service. 
+o Update Official Sewage Facilities Plans (Act 537) 
+• Zoning: Direct intensive industrial uses to districts with existing or expandable 
+sewer infrastructure. Require pretreatment facilities for high-strength or 
+specialized waste streams. 
+• SALDO: Require developers to demonstrate available sewer capacity 
+before approval, including written confirmation from the sewer authority. 
+•  
+• Condition approvals on necessary upgrades or expansions being funded by the 
+developer rather than the municipality or ratepayers. 
+• Establish clear standards for industrial wastewater discharge, including 
+pretreatment requirements where needed. 
+• Coordinate land use approvals with regional sewer authorities early in the review 
+process to avoid service conflicts or capacity shortfalls. 
+ 
+Stormwater 
+Industrial facilities create large impervious surfaces that increase stormwater runoff, 
+flooding and pollution risks. In Lehigh County, where stormwater management is 
+regulated at both the local level by the municipality and at the watershed level by LVPC, 
+and many communities have older systems that weren’t designed for today’s scale of 
+72
+
+[page 73]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+55 
+ 
+development combined with increasing rainfall. Without proactive management, 
+stormwater can degrade streams, overwhelm infrastructure, heighten local flood risks.  
+ 
+Mitigation Strategies and Best Practices 
+• Comprehensive Plans: Identify flood-prone and environmentally sensitive 
+areas, steering industrial development away from high-risk locations. 
+• Zoning: Require stormwater management practices that reduce peak runoff, 
+protect water quality and encourage green infrastructure (bioswales, rain 
+gardens, permeable pavement). 
+• SALDO: Mandate detailed stormwater management plans with development 
+applications, ensuring compliance with state MS4 and Act 167 watershed 
+requirements. 
+• Require developers to establish long-term maintenance agreements for 
+stormwater facilities, with clear responsibilities and funding mechanisms. 
+• Encourage retrofitting of older industrial sites with improved stormwater 
+controls during redevelopment. 
+• Promote site design that minimizes impervious coverage through shared 
+parking, reduced pavement, and compact building footprints. 
+ 
+Waste Disposal 
+Industrial uses generate solid and hazardous waste that can strain local systems if not 
+properly managed. High volumes of packaging, pallets, and other materials from 
+warehouse and logistics operations can overwhelm local disposal and recycling 
+systems, and certain manufacturing processes produce specialized wastes requiring 
+pretreatment or off-site disposal. In Lehigh County, improper storage or disposal risks 
+contaminating groundwater, impacting neighboring land uses, or burdening municipal 
+services.  
+ 
+Mitigation Strategies/Best Practices 
+• Comprehensive Plans: Establish policies for sustainable waste 
+management, including recycling and reduction goals, that industrial land 
+uses should support. 
+• Zoning: Require on-site waste and recycling storage areas to be screened 
+from public view and designed to prevent nuisances. 
+• SALDO: Mandate inclusion of adequate waste handling, storage and pickup 
+facilities in site plans, sized appropriately for the scale of industrial operations. 
+• Coordinate with county and regional solid waste management plans to ensure 
+capacity and compliance with broader goals. 
+• Encourage or require recycling and reuse programs for common industrial 
+materials such as pallets, cardboard and plastics. 
+• For specialized or hazardous waste generators, require proof of compliance 
+with Pennsylvania DEP and federal disposal standards as part of land 
+development approval. 
+ 
+ 
+73
+
+[page 74]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+56 
+ 
+ 
+Electricity 
+Industrial operations are among the largest consumers of electricity, and demand is 
+growing as energy-intensive uses like data centers, cold storage, and advanced 
+manufacturing or logistics hubs expand in Lehigh County. Reliable, resilient power is 
+essential for these facilities, and high demand can cause service disruptions and costly 
+upgrades if siting and use is not coordinated.  
+ 
+Mitigation Strategies and/ Best Practices 
+• Comprehensive Plans: Coordinate future land use designations with areas 
+that have sufficient electrical infrastructure or where upgrades are planned. 
+• Zoning: Require siting standards for substations and generators, including 
+screening, setbacks and noise/emission controls. 
+• SALDO: Mandate documentation from utility providers confirming service 
+capacity before project approval. 
+• Require developers to finance necessary electrical system upgrades rather 
+than shifting costs to the municipality or ratepayers. 
+• Encourage or require energy-efficient building design and renewable energy 
+integration, such as solar-ready rooftops and EV charging infrastructure. 
+• Coordinate with utilities and regional grid operators early in the planning 
+process to align infrastructure planning with industrial growth. 
+ 
+Broadband 
+Modern industries depend on high-speed broadband for logistics, operations, and 
+advanced technologies. In Lehigh County, gaps in broadband coverage or capacity can 
+limit industrial growth, and if new land uses outpace broadband infrastructure, that may 
+leave facilities and surrounding communities without reliable service. 
+ 
+Mitigation Strategies and Best Practices 
+• Comprehensive Plans: Identify broadband access as critical infrastructure, 
+mapping service availability and prioritizing industrial development in 
+connected areas. 
+• Zoning: Require new data centers or high-tech facilities to demonstrate 
+broadband redundancy and reliability as part of approval. 
+• SALDO: Mandate installation of conduit or fiber-ready infrastructure in new 
+industrial subdivisions and developments. 
+• Coordinate with broadband providers early in the land development review 
+process to ensure capacity and timely installation. 
+• Encourage or require “dig once” policies so that when roads or utilities are 
+opened for construction, broadband conduit is installed concurrently. 
+• Partner with county and regional broadband initiatives to align industrial 
+growth with long-term digital infrastructure investments. 
+ 
+ 
+ 
+74
+
+[page 75]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+57 
+ 
+Community Safety 
+ 
+Emergency Response 
+Industrial facilities can pose heightened risks for fire, hazardous materials and worker 
+safety incidents. In Lehigh County, where many municipalities rely on volunteer 
+emergency services and regional coordination, industrial land uses can stretch local 
+response capacity. Ensuring that emergency services can access sites quickly and 
+safely, and that facilities have appropriate safety plans in place, is essential to 
+protecting workers and nearby residents. 
+ 
+Mitigation Strategies and Best Practices 
+• Comprehensive Plans: Include coordination with emergency services in land 
+use policies; identify response time gaps and plan for mutual aid agreements. 
+• Zoning: Require safety and hazard mitigation plans for high-risk industrial uses, 
+including materials storage, evacuation routes, and suppression systems. 
+• SALDO: Mandate review of site plans by local fire and emergency services to 
+ensure adequate access, hydrant placement, and water flow. 
+• Require industrial developers to provide on-site fire protection infrastructure, 
+such as hydrants, sprinklers, or water storage where public supply is limited. 
+• Coordinate with local emergency management agencies for training and 
+response planning tailored to facility operations. 
+• Encourage or require developers to contribute to emergency service 
+infrastructure or equipment needs when projects significantly increase risk 
+exposure. 
+ 
+Access 
+Safe, efficient site access is a key factor in managing industrial land use impacts. 
+Facilities generate frequent truck and employee traffic, and poorly designed entrances 
+or internal circulation can create hazards for both site users and the public. In Lehigh 
+County, industrial access design plays a critical role in maintaining safety, reducing 
+congestion and ensuring emergency responders can reach facilities when needed. 
+ 
+Mitigation Strategies and Best Practices 
+• Comprehensive Plans: Identify preferred access routes for industrial areas, 
+linking them to major corridors while minimizing neighborhood impacts. 
+• Zoning: Require separate truck and passenger vehicle access points where 
+feasible and set minimum driveway spacing and turning radius standards. 
+• SALDO: Mandate transportation impact studies that evaluate access design, 
+intersection function and safety improvements. Require developer-funded 
+mitigation. 
+• Require adequate turning radii, internal circulation loops and designated truck 
+staging areas to prevent queuing on public streets. 
+• Coordinate access design with PennDOT and county agencies to ensure 
+consistency with highway occupancy and freight movement standards. 
+• Require signage, lighting and pavement markings that clearly separate truck, 
+employee, and visitor routes within large sites. 
+75
+
+[page 76]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+58 
+ 
+Parking 
+ 
+Visitor Parking 
+Visitor parking at industrial sites supports business operations, meetings, and deliveries 
+but is often overlooked during site planning. While visitor traffic is typically lower than 
+employee or truck traffic, inadequate parking or poor placement can create safety 
+conflicts and accessibility issues, especially when visitors must navigate active loading 
+or truck areas. 
+ 
+Mitigation Strategies and Best Practices 
+• Comprehensive Plans: Promote safe, accessible design for visitor parking 
+areas as part of overall site circulation policies. 
+• Zoning: Require visitor parking to be located near primary entrances and 
+separate from loading and truck areas. 
+• SALDO: Mandate pedestrian connections from visitor spaces to building 
+entrances that are ADA-compliant and well-lit. 
+• Encourage clear signage and wayfinding to distinguish visitor parking from 
+employee and truck areas. 
+• Allow reduced visitor parking requirements where demand is low or shared 
+parking arrangements are appropriate. 
+• Require landscaping or green buffers to soften visual impacts along road 
+frontages. 
+ 
+Employee Parking 
+Employee parking directly influences site design, land use efficiency and transportation 
+patterns. Industrial facilities often operate multiple employee shifts, leading to varying 
+parking demands and concentrated traffic peaks during shift changes. Large parking 
+lots can consume significant amounts of land, increase stormwater runoff and reduce 
+space available for buildings, landscaping, or sustainable site features. At the same 
+time, insufficient parking can affect employee accessibility and operations, especially in 
+areas without robust transit service.  
+ 
+Mitigation Strategies and Best Practices 
+• Comprehensive Plans: Encourage right-sizing parking to balance availability 
+with land conservation; promote safe and efficient site access and use of 
+alternative transportation modes. 
+• Zoning: Establish employee parking minimums and maximums by industrial use 
+type. 
+• SALDO: Require site plans to demonstrate safe pedestrian circulation between 
+employee parking and building entrances; require separation of employee 
+parking from loading areas. 
+• Encourage alternative transportation options such as carpooling, public transit, 
+biking and walking to lower parking demand. 
+• Support transit-oriented development and shared mobility infrastructure near 
+industrial employment centers to reduce the need for large surface lots. 
+ 
+76
+
+[page 77]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+59 
+ 
+Truck Parking 
+Truck parking, loading, and staging are among the most critical and challenging aspects 
+of industrial site design in Lehigh County. The region’s role as a major freight and 
+logistics hub means that industrial facilities depend on the safe and efficient movement 
+of heavy vehicles. When on-site truck parking or loading areas are insufficient, drivers 
+often resort to idling or parking along public roads, creating congestion, safety hazards, 
+and community concerns. Truck parking and loading facilities also consume large land 
+areas, influencing site layout, traffic circulation, and the overall efficiency of industrial 
+land use. Poorly planned or oversized facilities can generate noise, air pollution and 
+visual impacts that affect nearby residents, workers and property values. 
+ 
+Mitigation Strategies and Best Practices 
+• Comprehensive Plans: Identify freight infrastructure as part of goods-movement 
+planning; map preferred industrial corridors and suitable sites for truck parking 
+facilities that minimize neighborhood impacts. 
+• Zoning: Require industrial developments to provide dedicated on-site truck 
+parking and staging areas separated from employee and visitor parking. 
+• SALDO: Mandate circulation plans that include designated truck entrances, 
+queuing areas, and turning radii suited to large vehicles. Minimize community 
+impacts by prohibiting truck parking and loading areas from facing residential 
+districts. Require aesthetic, noise and light mitigation strategies such as 
+downward lighting, buffering, berms and landscaping, and sound level 
+restrictions and monitoring. Require electric plug-in infrastructure or anti-idling 
+measures to reduce emissions at parking and loading areas. 
+• Support regional initiatives, such as the Eastern Pennsylvania Freight 
+Infrastructure Plan (EPFA) which emphasize expanding overnight truck parking 
+capacity to meet growing freight demands. 
+ 
+Environmental Factors 
+ 
+Noise 
+Noise is one of the most common community concerns associated with industrial land 
+uses. Truck movements, loading docks, refrigeration units, cooling systems, backup 
+generators and around-the-clock operations can create constant or intermittent noise 
+that affects nearby residents and businesses. In Lehigh County, where industrial areas 
+are often close to residential neighborhoods or mixed-use corridors, managing noise is 
+essential to maintaining quality of life and community compatibility. 
+ 
+Mitigation Strategies and Best Practices  
+• Comprehensive Plans: Identify noise-sensitive land uses like residential 
+neighborhoods, schools, healthcare facilities, and high-priority natural habitats to 
+guide industrial growth away from these areas.  
+• Zoning: Establish clear noise performance standards and maximum decibel 
+levels at property lines. Require noise mitigation strategies such as setbacks, 
+sound walls, or landscaped buffers between industrial and non-industrial uses. 
+77

@@ -1,0 +1,858 @@
+
+
+[page 114]
+Land Use Conflicts Are Becoming More Nuanced
+Local leaders expressed concern that new industrial users — especially large 
+energy-intensive ones — could crowd out desired residential or commercial 
+development by consuming disproportionate shares of available infrastructure 
+capacity or land supply.
+Municipalities are navigating how to balance:
+• The need for economic growth
+• Maintaining community character
+• Avoiding over-concentration of industrial uses in certain areas
+Brownfield Reuse and “Best Use of 
+Existing Space” Remain Strong Values
+Many municipalities voiced a desire to direct industrial growth to brownfields, 
+existing industrial districts, and redevelopment areas rather than greenfields.
+Townships and boroughs emphasized:
+• Leverage existing regional assets such as the Lehigh Valley International 
+Airport and FedEx Ground logistics hub
+• Aligning industrial development with long-term community visions, including 
+housing and commercial growth priorities
+Lehigh County Industrial Land Use Guide | Municipal Engagement
+Communities Need Guidance on 
+Emerging Industrial Uses
+Municipalities reported a high level of uncertainty about the unique impacts of 
+data centers and other new industrial uses. Key themes included:
+• Understanding noise, cooling systems, backup power generation and utility 
+intensity
+• Clarifying decommissioning expectations and life-cycle impacts
+• Ensuring local zoning standards are consistent with state legislation 
+Several communities are researching emerging uses or revising ordinances, 
+but expressed the need for consistent regional data and best practices to 
+support their efforts.
+114
+
+[page 115]
+Communities Need Practical Tools, 
+Examples and Clear Data
+Across municipalities the most requested supports from LVPC included:
+• Case studies that illustrate impacts, such as utility 
+consumption, traffic generation and project timelines
+• Regional studies, guidance documents and 
+examples from peer communities
+• Support in developing or updating comprehensive plans, zoning, 
+and Subdivision and Land Development Ordinances (SALDOs)
+• Technical assistance in capital improvement planning
+• Assistance in funding frequent ordinance updates, 
+and planning and code modernization
+Urban Communities Have Distinct Concerns
+• City of Allentown representatives highlighted challenges around adapting 
+pre-war industrial buildings for modern manufacturing and freight demands. 
+Questions included how to incorporate modern loading, circulation and 
+safety requirements into dense, historic settings.
+• The workshop made clear that industrial land use in Lehigh County is 
+evolving rapidly, and municipalities are eager for coordinated regional 
+guidance. Participants are facing a mix of long-standing issues — like 
+freight traffic and redevelopment — as well as new, complex challenges 
+around utility capacity, digital infrastructure and emerging industrial uses.
+• The feedback from this engagement directly shaped the structure of the 
+Guide, ensuring it addresses the real-world issues communities are facing 
+and provides the tools, insights, and resources needed to support informed, 
+proactive planning for Lehigh County’s industrial future.
+10
+115
+
+[page 116]
+INDUSTRIAL MARKET EVOLUTION 
+AND DEVELOPMENT TRENDS
+Lehigh County Industrial Land Use Guide
+116
+
+[page 117]
+12
+Warehousing and Logistics 
+The surge in online shopping during and after the COVID-19 Pandemic accelerated demand for 
+large distribution facilities across the Lehigh Valley. Nearly every available building was quickly 
+leased, and vacancy rates fell to around 3% in 2022 — an extremely low level for the market. With 
+space scarce, rental prices more than doubled in just a few years, climbing from about $5 per 
+square foot in 2021 to over $11 per square foot by the end of 2024.
+As of mid-2025, the market has begun to stabilize. Vacancy rates have risen to about 7%, and 
+lease rates have leveled off, signaling a transition from rapid expansion to a more sustainable 
+balance of supply and demand. This shift reflects a healthy market adjustment rather than a 
+broader decline.
+The logistics sector is also diversifying. Subleasing activity has increased as companies reassess 
+space commitments made during the pandemic, creating new opportunities for smaller businesses. 
+Flex space, which can accommodate light manufacturing, assembly, storage, and administrative 
+functions (potential call-out definition), is becoming more common.
+Manufacturing 
+Manufacturing in Lehigh County is becoming increasingly high-tech, driven by automation, robotics 
+and digital systems that reduce labor needs but heighten demands for skilled technicians, reliable 
+power and broadband. These technological advancements require less space to operate, leading 
+to a shift toward smaller facilities, typically between 20,000 and 50,000 square feet. Emerging 
+manufacturers are producing electronics and medical devices, while reshoring trends are returning 
+production of semiconductors, pharmaceuticals and other goods to the United States to shorten 
+supply chains.
+Together, warehousing and manufacturing trends illustrate a regional industrial market that 
+remains active but is beginning to stabilize after a period of rapid growth.
+Once known for its steel manufacturing and heavy industries like slate and cement, the Lehigh 
+Valley has evolved into an e-commerce and logistics hub for the Northeastern United States. 
+Situated along the I-78 and Interstate 80 (I-80) corridors, the Valley is within a day’s drive of 
+roughly one-third of the nation’s population. This geographic advantage has made Lehigh County 
+a competitive location for distribution and warehousing, supporting sustained growth in the 
+industrial real estate market.
+117
+
+[page 118]
+Industrial Market Conditions
+Following years of record expansion, the Lehigh Valley’s industrial market is entering a period of 
+stabilization as demand begins to balance with available supply. Net absorption — the difference 
+between space leased and vacated — has slowed, while new construction has declined to its 
+lowest level since 2013, with just 743,000 square feet breaking ground along the Interstate 78/ 
+Interstate 80 corridor in early 2025, according to international real estate firm CBRE.
+Both declining absorption and reduced construction reflect a market realignment after the 
+pandemic-era surge in warehouse development. As fewer large-scale projects are proposed, the 
+total industrial square footage added to the market each year has moderated.
+Lease rates have since stabilized around $11.50, remaining among the highest along the corridor. 
+Nationally, 2024 marked the 15th consecutive year of industrial expansion across the United States, 
+though at its slowest pace since 2010. Within this context, the Lehigh Valley has demonstrated 
+steady performance and resilience, maintaining near-zero changes in inventory, absorption and 
+rent growth, even as larger metros experienced sharper swings.
+Recent trade policies and executive actions have introduced some uncertainty, prompting many 
+companies to delay expansion decisions until costs and supply chain implications become clearer. 
+This cautious, strategic approach is visible nationwide, including in the Lehigh Valley, where 
+developers are taking a longer-term view of new industrial investment.
+Regional Development Patterns
+Development patterns across the Lehigh Valley over the past decade reflect a region in transition 
+— shifting from rapid industrial expansion toward more balanced, mixed-use growth. Between 
+2015 and 2022, multi-family housing approvals rose steadily, reflecting increased demand for 
+higher-density living near employment and service centers. Public and quasi-public uses such 
+as healthcare facilities also expanded, signaling broader investment in community infrastructure.
+During the pandemic, municipalities such as Bethlehem, and the townships of Lower Macungie, 
+South Whitehall and Whitehall experienced a temporary spike in non-residential square footage 
+as businesses sought space outside dense urban areas. That surge has since receded, while 
+steady growth continues in Upper Macungie Township, Allentown and Bethlehem, where strong 
+transportation access, workforce proximity and established infrastructure continue to attract 
+investment.
+Meanwhile, warehouse and industrial development peaked during the pandemic and has since 
+returned to pre-pandemic levels. Office and retail construction have declined since 2018, 
+influenced by remote work, e-commerce, and automation. These changes highlight an evolving 
+regional identity — one that increasingly emphasizes livability, resilience and sustainable economic 
+diversity.
+Importantly, the industrial surge was accompanied by parallel residential growth. Municipalities 
+including Allentown, Bethlehem, Emmaus Borough and South Whitehall Township experienced 
+simultaneous increases in both housing and non-residential development, underscoring the close 
+link between industrial expansion and housing demand. As both sectors stabilize, the Lehigh 
+Valley appears to be entering a post-boom phase defined by moderate, sustainable growth that 
+supports long-term economic strength and regional balance.
+Lehigh County Industrial Land Use Guide | Industrial Market Evolution and Development Trends
+118
+
+[page 119]
+14
+Evolving Industrial Needs
+Looking ahead, Lehigh County’s industrial landscape will continue evolving as new technologies, 
+energy systems, and logistics models reshape how and where industries operate. Traditional 
+warehousing and manufacturing will increasingly intersect with technology-driven production 
+— such as biofabrication, microchip manufacturing and large-scale 3D printing — that demand 
+smaller, more specialized facilities supported by high-capacity utilities and broadband. 
+Digital and automated industrial operations, including data centers, cryptocurrency mining, and 
+autonomous vehicle hubs, will expand the region’s role in the national digital economy but will also 
+heighten energy and infrastructure demands. 
+Simultaneously, energy generation and storage facilities from solar and battery installations to 
+advanced grid management systems will become more common as Pennsylvania’s energy market 
+modernizes and industries seek sustainable, resilient power sources.
+The freight and logistics sector is also expected to transform with the adoption of electric and 
+autonomous trucks, increased intermodal connectivity, and the redevelopment of aging warehouse 
+stock for more efficient operations. 
+Together, these shifts point toward an industrial future defined by varying footprints, higher energy 
+intensity, greater digital integration, and closer ties between industrial land use, infrastructure 
+and community planning. For municipalities, this means planning proactively, by updating zoning, 
+infrastructure, and comprehensive plans to ensure that future industrial growth remains compatible 
+with community character, resource capacity and long-term regional goals.
+119
+
+[page 120]
+TOOLS FOR  
+LOCAL GOVERNMENT
+Lehigh County Industrial Land Use Guide
+120
+
+[page 121]
+The foundation for how Pennsylvania municipalities guide growth and development is established 
+by the Pennsylvania Municipalities Planning Code (MPC). The MPC grants local governments the 
+authority to adopt comprehensive plans, zoning ordinances, and subdivision and land development 
+ordinances, which together form the framework for managing land use and development.
+Many municipalities in Lehigh County have adopted these planning and regulatory tools provided 
+under the MPC, but too often these tools are developed and maintained in silos. A municipality 
+may prepare a comprehensive plan, write a zoning ordinance, and adopt a subdivision and land 
+development ordinance (SALDO), yet over time the connection between the three becomes 
+blurred. Outdated zoning may not reflect the vision set forth in the comprehensive plan, and 
+SALDO provisions may drift away from the standards needed to support zoning districts. When 
+this happens, municipalities are left reacting to development proposals instead of proactively 
+guiding them, particularly as new or unfamiliar industrial uses emerge.
+16
+For industrial land uses in particular, integration is critical. Industrial facilities often come with large 
+site footprints, significant infrastructure demands, and potential community impacts on traffic, 
+environment, and quality of life. If zoning regulations are not aligned with SALDO standards, 
+municipalities may miss opportunities to manage truck circulation, buffer adjacent neighborhoods, 
+or ensure adequate utility capacity. Likewise, if zoning diverges from the comprehensive plan, 
+municipalities may find themselves facing development in areas that conflict with community goals. 
+When used together intentionally, these tools allow municipalities to stay ahead of market trends, 
+set clear expectations for developers, minimize conflicts between industrial development and 
+surrounding land uses, ensure that industrial growth aligns with local priorities, and protect quality 
+of life while supporting economic opportunity. The sections that follow provide guidance on how 
+each tool can be applied to help communities make informed, forward-looking decisions about 
+industrial land use.
+121
+
+[page 122]
+Comprehensive Plans
+A comprehensive plan is the highest-level policy document a municipality has under the MPC. 
+While not regulatory on its own, it establishes the vision, goals, and framework that zoning 
+ordinances and subdivision and land development ordinances (SALDOs) should implement. 
+Here is how comprehensive plans can address industrial land uses:
+Identify Suitable Locations
+Analyze transportation networks, utility capacity, environmental features and land availability to guide 
+where industrial development is most appropriate. Set policies that clearly determine the outcomes 
+of development, avoiding conflicts with residential areas, schools or sensitive natural resources.  
+Designate industrial growth areas, and highlight opportunities for reuse or redevelopment.
+Balance Land Use Priorities
+Consider housing, agriculture, open space and economic development together to ensure that 
+industrial growth is accommodated without displacing other community priorities.
+Anticipate Emerging Trends
+Include policies for new or evolving uses to proactively set expectations before proposals arrive.
+Set Transportation and Infrastructure Policies
+Identify where infrastructure upgrades may be needed; outline strategies for coordinating with 
+utility providers and transportation agencies; include policies to elevate the quality of developments 
+and minimize impacts (truck driver necessities, parking, etc.); reference other municipal planning 
+documents such as Official Sewage Facilities Plans and Capital Improvements Plans.
+Promote Design and Mitigation Standards
+While zoning and SALDO carry the enforceable requirements, the comprehensive plan can 
+establish policies for enhanced built environments through buffering, landscaping, sustainable 
+building practices, renewable energy, architectural treatments and building aesthetics.
+Support Regional Coordination
+Align local goals with FutureLV: The Regional Plan to support regional coordination, as industrial 
+markets and freight traffic cross municipal boundaries.
+Lehigh County Industrial Land Use Guide | Tools for Local Government
+122
+
+[page 123]
+Zoning
+Zoning is the most direct regulatory tool municipalities have to manage industrial land uses. As 
+authorized by the MPC, zoning ordinances establish where industrial uses are permitted, the 
+standards they must meet, and how they relate to surrounding land uses. Zoning regulations are 
+created to implement the visions of comprehensive plans and are legally enforceable. 
+Here is how zoning ordinances and maps can address industrial land uses:
+Differentiate Between Types of Industry
+Ordinances should include clear definitions that establish separate uses based on their types and 
+resulting impacts, including manufacturing, technology industry, warehousing and logistics. 
+Designate Appropriate Districts
+Zoning maps identify where industrial uses can go, typically near highways, rail corridors, or other 
+infrastructure, and away from residential neighborhoods and sensitive environmental areas.
+Utilize Overlay Districts 
+Overlay districts apply an additional set of standards to a specified geographic area on top of 
+the underlying zoning district. They can be used to increase flexibility and target development, 
+for example by allowing for a wider range of permitted uses than the base zoning, or to impose 
+additional standards that limit development, such as due to the presence of natural features.
+Set Dimensional and Site Standards
+Requirements for setbacks, buffering and building height reduce conflicts with adjacent uses, 
+especially when near residential or mixed-use areas.
+Require Screening and Design Features
+Landscaping, berms, façade requirements and green building practices can help reduce the visual 
+and environmental footprint of large industrial buildings.
+Mitigate Operational Impacts
+Performance standards address noise, lighting, emissions, truck circulation, hours of operation and 
+other potential impacts, ensuring industrial activity does not create nuisances for neighbors.
+Address Transportation and Parking
+Truck routes, loading areas and parking requirements can be tailored to industrial uses, keeping 
+heavy vehicle traffic off local streets and ensuring adequate but not excessive parking.
+Encourage Redevelopment and Reuse
+Flexible zoning provisions can make it easier to reuse or redevelop obsolete industrial sites and 
+reinvest in brownfield sites to support community revitalization.
+Protect Natural Resources
+Overlay districts, environmental performance standards, and conservation design techniques can 
+ensure that industrial development avoids or mitigates impacts on critical habitats, farmland or water 
+resources.
+18
+123
+
+[page 124]
+Subdivision and Land Development Ordinances
+While zoning determines where industrial uses may be located, Subdivision and Land Development 
+Ordinances (SALDOs) establish detailed requirements for how land is divided and developed. 
+These ordinances as authorized by the MPC allow municipalities to ensure that new industrial sites 
+are designed safely, efficiently and in ways that minimize impacts on surrounding communities, 
+working in tandem with zoning and comprehensive plans to create a predictable, consistent 
+framework of plan submission and review for both municipalities and developers.
+Here is how SALDOs can address industrial land uses:
+Transportation and Access Management
+Require traffic impact studies that are accurate for the intended use, to assess infrastructure 
+needs and ensure safe and efficient truck circulation, including designated entrances, on-site 
+truck parking and turning radius requirements.
+Infrastructure and Utilities
+Require adequate sewer, water, stormwater, and broadband capacity before approval of plans. 
+Incorporate modern infrastructure needs, such as electric vehicle charging or redundant power 
+for high-tech uses.
+Stormwater and Environmental Management
+Encourage green infrastructure approaches such as rain gardens. Protect floodplains, wetlands 
+and steep slopes through development standards that minimize site disturbance. Require 
+landscaping and tree plantings in parking areas and throughout sites to improve air quality and 
+mitigate heat island effects.
+Site Layout and Design Standards
+Establish minimum requirements for parking, loading areas and internal circulation that reflect 
+industrial needs without overbuilding. Require screening of loading docks, outdoor storage and 
+mechanical equipment from public rights-of-way and adjacent residential areas. Require pedestrian 
+and bicycle infrastructure to support workforce mobility and safety, including sidewalks, lighting, 
+bus shelters, and safe crossings.
+Worker and Driver Amenities
+Encourage or require workforce amenities such as break areas, green space and driver facilities.
+Regional Coordination
+Incorporate external agencies including the Lehigh and Northampton Transportation Authority 
+(LANTA) and LVPC early and often in review processes.
+Emergency Services Coordination 
+Within plan review regulations and procedures, require early coordination with local fire, emergency 
+medical, and police services to review site access, circulation, and any features that may affect 
+emergency response including building layout, gate locations, hydrant access, and internal road 
+design. This coordination ensures that sites are designed to support effective emergency access.
+Lehigh County Industrial Land Use Guide | Tools for Local Government
+124
+
+[page 125]
+20
+125
+
+[page 126]
+Lehigh County Industrial Land Use Guide
+126
+
+[page 127]
+STRATEGIES  
+FOR ADDRESSING  
+INDUSTRIAL LAND USES
+22
+127
+
+[page 128]
+EMERGING AND EVOLVING 
+INDUSTRIAL LAND USES
+Evolving and emerging industrial land uses are grouped into several 
+categories: Digital Infrastructure and Tech Facilities driven by modern-
+day use of computers and data exchange, Advanced Manufacturing driven 
+by technological advancements, Freight, Logistics and Supply Chain as 
+systems increasingly incorporate automation to maximize efficiency, Energy 
+Generation and Storage to power these utility-intensive land uses, and 
+Resource Extraction as the industry’s materials needs shift.
+Lehigh County Industrial Land Use Guide
+128
+
+[page 129]
+24
+Data Centers
+Data centers are facilities that house physical hardware, like computer servers 
+and telecommunications and storage systems, that enable the digital world. 
+When you use devices such as a smartphone or laptop, it’s not the device itself that processes your 
+requests. The device sends your request to a data center, where data is accessed, processed, and 
+returned to your device to complete the request, typically within a fraction of a second. Hyperscale 
+Data Centers are growing rapidly across the country in tandem with the proliferation of artificial 
+intelligence and cloud computing. 
+Data centers, like all technology-based industrial facilities, must be operational 24 hours a day, 
+seven days (24/7) a week and require uninterrupted electricity supply. The equipment produces a 
+lot of heat, and robust cooling systems are required for proper functioning. Most of these cooling 
+systems are water-based and may require between 20,000 gallons per day for smaller data 
+centers to over 500,000 gallons per day for large data centers.
+DIGITAL INFRASTRUCTURE  
+AND TECH FACILITIES
+Cryptocurrency Mining
+Cryptocurrency mining facilities operate high-powered computers that validate 
+blockchain transactions and generate digital currency. 
+Unlike data centers, which process and store information for many users, cryptocurrency mines 
+are single-purpose computing operations designed to solve complex mathematical equations. 
+These facilities are often housed in warehouses or modular container units and rely on constant 
+electricity supply and heavy-duty cooling systems to maintain safe operating temperatures.
+Cryptocurrency mining is extremely energy-intensive and can create substantial strain on local 
+power grids. While some operations locate near renewable energy sources, many depend on 
+fossil-fuel-based electricity, leading to measurable air quality and climate impacts. The number 
+of large-scale cryptocurrency mines in the United States remains relatively small but is expected 
+to grow as digital currencies gain acceptance and the technology becomes more commercially 
+viable.
+Telecommunications Hubs
+Telecommunications hubs, sometimes called network exchange points, 
+carrier hotels, or telecom switching facilities, are specialized sites that house 
+the equipment and infrastructure enabling digital communication networks. 
+These facilities connect internet service providers, mobile carriers, data centers and cloud 
+platforms, allowing data to move efficiently across regional, national and international systems.
+While data centers primarily store and process large volumes of digital information for cloud 
+computing, telecommunications hubs focus on transmission and routing — the physical 
+interconnection points that keep networks operational. Telecom hubs often occupy smaller 
+buildings than data centers but require similar infrastructure, such as redundant power supply, 
+advanced cooling and robust security systems.
+129
+
+[page 130]
+Lehigh County Industrial Land Use Guide | Digital Infrastructure and Tech Facilities
+Key Impacts Across Digital Infrastructure Uses
+Energy Demand and  
+Grid Reliability
+High and constant electricity demand
+Potential strain on local substations and transmission  
+networks
+Need for redundancy and emergency power
+Cooling, Water Use  
+and Heat Generation
+Significant heat output from information-processing  
+equipment
+Cooling systems that may use water, large air-handling units 
+or mechanical chillers
+Potential opportunities for heat recovery or reuse
+Noise and  
+Environmental  
+Factors
+Persistent noise from fans, chillers, air-handling units,  
+transformers and generators
+Air emissions from backup generators or on-site fossil-fuel 
+power sources (more common in crypto mining)
+Stormwater impacts from large impervious surfaces and roof 
+areas
+Visual and Design  
+Considerations
+Windowless or utilitarian buildings, equipment yards,  
+outdoor containerized units
+Need for screening, buffering and architectural standards
+Antenna structures and small-cell nodes at telecom hubs
+Emergency Response  
+and Resiliency
+Hazard mitigation for electrical systems, batteries and fire  
+suppression
+Requirements for 24/7 access and operations continuity
+Elevated risk considerations due to heat, high voltage and  
+redundant power systems
+Community  
+Compatibility
+Siting concerns near residential areas
+Public perceptions about electromagnetic frequency (tele-
+com), fossil-fuel dependency (crypto) or noise (all uses)
+Construction  
+Traffi c
+Increased passenger vehicle traffic due to construction  
+workers accessing site
+Heavy equipment traffic when building is under construction
+Truck traffic to transport data center equipment
+130
+
+[page 131]
+In this daytime view of the New Albany data center campus in Central Ohio, data center Buildings 
+3, 2, and 1 (from left to right) are in the foreground. Photo Credit: Google Data Centers
+26
+(Up to 10,000 sq. ft.) (Up to 100,000 sq. ft.) (Up to 1 Million sq. ft.) (Millions of square feet)
+131
+
+[page 132]
+Mitigation Strategies and Best Practices 
+Digital Infrastructure and Tech Facilities
+Comprehensive Plans Should:
+• Inventory and establish goals and policies for the protection of existing natural and historic 
+resources
+• Inventory, analyze and project existing and future community facilities and utility needs. 
+Establish goals and policies directing digital infrastructure land uses to adequate utility capacity
+• Establish goals and policies supporting the expansion of broadband and fiber internet 
+infrastructure
+• Identify the economic development potential of digital infrastructure facilities, as emerging 
+industrial land uses with impacts that must also be mitigated if encouraged to locate in the 
+community
+• Establish policies that encourage protection of residential areas and community-centered land 
+uses from environmental impacts of land uses adverse to public health and quality of life
+• Establish sustainability goals and policies encouraging renewable or carbon-neutral energy 
+usage
+• Reference other planning documents such as Sewage Facilities Plans, Hazard Mitigation 
+Plans, Energy Conservation Plans, Capital Improvement Plans; and/or identify creating or 
+updating such documents as Comprehensive Plan implementation steps
+Zoning Ordinance Considerations
+Definitions
+• Include a broad definition for “Data Centers” that encompasses all aspects of digital 
+infrastructure land uses
+• Differentiate “Data Centers” as a primary use from an accessory data center
+Districts
+• Direct Data Centers to appropriate areas with:
+ + Compatible land uses such as technology/innovation districts, light or heavy industrial 
+districts, business parks or highway commercial areas
+ + Adequate electrical capacity
+ + Public water service availability
+ + Public sewer service availability
+ + Access to broadband and/or fiber networks
+ + Adequate transportation access for construction and emergency vehicles.
+Lehigh County Industrial Land Use Guide | Digital Infrastructure and Tech Facilities
+132
+
+[page 133]
+28
+• Avoid siting in or near:
+ + Areas with inadequate infrastructure, such as rural areas
+ + Floodplains, wetlands and other natural constraints
+ + Residential neighborhoods or community facilities
+• Consider creating overlay districts to ensure adequate siting
+Regulations and Performance Standards
+• Permit “Data Center” as a conditional use to establish criteria and a process for additional 
+oversight
+• Specify building scale and design standards, including building height, orientation and façade 
+treatments
+• Establish adequate setbacks and buffering
+• Establish standards limiting noise levels at property lines
+• Establish standards limiting light levels at property lines and projected onto adjacent properties
+• Specify a contextual parking requirement, such as one space per employee
+Subdivision and Land Development Ordinance Considerations
+Utility Capacity & Infrastructure
+• Demonstrate adequate water, sewer and electric capacity, with confirmation from utility 
+provider.
+Site Design
+• Require Pennsylvania-native landscaping throughout sites and within buffer areas 
+• Require visually aesthetic enclosures around outdoor equipment
+• Require adequate site access for emergency vehicles
+ + Incorporate emergency service providers in the development review process
+Impact assessments should require community and environmental impact statements 
+evaluating:
+• Energy and water demand
+• Emissions and air quality impacts
+• Noise levels
+• Emergency service requirements
+• Municipal fiscal impacts
+133
+
+[page 134]
+Biotechnology
+Biotechnology or Biotech is a field using living organisms or systems to 
+develop products, processes or services. 
+The field includes biofabrication, which can produce lab-grown meats and animal-free materials 
+such as leather or fur, create bio-based fuels and plastics, and manufacture advanced medical 
+products like implantable organs and 3D tissue models for drug testing. These industries 
+collectively hold potential to transform manufacturing, energy and healthcare while addressing 
+global challenges such as sustainability, ethical production and resource scarcity.
+In Lehigh County, the region’s strong healthcare sector, higher education institutions, and 
+established manufacturing base position it well for future growth. Facilities typically resemble 
+research laboratories or small-scale production sites and require reliable utilities, advanced 
+ventilation, temperature control and specialized waste management systems. As the sector 
+evolves, municipalities will need to plan for the unique spatial, environmental and regulatory 
+requirements of this rapidly developing field.
+3D and Large-Scale Printing
+3D printing, also called additive manufacturing, uses computer-guided 
+equipment to build three-dimensional objects layer by layer from digital 
+models. 
+While small-scale 3D printing is already common in prototyping and component fabrication, 
+large-scale additive manufacturing applies this technology to produce full-size building elements, 
+bridges, vehicles, and industrial components. These operations often utilize materials such as 
+concrete, metal, polymer or composite blends and may locate within light industrial or research 
+and development facilities.
+Unlike traditional manufacturing, which removes material from a solid block, additive processes 
+use only what is needed, significantly reducing waste and allowing greater design flexibility. As 
+costs decrease, large-format printers are expected to become more common in construction, 
+infrastructure and custom manufacturing sectors, changing the spatial and infrastructure needs 
+of industrial areas.
+ADVANCED  
+MANUFACTURING
+Lehigh County Industrial Land Use Guide
+134
+
+[page 135]
+30
+Microchip Manufacturing
+Microchip manufacturing facilities, also known as semiconductor fabrication 
+plants or “fabs”, produce the chips that power everything from smartphones 
+and vehicles to medical devices and national defense systems. 
+The industry includes both front-end wafer fabrication, where silicon wafers are imprinted with 
+microcircuits, and back-end assembly, testing and packaging (ATP), where chips are cut, tested 
+and prepared for integration into finished products.
+Driven by global supply chain shifts and national security priorities, the CHIPS and Science Act 
+of 2022 has spurred new investment in domestic semiconductor production to reduce reliance 
+on overseas manufacturing. The Lehigh Valley’s existing logistics infrastructure, workforce base 
+and proximity to major metropolitan markets make it a competitive location for semiconductor 
+investment — illustrated by proposals such as the Infinera packaging facility in Bethlehem.
+These facilities typically require large-scale buildings, extensive water and energy resources, high-
+skill labor, and robust transportation networks for inbound materials and outbound products. Their 
+complexity and scale make proactive planning essential to ensure compatibility with community 
+goals, infrastructure capacity, and environmental standards.
+135
+
+[page 136]
+Lehigh County Industrial Land Use Guide | Advanced Manufacturing
+Key Impacts Across Advanced Manufacturing Uses
+Infrastructure  
+& Utility Demand
+High and potentially continuous electric demand
+Significant water demand, especially for bioengineering  
+and semiconductor fabrication
+High-capacity cooling
+Potential need for substantial utility upgrades
+Environmental 
+Factors
+Air emissions and ventilation needs
+Specialized waste streams
+Significant heat generation from processing equipment
+Noise from machinery, ventilation systems and freight activity
+Freight, Logistics  
+& Transportation
+Frequent deliveries of specialized materials
+Passenger vehicle traffic associated with workforce shifts
+Freight traffic from shipping materials and product
+Building Scale  
+& Site Characteristics
+Varying building footprints
+High-clearance interior spaces for some 3D processes
+Outdoor equipment yards and mechanical systems
+Hazard Management  
+& Emergency Response
+Complex hazard profiles including biological materials, 
+combustible powders/metal dust or hazardous chemical 
+agents
+Heightened fire-suppression needs
+136
+
+[page 137]
+32
+Mitigation Strategies and Best Practices 
+Advanced Manufacturing
+Comprehensive Plans Should:
+• Inventory and establish goals and policies for protecting natural and historic resources that 
+may be affected by high-intensity advanced manufacturing operations.
+• Inventory, analyze and project community facility and utility needs, including water, sewer, 
+electric, broadband, and emergency service capacity. Establish policies directing advanced 
+manufacturing uses to areas with adequate infrastructure.
+• Identify the economic development potential of advanced manufacturing, particularly sectors 
+such as bioengineering, 3D printing, and semiconductor fabrication, while recognizing the 
+need to mitigate their utility, environmental and freight impacts.
+• Designate suitable areas for advanced manufacturing within industrial, technology, or research 
+corridors, especially near workforce, higher education institutions transportation networks, 
+and existing utility infrastructure.
+• Support sustainability and innovation goals, including energy efficiency, renewable or low-
+carbon energy use, waste minimization, and opportunities for material reuse or circular 
+manufacturing processes.
+• Integrate workforce and training initiatives by referencing or coordinating with higher education, 
+technical training centers, and industry partnerships supporting biotechnology, robotics, 
+fabrication, and semiconductor disciplines.
+• Reference related planning documents (Sewage Facilities Plans, Hazard Mitigation Plans, 
+Energy Conservation Plans, Capital Improvement Plans, etc) and identify updates to these 
+plans as Comprehensive Plan implementation steps.
+137
+
+[page 138]
+Zoning Ordinance Considerations
+Definitions
+• Include clear definitions for Bioengineering/Biofabrication Facilities, Additive or 3D Manufacturing 
+Facilities, and Microchip/Semiconductor Manufacturing Facilities to distinguish them from 
+general manufacturing or research laboratories.
+• Differentiate primary manufacturing operations from accessory research, testing, or prototyping 
+uses.
+Districts
+• Direct advanced manufacturing uses to districts with:
+ + Compatible industrial, technology, innovation or business-park land uses
+ + Adequate and reliable electric capacity
+ + Adequate public water and sewer capacity (especially for biotech and semiconductor 
+fabrication)
+ + Access to freight routes and goods-movement corridors
+ + Sufficient broadband or fiber-optic infrastructure
+ + Adequate transportation access for deliveries, workforce and emergency services
+• Avoid siting in or near:
+ + Residential neighborhoods or sensitive community facilities
+ + Areas with inadequate utility infrastructure
+ + Floodplains, wetlands, and environmental constraint areas
+• Consider overlay districts for advanced manufacturing clusters to standardize siting, design, 
+and impact-mitigation requirements.
+Regulations and Performance Standards
+• Permit advanced manufacturing uses as conditional uses or special exceptions to establish 
+evaluation criteria and provide additional oversight of facility intensity, environmental impacts, 
+and freight activity.
+• Specify building scale and design standards, including height, façade treatments, screening of 
+mechanical equipment, and building orientation.
+• Establish setbacks and buffering to protect adjacent uses.
+• Establish noise and light standards at property lines.
+• Require contextual parking requirements, scaled to workforce needs.
+• Note where compliance with specialized codes is applicable, such as biosafety regulations 
+(bioengineering), fire and ventilation codes for industrial robotics (3D printing), or cleanroom 
+and chemical-handling standards (semiconductors).
+• External agency regulation or permitting requirements can be referenced as notes on 
+development plans.
+Lehigh County Industrial Land Use Guide | Advanced Manufacturing
+138
+
+[page 139]
+34
+Subdivision and Land Development Ordinance Considerations
+Utility Capacity & Infrastructure
+• Require applicants to demonstrate, with utility-provider confirmation:
+• Adequate water capacity, critical for biotech and semiconductor fabrication
+• Adequate sewer capacity for process discharge and wastewater flows
+• Adequate electric capacity, with documentation of continuous power needs and redundancy
+• Adequate broadband/fiber capacity for digitally intensive manufacturing
+• Identification of required infrastructure upgrades, with developer responsibility where 
+appropriate
+Site Design
+• Require Pennsylvania-native landscaping and buffer plantings
+• Require aesthetic enclosures around outdoor equipment, mechanical systems, chemical 
+storage areas, and utility yards
+• Require adequate emergency vehicle access, including turning radii, drive aisle widths, and 
+fire-suppression system access
+ + Incorporate local emergency service providers into the review process
+• Require plans showing ventilation exhaust locations, emissions-control systems, and 
+equipment requiring special containment
+Impact assessments should require community and environmental impact statements 
+evaluating:
+• Energy demand and reliability requirements
+• Water demand and wastewater generation
+• Emissions, chemical usage and air-quality impacts
+• Noise and vibration levels
+• Hazardous or specialized waste streams, such as biological, chemical, particulate
+• Emergency service requirements
+• Municipal fiscal impacts
+• Freight and truck movement patterns, especially for semiconductor and additive manufacturing
+139
+
+[page 140]
+Freight is an essential function of every economy, connecting producers, 
+suppliers and consumers both within the region and far beyond. 
+The facilities that support freight movement vary widely in size and purpose, and accommodate 
+a diverse range of activities, including manufacturing, assembly, storage, staging and distribution. 
+Freight-based land uses in Lehigh County depend on efficient connectivity by road, rail and air, and 
+can take many forms such as distribution centers, fulfillment centers, truck terminals, industrial or 
+business parks and light manufacturing operations.
+Many modern freight facilities are multi-tenant or multi-purpose, designed for flexibility so different 
+users can cycle in and out as business needs evolve. This adaptability allows the regional industrial 
+market to respond quickly to economic shifts but can also complicate local planning, as turnover 
+in tenants may lead to changing traffic, infrastructure, and environmental impacts. Inside the walls 
+of these facilities, operations are often highly integrated. Production, assembly, packaging and 
+distribution may occur under one roof or across multiple buildings within the same business park. 
+In some cases, adjacent or nearby facilities operate in synergy, forming industrial ecosystems that 
+depend on proximity and shared infrastructure.
+Municipalities are encouraged to align definitions for all freight-based land uses with the Institute 
+of Transportation Engineers (ITE) Trip Generation Manual, provided below. The ITE is the industry 
+standard for estimating the traffic impacts of land uses, and aligning definitions helps ensure that 
+facilities with freight impacts are accurately assessed to address transportation infrastructure 
+needs. Freight-Based Facilities can be generally classified into the following high-level categories:
+• Manufacturing
+• Warehousing (with subsets)
+• Fulfillment Center
+• Industrial/Business Parks
+• General Light Industrial
+FREIGHT, LOGISTICS  
+AND SUPPLY CHAIN
+Lehigh County Industrial Land Use Guide
+140
+
+[page 141]
+36
+Manufacturing
+ITE Definition: “A manufacturing facility is an area where the primary activity is 
+the conversion of raw materials or parts into finished products. Size and type 
+of activity may vary substantially from one facility to another. In addition to the 
+actual production of goods, a manufacturing facility typically has an office and 
+may provide space for warehouse, research, and associated functions.”
+Manufacturing facilities focus on producing finished goods, often with supporting functions such 
+as research, warehousing and office operations. While manufacturing sites generate freight 
+movements, the majority of trips are typically employee-related. Truck volumes depend on 
+whether raw materials are stored on-site or off-site and on the scale of distribution operations. 
+Because operational intensity and floor area use can vary by tenant or industry, zoning and land 
+development standards should allow flexibility to accommodate different manufacturing processes 
+over time.
+Warehousing
+ITE Definition: “A warehouse is primarily devoted to the storage of materials, 
+but it may also include office and maintenance areas.”
+Related uses include high-cube transload and short-term storage warehouses 
+(Land Use 154*), high-cube fulfillment centers (155*), parcel hub warehouses 
+(156*), and cold storage warehouses (157*).
+Warehouses are primarily storage and logistics facilities that may include limited office or 
+employee support space. Transportation impacts depend on the type of operation — short-term 
+storage, transload, or specialized high-cube warehousing for e-commerce and parcel distribution. 
+These facilities often generate moderate to heavy truck traffic, particularly during peak shipping 
+hours. Rather than including blanket definitions for a “Warehouse” land use, municipalities should 
+distinguish among these warehouse subtypes to ensure appropriate performance standards for 
+circulation, access and buffering.
+*Each number corresponds with an ITE Land Use Code
+141
+
+[page 142]
+Fulfillment Centers
+ITE Definition: Fulfillment centers are categorized as sort or non-sort facilities:
+• Sort facilities handle smaller items requiring extensive manual sorting, 
+typically with high employee counts and greater vehicle trip generation.
+• Non-sort facilities process larger items primarily through automated 
+systems, resulting in fewer employees per square foot but similar freight 
+activity.
+Fulfillment centers represent the most logistics-intensive subset of warehousing, driven by 
+e-commerce operations. These facilities often operate 24/7, generating high truck volumes 
+and employee traffic during shift changes. Because of their size and transportation impacts, 
+municipalities should require traffic impact studies that are accurate for the intended land use, as 
+well as ensure truck routing is managed and that adequate infrastructure capacity is accounted 
+for through the land development process.
+Parcel Hubs/Distribution Centers
+ITE Definition: A form of high-cube warehouse that serves as a regional and 
+local freight-forwarder facility via airfreight and ground carriers.
+Parcel Hubs/Distribution Centers are high intensity freight-based land uses that often have very 
+large building footprints and generate significant peak-hour traffic.
+Lehigh County Industrial Land Use Guide | Freight Logistics and Supply Chain
+142
+
+[page 143]
+38
+Photo Credit: Prologis
+Prologis Park 33, Lower Nazareth Township, has an automated system that demonstrates 
+advancements in smart buildings to lower carbon footprints and make supply chain and logistics 
+systems more sustainable.
+143
+
+[page 144]
+Key Impacts Across Advanced Freight-Based Uses
+Transportation &  
+Freight Movement
+High truck traffic volumes
+Increased passenger vehicle traffic during employee shift 
+changes
+Need for safe truck routing from site to interchanges
+Need for multiple transportation modes, especially transit, to 
+meet workforce needs
+Site Circulation & Access
+Tractor-trailer movements require large parking and circulation 
+areas, truck staging, employee parking and loading docks
+Internal circulation conflicts between passenger vehicles and 
+trucks
+Infrastructure &  
+Utility Demand
+Roadway infrastructure demand, including pavement wear 
+from heavy truck loads
+Need for adequate public utilities including electrical infrastruc-
+ture to support industrial operations
+ + Cold storage, increased automation, and 
+autonomous vehicles all increase utility demand
+Environmental Factors
+Noise from trucks, loading docks and refrigeration units
+Air quality impacts from truck emissions and generators
+Light pollution from loading dock areas and security lighting
+Impervious surface coverage contributing to stormwater runoff 
+and heat generation
+Land Use Impacts
+Large buildings with significant height and massing
+Tenant turnover may change impacts and operational intensity
+Lehigh County Industrial Land Use Guide | Freight Logistics and Supply Chain
+144
+
+[page 145]
+40
+Mitigation Strategies and Best Practices 
+Freight, Logistics and Supply Chain
+Comprehensive Plans Should:
+• Inventory and analyze existing transportation, utility and community facility capacity that 
+support freight-based development.
+• Identify appropriate areas for freight-based uses, such as industrial districts and areas with 
+direct access to major roadways, rail or airports.
+• Set goals and policies that protect residential and community-centered uses from freight-
+based land use impacts.
+• Align future land use designations with regional freight networks, focusing on corridors with 
+adequate capacity and multimodal goods-movement opportunities.
+• Support economic resilience by recognizing the role of freight-oriented businesses, while 
+balancing this with policies that mitigate transportation and environmental impacts.
+• Incorporate sustainability goals, including reducing emissions, managing stormwater from 
+large impervious surfaces, and encouraging renewable or energy-efficient systems.
+• Reference related planning documents, such as Transportation Improvement Programs, 
+Act 209 Traffic Impact Fee Studies, Hazard Mitigation Plans, Comprehensive Parks and  
+Recreation Plans, and Capital Improvement Plans. Identify any necessary updates as 
+Comprehensive Plan implementation steps.
+• Promote intermunicipal coordination, especially where freight activity crosses municipal 
+boundaries or relies on shared roadway and infrastructure systems.
+145

@@ -1,0 +1,850 @@
+
+
+[page 180]
+Truck Parking
+Truck parking, loading and staging are among the most critical and challenging 
+aspects of industrial site design in Lehigh County.
+The region’s role as a major freight and logistics hub means that industrial facilities depend on 
+the safe and efficient movement of heavy vehicles. When on-site truck parking or loading areas 
+are insufficient, drivers often resort to idling or parking along public roads, creating congestion, 
+safety hazards and community concerns. Truck parking and loading facilities also consume large 
+land areas, influencing site layout, traffic circulation, and the overall efficiency of industrial land 
+use. Poorly planned or oversized facilities can generate noise, air pollution and visual impacts that 
+affect nearby residents, workers and property values.
+• Comprehensive Plans: Identify freight infrastructure as part of goods-movement planning; 
+map preferred industrial corridors and suitable sites for truck parking facilities that minimize 
+neighborhood impacts.
+• Zoning: Require industrial developments to provide dedicated on-site truck parking and 
+staging areas separated from employee and visitor parking.
+• SALDO: Mandate circulation plans that include designated truck entrances, queuing areas, 
+and turning radii suited to large vehicles. Minimize community impacts by prohibiting truck 
+parking and loading areas from facing residential districts. Require aesthetic, noise and light 
+mitigation strategies such as downward lighting, buffering, berms and landscaping, and sound 
+level restrictions and monitoring. Require electric plug-in infrastructure or anti-idling measures 
+to reduce emissions at parking and loading areas.
+• Support regional initiatives, such as the Eastern Pennsylvania Freight Infrastructure Plan 
+(EPFA), which emphasize expanding overnight truck parking capacity to meet growing freight 
+demands.
+Mitigation Strategies and Best Practices
+Lehigh County Industrial Land Use Guide | Parking
+180
+
+[page 181]
+Truck parking in Upper Macungie Township.
+76
+181
+
+[page 182]
+Noise
+Noise is one of the most common community concerns associated with 
+industrial land uses. Truck movements, loading docks, refrigeration units, 
+cooling systems, backup generators and around-the-clock operations 
+can create constant or intermittent noise that affects nearby residents and 
+businesses. In Lehigh County, where industrial areas are often close to 
+residential neighborhoods or mixed-use corridors, managing noise is essential 
+to maintaining quality of life and community compatibility.
+• Comprehensive Plans: Identify noise-sensitive land uses like residential neighborhoods, 
+schools, healthcare facilities, and high-priority natural habitats to guide industrial growth 
+away from these areas. 
+• Zoning: Establish clear noise performance standards and maximum decibel levels 
+at property lines. Require noise mitigation strategies such as setbacks, sound walls, or 
+landscaped buffers between industrial and non-industrial uses.
+• SALDO: Require proposals to submit acoustic studies and/or noise impact assessments 
+and encourage orientation of loud equipment, loading docks, and truck parking away from 
+nearby non-industrial uses.
+ + Encourage applicants to incorporate insulated and soundproofing building materials into 
+site design.
+• Monitor and enforce noise standards.
+ENVIRONMENTAL  
+FACTORS
+Mitigation Strategies and Best Practices
+Lehigh County Industrial Land Use Guide
+182
+
+[page 183]
+Light
+Industrial facilities require exterior lighting for safety, security and operations. 
+Excessive or poorly directed lighting can spill into neighboring properties, 
+disrupt wildlife habitats, and degrade nighttime visibility. In Lehigh County, 
+industrial growth near residential and rural areas causes concern for light 
+pollution.
+• Comprehensive Plans: Encourage dark-sky compliant lighting policies and balance safety/
+operations needs with environmental quality.
+• Zoning: Establish maximum illumination levels at property lines and require lighting 
+standards such as height limits for lighting poles, maximum illumination levels at property 
+lines and cutoff fixtures that direct light downward.
+• SALDO: Require lighting plans with photometric data to evaluate impacts and compliance. 
+ + Incorporate landscaping or fencing to screen light from adjacent properties. 
+Warehouse with a loading dock in Upper Macungie Township.
+Mitigation Strategies and Best Practices
+78
+183
+
+[page 184]
+Air Quality
+Industrial operations can affect local and regional air quality through emissions 
+from both stationary sources such as generators, boilers and manufacturing 
+processes, and mobile sources like trucks, forklifts, and equipment. 
+The most common pollutants include volatile organic compounds (VOCs), nitrogen oxides (NOx), 
+particulate matter (PM) such as dust, and greenhouse gases (GHGs) from fuel combustion. While 
+modern facilities are increasingly efficient and regulated, cumulative emissions from industrial sites 
+and freight activity can still impact public health, visibility, and environmental quality, particularly in 
+areas with high concentrations of industrial and transportation uses.
+• Comprehensive Plans: Recognize air quality as a health and environmental priority. Specify 
+that high-emission uses should be located away from sensitive areas. Incorporate goals to 
+minimize emissions that reduce air quality.
+• Zoning: Require air quality performance standards for emissions and dust control. Regulate 
+outdoor storage, truck idling and the location of exhaust vents to minimize community exposure.
+• SALDO: Require air quality impact assessments for large-scale or high emission uses.
+ + Encourage or require installation of electric vehicle charging infrastructure to support clean 
+fleets.
+ + Encourage and/or incentivize alternative energy sources such as solar panels or green 
+roofs to reduce energy needs for industrial buildings.
+Mitigation Strategies and Best Practices
+Lehigh County Industrial Land Use Guide | Environmental Factors
+184
+
+[page 185]
+80
+Building Form and Aesthetics
+The mass, height and design of industrial buildings can have a profound 
+impact on the visual character and identity of surrounding communities
+Large-scale warehouses, logistics centers and production facilities often feature tall, box-like forms, 
+expansive façades and wide parking areas that can dominate the landscape. When located near 
+residential, commercial or rural areas, these visual and spatial differences can create a sense of 
+imbalance and affect perceptions of neighborhood quality and property values. Thoughtful building 
+design, orientation and screening can help integrate industrial development into the community 
+form while maintaining operational efficiency and supporting high-quality economic growth.
+• Comprehensive Plans: Identify design and aesthetic goals for industrial structures as part of 
+broader placemaking and community character objectives. Identify gateways, corridors and 
+transition areas where design quality and landscaping are especially important. Promote site 
+and building design that reflect local identity.
+• Zoning: Establish bulk, height and setback requirements appropriate to the surrounding 
+context, ensuring smooth transitions between industrial and non-industrial areas.
+• SALDO
+ + Require façade articulation, roofline variation and architectural detailing to reduce the 
+monotony of large walls and enhance visual interest.
+ + Limit or screen outdoor storage, loading docks, and mechanical equipment from public 
+view through fencing, landscaping and building placement.
+ + Require site plans to show how building orientation, service areas, and loading docks are 
+placed to minimize visibility from public roads and neighboring properties.
+ + Encourage or require enhanced landscaping along public rights-of-way, including tree 
+rows, berms, and pollinator-friendly vegetation to soften views and reduce environmental 
+impacts.
+ + Promote building materials and color palettes that complement local character and 
+minimize visual contrast with surrounding landscapes.
+ + Require pedestrian-scale design features, lighting and signage standards that contribute 
+to safe and attractive site environments.
+Mitigation Strategies and Best Practices
+185
+
+[page 186]
+UNKNOWN END USERS  
+AND SHIFTING USERS
+Industrial buildings are often constructed speculatively, without a confirmed 
+end user or tenant at the time of development approval.
+These speculative projects allow for rapid occupancy once demand arises but can present 
+challenges for municipalities when evaluating site impacts, infrastructure needs and compatibility 
+during the review process. Because the ultimate user may have operational characteristics 
+different from those assumed in the original design — such as higher truck volumes, longer 
+hours of operation, or more intensive energy use — unknown or changing tenants can lead to 
+unanticipated community or environmental impacts.
+Even after occupancy, industrial buildings frequently change users or shift functions over time as 
+markets evolve. A warehouse may become a light manufacturing facility, or an assembly operation 
+may expand distribution activity. These shifts can significantly alter traffic patterns, utility demands 
+and emissions, underscoring the importance of adaptable regulations and ongoing coordination 
+between municipalities, developers and operators.
+Lehigh County Industrial Land Use Guide
+186
+
+[page 187]
+• Comprehensive Plans: Encourage flexible land use designations that allow for the evolution 
+of industrial and employment centers over time. Identify infrastructure corridors capable of 
+supporting a range of industrial activities — from light manufacturing to logistics or high-tech 
+uses — without overburdening surrounding neighborhoods.
+ + Incorporate policies promoting adaptive reuse and building design flexibility to extend the 
+life and usefulness of industrial structures as market demands change.
+• Zoning: Define performance standards that apply regardless of tenant, focusing on measurable 
+outcomes such as truck trips per day, noise thresholds or hours of operation.
+ + Consider use classification systems that group industrial activities by intensity or impact 
+rather than narrow use type (e.g., “low-impact manufacturing,” “high-intensity logistics”), 
+giving flexibility to assess future users without constant ordinance amendments.
+• SALDO: Require applicants to identify anticipated user types and conservatively estimate 
+operational characteristics, while maintaining flexibility for future occupancy.
+ + Include conditions of approval or occupancy permit triggers requiring municipal review 
+when a new user significantly changes the operational intensity of a site.
+ + Encourage property owners to maintain ongoing communication with municipalities 
+regarding user changes to ensure continued compliance with zoning and performance 
+standards.
+Mitigation Strategies and Best Practices 
+Unknown End Users and Shifting Users
+82
+187
+
+[page 188]
+Use Existing Ordinances for Operations and 
+Maintenance
+a. Zoning Ordinance Enforcement:  Municipalities can enforce ongoing 
+compliance with conditions of approval (e.g., landscaping, lighting, noise 
+limits).
+b. Property Maintenance Codes: If adopted, these codes can be used to 
+address blight, nuisance and unsafe site conditions.
+c. Nuisance Ordinances:  Municipalities can regulate excessive noise, 
+odor, dust or vibrations that impact nearby residents.
+Targeted Infrastructure Partnerships
+a. Work with water and sewer authorities to manage capacity and monitor 
+impacts from high-demand users.
+b. Coordinate with PennDOT and county agencies for roadway 
+improvements near freight clusters.
+c. Seek funding (PennDOT Multimodal Fund, DCED grants, federal 
+programs) for infrastructure that mitigates existing strain.
+Monitoring and Data Collection
+a. Use traffic counts, air quality monitoring, or noise studies to document 
+ongoing impacts. This data supports enforcement, future planning and 
+funding applications.
+b. Require periodic reporting from facilities with high truck volumes or 
+energy/water usage, where legally feasible.
+Community Engagement and Complaint Tracking
+a. Establish hotlines or online reporting systems for residents to log issues 
+such as truck idling, noise, litter or drainage problems.
+b. Tracking complaints over time provides leverage for working with 
+operators and shows trends that can justify ordinance updates.
+ADDRESSING EXISTING  
+LAND USE IMPACTS
+While the MPC tools are targeted to regulating development proposals, there 
+are numerous approaches municipalities can take to address the impacts 
+already being created by existing industrial land uses:
+Lehigh County Industrial Land Use Guide
+188
+
+[page 189]
+84
+In general, municipalities should monitor the impacts of existing development 
+and continuously update regulations to improve performance and ensure new 
+or future land uses align with community goals.
+Intergovernmental and Regional Coordination
+a. Partner with adjacent municipalities to address impacts that 
+cross borders such as truck traffic or utility demand. Enter into 
+intergovernmental agreements to share costs and enforcement 
+capacity, particularly for infrastructure and stormwater.
+Incentives and Voluntary Compliance
+a. Work with operators to implement best practices like truck idling limits, 
+electric vehicle hookups or improved landscaping to reduce visual and 
+environmental impacts. Explore recognition programs for businesses 
+that adopt sustainability measures, such as Leadership in Energy and 
+Environmental Design (LEED) certification, renewable energy use.
+Amend Local Plans and Ordinances to Minimize 
+Future Impacts
+a. While ordinances typically regulate new development proposals, 
+municipalities can update ordinances with retrofit standards 
+that would apply if a use changes or a building redevelops. For 
+example, requirements for stormwater upgrades or truck circulation 
+improvements can be added into SALDOs for when expansions or 
+major renovations are proposed.
+189
+
+[page 190]
+REUSING BROWNFIELDS AND  
+EXISTING INDUSTRIAL SITES
+Brownfields are former industrial properties where redevelopment or reuse is 
+complicated by the presence or potential presence of hazardous pollutants or 
+contaminants. 
+In Lehigh County, legacy sites such as former rail yards, manufacturing or processing facilities 
+have the potential for reuse. Sites are often strategically located near highways and population or 
+employment centers and redevelopment can direct growth to areas with existing infrastructure, 
+reduce pressure on farmland and open space, and deliver jobs, tax revenue and environmental 
+cleanup.
+• Promote Revitalization and Economic Growth:  Reuse of underutilized industrial sites 
+brings new employers, creates long-term jobs and expands the local tax base by increasing 
+property values and signaling that a community is “investment ready.”
+• Support Environmental Cleanup and Public Health:  Remediation of contaminated sites 
+prevents pollution, improves soil, water and air quality, and restores environmental functions 
+to degraded lands.
+• Reduce Development Pressure on Greenfields: Channeling redevelopment to existing 
+industrial areas conserves farmland and open space while strengthening established urban 
+and suburban centers.
+• Leverage Existing Infrastructure: Brownfield redevelopment utilizes existing water, sewer, 
+road and energy networks, reducing the cost and environmental impacts of new extensions.
+• Encourage Adaptive Reuse through Zoning:  Zoning provisions that allow flexible 
+redevelopment options, mixed-use conversions or performance-based standards make reuse 
+more feasible for property owners and developers.
+• Coordinate Planning and Mapping Efforts: Maintain a community inventory of vacant and 
+underutilized industrial parcels. Align these locations with comprehensive plan goals to target 
+infrastructure investment and guide redevelopment priorities.
+• Coordinate with the Lehigh County Redevelopment Authority (RALC): RALC is focused 
+on repurposing blighted properties in Lehigh County’s boroughs and townships, and partners 
+with communities to pursue a variety of financing and incentives.
+• Address Barriers Early: Conduct site assessments to identify contamination risks, evaluate 
+cleanup needs and clarify liability issues. Incorporate demolition, asbestos abatement, or 
+historic preservation costs into redevelopment planning.
+How Brownfield Reuse Can Address Industrial Land Uses
+Lehigh County Industrial Land Use Guide
+190
+
+[page 191]
+The Bethlehem Steelstack, located in City of Bethlehem, is an example of how one can revitalize 
+a brownfield.
+86
+191
+
+[page 192]
+Lehigh County Industrial Land Use Guide
+192
+
+[page 193]
+RESOURCES
+88
+193
+
+[page 194]
+Lehigh County Industrial Land Use Guide
+QUESTIONS TO  
+ASK DEVELOPERS 
+Asking questions during the plan review process positions municipalities to be proactive rather 
+than reactive and is one of the most important ways to ensure that industrial projects align with 
+community goals, protect public health and safety and comply with local ordinances. Developers 
+are experts in their own projects, but municipalities are the guardians of community interests. 
+Without asking the right questions, local governments may miss opportunities to identify impacts, 
+negotiate improvements or require conditions that make a development compatible with its 
+surroundings.
+194
+
+[page 195]
+90
+Site Location and Compatibility
+• Why was this site chosen for the proposed industrial use, and how does it align with the 
+municipality’s zoning and comprehensive plan?
+• Is there an identified end user? If not, are there particular end users speculated?
+• What adjacent land uses exist, and what potential impacts could the project have on those 
+uses (e.g., noise, lighting, traffic, environmental)?
+ + What noise levels will be generated (vehicular traffic, load/unloading, manufacturing, 
+utility)?
+ + What light will be emitted, in what directions (parking areas, building lighting/security 
+lighting, signage lights)?
+• How will the development affect nearby (not adjacent) land uses, including residential areas, 
+schools, businesses or community facilities?
+Workforce and Operations
+• How many employees will work at the site, and what shifts or hours of operation are anticipated?
+• What workforce amenities (sidewalks, break areas, transit connections, driver facilities) are 
+provided to support safety and quality of life?
+• Will multiple tenants occupy the building (e.g., flex space or subleases), and how will operations 
+be coordinated to comply with zoning?
+Transportation and Freight Impacts
+• What is the anticipated volume of truck and passenger vehicle traffic at peak and average 
+levels?
+• What routes will trucks use to access highways, and how will you minimize impacts on local 
+streets?
+• Have traffic impact studies been conducted based on a land use accurate to the intended 
+development, and what improvements or mitigations are proposed?
+• Will on-site truck parking, loading and staging areas prevent trucks from queuing on public 
+roads?
+Utilities and Infrastructure
+• What are the utility needs of the facility, such as amount of electricity usage, water consumption, 
+wastewater disposal, etc.
+• Does the site have adequate water, sewer, power and broadband capacity to support the 
+proposed use?
+• Will the project require infrastructure upgrades, and who will pay for them?
+• Are backup systems, such as generators for data centers or cooling for cold storage, designed 
+to minimize noise, emissions or neighborhood disruption?
+195
+
+[page 196]
+Environmental Considerations
+• How will stormwater runoff be managed, and what low-impact development or green 
+infrastructure techniques will be used?
+• Are there wetlands, floodplains or steep slopes on site, and how will they be protected?
+• What measures will be taken to minimize air, noise, light, and vibration impacts?
+• What steps are being taken to reduce the building’s energy consumption and carbon footprint?
+Site and Building Design
+• How will building design and landscaping reduce visual impacts, especially for large-scale 
+facilities?
+• How will the site accommodate pedestrian and bicycle access, both within the site and 
+connections to nearby transit or roads?
+• Where will outdoor storage, loading docks, and mechanical equipment be located, and how 
+will they be screened?
+Emerging Uses and Safety
+• For specialized facilities, such as data centers, battery storage, cold storage or  indoor 
+agriculture, what unique infrastructure or safety needs should the municipality be aware of?
+• What emergency response coordination has been conducted with local fire, Emergency 
+Management Services (EMS), and police departments?
+• Are hazardous materials or alternative energy systems involved, and how will risks be 
+mitigated?
+• What is the size of the proposed building (height and lengths), and does the municipality have 
+adequate equipment and training to provide emergency services?
+Lehigh County Industrial Land Use Guide | Questions to Ask Developers
+196
+
+[page 197]
+92
+197
+
+[page 198]
+Lehigh County Industrial Land Use Guide
+FUNDING STRATEGIES
+Addressing the impacts of industrial development and preparing for emerging industrial land uses 
+requires not only sound planning and policy but also strategic investment. Municipalities often face 
+financial constraints when updating land use regulations, maintaining and upgrading infrastructure, 
+or mitigating impacts associated with industrial activity. A range of funding and financial incentive 
+tools are available at the federal, state, regional and local levels to provide community assistance.
+198
+
+[page 199]
+94
+Communities/developers pursuing federal, state, or regional funding for 
+industrial land-use projects, including manufacturing, logistics, warehousing, 
+light industry, and emerging technology, can increase their competitiveness 
+by following the recommendations below. This guidance applies to 
+standalone development proposals as well as local government infrastructure 
+improvements that support future industrial growth.
+Project Selection Process 
+Tips for Communities/Developers Applying  
+for Industrial Land-Use Funding
+1. Align Your Project with Regional and Local Plans
+Tip for Applicants: Demonstrate clear consistency with adopted plans, such as:
+• FutureLV: The Regional Plan
+• Eastern Pennsylvania Freight Alliance Freight Infrastructure Plan
+• Walk/Roll LV: Active Transportation Plan
+• Priority Climate Action Plan for Transportation Decarbonization
+• Your municipality’s comprehensive plan, zoning ordinance, 
+capital improvement plan or official map
+Funding agencies want assurance that proposed investments support long-term regional goals 
+and fit into an integrated land-use and transportation strategy. Projects explicitly tied to adopted 
+plans score higher and are viewed as lower risk.
+2. Understand Key Evaluation Criteria and Prepare to Address Each One
+Most funding programs evaluate projects using several common criteria. Communities should 
+tailor their applications to address:
+Economic Impact
+• Potential for job creation and workforce development
+• Support for key sectors such as manufacturing, logistics, clean tech, emerging industries
+• Long-term effects on local tax base and economic resilience
+Transportation Efficiency
+• Site access to interstate highways, freight corridors, rail connections, ports and airports
+• Reduction of bottlenecks or congestion on regional routes
+• Ability to improve freight mobility and reduce travel times
+199
+
+[page 200]
+Land Use Compatibility
+• Siting near existing industrial clusters or economic hubs
+• Adequate buffering from neighborhoods, schools, parks and environmentally sensitive areas
+• Alignment with zoning, future land-use maps and local development standards
+Environmental Sustainability
+• Brownfield remediation and adaptive reuse
+• Emissions reduction, decarbonization strategies and clean-energy technologies
+• Stormwater management and green infrastructure
+• Minimization of impacts on wetlands, waterways and habitats
+Community Impact
+• Access to employment via transit, walking and biking
+• Reduced impacts on overburdened or vulnerable populations
+• Opportunities for upskilling, training and equity-focused benefits
+Project Readiness
+• Site control secured
+• Engineering and design progress
+• Zoning compliance
+• Committed funding partners
+• Public engagement completed
+Tip for Applicants:  Organize your narrative around these topics. Clear, structured responses 
+make your application easier to evaluate and more competitive.
+Lehigh County Industrial Land Use Guide | Funding Strategies
+200
+
+[page 201]
+3. Build a Strong, Evidence-Based Application
+Use both quantitative data (e.g., vehicle counts, freight volumes, crash patterns, job projections) 
+and qualitative insights (e.g., community priorities, local lived experience).
+Strengthen your application with:
+• Geospatial analysis showing proximity to freight networks, workforce clusters or brownfields
+• Cost-benefit and life-cycle analyses
+• Environmental screening or preliminary engineering
+• Letters of support from businesses, residents and agencies such as the LVPC
+• Documentation of community outreach and stakeholder feedback
+Tip for Applicants: Most programs use weighted scoring. Reviewers compare applications side-
+by-side, so data clarity, completeness, and consistency make a substantial difference.
+4. Engage Stakeholders Early and Often
+Tip for Applicants: Before submitting, coordinate with:
+• Municipal leadership and planning commissions
+• Industrial facility operators or developers
+• PennDOT/Federal Highway Administration and Metropolitan Planning Organization staff
+• Workforce development boards
+• Local emergency responders
+• Environmental and community organizations
+Projects that demonstrate multi-sector alignment and community backing tend to score higher 
+and move more efficiently through review.
+96
+201
+
+[page 202]
+5. Leverage Technical Assistance and Data Resources
+Tip for Applicants:  Use external support to collect data, document conditions and identify 
+improvements. The PennDOT Local Technical Assistance Program (LTAP), with support from 
+LVPC, can help municipalities by providing:
+• Corridor, intersection and school zone safety reviews
+• Traffic counts, speed studies and freight movement analysis
+• Pavement, drainage and signage/marking assessments
+• Walkability and bikeability audits
+• Heavy-vehicle impact evaluations
+• Analysis of land-development impacts and traffic circulation needs
+• Recommendations for short-term and long-term roadway improvements
+• Staff training, workshops and follow-up assistance
+LTAP-supported data can significantly strengthen funding applications, demonstrating due 
+diligence and professional validation.
+6. Plan for Transparency and Public Engagement
+FYI About the Process: Many funding programs require public transparency as a condition of 
+award. Communities with existing communication channels, websites, boards and public meetings 
+are better positioned to meet these expectations.
+Tip for Applicants: Prepare to publish evaluation results and project information on your municipal 
+website or through community outreach.
+7. Stay Updated on Evolving Criteria and Regional Priorities
+FYI About the Process: Criteria change as regional freight plans, climate plans, and transportation 
+strategies evolve.
+Tip for Applicants: Check program guidance every cycle. Update your data, language and 
+design to reflect new state or federal directives.
+Lehigh County Industrial Land Use Guide | Funding Strategies
+202
+
+[page 203]
+8. Prepare Local Government Infrastructure to Support Industrial 
+Land Uses
+To increase project readiness and strengthen funding applications communities should proactively 
+invest in infrastructure that supports industrial development.
+Transportation Infrastructure
+• Upgrade intersections to handle heavy trucks (signal timing, radii, geometric design)
+• Improve last-mile freight connections from industrial parks to major corridors
+• Replace weight-restricted bridges or culverts
+• Enhance roadway pavement design for heavy-vehicle loads
+• Expand or improve rail sidings, transload facilities or spur connections
+Utility and Site Infrastructure
+• Expand water and sewer capacity for industrial-intensive uses
+• Modernize stormwater and drainage systems to manage large impervious areas
+• Upgrade electrical capacity to support advanced manufacturing and clean-tech facilities
+• Evaluate broadband needs for technology-driven industries
+Active Transportation and Transit
+• Add sidewalks, trails, bike lanes or shared-use paths connecting workers to job sites
+• Coordinate with transit providers to serve industrial parks with job-access routes
+• Improve pedestrian safety near industrial driveways and corridors
+Environmental and Resilience Investments
+• Conduct brownfield assessments and environmental due diligence
+• Include green infrastructure for stormwater mitigation
+• Improve tree canopy and buffer plantings around industrial edges
+• Plan flood-resilient design for sites in risk-prone areas
+Land Use and Policy Tools
+• Update zoning to permit target industries while ensuring compatibility with neighbors
+• Create overlay districts or special industrial corridors
+• Adopt an official map to reserve key road, trail, or utility corridors
+• Develop capital improvement plans identifying infrastructure gaps
+• Use tax increment financing Local Economic Revitalization Tax Assistance (LERTA) programs, 
+or other tools to support project feasibility
+Tip for Applicants: Infrastructure investments, even preliminary ones, signal readiness to funding 
+agencies and make your industrial project far more competitive.
+98
+203
+
+[page 204]
+State Assistance
+• Municipal Assistance Program: Offers grants for comprehensive plans, zoning and SALDO 
+updates, and multi-municipal planning to manage industrial growth and mitigate impacts.
+• Local Share Account: Funded by gaming revenues for local infrastructure improvements 
+supporting industrial or brownfield redevelopment.
+• Brownfield Cleanup and Industrial Site Reuse Program: For remediation and redevelopment 
+of industrial or contaminated sites.
+• Energy Programs (Alternative Fuels Incentive Grant, etc.): For the applicants and developers 
+of industrial sites incorporating cleaner technologies or energy-efficient operations.
+• Community Conservation Partnerships Program: Supports green buffers, trail connectivity, 
+and open space preservation near industrial zones to mitigate environmental impacts.
+Federal Assistance
+• BUILD/INFRA Grants (USDOT): Large-scale, competitive grants that municipalities can 
+pursue jointly with LVPC or counties for freight and industrial corridor improvements.
+• Brownfields Assessment and Cleanup Grants (USEPA): For planning, assessment and 
+remediation of former industrial sites.
+• Climate Pollution Reduction Grants (CPRG): Can support planning for industrial decarbonization 
+or energy transition strategies.
+Local Fiscal Tools and Resources
+• Transportation Impact Fees + Capital Improvement Plans
+ + Municipalities can adopt impact fee ordinances under the MPC to recover costs from 
+industrial traffic impacts (Section 501-A).
+ + Capital Improvement Plans can strategically fund long-term infrastructure to support or 
+mitigate industrial growth (Section 504-A).
+• Tax Increment Financing (TIF) and Local Development Districts
+ + Through county or municipal authorities, TIFs can help pay for infrastructure and 
+remediation needed for industrial redevelopment.
+• Lehigh Valley Government Academy Local Technical Assistance Program (LTAP)
+ + Free training and technical assistance designed to help with roadway maintenance.
+• Lehigh County Redevelopment Authority
+ + Partners with municipalities with the goal of remediating and repurposing blighted 
+properties in Lehigh County’s Boroughs and Townships.
+This section details some assistance programs at all levels that these tips and 
+processes can help communities utilize. 
+Lehigh County Industrial Land Use Guide | Funding Strategies
+204
+
+[page 205]
+100
+205
+
+[page 206]
+Lehigh County Industrial Land Use Guide
+COMPREHENSIVE PLAN  
+BEST PRACTICES CHECKLIST
+ □ Identify Suitable Locations That Balance Land Use Priorities
+ □ Designate industrial growth in areas with direct access to major highways, freight corridors 
+or rail facilities to minimize truck traffic through residential neighborhoods.
+ □ Preserve agricultural and environmentally sensitive lands by steering industrial development 
+toward brownfields, underutilized sites and already serviced land.
+ □ Cluster industrial uses to maximize infrastructure efficiency and reduce conflicts with other 
+land uses.
+ □ Ensure Adequate Design and Compatibility
+ □ Require site design standards that buffer industrial operations from adjacent residential 
+and community uses through landscaping, setbacks, berms and architectural treatments.
+ □ Encourage context-sensitive building design to minimize visual impacts of large-scale 
+warehouses and manufacturing facilities.
+ □ Promote sustainable site planning that incorporates green infrastructure, low-impact 
+stormwater management and energy-efficient building design.
+ □ Set Transportation and Freight Management Policies
+ □ Plan for roadway networks that separate truck traffic from local streets, schools and 
+pedestrian areas.
+ □ Coordinate with PennDOT, LANTA and regional planning partners to ensure freight 
+movement is efficient and safe.
+ □ Support the development of truck parking facilities and driver amenities in appropriate 
+locations to reduce illegal or unsafe parking.
+ □ Set Infrastructure and Utilities Policies
+ □ Direct new industrial development to areas with adequate sewer, water, energy and 
+broadband capacity.
+ □ Establish policies for coordinating infrastructure investment with anticipated industrial 
+demand to prevent overextension of services.
+ □ Encourage the use of renewable energy and on-site energy generation where feasible.
+206
+
+[page 207]
+102
+ □ Anticipate Emerging and Evolving Uses
+ □ Anticipate new industries such as data centers, cold storage, advanced manufacturing 
+and alternative energy facilities by including them in land use planning policies.
+ □ Support flexible industrial spaces that can accommodate multiple tenants or hybrid uses, 
+while ensuring zoning and site standards address parking, noise and safety impacts.
+ □ Monitor evolving technologies such as additive manufacturing, life sciences and battery 
+storage, and update policies regularly to stay current.
+ □ Facilitate Economic and Workforce Development
+ □ Align industrial land use planning with workforce development initiatives to ensure facilities 
+are accessible to employees by transit, bike and pedestrian routes.
+ □ Encourage industrial employers to provide amenities that support employee well-being, 
+such as safe break areas, mobility options and sustainable workplaces.
+ □ Promote redevelopment of older industrial areas to support new job growth and modern 
+business needs.
+ □ Leverage Regional Coordination
+ □ Coordinate industrial land use planning with neighboring municipalities to manage shared 
+impacts of traffic, infrastructure, and environmental systems.
+ □ Support consistency with FutureLV: The Regional Plan and county economic development 
+goals.
+ □ Partner with agencies such as Lehigh Valley Economic Development Corp. (LVEDC), 
+PennDOT, and Pennsylvania Department of Community and Economic Development 
+(DCED) to leverage resources for industrial site readiness and infrastructure improvements.
+207
+
+[page 208]
+DEFINITIONS
+These are definitions that may be necessary to craft an effective municipal ordinance.
+A
+Additive Manufacturing or 3D Printing Facility
+A facility where the primary activity is the fabrication of objects by additive processes such as 
+3D printing, typically using plastics, metals, concrete, resins or composites. Operations may 
+include design, prototyping, limited production runs, finishing, assembly and associated office or 
+research space. Additive manufacturing may occur as a stand-alone use or as part of a larger 
+manufacturing, research or industrial operation.
+Advanced Manufacturing
+High-tech production facilities using automation, robotics, 3D printing, or clean rooms for industries 
+such as aerospace, medical devices or electronics.
+Alternative Energy Generation
+Facilities generating renewable energy such as solar farms, wind turbine assembly sites, hydrogen 
+plants or biofuel refineries.
+Autonomous Vehicle Support Facility
+A facility or area designed to support automated or semi-automated vehicles serving freight, 
+logistics or industrial operations, including staging areas, calibration zones, equipment storage, 
+charging or fueling infrastructure, maintenance bays, and control rooms. This use may be 
+accessory to a truck terminal, distribution center, warehouse, or industrial park.
+B
+Battery Energy Storage Facility
+A facility where electrochemical energy storage systems, such as large-scale batteries or battery 
+containers, are installed to store and discharge electricity to the grid or to serve one or more 
+principal uses on the site. The facility may include inverters, transformers, control equipment, fire 
+suppression systems and security fencing. This use excludes small, building-integrated storage 
+serving a single principal use as an accessory component.
+Bioengineering or Biofabrication Facility
+A facility where biological materials, cells, tissues or bio-based products are engineered, produced 
+or fabricated for commercial, medical, industrial or research purposes. Operations may include 
+laboratory functions, controlled-environment production, quality control, warehousing of inputs 
+and outputs, and associated office or research space. Facilities may handle biological, chemical, 
+or hazardous materials subject to applicable biosafety and environmental regulations.
+Lehigh County Industrial Land Use Guide
+208
+
+[page 209]
+Business Park
+A planned development containing one or more buildings on a common internal roadway network, 
+designed for flexible tenant space that may include offices, light manufacturing, warehousing, 
+research and development, laboratories and related uses. Buildings are typically one or two 
+stories, with shared access, parking, utilities, stormwater management and landscaping.
+C
+Cold Storage Warehouse
+A warehouse primarily devoted to the storage and handling of refrigerated or frozen goods, 
+including food products and temperature-sensitive materials, generally consistent with the cold 
+storage warehouse land use in the ITE Trip Generation Manual. The facility may include loading 
+docks, limited processing or packaging areas and associated office space, and typically requires 
+mechanical refrigeration and higher energy demand.
+Cryptocurrency Mining Facility
+A facility where specialized computers or servers perform cryptographic calculations to validate 
+blockchain transactions or generate digital assets, with high ongoing electricity demand and 
+cooling requirements. The facility may be located within a building or in modular or containerized 
+units and may include associated office, security and electrical infrastructure.
+D
+Data Center
+An establishment engaging in the storage, management, processing or transmission of digital data, 
+and housing computer network equipment, systems, servers, appliances, and other associated 
+components related to digital data operations.
+Data Center Mechanical Equipment
+On-site exterior machines used to sustain and/or provide energy for the operations of a Data 
+Center.
+Decibel
+A unit for measuring the volume of sound using the A-weighting network on a sound level meter. 
+Decibel may be expressed as dB, dB(A), dBA, dba, or db(A).
+Distribution Center, High-Cube
+A warehouse or distribution facility characterized by a large building footprint, high ceiling 
+clearances and high-bay racking designed for the storage and distribution of goods, consistent 
+with high-cube warehouse/distribution land use categories in the ITE Trip Generation Manual. 
+The facility primarily handles palletized or containerized goods, with frequent truck loading and 
+unloading and limited retail or customer activity.
+104
+209
+
+[page 210]
+E
+Electric Vehicle Charging Space
+An automobile parking space that includes an electrical component assembly or cluster of 
+component assemblies (battery charging station) designed and intended to transfer Level 2 
+charging, as defined by the United States Department of Energy, electric energy by conductive 
+or inductive means from the electric grid or other off-board electrical source to a battery or other 
+energy storage device within a vehicle that operates, partially or exclusively, on electric energy.
+Spaces are marked to indicate that such spaces are reserved for the sole use by plug-in electric 
+vehicles.
+Electric Vehicle Supply Equipment (EVSE)
+Devices that provide electric power to a vehicle to recharge the vehicle’s batteries. EVSE systems 
+include the electrical conductors, related equipment, software and communications protocols that 
+deliver energy to the vehicle.
+Energy Storage Facility
+Energy storage equipment or technology that can absorb energy, storing such energy and 
+redelivering energy after it has been stored.
+A. Energy Storage, Utility Scale: One or more devices, assembled together, capable of 
+storing energy to supply electrical energy at a future time, greater than 600kWh (kilowatt per 
+hour) in nameplate capacity.
+B. Energy Storage, Site-Specific: One or more devices, assembled together, capable of 
+storing energy to supply electrical energy at a future time, less than or equal to 600kWh in 
+nameplate capacity. Storage devices are an accessory use located on the property providing 
+the energy generation source. This does not include energy storage facilities or devices 
+associated with Solar Facility, Utility Scale.
+Lehigh County Industrial Land Use Guide
+210
+
+[page 211]
+F
+Façade
+The exterior wall of a building exposed to public view or a wall viewed by persons not within the 
+building.
+Flex Industrial or “Flex Space”
+A building or group of buildings designed with adaptable floor plans that can accommodate a 
+mix of uses such as light manufacturing, warehousing, research and development, small-scale 
+assembly, laboratories and office space. Interior spaces may be reconfigured over time without 
+substantial exterior changes. Flex space is typically located in business or industrial parks and is 
+intended for low- to moderate-intensity industrial and commercial activity.
+Fulfillment Center, High-Cube
+A specialized high-cube distribution facility serving e-commerce or direct-to-customer operations, 
+generally aligned with high-cube fulfillment center categories in the ITE Trip Generation Manual. 
+The facility may include automated storage and retrieval systems, sorting and packaging operations 
+and high employee densities. Fulfillment centers typically generate significant truck and delivery 
+vehicle traffic and may operate extended or continuous hours.
+G
+General Industrial Use
+A facility engaged in manufacturing, processing, assembly, repair, storage or similar industrial 
+activities. General industrial uses may involve the use of machinery, handling of raw or finished 
+materials, truck traffic and associated office or warehouse functions, but do not rise to the intensity 
+of heavy manufacturing or hazardous industrial operations.
+H
+Hours of Operation 
+The time period during which an activity or enterprise is active, including any times during which 
+the activity is open to customers or other members of the public, employees are present and 
+working, deliveries are made, or equipment (other than utilities or ordinary indoor appliances) is 
+being actively operated on the site.
+106
+211
+
+[page 212]
+I
+Indoor Vertical Farming/Ag-Tech
+Warehouses or controlled-environment structures used to grow crops year-round with advanced 
+hydroponic or aeroponic systems.
+Industrial Park
+A planned development containing multiple industrial, manufacturing, warehousing, logistics or 
+related facilities served by a shared internal roadway and utility network, generally consistent with 
+the industrial park land use category in the ITE Trip Generation Manual. Uses within an industrial 
+park may include manufacturing, distribution, research and development, support services and 
+accessory office space.
+Industrial Storage
+A fixed installation where any of the following are stored, either for subsequent transshipment to 
+a smaller fixed installation or for pick-up by truck for transport to the site where the product will be 
+used by the consumer:
+A. Oil and gas storage
+B. Petroleum products
+C. Natural gas
+D. Coal
+E. Lumber
+F. Building material
+G Construction equipment
+H. Empty solid waste vehicles and containers 
+I. Building materials.
+Intermodal Freight Terminal
+A facility where freight is transferred between at least two modes of transportation, such as truck-
+to-rail or truck-to-air. The facility includes associated loading areas, container storage, staging 
+tracks, maintenance areas and administrative offices. Intermodal terminals typically generate high 
+truck, rail, or cargo activity and require direct access to major transportation corridors.
+Lehigh County Industrial Land Use Guide
+212
+
+[page 213]
+L
+Last-Mile Distribution Centers
+Logistics and warehouse facilities closer to population centers that facilitate rapid delivery of 
+goods ordered online.
+Light Industrial Facility
+A free-standing building or complex used for lower-intensity industrial activities such as assembly, 
+packaging, testing, small-scale fabrication or craft production, generally consistent with light 
+industrial land use categories in the ITE Trip Generation Manual. These uses typically have 
+limited heavy truck traffic, minimal outdoor storage, and lower noise and emissions than heavy 
+manufacturing, and may be suitable at transitions between industrial and commercial or mixed-
+use areas.
+Logistics Center
+A facility or complex primarily devoted to coordinating the movement, storage and distribution of 
+goods in the supply chain. A logistics center may include one or more warehouses, cross-dock or 
+transload facilities, truck terminals, fleet parking and associated office or dispatch functions. The 
+use is characterized by significant freight activity and connections to regional highway, rail or air 
+networks.
+M
+Manufacturing, Heavy
+A facility where raw materials or basic commodities are converted into finished products through 
+intensive industrial processes that may involve large machinery, high energy use, outdoor 
+storage, or more significant noise, vibration or emissions. Heavy manufacturing may include 
+metal fabrication, chemical processing, large-scale fabrication or similar operations and typically 
+requires greater separation from residential or sensitive uses.
+Manufacturing, Light
+A facility where raw materials, parts or components are assembled, processed or fabricated 
+into finished products using relatively clean and quiet processes with limited emissions, outdoor 
+storage or heavy truck traffic. Light manufacturing operations often occur within enclosed buildings 
+and may include associated office, research and warehousing functions.
+Microchip or Semiconductor Manufacturing Facility
+A facility where semiconductor wafers, microchips, or related components are fabricated, 
+processed, assembled, tested, or packaged. Operations may include cleanrooms, specialized 
+equipment, and the use of chemicals, gases and ultrapure water. The facility may consist of front-
+end wafer fabrication, back-end assembly, test and packaging, or a combination thereof, along 
+with support, utility and office areas.
+Micro-Fulfillment Centers
+Highly automated, compact warehouse facilities designed to speed up grocery and retail deliveries 
+within urban and suburban areas.
+108
+213

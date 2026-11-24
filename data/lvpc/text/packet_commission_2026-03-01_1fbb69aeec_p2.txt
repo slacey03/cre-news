@@ -1,0 +1,1056 @@
+
+
+[page 24]
+ 
+ 
+                 Project Review Summary Sheet  
+  
+Comprehensive Planning Committee                                                                                                              Date: March 2026 
+Zoning 
+Ordinance 
+Amendment 
+Washington 
+Township (NC) 
+Solar Farms – Adds definitions for principal solar 
+energy systems (PSES) and outlines conditions for 
+its use by special exception. 
+The LVPC recommends differentiating between accessory 
+and principal solar energy system uses to further ‘support 
+renewable energy and diversification of energy sources’ (of 
+Policy 3.4). 
+Zoning 
+Ordinance 
+Amendment 
+Forks 
+Township 
+Solar Farms – Amends districts where solar arrays, 
+solar farms and wind turbines are permitted, and 
+amends the use regulations for solar farms. 
+The proposal supports effective farmland preservation 
+techniques (of Policy 3.3) while ‘supporting renewable 
+energy and diversification of energy sources’ (of Policy 3.4). 
+Zoning 
+Ordinance 
+Amendment 
+Upper Saucon 
+Township 
+Planned Residential Development -  Adds planned 
+residential development as a permitted use by right 
+in the Enterprise Overlay Zoning District with related 
+regulations on the design and governance of the 
+use. 
+Many aspects of the proposed ordinance align with FutureLV 
+(Policies 2.1, 5.4 and 2.2), and the LVPC notes opportunities 
+to further strengthen the proposed ordinance. 
+24
+
+[page 25]
+ 
+ 
+ 
+ 
+MEMORANDUM 
+DATE: March 25, 2026 
+TO: LVPC Commissioners 
+FROM: LVPC Staff 
+CC: Becky Bradley, Executive Director 
+Jill Seitz, Chief Community and Regional Planner 
+REGARDING Draft Lehigh Valley Housing Supply and Attainability Strategy 
+ 
+INTRODUCTION 
+The Lehigh Valley Planning Commission (LVPC) has prepared the DRAFT Lehigh Valley 
+Housing Supply and Attainability Strategy, attached to this memo. This effort represents a 
+comprehensive, data-driven and collaborative approach to understand and address housing 
+needs across Lehigh and Northampton counties.  
+PROJECT COLLABORATION 
+A defining component of this Strategy is its regional and cross-sector collaboration with 
+hundreds of the Lehigh Valley’s municipal officials and representatives, school districts, 
+developers, employers, financial institutions, housing professionals, and community 
+organizations. The pre-publication version of the Draft Strategies was recently shared with key 
+contributors and stakeholders who participated in shaping aspects of the Strategy. LVPC has 
+begun receiving comments and is actively incorporating that feedback into the draft. 
+LVPC Commissioners, through the LVPC Comprehensive Planning Committee and at the 
+multiple engagement events, meetings and workshops for this project, have also played a 
+critical role in guiding and shaping the Housing Strategy throughout the project. We are now 
+requesting your review and input on the DRAFT Strategy attached to this memo. 
+All feedback received from LVPC Commissioners will be incorporated alongside stakeholder 
+input into the Final Draft Strategy. Please submit comments via email to 
+Planning@LVPC.org by Friday, April 3, 2026. 
+NEXT STEPS 
+Following the Commissioner review period and incorporation of feedback, the Strategy will 
+move into its final phases, which include Design and Layout by the Urban Land Institute, 
+continued discussions and review of the Draft throughout April, and anticipated public rollout 
+and formal adoption by LVPC in May. 
+Thank you for your support through this process. Your input is essential to ensuring the Lehigh 
+Valley Housing Supply and Attainability Strategy reflects regional priorities and is positioned for 
+successful implementation. 
+25
+
+[page 26]
+ 
+ 
+ 
+ 
+ 
+ 
+Lehigh Valley Housing 
+Supply and Attainability 
+Strategy 
+ 
+ 
+DRAFT 
+ 
+ 
+ 
+THIS IS A PRE-PUBLICATION VERSION FOR COMMENT ONLY.  
+ 
+Please email comments to planning@lvpc.org by April 3, 2026.
+26
+
+[page 27]
+PRE-PUBLICATION VERSION FOR COMMENT ONLY. 
+Lehigh Valley Housing Supply and Attainability Strategy DRAFT | 2 
+ 
+ 
+Lehigh County Executive 
+Josh Siegel 
+ 
+Lehigh County Commissioners 
+Antonio Pineda 
+Ron Beitler 
+Zach Cole-Borghi 
+Geoff Brace 
+Sarah Fevig 
+Sheila Alvaredo 
+Dan Hartzell 
+Jon Irons 
+April Riddick 
+ 
+ 
+Special Acknowledgement to former Lehigh County Executive Philips Armstrong and Richard Molchany, former 
+General Service Director, who both believed that addressing the housing information shortage and affordability 
+challenges is critical to a sustainable and resilient region.      
+27
+
+[page 28]
+PRE-PUBLICATION VERSION FOR COMMENT ONLY. 
+Lehigh Valley Housing Supply and Attainability Strategy DRAFT | 3 
+ 
+ 
+Northampton County Executive 
+Tara Zrinski 
+ 
+Northampton County Council 
+Ken Kraft 
+Jeff Warren 
+Jason Boulette 
+Theresa Fadem 
+Thomas Giovanni 
+Lori Vargo Heffner 
+David Holland 
+Kelly Keegan 
+Nadeem Qayyum
+28
+
+[page 29]
+PRE-PUBLICATION VERSION FOR COMMENT ONLY. 
+Lehigh Valley Housing Supply and Attainability Strategy DRAFT | 4 
+ 
+LVPC Commissioners 
+Christina V. Morgan, Chair (Lehigh County) 
+Armando Moritz-Chapelliquen, Vice Chair (Northampton County) 
+Philips Armstrong, Treasurer (Lehigh County)
+Lehigh County 
+Josh Siegel 
+Samantha Pearson (alt.) 
+Matthew Tuerk 
+Jennifer Gomez (alt.) 
+Ron Beitler 
+Craig Beavers 
+Michael Drabenstott 
+Gary Fedorcha 
+Sharon Fehlinger-Ricker 
+Sunny Ghai 
+Phil Ginder 
+Steven L. Glickman, RA  
+Kent H. Herman, Esq. 
+John Inglis III 
+Ryan Mayberry 
+Santo Napoli 
+Stephen Repasch 
+Kevin Schmidt 
+ 
+Lehigh and  
+Northampton Counties 
+J. William Reynolds 
+Cathy Fletcher (alt.) 
+Justin Amann 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Northampton County 
+Tara Zrinski 
+Bryan Cope (alt.) 
+Salvatore Panto, Jr. 
+Carl Manges (alt.) 
+Dr. Christopher R. Amato 
+Jo Daniels 
+Andrew Elliott 
+Charles W. Elliott, Esq. 
+Anita Erdos Forrester 
+Judith Haldeman 
+Tung-To Lam 
+John McGorry 
+Stephen Melnick 
+Eric Shamis 
+Dean Turner  
+Jeff Warren 
+Brett Webber 
+Special Acknowledgement to 2025 outgoing LVPC Commissioners 
+ 
+Lehigh County 
+Richard Molchany (alt.) 
+Percy H. Dougherty, PhD 
+Bob Elbich 
+Dennis Klusaritz 
+Diane Kelly 
+Owen O’Neil 
+ 
+ 
+ 
+ 
+ 
+Northampton County 
+Lamont G. McClure, Jr. 
+Jean Versteeg 
+John Gallagher 
+Rachel Leon 
+Scott Minnich 
+Edward Nelson 
+Crystal Rose 
+Jessica Cope 
+Kenneth Kraft  
+Tina Smith (alt.) 
+Basel Yandem (alt.)
+29
+
+[page 30]
+PRE-PUBLICATION VERSION FOR COMMENT ONLY. 
+Lehigh Valley Housing Supply and Attainability Strategy DRAFT | 5 
+LVPC Staff 
+ 
+Becky Bradley, AICP 
+Executive Director 
+ 
+David Cohen, AICP 
+Director of Regional Planning 
+ 
+Tracy Oscavich 
+Director of Administration 
+ 
+Susan Myerov, AICP 
+Director of Environmental Planning 
+ 
+Beth Ritter-Guth 
+Director of Research & Innovation 
+ 
+Steven Weber, AICP 
+Director of Transportation Planning 
+ 
+Vicki Weidenhammer 
+Controller 
+ 
+Matt Assad 
+Managing Editor 
+ 
+Denjam Khadka, EIT 
+Senior Civil/Environmental Engineer 
+ 
+Subham Kharel, PhD 
+Senior Data and Analytics Planner 
+ 
+Geoffrey Reese, PE 
+Master Planner and Engineer 
+ 
+Jill Seitz, AICP 
+Chief Community and Regional Planner 
+ 
+Faria Urmy, AICP, CNU-A, LEED AP 
+Regional Plan Program Manager 
+ 
+Chris Embert 
+Creative Manager 
+ 
+ 
+ 
+Minsoo Park 
+Economist 
+ 
+Giovanna Rizkallah 
+AI Engineer and Innovation Planner  
+ 
+Evan Gardi 
+Transportation Planner 
+ 
+Peter Lantz 
+Environmental Engineer 
+ 
+Taylor Beasley 
+Graphic Design and Publications Coordinator 
+ 
+Mary Grace Collins 
+Community and Regional Planner 
+ 
+Mackenzie Geisner 
+Geographic Information Systems Planner 
+ 
+Clay Karnis 
+Geographic Information Systems Planner 
+ 
+Hannah Milagio 
+Regional Planner for Community Engagement 
+ 
+Corinne Ruggiero, SEO 
+Environmental Planner 
+ 
+Jacob Weinberg 
+Community and Regional Planner 
+ 
+Laurie Thompson 
+Executive Administrative Assistant 
+ 
+Michele Anfuso 
+Office Assistant 
+ 
+Special thanks to our colleagues Scott 
+Greenly, Samantha Pearson and Joseph 
+Dotta for your contributions to the Lehigh 
+Valley Housing Supply and Attainability 
+Strategy.
+30
+
+[page 31]
+PRE-PUBLICATION VERSION FOR COMMENT ONLY. 
+Lehigh Valley Housing Supply and Attainability Strategy DRAFT | 6 
+ 
+ 
+Urban Land Institute (ULI) Philadelphia Project Staff 
+Kevin Moran 
+Executive Director 
+ 
+Christina Chavez 
+Strategic Initiatives Lead 
+ 
+Jennifer Long 
+Senior Associate 
+ 
+Alecia Caballero 
+Associate 
+ 
+Elisa Ludwig 
+Writer 
+31
+
+[page 32]
+PRE-PUBLICATION VERSION FOR COMMENT ONLY. 
+Lehigh Valley Housing Supply and Attainability Strategy DRAFT | 7 
+Table of Contents 
+ 
+Introduction….. 9 
+ 
+History & Background….. 11 
+ 
+Understanding the Housing Challenge….. 14 
+ 
+Developing the Housing Strategy….. 19 
+ 
+Community Engagement….. 21 
+• February 5th Kickoff Event…..21 
+• March 27-28 ULI Technical Assistance Panel…..22 
+• June 23rd Strategy Development Event…..24 
+• Municipal and Community Outreach…..25 
+ 
+What We Heard: Stakeholder Insights and Findings….. 26 
+ 
+Strategies to Accelerate Housing Supply in the Lehigh Valley….. 32 
+• Construction and Development…..35 
+• Finance…..47 
+• Land Use and Regulation…..62 
+• Collaboration and Partnership…..73 
+ 
+Summary….. 82 
+ 
+Appendices…..83 
+• Urban Land Institute Acknowledgements…..83 
+• Participants List…..84 
+• Table of Strategies…..86
+32
+
+[page 33]
+PRE-PUBLICATION VERSION FOR COMMENT ONLY. 
+Lehigh Valley Housing Supply and Attainability Strategy DRAFT | 9 
+Introduction 
+The Lehigh Valley Housing Supply and Attainability Strategy represents a coordinated, 
+regionwide effort to address one of the most pressing challenges facing Lehigh and 
+Northampton counties: ensuring that people at all income levels can find a home in the 
+communities they value. As the Lehigh Valley continues to grow and attract new 
+residents and investment, the rising cost of housing has made it increasingly difficult for 
+households to enter or remain in the market. The typical homebuyer who once spent 
+roughly twice their annual income to purchase a home is now often spending four times 
+their salary, with projections suggesting that ratio could climb even higher if no action is 
+taken. Without deliberate, sustained intervention, future generations will find it 
+increasingly difficult to live and work in the region they call home. 
+ 
+Recognizing this challenge, Lehigh County made housing a priority and committed the 
+funding necessary to launch this Strategy. The County contributed financial support for 
+the project and has demonstrated its commitment through tangible actions, including 
+restarting the long-dormant Lehigh County Redevelopment Authority, dedicating 
+American Rescue Plan funding to leverage private investment in attainable housing, 
+and annually allocating Community Development Block Grant resources to rehabilitate 
+affordable homes for senior residents. These actions underscore a broader 
+understanding that housing affordability is not solely a market issue, but a community 
+responsibility tied to economic vitality, workforce stability, and long-term regional 
+competitiveness. 
+ 
+Northampton County has likewise demonstrated a strong commitment to strengthening 
+housing conditions and supporting community stability through proactive policy and 
+partnership. As the county has experienced steady growth in population, employment, 
+and new construction, local leaders have also recognized the parallel need to address 
+blight and deteriorating properties that undermine neighborhood quality, property 
+values, and municipal resources. In partnership with the Lehigh Valley Planning 
+Commission, Northampton County’s Department of Community and Economic 
+Development launched the Northampton County Blight Reversal & Remediation Plan, a 
+data-driven initiative informed by municipal surveys, stakeholder interviews, and a Blight 
+Task Force representing all 38 municipalities in the County. By confronting blight 
+strategically and collaboratively, Northampton County reinforces the foundation for 
+healthy housing markets, directly complementing the broader goals of the regional 
+Housing Supply and Attainability Strategy. 
+ 
+The Strategy is the product of a partnership among the Lehigh Valley Planning 
+Commission (LVPC), the Urban Land Institute (ULI), Lehigh County, and Northampton 
+County, along with the active engagement of municipal officials, housing professionals, 
+33
+
+[page 34]
+PRE-PUBLICATION VERSION FOR COMMENT ONLY. 
+Lehigh Valley Housing Supply and Attainability Strategy DRAFT | 10 
+employers, nonprofit organizations, and community stakeholders across the region. 
+Hundreds of leaders and practitioners contributed their time and expertise throughout 
+the process, reflecting a shared commitment to confronting a complex issue through 
+collaboration rather than fragmentation. 
+ 
+The LVPC, created in 1961 by Lehigh and Northampton counties, serves as the region’s 
+comprehensive planning and coordination agency for 62 municipalities and a population 
+of more than 700,000 residents. The LVPC works at the intersection of land use, 
+infrastructure, economic development, and public policy to ensure that regional growth 
+is deliberate, data-driven and aligned with long-term community goals. Through plan 
+review, municipal technical assistance, regional policy development, and 
+implementation of FutureLV: The Regional Plan, the Commission helps local 
+governments make informed decisions that balance growth with livability and fiscal 
+sustainability. The LVPC also staffs the Lehigh Valley Transportation Study, integrating 
+transportation investment with land use planning to support a coordinated, multimodal 
+network. The Housing Supply and Attainability Strategy extends this regional planning 
+framework by connecting housing production and affordability to infrastructure capacity, 
+market conditions, and municipal policy tools, ensuring that housing solutions are 
+grounded in both local context and regional coordination. 
+ 
+ULI, established in 1936 as a global nonprofit research and education organization, 
+brought an independent, nationally informed perspective to the effort. Through its 
+Advisory Services and Technical Assistance Panel programs, ULI assembles 
+multidisciplinary teams of volunteer experts to provide objective, practical 
+recommendations on complex land use challenges. The ULI Terwilliger Center for 
+Housing, dedicated to advancing best practices in residential development and public 
+policy, contributed research, technical expertise, and thought leadership focused on 
+expanding housing opportunity across income levels. ULI’s involvement ensured that 
+the Strategy was informed not only by local conditions, but also by proven practices 
+from communities across the country. 
+ 
+Together, these partners have produced an evidence-driven, action-oriented framework 
+designed to increase housing supply, expand attainability, and align public and private 
+efforts over the long term. The housing shortage facing the Lehigh Valley has 
+developed over nearly two decades and will require sustained commitment to resolve. 
+This Strategy establishes a shared foundation for that work, identifying practical steps 
+that counties, municipalities, the development community, and regional partners can 
+take to ensure that the Lehigh Valley remains a place where current and future 
+residents can live, work, and thrive. 
+  
+34
+
+[page 35]
+PRE-PUBLICATION VERSION FOR COMMENT ONLY. 
+Lehigh Valley Housing Supply and Attainability Strategy DRAFT | 11 
+ 
+History & Background 
+ 
+Situated in Eastern Pennsylvania, the Lehigh Valley encompasses Lehigh and Northampton 
+Counties and 62 municipalities, including the cities of Allentown, Bethlehem, and Easton. The 
+Lehigh River shaped the region geologically and economically, forming the valley, rich with 
+natural resources,  farmland critical to  to industrial, educational, finance, government, life 
+sciences and healthcare sectors.   Overtime, robust transportation, utility, parks and open space 
+networks where developed to support the population and natural resources that supply the 
+economy.    
+ 
+ 
+ 
+Today, the Lehigh Valley is home to more than 500 companies, and 16 colleges, universities, 
+and technical schools drawing tens of thousands of workers and students to the area. Situated 
+within a day’s drive of nearly 100 million consumers, the Lehigh Valley is primed for continued 
+growth and prosperity as a place where businesses want to be.  
+35
+
+[page 36]
+PRE-PUBLICATION VERSION FOR COMMENT ONLY. 
+Lehigh Valley Housing Supply and Attainability Strategy DRAFT | 12 
+ 
+ 
+As one of the fastest-growing economies in the state, Lehigh Valley has seen a significant 
+uptick in population growth. A projected 18.6% population increase by the year 2050 will add 
+another 100,000 people, and employment will grow even faster, adding more than 80,000 jobs 
+for a 24.9% increase by 2050. 
+ 
+ 
+ 
+36
+
+[page 37]
+PRE-PUBLICATION VERSION FOR COMMENT ONLY. 
+Lehigh Valley Housing Supply and Attainability Strategy DRAFT | 13 
+Like many areas in the U.S., the Lehigh Valley is facing a significant housing shortage. An 
+estimated 54,000 housing units are needed regionwide by 2050. These include suppressed 
+housing construction and development capital shortages, inflation, materials and labor 
+shortages, school district financial concerns, overburdened or lack of infrastructure in key 
+locations, lack of available land, land use challenges, and misconceptions about growth and 
+density. Housing prices have outpaced income growth here as elsewhere across the US, and if 
+the rise in housing costs continues, the average home will cost seven times the median salary 
+by 2050—an unsustainable outcome.  To support continued growth of a $56 billion local 
+economy, the Lehigh Valley, through this Housing Supply and Attainability Strategy is charting a 
+new path to increase residential supply and affordability through actions that maintain the 
+existing housing stock and increase unit production over the next 25 years. 
+ 
+The Lehigh Valley Planning Commission (LVPC), working regionally, with Lehigh County, 
+sought a partner with national expertise to research, facilitate and co-develop a housing plan for 
+everyone.  The Urban Land Institute (ULI),  the oldest and largest global network of cross-
+disciplinary real estate and land use experts, from the public, private, and service sectors joined 
+with LVPC and Lehigh County to make this plan.   Ultimately, this Housing Supply and 
+Attainability Strategy aims to advocate for a realistic, fact-driven approach to housing for more a 
+equitable, sustainable, healthy, and resilient region.    
+ 
+37
+
+[page 38]
+PRE-PUBLICATION VERSION FOR COMMENT ONLY. 
+Lehigh Valley Housing Supply and Attainability Strategy DRAFT | 14 
+Understanding the Housing Challenge 
+The Housing Supply and Attainability Strategy is grounded in a clear and urgent reality: the 
+Lehigh Valley’s housing market is out of balance, with a mismatch between the number of 
+households in the region and the number of homes available at affordable price points. 
+ 
+ 
+ 
+Using the industry standard that housing is considered attainable when it costs no more than 
+30% of household income, LVPC’s analysis reveals deficits at both ends of the income 
+spectrum. There is a shortage of more than 10,000 units affordable to households earning 
+under approximately $25,000 per year, and a deficit of more than 50,000 units priced for higher-
+income households. As a result, households “buy down” or “rent down” into units that would 
+otherwise be attainable to middle-income households, compressing the market and intensifying 
+competition across price tiers. 
+ 
+Housing Development and Population Growth Trends 
+The region is also experiencing a broader supply shortfall. Based on natural vacancy rates 
+(where a healthy housing market maintains approximately 3% to 5% of units available at any 
+given time), the Lehigh Valley is currently short approximately 9,000 housing units. With a 
+current inventory of roughly 278,000 units, the region should have closer to 287,000 units today 
+to achieve balance. Looking ahead, continued population growth means the region will need 
+approximately 54,000 additional units by 2050, an average of about 2,000 units per year, to both 
+accommodate growth and restore healthy vacancy levels.  
+ 
+38
+
+[page 39]
+PRE-PUBLICATION VERSION FOR COMMENT ONLY. 
+Lehigh Valley Housing Supply and Attainability Strategy DRAFT | 15 
+ 
+ 
+In recent development trends (over the last five years), an average of 2,100 residential units 
+have been approved for construction by local governments per year. However, not all approved 
+units are built immediately, and some projects are paused or delayed for several years before 
+advancing. This lag between approvals and delivery means the market continues to chase a 
+moving target. 
+ 
+ 
+39
+
+[page 40]
+PRE-PUBLICATION VERSION FOR COMMENT ONLY. 
+Lehigh Valley Housing Supply and Attainability Strategy DRAFT | 16 
+Geography-Specific Housing Needs 
+Housing challenges also vary significantly by community type. Suburban townships currently 
+face some of the most significant shortages and are projected to experience the greatest 
+increase in demand by 2050. These areas often have large amounts of single-family detached 
+housing and limited housing diversity, which constrains options for smaller households, young 
+professionals, and seniors seeking to downsize. At the same time, accommodating growth in a 
+low-density, sprawling pattern risks the loss of farmland and open space, increased traffic 
+congestion, and higher infrastructure costs. The region’s three cities of Allentown, Bethlehem, 
+and Easton also experience high housing shortages, compounded by limited land availability, 
+aging housing stock, and higher construction costs. Boroughs face similar constraints, with infill 
+and infrastructure upgrades critical to absorbing growth. Rural townships currently have smaller 
+shortages but are projected to see their housing needs increase substantially by 2050, creating 
+tension between growth pressures and longstanding priorities of land preservation and 
+agricultural protection. 
+ 
+ 
+ 
+Economic pressures compound these supply challenges. In 1980, a median-priced home cost 
+approximately twice the median household income. By 2023, the median home price in the 
+Lehigh Valley had risen to approximately $307,000, while median household income was 
+approximately $75,000, meaning a home now costs more than four times annual income: 
+ 
+40
+
+[page 41]
+PRE-PUBLICATION VERSION FOR COMMENT ONLY. 
+Lehigh Valley Housing Supply and Attainability Strategy DRAFT | 17 
+ 
+ 
+If current trends continue, projections indicate that by 2050, housing could cost more than seven 
+times the median salary. This widening gap affects every generation differently: younger 
+households struggle to enter the market; mid-career households find limited opportunities to 
+move up; and older residents face barriers to downsizing due to insufficient smaller, attainable 
+options. 
+ 
+These data points framed the public participation process and underscored why housing 
+attainability is not simply a housing issue, but a regional sustainability issue. Housing availability 
+influences workforce recruitment and retention, commuting patterns, transportation system 
+performance, municipal tax bases, and long-term economic competitiveness. The Housing 
+Storymap and Dashboard available at www.lvpc.org/housing were developed to make this data 
+transparent and accessible, allowing municipalities, school districts, developers, employers, and 
+residents to understand local conditions within the broader regional context.  This housing 
+dashboard is the first in the nation to quantify and statistically- validate residential shortages and 
+availability, at the regional, county and local scale.  The dashboard received the National 
+Association Regional Councils’ Award for Regional Achievement in 2025 and the 
+Commonwealth of Pennsylvania utilized the methodology to support the statewide Housing 
+Action Plan (2026).            
+ 
+ 
+41
+
+[page 42]
+PRE-PUBLICATION VERSION FOR COMMENT ONLY. 
+Lehigh Valley Housing Supply and Attainability Strategy DRAFT | 18 
+ 
+ 
+ 
+ 
+Together, the quantitative analysis and community engagement process reinforce a shared 
+conclusion: without coordinated action to increase supply, diversify housing types, and realign 
+price points with incomes, the Lehigh Valley risks constraining opportunity for current and future 
+generations. 
+ 
+ 
+  
+42
+
+[page 43]
+PRE-PUBLICATION VERSION FOR COMMENT ONLY. 
+Lehigh Valley Housing Supply and Attainability Strategy DRAFT | 19 
+Developing the Housing Strategy 
+The Lehigh Valley Housing Supply and Attainability Strategy provides achievable ways of 
+increasing housing at appropriate income levels and in locations that support the needs of 
+everyone. The Strategy process acknowledges that solving the region’s housing supply 
+shortage requires a multi-faceted approach and combines national expertise with local 
+perspectives to identify a path forward. This effort drew on the Housing Supply Accelerator 
+Playbook, developed in collaboration between the American Planning Association and the 
+National League of Cities, as a guidance model that seeks to address the nationwide housing 
+shortage by recommending an approach and array of solutions that can be applied at the local 
+level.  
+ 
+Public engagement was central to the development of the Housing Supply and Attainability 
+Strategy. Over the course of the process, the Lehigh Valley Planning Commission and its 
+partners convened a wide range of voices -- including municipal officials, developers, lenders, 
+employers, community organizations, school districts, and residents -- to better understand the 
+region’s housing challenges and identify opportunities to address housing needs.  
+ 
+ 
+ 
+Through large regional events, targeted focus groups and technical assistance panels, 
+workshops with local municipalities, individual conversations, and presentations at stakeholder 
+meetings, participants shared their experiences on the barriers to housing production, their 
+perspectives on concerns around housing development, and their ideas for opportunities and 
+solutions. Participant input not only confirmed the depth of the housing challenge, but also 
+provided practical insights that ultimately became the strategies identified in this plan.  
+ 
+43
+
+[page 44]
+PRE-PUBLICATION VERSION FOR COMMENT ONLY. 
+Lehigh Valley Housing Supply and Attainability Strategy DRAFT | 20 
+Taking a Collaborative Approach Across Industries and Sectors 
+The best community engagement happens when stakeholders have a seat at the table and 
+share their knowledge to inform the process, which supports the outcome. The appendices of 
+this report outline the many people who had a hand in shaping the strategies outlined here, and 
+the LVPC is deeply grateful for each person’s and organization’s contribution to these efforts. A 
+full list of participants in the engagement process is included at the end of this plan. 
+ 
+Governments and Agencies 
+• Local Governments – Provide for development and land use through zoning and 
+permitting. 
+• Planners – Design policies, plans, and community engagement processes that ensure 
+housing growth is balanced, inclusive, and sustainable. 
+• County – Provide funding and housing programs, establish county housing priorities 
+• LVPC – Supplies regional data, analysis tools to guide fact-based housing strategies, 
+provides guidance to communities on best planning practices. 
+• State – Establishes housing policies, programs, and funding. 
+• School Districts – Help align housing with school capacity and future growth. 
+ 
+Developers and Design Professionals 
+• Developers – Build housing and bring projects to market that address local shortages 
+• Engineers – Create plans for buildings and infrastructure (roads, utilities, stormwater, 
+etc.) for construction. 
+• Architects – Design housing that is functional and aligned with community character. 
+ 
+Housing Market Professionals 
+• Banks and Financial Lenders – Provide financing for housing projects; innovate with 
+loan pools, flexible lending products, and partnerships to reduce barriers for housing 
+development. 
+• Realtors – Act as a bridge between available housing and residents; market attainable 
+housing options, educate buyers and renters on programs, and provide feedback on 
+what the market needs. 
+ 
+Businesses and Institutions 
+• Employers – Support housing close to jobs through employer-assisted housing 
+programs and partnerships with developers. Stable housing strengthens the workforce. 
+• Colleges and Universities – Provide housing for students and staff, while collaborating 
+on neighborhood revitalization and research that supports housing policy. 
+• Community Organizations – Engage directly with residents, elevating local needs and 
+concerns. They can advocate for housing equity, connect people to resources, and 
+partner on small-scale or nonprofit housing initiatives. 
+  
+44
+
+[page 45]
+PRE-PUBLICATION VERSION FOR COMMENT ONLY. 
+Lehigh Valley Housing Supply and Attainability Strategy DRAFT | 21 
+Community Engagement 
+ 
+February 5th Kickoff Event 
+On February 5, 2025, the Lehigh Valley Planning Commission (LVPC) and the Urban Land 
+Institute (ULI) co-hosted the Kickoff Event for the Housing Supply and Attainability Strategy at 
+DeSales University. The event brought together 180 housing stakeholders representing 
+municipalities, developers, nonprofit organizations, and community leaders to examine the 
+region’s housing shortage and begin shaping solutions. 
+The LVPC presented data showing the growing mismatch between population growth and 
+housing production, highlighting that the region is falling short of the number of housing units 
+needed to support current and future residents. The presentation also unveiled the Lehigh 
+Valley Housing Attainability Dashboard, a new data tool that allows communities to assess 
+housing supply and affordability at the municipal level. The dashboard features detailed 
+information on unit shortages by municipality today and projected needs to 2050, as well as 
+data on housing costs, unit diversity, and affordability by occupation. Later in 2025, this tool 
+would be nationally recognized with the National Association of Regional Councils’ Medium 
+Metro Award for Regional Achievement. 
+National expertise was provided by Deborah Myerson, AICP, with the ULI Terwilliger Center for 
+Housing, who shared lessons from across the country on how regions are addressing similar 
+shortages. Her presentation emphasized strategies to encourage market-rate housing 
+development, adapt regulatory frameworks, and expand housing diversity. 
+Initial audience feedback reflected both concern and commitment. Attendees acknowledged the 
+urgency of the problem and noted that the dashboard provided valuable, clear data to ground 
+discussions. Municipal officials expressed interest in how the tool could inform local decision-
+making, while developers emphasized the importance of balancing regulatory reform with 
+financial feasibility. Nonprofit and community representatives stressed the need for solutions 
+that address both market-rate and attainable housing to meet the diverse needs of residents. 
+Across the board, participants recognized the value of data transparency and regional 
+collaboration as a foundation for next steps to address housing supply and attainability. 
+45
+
+[page 46]
+PRE-PUBLICATION VERSION FOR COMMENT ONLY. 
+Lehigh Valley Housing Supply and Attainability Strategy DRAFT | 22 
+March 27-28 ULI Technical Assistance Panel  
+ULI conducted a Technical Assistance Panel (TAP) at the LVPC’s office in Allentown, PA on 
+March 27-28, 2025, bringing together practitioners from a diverse array of development and real 
+estate-related backgrounds.  
+ 
+On Thursday, March 27, the TAP members gathered at the LVPC’s offices, where they were 
+introduced to LVPC staff who presented their work to date, including key data points to help 
+inform the TAP’s work and a newly unveiled website with a dashboard for tracking housing 
+needs and availability. The bulk of the day was spent with the panelists gathering in smaller 
+groups for interviews with an array of stakeholders. These included representatives from the 
+Valley’s 62 municipalities, ranging from rural and suburban to small towns and cities. School 
+district and county, state, and federal officials; leaders from local nonprofits and universities; 
+realtors, developers, and lenders; and representation from housing authorities and a workforce 
+board rounded out the stakeholder participants. 
+ 
+Scope 
+TAP participants were asked to explore the following questions: 
+ 
+1. What are the biggest barriers preventing the development of new housing in the Lehigh 
+Valley?  
+a. Are zoning regulations, infrastructure limitations, financing challenges, or community 
+misconceptions the most significant hurdles?  
+b. How do these barriers vary across different types of housing (single-family, multi-
+family, workforce housing, senior housing, etc.)?  
+2. What strategies or policy changes could help increase housing supply at price points that 
+match local income levels?  
+a. What incentives or regulatory adjustments could encourage more diverse and 
+attainable housing production?  
+b. Are there successful examples from other regions that could be adapted for the 
+Lehigh Valley?  
+3. How can municipalities, developers, financial institutions, and employers work together to 
+support housing growth?  
+a. What role should local governments play in facilitating housing production?  
+b. How can employers, colleges, and other sectors contribute to expanding housing 
+options for workers, students, and residents?  
+4. What specific actions should be included in the Housing Strategy – a business plan for 
+housing – to ensure housing availability meets future demand?  
+a. What data, partnerships, or resources are needed to make informed decisions on 
+where and how to build more housing?  
+b. How do we balance housing growth with infrastructure capacity, school district 
+needs, and community preferences?  
+ 
+46
+
+[page 47]
+PRE-PUBLICATION VERSION FOR COMMENT ONLY. 
+Lehigh Valley Housing Supply and Attainability Strategy DRAFT | 23 
+The group assembled the following day, Friday, March 28, and shared their findings from 
+stakeholder conversations. Once they collectively identified some overarching themes and 
+broader assessments, they broke out into smaller subject matter groups to develop their 
+recommendations. Drawing from these findings, the group developed recommendations to 
+address housing availability and attainability in the Lehigh Valley which laid foundation to 
+develop the strategies outlined in this report. 
+ 
+ULI TAP Recommendations 
+The panel determined that LVPC and its stakeholder partners such as municipalities, planning 
+professionals, developers, banks and lenders, community organizations, schools, employers, 
+government agencies and representatives, and realtors each have a vital role to play in 
+improving public perception around housing and the LVPC’s role, simplifying and streamlining 
+regulatory practices and processes to aid developers and attract investment, and improving 
+infrastructure to support growth. 
+ 
+The tactics identified through this process have been incorporated into the strategies outlined in 
+this document. It is the panel’s hope that this collective effort and cross-disciplinary collaboration 
+will create the conditions needed for future development and the creation of a housing economy 
+that serves the region and its residents. 
+ 
+47
+
+[page 48]
+PRE-PUBLICATION VERSION FOR COMMENT ONLY. 
+Lehigh Valley Housing Supply and Attainability Strategy DRAFT | 24 
+June 23rd Strategy Development Event 
+On June 23, 2025, the LVPC and ULI co-hosted a Housing Strategy Event as the third major 
+milestone in the region’s Housing Supply and Attainability Strategy process. Building on months 
+of data analysis, public engagement, and ULI focus group discussions, the event marked a shift 
+from defining the region’s housing challenges to charting a course toward implementation as 
+attendees provided initial feedback on strategies that had been identified so far in the process. 
+More than 100 stakeholders attended, representing municipal governments, developers, 
+financial institutions, engineers, architects, housing authorities, nonprofit organizations, and 
+community leaders.  
+The program included an LVPC presentation emphasizing that addressing housing supply is not 
+one-size-fits-all. It requires place-based solutions rooted in data, local context, and 
+collaboration.  
+An expert panel discussion was moderated by LVPC staff and featured Michael Kimmey (LRK, 
+ULI TAP Co-Chair), Shannon Norman (City of Indianapolis Department of Metropolitan 
+Development), and J.B. Reilly (City Center Group CEO). The panel conversation was organized 
+around four core themes that had emerged as participants developed draft strategies through 
+the Housing Strategy process: 
+1. Construction & Development: Expanding housing types, accelerating review 
+processes, directing housing to strategic sites, and aligning infrastructure investment. 
+2. Finance: Leveraging federal, state, and local funding tools, exploring innovative financial 
+products, and connecting housing to centers and corridors. 
+3. Land Use & Regulation: Aligning zoning with FutureLV’s balanced growth framework, 
+facilitating adaptive reuse, and clarifying fair share housing guidance. 
+4. Collaboration & Partnership: Supporting small-scale developers, building a unified 
+regional housing message, and providing training and education across sectors. 
+The event included a robust attendee question and answer session. Audience polling allowed 
+participants to rank strategies in each category by perceived impact, while open discussion 
+highlighted recurring themes. At the close of the program, participants were asked to 
+identify one concrete action they or their organization could take within the next few months to 
+support attainable housing. Over 80 responses were collected, illustrating strong cross-sector 
+commitment. 
+48
+
+[page 49]
+PRE-PUBLICATION VERSION FOR COMMENT ONLY. 
+Lehigh Valley Housing Supply and Attainability Strategy DRAFT | 25 
+Municipal and Community Outreach 
+ 
+As part of the Housing Supply and Attainability Strategy engagement process, the LVPC worked 
+to connect with a broad range of community and institutional partners in addition to 
+municipalities. The LVPC presented the Strategy and obtained feedback from the Workforce 
+Board Lehigh Valley ENGAGE! Roundtable, the Greater Lehigh Valley Chamber of Commerce 
+Board of Governors, and the Lehigh Valley General Assembly. These discussions provided 
+valuable perspectives on how housing availability affects workforce stability, economic 
+development, and regional competitiveness. Building on this outreach, LVPC also conducted 
+subregional workshops with Lehigh County municipalities to explore locally focused housing 
+challenges and opportunities. 
+ 
+Subregion Workshops: Discussing Local Housing Concerns and Needs 
+As part of community outreach and engagement, the LVPC conducted subregional workshops 
+with Lehigh County municipalities. These workshops were held as part of the Lehigh County–
+funded Housing Supply and Attainability Strategy, which covers the entire Lehigh Valley but 
+focused engagement activities within Lehigh County due to funding parameters. LVPC remains 
+committed to engaging partners across both counties to plan for and support housing 
+development regionwide and aims to continue targeted outreach beyond this study. 
+ 
+The Housing Workshops revealed a consistent set of concerns: infrastructure gaps, public 
+opposition, affordability challenges, and limited municipal capacity. Importantly, these 
+conversations also dispelled the myth that municipalities oppose housing outright. Instead, local 
+governments are seeking support, tools, and investment to make housing feasible, tailored to 
+the realities of their community type.   
+49
+
+[page 50]
+PRE-PUBLICATION VERSION FOR COMMENT ONLY. 
+Lehigh Valley Housing Supply and Attainability Strategy DRAFT | 26 
+What We Heard: Stakeholder Insights and 
+Findings 
+Throughout the Housing Supply and Attainability Strategy process, including LVPC-led 
+engagement and the Urban Land Institute (ULI) Technical Assistance Panel (TAP) stakeholder 
+interviews, and municipal consultations, participants consistently affirmed that the Lehigh Valley 
+faces a measurable and growing housing shortage.  
+ 
+Regional Assets and Momentum 
+ULI’s assessment through the TAP process identified several core strengths that position the 
+Lehigh Valley to successfully address housing supply and attainability if barriers are addressed: 
+ 
+• Strategic Location and Connectivity 
+The region’s extensive interstate highway network, proximity to major population centers 
+in Philadelphia and New York City, and access to airports and ports have made the 
+Lehigh Valley a logistics and distribution hub. This connectivity strengthens the region’s 
+economic competitiveness and reinforces demand for housing. 
+ 
+• Institutional and Economic Assets 
+The Lehigh Valley benefits from strong educational institutions, healthcare systems, 
+corporate employers, and continued gross domestic product growth. These institutional 
+assets attract businesses and talent, contributing to steady population growth—including 
+among younger households—and increasing housing demand. 
+ 
+• Leadership and Regional Convening Power 
+Stakeholders commended the leadership of LVPC, Lehigh and Northampton counties in 
+convening partners and confronting housing challenges directly. There was broad 
+agreement that the region has the institutional capacity and collaborative foundation 
+necessary to advance solutions. 
+ 
+Through the engagement process, several clear and recurring themes emerged. The findings 
+below integrate stakeholder input and ULI’s independent assessment, observations, and 
+recommendations. 
+ 
+Taking a Contextual Approach to Housing Development 
+Across both LVPC engagement sessions and ULI interviews, participants emphasized 
+that where housing is built is as important as how much housing is built. Municipal 
+representatives were not resistant to additional housing in principle; rather, they were concerned 
+about ensuring development aligns with local character, infrastructure capacity, and long-term 
+goals.  Municipal partners reinforced the need to work with LVPC, as a neutral, trusted planning 
+partner to advance housing goals.  Developers and banking partners expressed the same, 
+further elevating the LVPC’s role as a trusted entity, without financial or political motivation.  
+50
+
+[page 51]
+PRE-PUBLICATION VERSION FOR COMMENT ONLY. 
+Lehigh Valley Housing Supply and Attainability Strategy DRAFT | 27 
+Cross-sector collaborations, with LVPC as a convening and coordinating entity, is seen as 
+critical to implementation, as well as, monitoring and measuring housing outcomes.         
+ 
+Stakeholders expressed strong interest in aligning housing growth with: 
+• Open space and farmland preservation. 
+• Infill development in cities, boroughs, and suburban centers. 
+• Redevelopment of blighted and brownfield sites. 
+• Adaptive reuse of underutilized commercial and office buildings. 
+• Targeted development near downtowns, employment centers, and transit corridors. 
+ 
+Housing Diversity and Developer Capacity Constraints 
+Stakeholders repeatedly identified a constrained supply of diverse housing types as a core 
+challenge. Key concerns included: 
+ 
+• Limited availability of housing suitable for different life stages:  
+o Smaller homes for young professionals, such as townhouses and duplexes. 
+o Single-story homes for seniors, such as bungalows and ranch-style houses. 
+o Family-sized units, including attainably priced 3-bedroom homes and availability 
+of three-bedroom rental units. 
+• Minimal use of modular construction, adaptive reuse, or other innovative building 
+approaches. 
+• Investor-driven purchases contributing to rising prices in some communities. 
+ 
+ULI further observed that active residential developers in the region are at or near capacity and 
+that financing options for small- and medium-sized builders are limited. Several participants 
+noted that the pool of residential developers, particularly those capable of delivering small- and 
+mid-scale projects, is too small to meet current demand. In addition, national homebuilders  
+focus on large “greenfield’ tract development, over smaller or more complicated sites, furthering 
+the need to rebuild a local homebuilding community.  The current development ecosystem lacks 
+sufficient capacity to close the housing supply gap at the pace required. 
+ 
+Market and Financing Constraints 
+During the ULI TAP, stakeholders noted that national market conditions compound local 
+challenges. High land costs, rising material and labor expenses, limited financing options for 
+smaller developers, and wage stagnation relative to housing costs all affect project feasibility.  In 
+addition, the post-early 2000’s housing downturn led to a national lending framework favoring 
+commercial real estate development over owner-occupied dwellings.  Commercial real estate 
+includes rental housing construction.  Market rate rental housing is quickly becoming 
+imbalanced in relation to available owner-occupied units.  While these macroeconomic 
+conditions are beyond local control, they must be acknowledged in planning and policy 
+decisions. 
+ 
+Local financial institutions and public-sector partners identified the need for: 
+• Innovative lending products. 
+51
+
+[page 52]
+PRE-PUBLICATION VERSION FOR COMMENT ONLY. 
+Lehigh Valley Housing Supply and Attainability Strategy DRAFT | 28 
+• Gap financing mechanisms. 
+• Workforce housing funds supported by county governments. 
+• Strategic use of tax incentives, including Local Economic Revitalization Tax Assistance 
+Act (LERTA)-style programs. 
+• Expanded public-private partnerships. 
+ 
+Infrastructure Capacity: A Critical Constraint 
+Infrastructure emerged throughout the engagement process as one of the most significant 
+barriers to housing production. 
+ 
+ULI TAP participants observed that water, sewer, and utility capacity limitations hinder 
+development. Stakeholders also cited narrow roadways, aging systems, constrained school 
+capacity in certain areas, and local service limitations as barriers to growth. 
+ 
+Within LVPC’s municipal engagement sessions, sewer capacity and public resistance were 
+identified as the top two constraints.  
+ 
+Communities reported: 
+• Aging systems and limited available capacity. 
+• High upgrade costs  
+• Challenges associated with updating Act 537 Sewage Facilities Plans. 
+• Concerns about long-term maintenance costs. 
+• Limited or no available grants or other funding sources for public improvements outside 
+of local taxes. 
+• Widespread public aversion to tax and fee increases needed to maintain, improve and 
+expand water, waste water, stormwater, parks, recreation, community facilities and 
+schools. 
+• Municipal need for on-going analysis, measuring, monitoring, location identification and 
+planning support.                 
+ 
+Transportation infrastructure, including road and bridge condition and congestion, was also cited 
+frequently. Developers are often responsible only for frontage improvements, leaving 
+municipalities concerned about broader network impacts. Without coordinated regional 
+infrastructure solutions, zoning and land use reforms alone will not be sufficient to meet housing 
+needs. 
+ 
+ 
+Regulatory Complexity and Process Inefficiency 
+Across the engagement process, participants identified regulatory hurdles as a significant 
+concern, including complex and unclear processes at municipal and state levels, limited 
+professional capacity among many municipalities, and limited coordination across agencies. 
+Lengthy or unpredictable review timelines increase carrying costs and disproportionately affect 
+smaller-scale housing projects. While the development process can be protracted in the Lehigh 
+Valley, overall developers cited that it is far more coordinated, reliable, and faster than in New 
+52

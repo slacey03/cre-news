@@ -1,0 +1,1008 @@
+
+
+[page 1]
+ 
+   
+ 
+ 
+ 
+ 
+ 
+LEHIGH VALLEY PLANNING COMMISSION MEETING  
+Thursday, July 24, 2025, at 7:00 PM  
+Microsoft Teams 
+ 
+THE MEETING CAN BE ACCESSED AT http://www.tinyurl.com/LVPC2025 OR VIA PHONE 
+610-477-5793 Conf ID: 651 626 091#.  
+ 
+AGENDA 
+ 
+Roll Call 
+ 
+Courtesy of Floor 
+ 
+Chairman’s Report  
+1. Staff Introductions: 
+a. Jacob Engbert, GIS Planning Intern 
+b. Vincent “Enzo” Fantozzi, Planning Intern 
+c. David Cohen, AICP, Director of Regional Planning  
+ 
+Minutes  
+1. ACTION ITEM: Minutes and Review of Roll Call Actions of the June 26, 2025, 
+Commission Meeting (JD)  
+ 
+Comprehensive Planning Committee:  
+1. ACTION ITEM: Northampton Borough – Land Use of Regional Significance – Atlas 
+Industrial (JD) 
+2. ACTION ITEM: Plainfield Township – Zoning Ordinance Amendment – Solid Waste 
+Rezoning (JS/SM) 
+3. ACTION ITEM: Summary Sheet (SM) 
+ 
+Environment Committee: 
+1. ACTION ITEM: Summary Sheet (SR) 
+ 
+Transportation Committee:  
+1. INFORMATION ITEM: Priority Climate Action Plan for Transportation 
+Decarbonization Implementation (BB/FU) 
+2. INFORMATION ITEM: Walk/RollLV: Active Transportation Plan & FutureLV: The 
+Regional Plan Implementation (FU) 
+ 
+New Business:  
+1
+
+[page 2]
+    
+   
+   
+ 
+1. INFORMATION ITEM: It’s Regional Plan Update Time Again! Preparations 
+Underway and What to Expect Next (BB, FU) 
+ 
+Monthly Reports:  
+1. INFORMATION ITEMS:  
+a. Mid-Year Subdivision, Land Development, Stormwater and Municipal 
+Ordinances/Plans Report (JD, JS, SM) 
+b. Mid-Year Industrial Market Report (SK, JD) 
+c. Mid-Year Traffic Monitoring Report (EF, GCR) 
+ 
+Executive Director’s Report:  
+1. INFORMATION ITEM: LVPC Strategic Plan Schedule Update 
+ 
+Communications and Engagement 
+1. PACKET ITEM: Morning Call Business Cycle Column (MA) 
+a. Published: July 19 - “Tools for solving Lehigh Valley’s housing problem” 
+b. lvpc.org; mcall.com 
+c. Next column: August 17 
+2. PACKET ITEM: Monthly, Plan Lehigh Valley Talk Show on WDIY, Lehigh Valley 
+Public Radio, 88.1 (MA)  
+a. Air Date: July 7 - “The Intersection of Environment and Economy with 
+Susan Myerov and Ray Minarovic”  
+b. Lvpc.org; wdiy.org/show/plan-lehigh-valley 
+c. Next show – 6:30 pm, August 4 
+3. PACKET ITEM: Lehigh Valley Government Academy 
+a. Local Technical Assistance Program (LTAP) In Person Classes held at the 
+LVPC Conference Center, 615 Waterfront Drive, Suite 201, Allentown PA 
+18102 
+o July 29: Geosynthetics, 8 am to Noon  
+o August 19: Road Surface Management, 8 am to Noon 
+ Register at www.gis.penndot.gov/LTAP/ or by contacting 
+Hannah Milagio at hmilagio@lvpc.org 610-264-4544  
+b. Pennsylvania Municipal Planning Education Institute (PMPEI) Zoning  
+o September 9, 16 and 23 
+o In Person Classes held at the LVPC Conference Center, 615 
+Waterfront Drive, Suite 201, Allentown PA 18102 
+ 
+Next Lehigh Valley Planning Commission Meeting: 
+Virtual, Thursday, August 28, 2025, at 7:00 pm 
+ 
+The LVPC/LVTS website, www.lvpc.org, may be translated into multiple languages. 
+Publications and other public documents can be made available in non-English 
+languages and alternative formats, if requested.  
+2
+
+[page 3]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LEHIGH VALLEY PLANNING COMMISSION  
+Minutes from Thursday, June 26, 2025, Meeting 
+ 
+The LVPC held a public meeting on Thursday, June 26, 2025. The meeting was advertised in the Lehigh 
+Valley Press on January 8th, 2025.  
+ 
+LVPC Chair Dr. Chris Amato chaired the meeting.  
+ 
+Mr. Joey Dotta took Roll Call. 
+ 
+Members in Attendance: 
+ 
+Lehigh County  
+Ron Beitler, Michael Drabenstott, Sunny Ghai, Philip Ginder, Steve Glickman, Jennifer Gomez, Kent 
+Herman, John Inglis, Dennis Klusaritz, Christina Morgan, Santo Napoli, Owen O'Neil, Stephen Repasch 
+and Kevin Schmidt 
+ 
+Northampton County  
+Christopher Amato, Charles Elliott, John Gallagher, Judith Haldeman, Steve Melnick, Armando Moritz-
+Chapelliquen, Jean Versteeg and Basel Yandem.  
+ 
+Members Absent:  
+ 
+Lehigh County 
+Phillips Armstrong, Percy Dougherty, Bob Elbich, Diane Kelly, Richard Molchany and Matthew Tuerk.  
+ 
+Northampton County 
+Jessica Cope, Andrew Elliott, Ken Kraft, Rachel Leon, Carl Manges, Lamont McClure, John McGorry, 
+Scott Minnich, Edward Nelson, Salvatore Panto, Jr., J. William Reynolds and Tina Smith,  
+ 
+Staff Present: Joey Dotta, Becky A. Bradley, Matt Assad, Susan Myerov and Evan Gardi 
+ 
+Public Present: Craig Beavers, Liesel Gross and Cheyenne Amick 
+ 
+COURTESY OF THE FLOOR  
+ 
+CHAIR’S REPORT 
+Chair Amato highlighted that the Housing Supply and Attainability Strategy won the National Association 
+of Regional Councils 2025 Achievement Award. Also, Giovanna “Gio” Rizkalla was introduced as the new 
+Data and Analytics Planning Intern at LVPC.  
+ 
+MINUTES 
+Chair Amato stated that the minutes of the Thursday, May 22, 2025, LVPC meeting are attached. Chair 
+Amato asked for a motion to approve the minutes. Commissioner Melnick made a motion to approve the 
+minutes, and Commissioner Repasch seconded the motion.  
+ 
+Chair Amato asked for any comments or questions. There were none. The motion passed. Commissioner 
+Glickman abstained.  
+ 
+COMPREHENSIVE PLANNING COMMITTEE 
+3
+
+[page 4]
+    
+   
+ACTION ITEM: Palmer Township – Zoning Ordinance Amendment – Data Centers 
+Mr. Dotta presented a zoning ordinance amendment to add data centers in the Palmer Township Zoning 
+Ordinance. Data Center developments will be permitted by right in the North End Business District (NEB), 
+identified on the Township Zoning Map as the area north/west of Route 33 where there are existing and 
+emerging industrial land uses, and by special exception in the Industrial/Office/Commercial District (IOC).  
+ 
+Chair Amato called for a motion to accept the staff review. Commissioner Repasch made the motion, and 
+Commissioner Morgan seconded the motion. Chair Amato asked for any comments or questions.  
+ 
+There was a brief discussion about future land uses and what to expect. Data center size and utility 
+requirements were overviewed.  
+ 
+Chair Amato called for affirmative votes to accept the staff comments. The motion passed. 
+ 
+ACTION ITEM: Palmer Township – Zoning Ordinance Amendment – Fuel Cell Generation and On-
+Site Energy Generation 
+Mr. Dotta presented another zoning ordinance amendment proposal for the Palmer Township Zoning 
+Ordinance to add definitions and regulations for Fuel Cell Power Systems. The amendment adds two new 
+sections to Chapter 190, Article 1. Fuel Cell Power and Electrical Energy Storage systems will be 
+permitted as a conditional accessory use to the following principle uses: warehouses/logistics, light and 
+heavy manufacturing, governmental and emergency services facilities, and hospitals. The amendment 
+also establishes conditional use criteria and adds fire prevention provisions and safety plan requirements 
+for stationary fuel cell power systems.  
+ 
+Chair Amato called for a motion to accept the staff review. Commissioner Moritz-Chapelliquen made the 
+motion, and Commissioner Napoli seconded the motion. Chair Amato asked for any comments or 
+questions.  
+ 
+Plamer Township Planning Director Craig Beavers explained the necessity of this ordinance amendment 
+and provided local context for the Commission.  
+ 
+Chair Amato called for affirmative votes to accept the staff comments. The motion passed. 
+ 
+INFORMATION ITEM: Housing Supply and Attainability Strategy Event Recap  
+Mr. Dotta recapped the Housing Supply and Attainability Strategy event at DeSales University on June 
+23rd, 2025. The event featured a moderated panel about draft housing strategies that came out of the 
+data analysis and community engagement process. Attendees participated in the moderated panel 
+discussion by identifying which of the draft housing strategies would be most impactful and asked 
+questions about how housing could be addressed in their communities.  
+ 
+Chair Amato asked for any comments or questions. There were none.  
+ 
+ACTION ITEM: Comprehensive Planning Committee Summary Sheet 
+Comprehensive Planning Committee Chair Melnick briefed the Commission on the Comprehensive 
+Committee Summary Sheet that featured reviews of a comprehensive update to the City of Bethlehem’s 
+Subdivision and Land Development Ordinance and a third zoning ordinance amendment in Palmer 
+Township. 
+ 
+Chair Amato called for a motion to accept the summary sheet. Commissioner Repasch made the motion, 
+and Commissioner Morgan seconded the motion. Chair Amato asked for any comments or questions. 
+There were none.  
+ 
+Chair Amato called for affirmative votes to accept the staff comments. The motion passed.  
+ 
+ENVIRONMENT COMMITTEE  
+ACTION ITEM: Act 537 Review – Kline’s Island Regional Act 537 Plan  
+4
+
+[page 5]
+    
+   
+Ms. Myerov reviewed the Kline’s Island Sewer System (KISS) Regional Act 537 Plan which proposed 
+several selected alternatives. These alternatives reduce inflow and infiltration (I&I) within the plant’s 
+service area and address hydraulic overload conditions within the plant identified by the Pennsylvania 
+Department of Environmental Protection (PADEP). The selected alternatives for this Regional Act 537 
+Plan do not include new infrastructure to address surcharged sewers nor increase permitted peak flow 
+treatment capacity at the City of Allentown’s Kline’s Island Wastewater Treatment Plant (KIWWTP).  
+ 
+Ms. Myerov noted that the success of the Regional Act 537 Plan relies on the implementation of Lehigh 
+County Authority’s (LCA) commitments and the implementation of the Source Reduction Plans developed 
+by the individual municipalities. The Source Reduction Plans require rehabilitation and upgrades to 
+municipal owned wastewater collection facilities and infrastructure and continuous performance 
+monitoring and reporting. Therefore, updating intermunicipal agreements and participation in the 
+proposed regional I&I program are critically important implementation actions. Overall, the selected 
+alternatives presented in the KISS Regional Act 537 Plan provide a necessary path forward in preventing 
+future sewage disposal problems from occurring and provide protection for both the groundwater and 
+surface waters of the region.  
+ 
+Chair Amato called for a motion to accept the staff review. Commissioner Repasch made the motion, and 
+Commissioner Charles Elliott seconded the motion. Chair Amato asked for any comments or questions.  
+ 
+Chair Amato called for affirmative votes to accept the staff comments. The motion passed. 
+Commissioners Ghai, Herman and Morgan abstained.  
+ 
+ACTION ITEM: Lehigh Valley Hazard Mitigation Plan Resolution  
+Ms. Myerov reviewed The Lehigh and Northampton County Emergency Management Agencies prepared 
+the federally required 5-year Hazard Mitigation Plan Update for the Lehigh Valley last year and it is now 
+being proposed for adoption by local governments and agencies. The LVPC Full Commission reviewed 
+and accepted staff comments on the 2024 Lehigh Valley Hazard Mitigation Plan at its March 2024 
+meeting. At that time, the Plan’s eight goals were reviewed to determine consistency with FutureLV: The 
+Regional Plan. The Plan was submitted to the Federal Emergency Management Agency (FEMA) for 
+approval in September 2024. FEMA granted the status of “Approved Pending Adoption” (APA), meaning 
+that municipalities and participating authorities, including the LVPC, must adopt the Plan within one year 
+of the Approved Pending Adoption designation to remain eligible for hazard mitigation funding. 
+ 
+Chair Amato called for a motion to approve the draft resolution adopting the 2024 Lehigh Valley Hazard 
+Mitigation Plan. Commissioner Repasch made the motion, and Commissioner Morgan seconded the 
+motion. Chair Amato asked for any comments or questions. There were none.  
+ 
+Chair Amato called for affirmative votes to accept the staff comments. The motion passed.  
+ 
+TRANSPORTATION COMMITTEE 
+INFORMATION ITEM: Electric Vehicle Infrastructure Program 
+Mr. Gardi briefed the Commission on the latest updates for the Electric Vehicle Infrastructure Program 
+public engagement. The Electric Vehicle Infrastructure program represents a federal investment aimed at 
+expanding electric vehicle (EV) infrastructure nationwide. A key component of the effort involved 
+identifying community-informed charging use cases. The LVPC conducted a survey and held two 
+workshops to identify priority locations and destinations for EV infrastructure/charging. Mr. Gardi went 
+over some of the results of those public engagement events and explained the methodology.  
+ 
+Chair Amato asked for any comments or questions. There were none.  
+ 
+MONTHLY REPORTS 
+PACKET ITEM: Monthly Reports 
+Chair Amato notified the Commission that monthly reports are featured in each Commissioner’s packet.  
+ 
+Chair Amato asked for any comments or questions. There were none.  
+5
+
+[page 6]
+    
+   
+ 
+NEW BUSINESS 
+INFORMATION ITEM: 2025 Work Plan, Quarterly Update  
+Ms. Bradley and multiple members of the LVPC summarized what the Commission should expect in the 
+later half of 2025. Previews of the projects and upcoming plans include: the Trail Gap Analysis, Act 167 
+Stormwater Management, Lehigh County Freight Land Use, Regional Climate Action, Lehigh Valley 
+Housing Supply Strategy, updates to the Lehigh Valley Government Academy, new population and 
+employment projections, and a community economic development strategy.  
+ 
+Chair Amato asked for any comments or questions. There was a discussion about the electronic plan 
+submission software that is in progress and the ability to share submitted plans. Several Commissioners 
+noted some difficulties or ambiguity in their own Townships about copyright limiting the sharing of plans.  
+ 
+EXECUTIVE DIRECTOR’S REPORT 
+Ms. Bradley showed a peek of the upcoming LVPC Strategic Plan that featured five main tenets to guide 
+the formation of the document.  
+ 
+COMMUNICATIONS AND PUBLIC ENGAGEMENT: 
+Chair Amato notified the Commission that items for communications and public engagement are featured 
+in the meeting packet. Chair Amato asked for any comments or questions. There were none.  
+ 
+ADJOURNMENT: 
+Chair Amato stated that the next LVPC meeting will be on Thursday, July 24 at 7 pm. Chair Amato then 
+asked if there was a motion to adjourn the meeting and Commissioner Ghai made a motion to adjourn. 
+The meeting was adjourned.  
+ 
+Submitted by: 
+Becky Bradley, AICP, Executive Director and Joey Dotta, Regional Planner 
+ 
+ 
+6
+
+[page 7]
+ 
+   
+ 
+  
+ 
+ 
+ 
+July 17, 2025 
+ 
+ 
+Brian Welsko, Manager 
+Northampton Borough 
+1401 Laubach Ave 
+Northampton, PA, 18067 
+ 
+Re:  Atlas Industrial – Land Use of Regional Significance  
+Northampton Borough 
+Northampton County  
+ 
+Dear Mr. Welsko,  
+ 
+The application is considered a Land Use of Regional Significance under FutureLV: The 
+Regional Plan in the Warehouse, Logistics and Storage Facilities category. The Lehigh 
+Valley Planning Commission (LVPC) consider proposals at the Comprehensive 
+Planning Committee and Full Commission meetings, pursuant to the requirements of 
+the Pennsylvania Municipalities Planning Code (MPC). Discussion on agenda items 
+largely happens during the Committee meeting, and we encourage all participation. The 
+LVPC will issue a follow-up letter after the Commission meeting if Commission 
+members have any additional comments. Meeting participation details are below:  
+ 
+• LVPC Comprehensive Planning Committee Meeting 
+o July 22, 2025, at 12:00 PM  
+o https://lvpc.org/meetings.html  
+• LVPC Full Commission Meeting 
+o July 24, 2025, at 7:00 PM 
+o https://lvpc.org/meetings.html  
+ 
+The application proposes constructing a 350,400-square-foot industrial building with 307 
+parking spaces including loading dock and trailer storage spaces at 799 Smith Lane 
+(Parcel Identification Number L4 12 5B-1). The 38-acre parcel features existing 
+industrial properties that will be demolished. The project proposal features 210 
+passenger vehicle parking spaces, 51 dock spaces for truck loading, and 46 tractor-
+trailer parking spaces.  
+ 
+Site Suitability  
+According to General Land Use Plan in FutureLV: The Regional Plan and River Central 
+Multi-Municipal Comprehensive Plan, the site is in a Development area. These areas 
+may have the factors needed to support growth and this project aligns with the intent of 
+FutureLV to ‘encourage reuse and redevelopment’ (Policy 1.1 and Density Special 
+7
+
+[page 8]
+    
+   
+   
+ 
+Section, page 71). Directing development to sites with public water supports managing 
+impacts of industrial land uses on infrastructure (River Central, Policy 1.2). This site is 
+also located within a character-defining area which is recommended for context-specific 
+development that preserves natural and scenic resources.  
+ 
+The proposed development is on a flag lot which is hidden from view by surrounding 
+land-uses. Flag lots can pose issues for emergency responders to access sites. 
+Ensuring proper directional signage is essential to reduce confusion and shorten 
+emergency response time (Policy 2.2 and 5.1).  
+ 
+Southwest of the site is the Northampton Area School District campus and the 
+Hokendauqua Creek to the east. 
+ 
+ 
+ 
+Transportation 
+The size of the tractor-trailer parking and dock spaces are recommended to be 
+lengthened to appropriately 80 feet in length to accommodate connected tractor-trailers. 
+This ensures adequate turning radius and ‘strengthens freight mobility’ by allowing 
+vehicles of all types to safely traverse around the loading zone (Policy 2.4). The 
+Project Site 
+8
+
+[page 9]
+    
+   
+   
+ 
+utilization of the truck spaces should be clarified as whether a tractor-trailer driver can 
+park long term to comply with federal hours of operations regulations. Directional entry 
+signage is recommended to communicate where delivery trucks are authorized to stage. 
+The location of these staging area spaces should incorporate electric hookup amenities 
+to enable the cab portion, and potentially refrigerated trailers, to operate on electric 
+power rather than diesel-fueled engines while idling (FutureLV, of Policy 2.4).  
+ 
+Regarding access to and from the proposed development, proper signage should be 
+posted along the access drive and Smith Lane, directing trucks to Horwith Drive towards 
+Nor-Bath Boulevard (SR 0329). Directing tractor-trailers to Nor-Bath Boulevard, via 
+Horwith Drive, will reduce potential interactions between trucks and pedestrians and 
+efficiently capitalize on existing infrastructure (Policy 2.2). Northampton Senior High 
+School, Northampton Middle School and Northampton Borough’s residential 
+neighborhoods are directly adjacent to the proposed development. Making sure that 
+trucks avoid the school zone during peak hours where students and parents will be for 
+pickup/dropoff or for afterschool events is essential to avoid conflicts. Coordination 
+between the municipality and PennDOT may be needed for signage along the local and 
+state-owned roads.  
+ 
+The submitted Traffic Impact Study (TIS) included a traffic signal warrant that shows a 
+signal is recommended for the intersection of Horwith Drive and SR 0329. With the 
+addition of traffic from the proposed development, a traffic signal can improve 
+operations at this intersection and increase safety by reducing conflicts between both 
+passenger vehicles and trucks traveling to and from the site (Policy 2.2).  
+ 
+The accumulation of snow and ice on top of tractor-trailers poses a safety hazard to 
+other vehicles on the roadway, potentially resulting in serious injury and death. The 
+2006 Pennsylvania Snow/Ice Removal Law requires the removal of snow and ice from 
+all vehicles prior to leaving the site. The LVPC strongly recommends that freight centric 
+facilities facilitate the installation of a snow-clearing tool to enable truck drivers to clean 
+off tractor-trailers to help ‘provide a safe, well-maintained transportation network’ (Policy 
+2.2). These snow removal devices are becoming more commonplace with recent land 
+development construction and operations for freight facilities across the Lehigh Valley to 
+assist drivers in compliance with state law.  
+ 
+It is recommended that sidewalk infrastructure be included on site for direct pedestrian 
+connection to the building. A sidewalk can provide recreational opportunities for 
+employees on break and alternative access to the site if employees do not own or have 
+access to a motor vehicle. It is recommended that appropriate pedestrian crosswalks 
+and crossing signs be installed onsite to inform motorized vehicles the potential 
+presence of pedestrians (Policy 2.2).  
+ 
+Regarding Trip Generation, the provided TIS provides trip generation numbers for six 
+different square footage estimates. None of the estimates match the proposed 
+development as shown on the land development plans at 350,400 square feet. It is 
+recommended that the trip generation numbers be run again against this variable. There 
+9
+
+[page 10]
+    
+   
+   
+ 
+is a discrepancy where the submitted site plans refer to the building as general 
+industrial and the TIS refers to it as a warehouse building. If an end user is identified, 
+the proper use should be reflected, as trip generation between different industrial uses 
+can vary greatly. Last-mile distribution warehouse facilities can introduce a large 
+number of passenger delivery vehicles compared to other freight-centric industrial land 
+uses. The LVPC recommends the developer identify if the end user is intended to be 
+industrial or warehouse.  
+ 
+Environment 
+There are multiple environmental factors present on the site that are recommended to 
+be preserved throughout the land development process. There are steep slopes of 
+15%-25% present on the parcel. The LVPC recommends that large lots with low site 
+coverage standards should be maintained, and special erosion and storm drainage 
+controls enforced to ‘minimize environmental impacts of development to protect the 
+health safety and welfare of the public’ (FutureLV, of Policy 3.2). A conservation-first 
+perspective is recommended regarding the wooded riparian buffers separating the 
+proposed industrial development from the Hokendauqua Creek. This would preserve 
+critical habitats and help maintain our region’s water resources (FutureLV, Policy 3.1).  
+ 
+The LVPC encourages the developer to consider opportunities for incorporating 
+sustainable energy systems that reduce overhead operational costs and ‘minimize 
+environmental impacts of development’ (Policy 3.1), such as geothermal energy 
+systems, solar panels and greywater reuse for irrigation and plumbing.  
+ 
+The project site is located within the Hokendauqua Creek watershed. This watershed 
+has a fully implemented Act 167 Stormwater Management Ordinance. Comments 
+related to our review of the project’s stormwater management plan are included as 
+attachment 1.   
+ 
+Municipalities, when considering subdivision/land developments, should reasonably 
+attempt to be consistent with FutureLV: The Regional Plan, as required by the 
+Pennsylvania Municipalities Planning Code (MPC) [Article 1§105, Article III§303, §304 
+& §306(a), Article VI§603(j)]. The LVPC review does not include an in-depth 
+examination of plans relative to subdivision design standards or ordinance requirements 
+since these items are covered in the municipal review. 
+ 
+Sincerely, 
+ 
+Joseph Dotta  
+Regional Planner 
+ 
+   
+Evan Gardi   
+10
+
+[page 11]
+    
+   
+   
+ 
+Transportation Planner   
+ 
+ 
+Enzo Fantozzi 
+Planning Intern 
+ 
+cc: Smith Lane LLC, Applicant; Richard Roseberry, Project Engineer/Surveyor; Jerry Serensits, 
+Northampton Borough Assistant Manager; Tasha Jandrisovits, North Catasauqua Borough Secretary; 
+Peter Paone, North Catasauqua Borough Council President; Glenn Eckhart, Catasauqua Borough 
+Manager; Brent Green, East Allen Township Manager; Melissa Wehr, Hanover Township Manager.  
+ 
+  
+11
+
+[page 12]
+ 
+   
+ 
+ 
+ 
+ 
+ 
+July XX, 2025 
+ 
+Ms. Paige Stefanelli, Manager 
+Plainfield Township 
+6292 Sullivan Trail   
+Nazareth, Pennsylvania 18064   
+ 
+Re: Zoning Ordinance Amendment – Sanitary Landfill Regulations 
+Zoning Ordinance Amendment – Steep Slopes Exemption 
+Zoning Map Amendment – Farm and Forest to Solid Waste 
+Plainfield Township 
+Northampton County 
+ 
+Dear Ms. Stefanelli: 
+ 
+The Lehigh Valley Planning Commission (LVPC) will consider the subject application at its 
+Comprehensive Planning Committee and Full Commission meetings, pursuant to the 
+requirements of the Pennsylvania Municipalities Planning Code (MPC). Discussion on agenda 
+items largely happens during the Committee meeting. Both meetings will be virtual, and we 
+encourage your participation. The LVPC will issue a follow-up letter after the Commission 
+meeting if Commission members have any additional comments. Meeting participation details 
+are below:  
+ 
+• LVPC Comprehensive Planning Committee Meeting 
+o July 22, 2025 at 12:00 PM 
+o https://lvpc.org/lvpc-meetings 
+• LVPC Full Commission Meeting 
+o July 24, 2025 at 7:00 PM 
+o https://lvpc.org/lvpc-meetings 
+ 
+The application proposes to amend the Township Zoning Ordinance and Zoning Map pertaining 
+to sanitary landfill facilities. The proposed zoning ordinance amendments and zoning map 
+amendment pose two overarching but separate decisions for the Township to consider: 
+ 
+1. Whether or not to expand waste disposal land uses from the current zoned area; and 
+2. Regulate landfill land uses differently than current zoning allows, including review 
+procedures and application requirements. 
+ 
+12
+
+[page 13]
+    
+   
+   
+ 
+Different aspects of the proposal both align and conflict with FutureLV: The Regional Plan. The 
+following comments are provided to example consistencies and inconsistencies with county and 
+regional policy and support the Township in evaluation of the proposed zoning changes: 
+ 
+Solid Waste Facility Requirements Ordinance Amendment 
+The application includes an amendment to sections of the Township’s Zoning Ordinance 
+regulating Sanitary Landfill land uses. 
+ 
+The LVPC advises against changing the designation of Sanitary Landfill land uses from a 
+Conditional Use to a Use Permitted by Right. Conditional Uses are still permitted uses, but with 
+reasonable conditions in place to support the public health, safety and welfare. Landfills and 
+Waste Disposal Facilities are high intensity land uses with impacts that must be carefully 
+considered and mitigated when proposed. The review process for conditional uses provides the 
+Township with assurance that safeguards are in place to pose minimal adverse impacts on the 
+public health, safety and welfare.  
+ 
+The ‘Additional Requirements for Certain Permitted-By-Right Uses’ that are proposed to be 
+added if Sanitary Landfill is added as a Permitted-By-Right Use are already Conditional Use 
+requirements for the ‘Sanitary Landfill – Involving the disposal of more than 100 tons of solid 
+waste per day’ land use. The Conditional Use process is a more appropriate way of regulating 
+the land use as outlined in the Pennsylvania Municipalities Planning Code, to ensure that all 
+potential impacts on the public health, safety and welfare are considered (of Policy 3.2) and as a 
+best practice for regulating land use (of Policy 1.4).  
+ 
+Conditional uses allow for the Township retain a higher degree of oversight during operation of 
+a sanitary landfill use, which is critical to managing potential externalities associated with uses 
+of type. Changing to a permitted-by-right use is contraindication to the health, safety and welfare 
+of the community and does not align with FutureLV (of Policy 3.2), and therefore the existing 
+requirements of the Solid Waste Processing and Disposal District (Section 27-319.4.A)  and 
+conditional use regulations for Sanitary Landfills (Section 27-320.5.I) should be retained.  
+ 
+Steep Slopes Ordinance Amendment 
+The Plainfield Township Zoning Ordinance regulates development on steep slopes through the 
+Steep Slopes Overlay Zoning District, stating that ‘The Steep Slope Overlay District shall be an 
+overlay on all zoning districts. For any lot or portion thereof lying within the Steep Slope Overlay 
+District, the regulations of the overlay district shall take precedence over the regulations of the 
+underlying district’ (Section 27-503.3). Solid Waste Disposal is permitted by special exception in 
+Class B slope areas of 15% up to 25% (Section 27.503.7.A(6)) but prohibited in Class A Slope 
+areas of 25% or greater (Section 27.503.10.A(2)). 
+ 
+The ordinance amendment proposes to add an exception for Sanitary Landfill uses, stating that 
+‘Exception: Notwithstanding any other provision(s) of this Zoning Ordinance to the contrary, the 
+regulations of this section 27-503 shall not apply to a sanitary landfill use within the Solid Waste 
+Processing and Disposal District (SW) because such use is appropriately regulated by the 
+Pennsylvania Department of Environmental Protection (DEP), involving a detailed review of 
+environmental impacts, and requiring ongoing inspections, both during and after 
+the active life of the landfill.’ 
+13
+
+[page 14]
+    
+   
+   
+ 
+ 
+Rather than exempt Sanitary Landfill uses from all provisions of the Steep Slope Overlay 
+District, a better regulatory approach could be to amend Section 27.503 by permitting solid 
+waste disposal as a special exception in Class A slope areas. The Township may find that DEP 
+requirements should not be the primary reason to exempt the land use from local steep slope 
+regulations because they may not reflect local community concerns, goals and values. The 
+LVPC recommends regulating land uses through special exception or conditional use processes 
+rather than outright exemptions to ensure an efficient development process that is responsive to 
+regional needs (of FutureLV Policy 1.4). 
+ 
+Another alternative that could be explored is to reconfigure the sanitary landfill footprint area to 
+minimize impacts to Class A steep slope areas. 
+ 
+Zoning Map Amendment 
+The application proposes to amend the Township’s Zoning Map by rezoning 18 parcels, totaling 
+211 acres, on the east side of Pen Argyl Road from Farm and Forest Zoning District (FF) to 
+Solid Waste Processing and Disposal (SW). The area to be rezoned is bounded by Pen Argyl 
+Road to the west, Delabole Road to the south, Bocce Club Road to the north and the rail right-
+of-way to the east.  
+ 
+The area proposed to be rezoned is adjacent to the existing landfill across Pen Argyl Road. Pen 
+Argyl Borough is to the north, and exurban and agricultural areas are to the east and south. The 
+existing landfill is currently zoned Solid Waste Processing & Disposal District. The remaining 
+area surrounding the area proposed to be rezoned is zoned Farm & Forest District (FF). 
+ 
+ 
+Vicinity Aerial – Google Imagery 
+ 
+Approximate 
+Area to be  
+Rezoned 
+14
+
+[page 15]
+    
+   
+   
+ 
+  
+Existing Plainfield Township Zoning 
+ 
+The area proposed for rezoning is located within an area designated as Exurban in the General 
+Land Use Plan of FutureLV: The Regional Plan. FutureLV describes Exurban areas as generally 
+lacking the characteristics necessary to support new development and as areas intended to 
+remain in rural uses. However, the area proposed for rezoning is directly adjacent to the existing 
+Solid Waste Processing and Disposal (SW) Zoning District, which reflects that solid waste uses 
+are already present in the immediate vicinity and that the general area has previously 
+accommodated this type of land use at its current scale and intensity. The southern portion of 
+the proposed rezoning area is designated as Farmland Preservation in the General Land Use 
+Plan. The Township should re-evaluate the proposal to avoid rezoning agricultural lands in order 
+to ‘preserve farmland of all sizes, when possible’ (of FutureLV Policy 3.3). 
+ 
+ 
+FutureLV General Land Use Plan 
+Approximate 
+Area to be  
+Rezoned 
+15
+
+[page 16]
+    
+   
+   
+ 
+In general, expanding landfill operations aligns with the FutureLV objectives of ‘providing 
+environmentally responsible and economical solid, electronic, and hazardous waste disposal 
+and recycling’ (of FutureLV Policy 3.2) and ‘promoting the fiscal health and sustainability of 
+municipalities’ (of FutureLV Policy 4.6). However, the proposed rezoning conflicts with FutureLV 
+objectives to ‘conserve and manage natural lands’ (FutureLV Policy 3.1). The area contains 
+woodlands to the north and southeast, steep slopes to the south, and wetlands to the east along 
+Waltz Creek. If the proposed rezoning moves forward, the LVPC strongly recommends 
+‘preserving natural resources in the land development process’ (of FutureLV Policy 3.1), which 
+begins with including strong ordinance regulations protecting natural resources. Additionally, a 
+land protection tool such as a conservation easement could be placed on areas adjacent to the 
+anticipated landfill expansion site, and held by the Township and a conservation organization, to 
+ensure the existing wetlands and natural features are preserved in perpetuity (of FutureLV 
+Policy 3.1). 
+ 
+ 
+LVPC Mapping of Existing Natural Features 
+ 
+The decision to move forward with this rezoning relies on the priorities of the Township and 
+should be made after considering historical context of the landfill as well as fiscal, transportation 
+and regional impacts: 
+ 
+• Historical Context: In 1988, the Township created a Comprehensive Plan Supplement 
+specifically to address the need for solid waste processing and disposal facilities. While 
+the Township must make decisions for its future based on current-day contexts, past 
+decisions can also provide clarity. The 1988 Supplement recommended siting the solid 
+waste district (and facility expansion) where it would be minimally intrusive to residents 
+and businesses and ‘large enough of accommodate the likely future need for solid waste 
+Approximate 
+Area to be  
+Rezoned 
+16
+
+[page 17]
+    
+   
+   
+ 
+uses, while not being so large as to alter the basic rural character of the township’ (page 
+36). 
+• Community Health + Wellbeing: The Township should evaluate health and quality of 
+life impacts on residents if the landfill expands, especially those living closest to the 
+proposed area. During the Comprehensive Planning Committee meeting on July 22, 
+several members of the public attended and voiced concerns regarding the health and 
+quality of life implications of facilitating the expansion of the Solid Waste zoning district, 
+including proximity of the proposed district to nearby educational and youth facilities, air 
+and water quality impacts and human health concerns. FutureLV emphasizes protecting 
+community health and livability by minimizing exposure to environmental hazards and 
+promoting safe, healthy environments (of Policy 3.2). 
+• Environmental Impacts: The Township should scrutinize the direct environmental 
+impacts of landfill expansion, including loss of natural areas and topography for the land 
+itself, reduced air and water quality, local streams, ecosystems, and natural resources. 
+FutureLV calls for protecting sensitive natural resources and promoting sustainable 
+development practices to ensure long-term environmental health (of Policy 3.4). The 
+Pennsylvania Municipalities Planning Code specifically, states that a local governing 
+body, in this case the Township Supervisors, can request that the planning agency, 
+“Prepare and present to the governing body of the municipality an environmental study.” 
+[Pennsylvania Municipalities Planning Code, Act of 1968, P.L.805, No.247 as reenacted 
+and amended §§209.1(1)(b)(6) and §607(a)].  The LVPC has been provided with an 
+economic analysis of the impact of the closure of the landfill should the current zoning 
+district not be expanded.  This is only one of the assessment components necessary to 
+understand the true impacts to the public health, safety and welfare.  The LVPC 
+recommends that the Township Supervisors follow the process outlined in the 
+Pennsylvania Municipalities Planning Code to fund and support the Plainfield Township 
+Planning Commission to develop a scope, utilizing a neutral, data-driven approach, and 
+conduct an environmental study of the impact of the potential expansion of zoning for 
+landfill uses.  Zoning is one of the most powerful tools that any planning commission in 
+partnership with the local government leadership has.  Money matters are important 
+however; they are far from the only impact of zoning change.  Broad, comprehensive 
+review of major, known potential impacts is critical to making prudent decisions in the 
+interest of the community, and the obligation of elected officials when assessing and 
+addressing change through land use laws.                        
+• Fiscal Impacts: Deciding against facilitating landfill expansion could have fiscal impacts 
+on the Township and its municipal neighbors due to reduced revenue from host fees and 
+increased costs of infrastructure and services, which could affect resident taxes. 
+FutureLV encourages fiscally responsible decisions that balance economic benefits with 
+community and environmental well-being (of Policies 4.1 and 4.6). 
+• Transportation Impacts: The Township should consider transportation impacts for 
+scenarios where the zoning district is expanded and where the existing landfill ceases 
+operations to maximize safe and efficient transportation systems (of FutureLV Policy 
+2.1): 
+o If the zoning district is not expanded, the Township may see a decrease in local 
+truck traffic, but hauling waste to more distant facilities could also increase traffic.  
+17
+
+[page 18]
+    
+   
+   
+ 
+o If the district is expanded, the Township will continue to see landfill-related traffic 
+in the vicinity similar to current levels.  
+• Regional Considerations: Landfills and Solid Waste Facilities are regionally-significant 
+land uses identified in FutureLV (page 147). As the Lehigh Valley continues growing, 
+with Plainfield Township anticipated to see a 7.9% population increase by the year 2050, 
+the region will also see increased waste generation and ongoing demand for solid waste 
+disposal services. According to the Northampton County Solid Waste Management Plan, 
+Grand Central Sanitary has received (on average) the largest proportion of the County’s 
+municipal solid waste (page 3-2). Maintaining local landfill capacity is important to 
+managing costs and logistics. Without local capacity, waste must be transported farther, 
+increasing the costs of services and contributing to higher volumes of traffic and traffic-
+related emissions. FutureLV emphasizes coordinating development decisions to support 
+regional infrastructure and services sustainably (of Policy 1.1). 
+ 
+The proposed zoning map amendment poses a complex set of considerations that both align 
+with and diverge from FutureLV: The Regional Plan. On one hand, the proposal supports 
+regional goals related to solid waste management, municipal fiscal sustainability, and 
+maintaining essential infrastructure and services. On the other hand, it raises concerns related 
+to land conservation, farmland preservation, and the protection of natural resources and 
+community health. 
+FutureLV calls for balancing growth, infrastructure, and environmental stewardship across the 
+region. This proposal illustrates the types of nuanced land use decisions that require weighing 
+multiple, and sometimes competing, priorities. While regional plans and historic Township 
+planning efforts offer important context, the decision to move forward ultimately depends on 
+what Plainfield Township determines to be most important for its community today and in the 
+future. The Township is encouraged to consider the full range of potential impacts—fiscal, 
+environmental, health, transportation, and regional—alongside community values and long-
+term planning goals when making this determination, with particular emphasis given to local 
+planning commission recommendations. The Pennsylvania Municipalities Planning Code 
+outlines Powers and Duties of Planning Agencies, which include:  
+“Preparation [sic] and presentation [sic] to the governing body of the municipality a 
+zoning ordinance, and make recommendations to the governing body on proposed 
+amendments to it.” [Pennsylvania Municipalities Planning Code, Act of 1968, P.L.805, 
+No.247 as reenacted and amended §§209.1(1)(b)] 
+It is understood that the Plainfield Township Planning Commission is considering the impacts of 
+the proposed zoning change to the community and has communicated with the Township 
+Supervisors on their recommendations.  It is also, noted that adjacent communities, including 
+Washington Township, have considered the impacts of the proposed zoning change on this 
+portion of the Slate Belt.  The current landfill zoning district affects more than Plainfield 
+Township and consideration of impacts to neighboring communities is a critical obligation of the 
+Plainfield Township Supervisors.         
+According to the Pennsylvania Department of Community and Economic Development, the 
+principal role of the planning commission is to prepare and implement the comprehensive plan, 
+and to act as advisors to the governing body on whether items align with or deviate from the 
+18
+
+[page 19]
+    
+   
+   
+ 
+Township’s comprehensive (The Planning Commission in Pennsylvania, Planning Series #2). 
+Comments by the local planning commission should be weighed heavily in the Township’s 
+consideration as a best practice for local regulatory processes (of FutureLV Policy 1.4). 
+The LVPC has copied representatives of adjacent municipalities to ‘coordinate land use 
+decisions across municipal boundaries’ (Policy 1.4). In keeping with good planning practice and 
+intergovernmental cooperation, the LVPC strongly encourages the Township to coordinate with 
+Pen Argyl Borough to share information and provide an opportunity to comment, as the 
+proposed zoning map changes abut the Borough’s jurisdiction. 
+Municipalities, when considering ordinances and official maps, should reasonably attempt to be 
+consistent with FutureLV: The Regional Plan, as required by the Pennsylvania Municipalities 
+Planning Code (MPC) [Article 1§105, Article III§303, §304 & §306(a), Article VI§603(j)]. Please 
+send a copy of any final amendments that are adopted, per the requirements of the MPC. If you 
+have any questions regarding the content of this letter, please do not hesitate to call.  
+  
+Sincerely,  
+       
+Jill Seitz       Susan Myerov  
+Chief Community and Regional Planner   Director of Environmental Planning  
+ 
+cc: Amy Kahler, Administrative Assistant/Township Secretary; Louise Firestone, Wind Gap Borough Manager; Robin 
+Zmoda, Pen Argyl Borough Manager; Sharon Cifuentes, Washington Township Secretary/Treasurer. 
+19
+
+[page 20]
+ 
+ 
+                 Project Review Summary Sheet  
+  
+Comprehensive Planning Committee                                                                                                              Date: July 2025 
+ 
+Project 
+ 
+Municipality 
+ 
+Brief Statement of Purpose 
+ 
+LVPC Comment 
+Zoning 
+Ordinance 
+Amendment 
+Heidelberg 
+Township 
+Accessory Dwelling Unit (ADUs) – 
+proposes to update to include a definition 
+and allow as an accessory use in all 
+districts.  
+ 
+Identifying opportunities for density that compliments the 
+existing neighborhood supports several goals in FutureLV: The 
+Regional Plan. Primarily, this amendment prioritizes a wide 
+variety of housing and helps reduce barriers to accessory 
+dwelling units.  
+Zoning 
+Ordinance and 
+Map Amendment 
+East Allen 
+Township 
+Elderly Housing Overlay – a private 
+applicant proposes to update both the text 
+and map of East Allen Township’s Zoning 
+Ordinance to include an elderly housing 
+overlay at 6292 Hanoverville Road.  
+While the area to be rezoned is located in a Farmland 
+Preservation Area of FutureLV: The Regional Plan, the area is 
+within the Preservation Buffer of the Future Land Use Plan in 
+the River Central Multi-Municipal Comprehensive Plan.  
+ 
+After Tuesday’s Comprehensive Planning Committee, the letter 
+was edited to include language regarding consideration for 
+karsts.   
+Official Map Bath Borough 
+Official Map - proposes an official map for 
+the Borough of Bath with a related  
+ordinance 
+The LVPC recommends that the Borough include symbology for 
+trail networks identified in the Parks, Recreation and Open 
+Space Plan in Naz Plan.  
+Zoning 
+Ordinance 
+Amendment 
+Lower Saucon 
+Township 
+Hybrid Manufacturing District - proposal 
+amends the Lower Saucon Township 
+Zoning Ordinance to create Article XIVB 
+Hybrid Manufacturing District as a new 
+district. 
+The application noted the general location of the proposed TM 
+District, but further clarification is recommended to delineate 
+what parcels are included in the TM District. Carbonate geology 
+areas are present throughout the rezoning area as well and are 
+recommended to remain to preserve natural lands and minimize 
+environmental impacts of development (Policy 1.1 and 3.2). 
+20
+
+[page 21]
+ 
+ 
+ 
+Project Review Summary Sheet 
+ Environment Committee                                                                                                                                        Date: July 2025 
+ 
+Project 
+ 
+Municipality 
+ 
+Brief Statement of Purpose 
+ 
+LVPC Comment 
+Application to Renew 
+Approval of Existing 
+Wastewater Treatment 
+Plant and Discharge  
+(DRBC Review) 
+North Whitehall 
+Township 
+Application by MHC Li’l Wolf, LP to renew approval of existing 
+70,000 gallons per day Li’l Wolf Mobile Home Park wastewater 
+treatment plant and discharge. Current flow is 56,000 gallons per 
+day. No modifications to the plant are proposed. 
+Aligns with FutureLV action to ‘protect the 
+quality and quantity of surface water and 
+groundwater’ (of Policy 3.2). 
+21
+
+[page 22]
+   
+ 
+LVTS Carbon Reduction Funding Project Selection Process 
+ 
+Lehigh Valley Transportation Study’s Federal Fiscal Year 2025, 2026, 
+2027 and 2028 Carbon Reduction Program (CRP) Disbursement 
+Program 
+Executive Summary   
+Carbon Reduction Program (CRP)   
+The Carbon Reduction Program (CRP) fund is a federal cost reimbursement program, 
+distributed by the Federal Highway Administration (FHWA) and administered by the 
+Pennsylvania Department of Transportation and Metropolitan Planning Organizations (MPO) 
+across the commonwealth. The CRP was authorized under the Federal Infrastructure 
+Investment and Jobs Act (IIJA) with the purpose of reducing Carbon Dioxide (CO2) and 
+greenhouse gas emissions (GHG) from the nation’s transportation system. The CRP requires 
+states to develop a Carbon Reduction Strategy (CRS) and offers formula funds for projects that 
+reduce GHG emissions. Funds are allocated to the states based on the state’s population and 
+further allocated to the MPOs in the states based on the population of the state’s urban areas 
+(UAs).  
+ 
+Projects utilizing CRP funds must meet the program’s eligibility requirements. The CRP 
+guidance allows MPOs to develop a regional funding strategy that supports the state CRS goals 
+and prioritizes funding for transportation projects that are relevant to the region’s demographics 
+and emissions reductions goals.  
+The Lehigh Valley Carbon Reduction Funding Strategy   
+The Lehigh Valley’s regional carbon reduction strategy for transportation is outlined in the 
+Lehigh Valley Priority Climate Action Plan for Transportation Decarbonization (PCAP) adopted 
+by the LVTS on April 17, 2024, and the Lehigh Valley Planning Commission on February 22, 
+2024. This Priority Climate Action Plan (PCAP) is supported the Regional Greenhouse Gas 
+Inventory, most recently published on September 24, 2024. These data and policy documents 
+are supported by the Metropolitan Transportation Plan, FutureLV: The Regional Plan (2023), 
+where the transportation priorities from safety to asset management to growth management to 
+air quality are balanced and prioritized for federal and state funding through the LVTS.       
+Specific transportation emissions reduction goals in the PCAP, if implemented through a 
+combination of efforts and funding sources, including the Carbon Reduction Program funding 
+allocated through the IIJA, can reduce transportation emissions by nearly 300,000 metric tons of 
+carbon dioxide equivalent (MTCO2e) by 2030 and more than 321,000 MTCO2e by 2050. It 
+represents roughly 12% of the 2.7 million MTCO2e being created now by transportation 
+sources, according to the most recent LVPC Greenhouse Gas Inventory. The goals of the PCAP 
+are to reduce carbon emissions from transportation projects, invest CRP funds equitably, and 
+improve safety. They reflect the goals and purpose of the federal CRP and the Pennsylvania 
+state CRS.  
+In addition, Lehigh Valley Planning Commission (LVPC) staff researched multiple state and 
+federal sources (specifically, Federal Carbon Reduction Program and Pennsylvania Carbon 
+Reduction Strategy) to develop a set of strategies that reduce CO2 emissions from the 
+transportation network. The regional carbon reduction strategy is aligned with and supports the 
+priority strategies outlined in the Pennsylvania state CRSs’ as well as Lehigh Valley PCAP.  The 
+Lehigh Valley’s first-ever PCAP is designed to improve air quality, support the economy and 
+economic development while improving public health and safety through mode shift, using 
+22

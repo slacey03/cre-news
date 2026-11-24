@@ -1,0 +1,900 @@
+
+
+[page 25]
+ 
+   
+ 
+  
+ 
+ 
+ 
+August xx, 2025  
+ 
+Michael Siegel, Township Manager  
+Lowhill Township 
+7000 Herber Rd 
+New Tripoli, PA 18066 
+ 
+Re:  Zoning Ordinance Amendments 
+Lowhill Township 
+Lehigh County  
+ 
+Dear Mr. Siegel, 
+ 
+The Lehigh Valley Planning Commission (LVPC) will consider the application at its 
+Comprehensive Planning Committee and Full Commission meetings, pursuant to the 
+requirements of the Pennsylvania Municipalities Planning Code (MPC). Discussion on 
+agenda items largely happens during the Committee meeting. Both meetings will be 
+virtual, and we encourage your participation.  
+  
+• LVPC Comprehensive Planning Committee Meeting  
+o August 26, 2025, at 12:00 PM  
+o https://lvpc.org/lvpc-meetings  
+• LVPC Full Commission Meeting  
+o August 28, 2025, at 7:00 PM  
+o https://lvpc.org/lvpc-meetings  
+ 
+The application proposes to amend the Lowhill Township Zoning Ordinance. The 
+Township substantially rewrote its zoning ordinance in 2024, following the update of the 
+Northern Lehigh Multi-Municipal Comprehensive Plan (Plan Northern Lehigh). The 
+amendment proposed at this time corrects references between the zoning ordinance 
+and the Township’s recently updated subdivision and land development ordinance 
+(SALDO), with additional revisions to further implement Plan Northern Lehigh and align 
+with the Township SALDO. The amendment clarifies definitions, introduces references 
+to scenic resources, refines design standards, expands conditional use procedures, and 
+updates lighting and noise requirements. The Township has emphasized that these 
+revisions are designed to better align its zoning ordinance with current regulations, 
+adopted plans, and the character of its villages and rural landscapes. 
+ 
+The LVPC offers the following comments on the proposal’s alignment FutureLV and 
+Plan Northern Lehigh: 
+ 
+ 
+25
+
+[page 26]
+    
+   
+   
+ 
+ 
+• Updated definitions advance responsible land use regulation by clarifying 
+ordinance language and providing consistency with state codes and Township 
+ordinances (of FutureLV Policy 3.2). 
+• Scenic Roads and Vista Protections align with preserving scenic views and rural 
+character (of FutureLV Policy 4.6 and PlanNL Policy 3.1). 
+• Design Standards in the RV (Rural Village) District encourage development that 
+complements community character and clusters development near crossroads 
+villages (of FutureLV Policy 3.3 and PlanNL Policy 2.1). 
+• Accessory Dwelling Units (in-law suites) allowed by special exception 
+encourages housing choice (of FutureLV Policy 4.5 and PlanNL Policy 2.1), 
+although the LVPC encourages the Township to consider allowing accessory 
+dwelling units by right to further improve access to attainable housing 
+opportunities. 
+• Updated Sign Regulations encourage context-sensitive design by promoting 
+cohesive village character (of FutureLV Policy 5.4 and PlanNL Policy 4.1). 
+• Updated Conditional Use, Lighting, and Noise Regulations reduce conflicts 
+between land uses and encourage compatibility among development (of 
+FutureLV Policies 1.1, and 1.4). 
+• Updating zoning objectives to reflect the Northern Lehigh Multi-Municipal 
+Comprehensive Plan supports multi-municipal cooperation in planning and land 
+use regulation (of FutureLV Policy 1.1). 
+The LVPC has copied appropriate representatives from the Northern Lehigh Multi-
+Municipal Plan to further expand collaboration on planning and development between 
+neighboring communities (of Policy 4.6).   
+ 
+Municipalities, when considering zoning ordinance amendments, should reasonably 
+attempt to be consistent with FutureLV: The Regional Plan, as required by the 
+Pennsylvania Municipalities Planning Code (MPC) [Article 1§105, Article III§303, §304 
+& §306(a), Article VI§603(j)].  
+Sincerely, 
+ 
+ 
+Jillian Seitz 
+Chief Community Planner 
+ 
+CC: Jill Seymour, Lowhill Township Secretary; Trish Burkhardt, Lynn Township Administrative Secretary; 
+Wade Marlatt, Washington Township Manager; Brian Carl, Weisenberg Township Manager; Roy 
+Hambrecht, Slatington Borough Manager. 
+26
+
+[page 27]
+ 
+ 
+ 
+ 
+MEMORANDUM 
+DATE: August 18, 2025 
+TO: LVPC Comprehensive Planning Committee 
+FROM: Jill Seitz, Chief Community and Regional Planner 
+CC: Becky Bradley, Executive Director 
+David Cohen, Director of Regional Planning 
+REGARDING Electronic Plan Submission Project and Amending County Subdivision 
+and Land Development Ordinances 
+ 
+INTRODUCTION 
+Under the Pennsylvania Municipalities Planning Code (MPC), Act 247 of 1968, counties 
+are authorized to adopt and administer subdivision and land development ordinances 
+(SALDOs). Both Counties’ SALDOs were created by the LVPC and first enacted in 
+1983, and the most recent amendment to both SALDOs was also made by the LVPC in 
+2003. In instances where municipalities have not adopted their own SALDOs, the 
+County SALDO applies. In Lehigh and Northampton counties, the Lehigh Valley 
+Planning Commission (LVPC) serves as the designated planning agency responsible 
+for administering the County SALDOs. This includes: 
+• Accepting and reviewing subdivision and land development applications based 
+on County SALDO requirements and criteria; 
+• Coordinating with applicants and developers on project submissions; 
+• Coordinating with municipal officials and engineers; 
+• Coordinating with other reviewing agencies; 
+• Taking action to approve or deny proposals based on applicable regulations and 
+planning standards. 
+The LVPC is in the process of launching an Online Submission Portal to modernize and 
+streamline the development review process. A key component of this transition is 
+enabling electronic plan submission for subdivision and land development reviews. To 
+support this, both Lehigh County and Northampton County Subdivision and Land 
+Development Ordinances (SALDOs) must be amended to: 
+1. Require electronic plan submission through the new portal; and 
+2. Remove or revise any existing requirement for submission of paper plans. 
+27
+
+[page 28]
+    
+   
+The proposed transition to electronic submission reflects the LVPC’s ongoing efforts to 
+provide professional, consistent, and modern planning services on behalf of the 
+counties and their municipalities. This updated process aligns with the growing use of 
+digital tools in planning, enhance efficiency, reduce costs, and improve access for all 
+stakeholders involved in the development review process. This project is currently 
+underway, and LVPC staff are working on the County SALDO updates, and working 
+with GeoCivix, the project consultant, to develop an online portal where projects for 
+review and other requests will be processed and managed.  The new online portal is 
+intended to be open by January 1, 2026. 
+CASE STUDIES 
+Several other counties across Pennsylvania have already completed the process of 
+transitioning to an electronic plan submission system including:  
+• Montgomery County 
+• Chester County 
+• Bucks County 
+• Lancaster County 
+• Tri-County Regional Planning Commission (Dauphin and Perry County) 
+Additionally, accepting digital plan submissions is a best practice LVPC encourages 
+municipalities to undertake when feasible because it streamlines the submission 
+process, reduces paper waste and vehicle trips, saves both applicants and local 
+governments time and printing costs, and increases accessibility. 
+ 
+SALDO AMENDMENT PROCESS 
+The MPC provides the statutory framework for enacting and amending subdivision and 
+land development ordinances at both the municipal and county levels. Based on these 
+provisions of the MPC, the process for amending the County SALDOs includes: 
+1. Drafting the Amendment Language 
+LVPC staff are preparing proposed amendments to both counties' SALDOs in 
+accordance with MPC Section 504 that: 
+a. Provide procedures for plan submission through the LVPC Online 
+Submission Portal; 
+b. Eliminate or revise provisions requiring hard-copy submissions; 
+c. Clarify submission standards and digital file requirements. 
+2. Public Review Period (Publication, Advertisement and Availability of 
+Ordinance) 
+a. Public notice is given on the proposed enactment in accordance with MPC 
+Section 506, specifying information on when and where adoption of the 
+28
+
+[page 29]
+    
+   
+amendment will be considered, and where copies of the proposed 
+amendment may be examined.  
+b. Notice is published in one newspaper of general circulation at least seven 
+days (and up to 60 days) before adoption.  
+c. Additional online promotion of the amendment will notify municipalities and 
+the public of the proposed amendment and provide the opportunity for 
+comment. 
+3. Public Notice of Hearing 
+a. In accordance with MPC Section 505 and Section 107, public notice is 
+published in a newspaper of general circulation for two successive weeks.  
+b. The first notice must be published at least 14 days (and up to 30 days) 
+before the hearing. 
+c. Notice will include the subject of the hearing and the time and place the 
+hearing will be held. 
+4. County Planning Commission Review 
+a. In accordance with MPC Section 505.(a), the planning agency (LVPC in 
+this case) will review the proposal at their regular meeting at least 30 days 
+prior to the public hearings. 
+5. Conduct Public Hearing 
+a. In accordance with MPC Section 505.(a), each County’s governing body 
+will hold a public hearing to receive comments and consider public input. 
+6. Ordinance Adoption 
+a. Following the hearing, each governing body may vote to adopt the 
+amendments. The vote must occur at a public meeting and be duly 
+recorded in the minutes. 
+7. Notification and Implementation (anticipated in September) 
+Once adopted, LVPC will: 
+a. In accordance with MPC Section 502.(a), distribute copies of the amended 
+SALDO to all municipalities within Lehigh County and Northampton 
+County.  
+b. Notify development, engineering and planning professionals who have 
+been active across the Lehigh Valley according to our records; 
+c. Update procedural guides and application materials; 
+d. Launch the Online Submission Portal with user support materials. 
+This amendment is a necessary and forward-thinking step to improve how land 
+development plans are reviewed in Lehigh and Northampton Counties. By aligning the 
+SALDOs with modern submission practices, the counties can provide better service to 
+constituents, improve internal workflows, and reduce unnecessary burdens on 
+applicants.  Enclosed is the draft of the proposed Northampton County and Lehigh 
+County amendments for each respective subdivision and land development ordinance 
+for review and discussion. Below is the anticipated timeline for adoption to meet the 
+portal launch deadline and state law requirements. 
+29
+
+[page 30]
+    
+   
+COUNTY SALDO UPDATE SUMMARIZED TIMEFRAME 
+TIMEFRAME STEP STATUS 
+August Draft Amendments by LVPC staff Underway 
+September 
+LVPC Review + Forwarding to Counties 
+- September 18: Executive Committee 
+- September 23: Comprehensive Planning Committee 
+- September 25: Full Commission 
+Next 
+October - 
+December 
+Review by the Committees of Lehigh County 
+Commissioners and Northampton County Council 
+ 
+Public Hearings by Lehigh County Commissioners and 
+Northampton County Council 
+ 
+Approval by Lehigh County Commissioners and 
+Northampton County Council 
+Future 
+December Distribution to all municipalities + public notification Future 
+January Implementation: Online Portal Launch + Promotion Future 
+ 
+ 
+30
+
+[page 31]
+DRAFT DATE: August 25, 2025 
+ORDINANCE AMENDMENT 
+County of Lehigh 
+Ordinance No. [XXXX] 
+AN ORDINANCE AMENDING THE COUNTY OF LEHIGH SUBDIVISION AND LAND 
+DEVELOPMENT ORDINANCE REQUIRING ELECTRONIC PLAN SUBMISSION AND 
+REVISING FOR CONSISTENCY. 
+WHEREAS, the Pennsylvania Municipalities Planning Code (MPC) Act 247 of 1968, as 
+enacted and amended, authorizes counties to enact and amend 
+subdivision and land development ordinances (Article V); and 
+WHEREAS,  the County of Lehigh enacted a Subdivision and Land Development 
+Ordinance on January 25, 1989 (Ordinance 105) and revised the same on 
+March 26, 2003 (Ordinance 107); and 
+WHEREAS,  the County of Lehigh Subdivision and Land Development Ordinance 
+applies to those municipalities within the county that have not adopted 
+their own such ordinance, pursuant to the MPC (Article V§502(b)); and 
+WHEREAS,  the County seeks to improve the efficiency and accessibility of the 
+subdivision and land development review process by transitioning to a 
+secure, electronic plan submission portal administered by the Lehigh 
+Valley Planning Commission as the official administrative agency for 
+review and approval of plats; and 
+WHEREAS,  the Lehigh Valley Planning Commission, as Lehigh County’s official 
+administrative agency for review and approval of plats has developed 
+Lehigh County Subdivision and Land Development Ordinance amendment 
+language to require electronic plan submissions and propose language 
+revisions for clarity and consistency, and forwarded the same to the 
+Lehigh County Commissioners for consideration; and   
+WHEREAS,  the Board of Commissioners of Lehigh County has determined that such 
+amendments are consistent with the County Comprehensive Plan, 
+FutureLV: The Regional Plan, and serve the public interest; and 
+WHEREAS,  the MPC requires a “public hearing pursuant to public notice” (Article 
+V§505(a)) which was held on [INSERT DATE] at the Lehigh County 
+Government Center at 17 South Seventh Street, Allentown, PA 18101; 
+and 
+31
+
+[page 32]
+DRAFT DATE: August 25, 2025 
+WHEREAS,  the proposed amendment and public hearing was advertised in the 
+Morning Call on [INSERT DATE] including the date, time and location of 
+public hearing, summary of the proposed subdivision and land 
+development ordinance amendment and locations where full copies of 
+proposed changes could be accessed pursuant to the requirements of the 
+MPC (Article V§506(a)); and   
+WHEREAS,  the full text of the proposed subdivision and land development ordinance 
+amendment was made available to the public on [INSERT DATE] and at 
+the following locations: Lehigh Valley Planning Commission office at 615 
+Waterfront Drive, Suite 201, Allentown, PA 18102, on the Lehigh Valley 
+Planning Commission website at www.lvpc.org, Lehigh County 
+Government Center at 17 South Seventh Street, Allentown, PA 18101, 
+and on the Lehigh County website at www.lehighcounty.org; and     
+WHEREAS,  the County of Lehigh Subdivision and Land Development Ordinance 
+states that “Amendments to the Subdivision and Land Development 
+Ordinance shall become effective only after a public hearing held pursuant 
+to public notice” (Section 601). 
+NOW, THEREFORE, BE IT ORDAINED AND ENACTED by the Lehigh County Board 
+of Commissioners that the Lehigh County Subdivision and Land Development 
+Ordinance is hereby amended as follows: 
+SECTION I  
+PURPOSE, AUTHORITY, TITLE AND JURISDICTION  
+100  Purpose  
+101  The purpose of this Ordinance is to regulate subdivision and land 
+development in those municipalities within Lehigh County, Pennsylvania, 
+which have not adopted subdivision regulations.  
+110  Authority and Title  
+111  This Ordinance is enacted pursuant to the Pennsylvania Municipalities 
+Planning Code and may be cited as the Lehigh County Subdivision and 
+Land Development Ordinance of 2003.  
+120 Jurisdiction  
+121  This Ordinance shall apply in the following circumstances:  
+121.1  To all subdivision and land development plans for property located 
+in municipalities which have not adopted a subdivision ordinance 
+submitted after the effective date of this Ordinance.  
+32
+
+[page 33]
+DRAFT DATE: August 25, 2025 
+121.2  To all subdivision and land development plans for property located 
+in municipalities which have not adopted a subdivision ordinance, 
+previously approved in accordance with any law or regulation then 
+applicable, the development of which has not been completed in 
+accordance with the terms of such approval within three (3) years 
+of such approval.  
+121.3  A modification to a submitted Drainage Plan for a proposed 
+development site which involves a change in control methods or 
+techniques, or which involves the relocation or redesign of control 
+measures, or which is necessary because soil or other conditions 
+are not as stated on the Drainage Plan (as determined by the 
+municipal engineer or the LVPC engineer) shall require a 
+resubmission of the modified Drainage Plan consistent with this 
+Ordinance.  
+130  Application  
+131  No subdivision or land development of any lot, tract or parcel of land shall 
+be made, and no street, sanitary sewer, water main, gas, or electric 
+transmission line, or other improvements in connection therewith shall be 
+laid out, constructed, opened or dedicated for public use or travel or for 
+the common use of occupants of buildings abutting thereon, except in 
+accordance with this Ordinance.  
+132  No lot in a proposed subdivision or land development may be sold, and no 
+final permit to erect any building upon land in a subdivision or land 
+development may be issued unless and until a final plan has been 
+approved and recorded and either the Lehigh Valley Planning Commission 
+(LVPC) has been assured by means of an Improvements Agreement 
+acceptable to the LVPC that the improvements will subsequently be 
+installed or the required improvements in connection therewith have been 
+constructed. 
+133   Notwithstanding any provisions of this Ordinance, including waiver 
+provisions, any landowner and any person engaged in the alteration or 
+development of land which may affect storm water runoff characteristics 
+shall implement such measures as are reasonably necessary to prevent 
+injury to health, safety or other property. Such measures shall include 
+such actions as are required to manage the rate, volume and direction of 
+resulting storm water runoff in a manner which otherwise adequately 
+protects health and property from possible injury. 
+ 
+SECTION II 
+33
+
+[page 34]
+DRAFT DATE: August 25, 2025 
+SUBMISSION PROCEDURES 
+210  Feasibility Review Submission  
+211  Feasibility review maps and materials may be submitted for any proposed 
+subdivisions and land developments, for purposes of discussion between the 
+Lehigh Valley Planning Commission and the developer applicant.  
+212  Five (5) copies of all feasibility review maps and materials, as set forth in Section 
+300, shall be submitted to the staff.  
+Applications for subdivision and land development feasibility review, including 
+maps and materials as set forth by Section 300, shall be submitted electronically 
+through the Lehigh Valley Planning Commission (LVPC) Online Submission 
+Portal. Information on Portal access may be obtained from LVPC. Paper 
+submissions shall no longer be accepted by LVPC for review unless specifically 
+authorized in writing by LVPC for technical or legal reasons. Electronic 
+submission materials will be made accessible to external agencies including, but 
+not limited to, the Municipal Governing Body. 
+213  The staff shall refer one (1) copy of the feasibility review maps and materials to 
+the Municipal Planning Commission for its review and recommendations. 
+214  The staff shall refer one (1) copy of feasibility review maps and materials to the 
+Municipal Governing Body for its review and recommendations. 
+220  Feasibility Review  
+221  When feasibility review maps and materials have been submitted to the Lehigh 
+Valley Planning Commission, the data presented will be reviewed by that body at 
+its next regular meeting, provided that submission has occurred no less than 
+fourteen (14) days prior to such scheduled meeting.  
+222  The Lehigh Valley Planning Commission shall review the feasibility review data 
+to determine the development potential of the site, as indicated by the natural 
+features analysis presented. The general development concepts of the developer 
+submitted will be reviewed to determine their compatibility with the development 
+potential of the site and with relevant plans and ordinances. Also, the feasibility 
+review stage is designed to offer the developer applicant an opportunity to 
+informally discuss his plans for the proposed subdivision or land development 
+with the Lehigh Valley Planning Commission.  
+223  Within sixty (60) days of submission of feasibility review maps and materials to 
+the Lehigh Valley Planning Commission, the Commission shall make any 
+recommendations to the developer applicant which it deems necessary or 
+advisable in the public interest in order to provide an acceptable subdivision or 
+land development plan for the site.  
+34
+
+[page 35]
+DRAFT DATE: August 25, 2025 
+Within fifteen (15) days after such meeting, the staff shall send written notice of 
+the Commission's recommendations to the following:  
+223.1  The applicant;  
+223.2  The municipal governing body;  
+223.3  The municipal planning commission.  
+230  Submission of the Preliminary Plan  
+231 Preliminary Plans and all required supplementary data for all proposed 
+subdivisions and land developments shall be submitted to the staff.  
+232  Official submission of a Preliminary Plan to the staff by a developer shall 
+comprise of the following: (submissions which do not include the material 
+specified in the following subsections shall not be accepted as an official 
+submission.)  
+Official submission of a Preliminary Plan to LVPC by an applicant shall be 
+submitted electronically through the Lehigh Valley Planning Commission (LVPC) 
+Online Submission Portal. Official submissions of a Preliminary Plan shall 
+comprise of the following: 
+232.1  Five (5) copies of a completed Application for Review of Preliminary 
+Subdivision Plans;  
+An application for review completed through the LVPC Online Submission 
+Portal system; 
+232.2  Seven (7) black-on-white or blue-on-white prints on paper of the 
+Preliminary Plan which shall fully comply with the provisions of this 
+Ordinance as set forth in Section 310;  
+Uploaded digital copies of the Preliminary Plans which shall fully comply 
+with the provisions of this Ordinance as set forth in Section 310; 
+232.3  Seven (7) copies all required supplemental information as set forth in 
+Section 316;  
+All required supplemental information as set forth in Section 316; 
+232.4  The review fee and escrow shall be submitted as set forth in Section 640;  
+232.5  Submissions which do not include the material specified herein shall not 
+be accepted as an official submission for review. 
+233  The staff shall refer preliminary plan submission materials to the various review 
+bodies as follows:  
+35
+
+[page 36]
+DRAFT DATE: August 25, 2025 
+The LVPC shall refer preliminary plan submission materials to various review 
+and/or coordination bodies including but not limited to the Municipality, any 
+applicable adjacent communities and/or multi-municipal comprehensive planning 
+partners.   
+233.1  One (1) application, one (1) plan print, and one (1) copy of the 
+supplemental information to the Municipal Planning Commission;  
+233.2  One (1) application, one (1) plan print, and one (1) copy of the 
+supplemental information to the LVPC Engineer;  
+233.3  One (1) application, one (1) plan print, and one (1) copy of the 
+supplemental information to the municipal governing body.  
+234  Additional copies of the Preliminary Plan materials shall be referred by the staff 
+to the respective agencies in the following circumstances: required in accordance 
+with the following circumstances: 
+234.1  Whenever the property being subdivided or developed abuts a State 
+Legislative Route, one (1) plan print shall be submitted to the 
+Pennsylvania Department of Transportation District Office; 
+Whenever the property being subdivided or developed abuts a 
+Pennsylvania Department of Transportation route or where the 
+Pennsylvania Department of Transportation has jurisdiction, all 
+application materials shall be submitted to the Pennsylvania Department 
+of Transportation in accordance with agency requirements at the same 
+time as submitted to the LVPC. In addition, a complete copy of any 
+materials for Pennsylvania Department of Transportation required permits 
+shall be submitted to the LVPC along with the Preliminary Plan. All copies 
+of letters, communications and permits from the Pennsylvania 
+Department of Transportation shall be copied by the applicant to the 
+LVPC; 
+234.2  Whenever the municipality has an adopted zoning ordinance, one (1) 
+application and one (1) plan print shall be referred to the zoning officer;  
+Each Preliminary Plan and all associated materials provided to the LVPC 
+will be made available to the Municipality or Municipalities where the 
+development is proposed; 
+234.3  Whenever a proposed subdivision or land development is located 
+adjacent to another municipality, one (1) plan print all application 
+materials shall be referred to that municipality; 
+234.4 Any and all required outside agency approvals shall be noted in the 
+application materials, including but not limited to sewer and/or water 
+authorities, Pennsylvania Department of Environmental Protection, Army 
+36
+
+[page 37]
+DRAFT DATE: August 25, 2025 
+Corp of Engineers. Copies of outside agency application materials, 
+correspondence, permits approved or denied shall be provided to the 
+LVPC upon request.            
+235  Supplemental submissions are permitted subject to the following provisions:  
+235.1  The supplemental submission shall consist of seven (7) complete sets of 
+the plans, seven (7) copies of any revised supporting documentation, a 
+completed and executed application form which notes the submission as 
+a supplemental submission and a written summary of the changes made. 
+The summary of the changes made shall refer to the Staff and other 
+reviews to which the changes are responding.  
+The supplemental submission shall be submitted electronically through 
+the Lehigh Valley Planning Commission (LVPC) Online Submission Portal 
+and consist of a complete plan set, any revised supporting 
+documentation, and a written summary of the changes made. The 
+summary of the changes made shall refer to the Staff and other reviews 
+to which the changes are responding. Any design changes made on 
+plans shall be shown in a different color on the plan sheets or sheets to 
+which they are applicable. 
+235.2  The submission shall be received at least fourteen (14) days prior to the 
+date of the next meeting of the Lehigh Valley Planning Commission at 
+which the application is to be considered.  
+235.3  Supplemental submissions which do not comply with the requirements of 
+Section 235.1 shall not be accepted for review. The submission of a final 
+plan application will not be considered as a supplemental submission. 
+240  Review of Preliminary Plan  
+241  By the Lehigh Valley Planning Commission  
+241.1  When a Preliminary Plan has been officially submitted, such plan shall be 
+placed on the agenda of the Planning Commission for review at its next 
+regular monthly meeting, provided that such official submission has 
+occurred no less than fourteen (14) calendar days prior to such regular 
+meeting. The Planning Commission may hold a Public Hearing on the 
+Preliminary Plan at this time.  
+241.2  Within ninety (90) days following the date of the regular meeting of the 
+Planning Commission next following the date of the application (unless 
+the next meeting does not fall in a 30-day period in which case the 90-day 
+period commences on the 30th day following the date of the application), 
+the Lehigh Valley Planning Commission shall, in accordance with the 
+provisions of relevant ordinances, take action by approving, conditionally 
+37
+
+[page 38]
+DRAFT DATE: August 25, 2025 
+approving or disapproving the Preliminary Plan and document the 
+findings upon which that action is based, in writing to:  
+241.21  The applicant;  
+241.22  The applicant's engineer; 
+241.23  The Municipal Planning Commission;  
+241.24  The Municipal Governing Body; 
+241.25 Adjacent communities and/or multi-municipal 
+comprehensive planning communities as necessary.  
+241.3  In no case shall the decision be communicated to the applicant in more 
+than fifteen (15) days from the date that the decision has been made.  
+241.4  The applicant shall be provided with a form to indicate acceptance of the 
+conditions of approval, if any were imposed. The form shall be signed and 
+dated by the applicant and shall be returned to the LVPC. Unless the 
+signed, dated form is received by the LVPC within ten (10) days of the 
+date that the form was sent to the applicant, the LVPC action is to deny 
+the application for failure to comply with the ordinance requirements cited 
+in the action for conditional approval. 
+250  Submission of the Final Plan  
+251  Within twelve (12) months after approval of the Preliminary Plan, a Final 
+Subdivision or Land Development Plan and all required supplemental data shall 
+be submitted to the staff. An extension of time may be granted by the Lehigh 
+Valley Planning Commission upon written request by the applicant. Otherwise, 
+the plan submitted may be considered as a new Preliminary Plan.  
+252 The Final Plan shall conform in all significant respects to the Preliminary Plan as 
+previously approved by the Lehigh Valley Planning Commission and shall 
+incorporate all modifications required by the Lehigh Valley Planning Commission 
+in its Preliminary Plan approval. The Lehigh Valley Planning Commission may, 
+however, accept a Final Plan modified so as to reflect any substantial changes 
+which have occurred on the site of the proposed subdivision, or its surroundings, 
+since the time of the Preliminary Plan review.  
+253 The Final Plan may be submitted in sections or stages, each covering a 
+reasonable portion of the entire proposed subdivision as shown on the reviewed 
+Preliminary Plan, in accordance with the regulations set forth in Section 320. In 
+the case of the Final Subdivision or Land Development Plan which is to be 
+submitted in sections or stages over a period of years, the time between 
+submission of application for final approval of each stage or section shall be no 
+greater than twelve (12) months. 
+38
+
+[page 39]
+DRAFT DATE: August 25, 2025 
+254  Final plans and all required supplementary data set forth in Section 320 for all 
+proposed subdivisions and land developments shall be submitted to the staff.  
+255  Official submission of a Final Plan to the staff by a developer shall comprise of 
+the following: (submissions which do not include the material specified in the 
+following subsections shall not be accepted as an official submission.)  
+Official submission of a Final Plan to the staff by an applicant shall be submitted 
+electronically through the Lehigh Valley Planning Commission Online Submission 
+Portal. Information on Portal access may be obtained from LVPC. Official 
+submissions of a Final Plan shall comprise of the following: 
+255.1  Six (6) copies of a completed Application for Review of Final Subdivision 
+Plan;  
+An application for review completed through the LVPC Online Submission 
+Portal system; 
+255.2 Seven (7) black-on-white or blue-on-white prints on paper of the Final 
+Plan which shall fully comply with the provisions of this Ordinance as set 
+forth in Section 320;  
+Uploaded digital copies of the Final Plans which shall fully comply with 
+the provisions of this Ordinance as set forth in Section 320; 
+255.3  Seven (7) copies of all required supplemental information as set forth in 
+Section 320; 255.4 The review fee and escrow as set forth in Section 640.  
+All required supplemental information as set forth in Section 320; 
+255.4  The review fee and escrow shall be submitted as set forth in Section 640; 
+255.5  Submissions which do not include the material specified herein shall not 
+be accepted as an official submission for review. 
+256  The staff shall refer Final Plan submission materials to the various review bodies 
+as follows:  
+The LVPC shall refer final plan submission materials to the various review and/or 
+coordination bodies including but not limited to the Municipality, any applicable 
+adjacent communities and/or multi-municipal comprehensive planning partners. 
+256.1  One (1) application, one (1) plan print, and one (1) copy of the 
+supplemental information to the Municipal Planning Commission;  
+256.2  One (1) application, one (1) plan print, and one (1) copy of the 
+supplemental information to the LVPC Engineer;  
+39
+
+[page 40]
+DRAFT DATE: August 25, 2025 
+256.3  One (1) application, one (1) plan print, and one (1) copy of the 
+supplemental information to the Municipal Governing body. 
+257  Additional copies of the Final Plan materials shall be referred by the staff to the 
+respective agencies in the following circumstances: required in accordance with 
+the following circumstances: 
+257.1  Whenever the property being subdivided or developed abuts a State 
+Legislative Route Pennsylvania Department of Transportation route or 
+where the Pennsylvania Department of Transportation has jurisdiction 
+and the plan differs from plans previously submitted to PennDOT with 
+reference to access points, proposed external road improvements or 
+traffic impact, one (1) application, one (1) plan print all application 
+materials shall be submitted to the Pennsylvania Department of 
+Transportation District Office. in accordance with agency requirements at 
+the same time as submitted to the LVPC. In addition, a complete copy of 
+any materials for Pennsylvania Department of Transportation required 
+permits shall be submitted to the LVPC along with the Preliminary Plan.  
+All copies of letters, communications and permits from the Pennsylvania 
+Department of Transportation shall be copied by the applicant to the 
+LVPC. 
+257.2  Whenever the municipality has an adopted zoning ordinance, one (1) 
+application and one (1) plan print shall be submitted to the Zoning Officer.  
+ 
+Each Final Plan and all associated materials provided to the LVPC will be 
+made available to the Municipality or Municipalities where the 
+development is proposed. 
+257.3  Whenever the subdivision or land development requires a soil erosion 
+and sedimentation control permit, as described in Section 491.5 of this 
+Ordinance, one (1) application, one (1) plan print, and one (1) copy of 
+supplemental information all application materials shall be submitted to 
+the Lehigh County Conservation District 
+257.4  Whenever a proposed subdivision or land development is located 
+adjacent to another municipality, one (1) application and one (1) plan print 
+all application materials shall be referred to that municipality. 
+257.5 Any and all required outside agency approvals shall be noted in the 
+application materials, including but not limited to sewer and/or water 
+authorities, Pennsylvania Department of Environmental Protection, Army 
+Corp of Engineers. Copies of outside agency application materials, 
+correspondence, permits approved or denied shall be provided to the 
+LVPC upon request. 
+260  Review of Final Plan  
+40
+
+[page 41]
+DRAFT DATE: August 25, 2025 
+261  By the Lehigh Valley Planning Commission  
+261.1  When a Final Plan has been officially submitted, such plan shall be 
+placed on the agenda of the Planning Commission for review at its next 
+regular monthly meeting, provided that such official submission has 
+occurred no less than fourteen (14) calendar days prior to such regular 
+meeting. The Planning Commission may hold a Public Hearing on the 
+Final Plan at this time.  
+261.2  Within ninety (90) days following the date of the regular meeting of the 
+Planning Commission next following the date of the application (unless 
+the next meeting does not fall in a 30-day period following the date of the 
+application, in which case the 90-day period commences on the 30th day 
+following the date of the application), the Lehigh Valley Planning 
+Commission shall, in accordance with the provisions of relevant 
+ordinances, take action by approving, conditionally approving or 
+disapproving the Final Plan and document the findings upon which that 
+action is based, in writing to:  
+261.21  The applicant; 
+261.22  The Municipal Governing Body;  
+261.23  The Municipal Planning Commission;  
+261.24  The Municipal Zoning Officer;  
+261.25  The applicant's engineer. 
+261.3  In no case shall the decision be communicated to the applicant in more than 
+fifteen (15) days from the date that the decision has been made.  
+261.4  The applicant shall be provided with a form to indicate acceptance of the 
+conditions of approval, if any were imposed. The form shall be signed and dated 
+by the applicant and shall be returned to the LVPC. Unless the signed, dated 
+form is received by the LVPC within ten (10) days of the date that the form was 
+sent to the applicant, the LVPC action is to deny the application for failure to 
+comply with the ordinance requirements cited in the action for conditional 
+approval. 
+270  Recording of the Final Plan  
+271  After the Final Plan is approved by the Lehigh Valley Planning Commission, the 
+applicant shall provide one mylar reproducible print and six (6) paper prints of the 
+Final Plan to the staff for endorsement.  
+272  The Record Plan shall be a clear and legible print of a type and material required 
+by the County Recorder of Deeds.  
+41
+
+[page 42]
+DRAFT DATE: August 25, 2025 
+273  After the Lehigh Valley Planning Commission staff has endorsed the record plan, 
+the applicant shall file the plan with the Lehigh County Recorder of Deeds within 
+ninety (90) days of the approval. The applicant shall provide proof of the 
+recording by providing the LVPC with a receipt from the Recorder's office.  
+274  At the time the Record Plan is endorsed by the staff, the Municipal Planning 
+Commission shall receive one (1) print of the approved Final Plan for their 
+permanent files.  
+275  At the time the Record Plan is signed by the staff, the Municipal Governing Body 
+shall receive one (1) Final Plan for the permanent files. 
+280  Plans Exempted from Standard Procedures  
+281  In the case of any proposed residential subdivision which does not by itself or in 
+combination with previously approved subdivisions, involve more than a total of 
+three (3) lots including the residue property and does not involve the provision of 
+any new street or easement for access (i.e. one in which all proposed lots will 
+have frontage on an existing public street), or for a boundary adjustment where 
+no new lots are created and where no development is proposed, the following 
+procedure shall apply: 
+281.1  Plans and all required supplementary data as required shall be submitted 
+to the staff.  
+281.2  Official submission of a minor subdivision to the staff by a developer shall 
+comprise of the following: (submissions which do not include the material 
+specified in the following subsections shall not be accepted as an official 
+submission.)  
+Official submission of a minor subdivision to LVPC by an applicant shall 
+be submitted electronically through the Lehigh Valley Planning 
+Commission (LVPC) Online Submission Portal. Official submissions of a 
+minor subdivision shall comprise of the following: 
+281.21  Five (5) copies of a completed Application for Review of 
+Minor Subdivision Plans;  
+An application for review completed through the LVPC 
+Online Submission Portal system. 
+281.22  Seven (7) black-on-white or blue-on-white prints on paper 
+of the Plan which shall fully comply with the provisions of 
+this Ordinance as set forth in Section 330 and 323;  
+Uploaded digital copies of the plans which shall fully 
+comply with the provisions of this Ordinance as set forth in 
+Section 330 and 323. 
+42
+
+[page 43]
+DRAFT DATE: August 25, 2025 
+281.23  Seven (7) copies of all required supplemental information 
+as set forth in Section 334.  
+All required supplemental information as set forth in 
+Section 334. 
+281.24  The review fee shall be submitted as set forth in Section 
+640. 
+281.25 Submissions which do not include the material specified 
+herein shall not be accepted as an official submission for 
+review. 
+281.3  The staff shall refer plan submission materials to the various review 
+bodies as follows: 
+The LVPC shall refer plan submission materials to various review and/or 
+coordination bodies including but not limited to the Municipality, any 
+applicable adjacent communities and/or multi-municipal comprehensive 
+planning partners.   
+281.31  One (1) application, one (1) plan print, and one (1) copy of 
+the supplemental information to the Municipal Planning 
+Commission; 
+281.32  One (1) application, one (1) plan print, and one (1) copy of 
+the supplemental information to the municipal governing 
+body.  
+281.4  Additional copies of the Plan materials for which the applicant is 
+responsible for supplying shall be referred by the staff to the respective 
+agencies in the following circumstances: shall be required in accordance 
+with the following circumstances: 
+281.41  Whenever the property being subdivided or developed 
+abuts a State Legislative Route, one (1) application and 
+one (1) plan print shall be submitted to the Pennsylvania 
+Department of Transportation District Office; 
+ Whenever the property being subdivided or developed 
+abuts a  Pennsylvania Department of Transportation route 
+or where the Pennsylvania Department of Transportation 
+has jurisdiction, all application materials shall be submitted 
+to the Pennsylvania Department of Transportation in 
+accordance with agency requirements at the same time as 
+submitted to the LVPC. In addition, a complete copy of any 
+materials for Pennsylvania Department of Transportation 
+required permits shall be submitted to the LVPC along with 
+43
+
+[page 44]
+DRAFT DATE: August 25, 2025 
+the Plan submission materials. All copies of letters, 
+communications and permits from the Pennsylvania 
+Department of Transportation shall be copied by the 
+applicant to the LVPC; 
+281.42  Whenever the municipality has an adopted zoning 
+ordinance, one (1) application and one (1) plan print shall 
+be referred to the Zoning Officer;  
+Each Plan and all associated materials provided to the 
+LVPC will be made available to the Municipality or 
+Municipalities where the minor subdivision or development 
+is proposed; 
+281.43  Whenever a proposed subdivision or land development is 
+located adjacent to another municipality, one (1) 
+application and one (1) plan print all application materials 
+shall be referred to that municipality; 
+281.44  Whenever the plan requires storm drainage or other 
+improvements as specified in Section 510, one (1) plan 
+print and one (1) copy of the supplemental information 
+shall be sent to the LVPC Engineer.  
+ Any and all required outside agency approvals shall be 
+noted in the application materials, including but not limited 
+to sewer and/or water authorities, Pennsylvania 
+Department of Environmental Protection, Army Corp of 
+Engineers. Copies of outside agency application materials, 
+correspondence, permits approved or denied shall be 
+provided to the LVPC upon request. 
+281.5  Within sixty (60) days of the submission, the staff shall, in accordance 
+with the provisions of relevant ordinances, take action by approving, 
+conditionally approving, or recommending to the Lehigh Valley Planning 
+Commission that the Commission disapprove the Plan. In the instance 
+where the staff recommends disapproval of the plan, the subdivision shall 
+be placed on the agenda of the next meeting of the Lehigh Valley 
+Planning Commission. At that meeting, the Commission shall take action 
+by approving, conditionally approving, or disapproving the Plan in 
+accordance with the provisions of relevant ordinances. The staff shall 
+document the findings upon which that action is based, in writing to:  
+281.51  The applicant;  
+281.52  The applicant's engineer;  
+281.53  The Municipal Planning Commission;  
+44
+
+[page 45]
+DRAFT DATE: August 25, 2025 
+281.54  The Municipal Zoning Officer;  
+281.55  The Municipal Governing Body; 
+281.56 Adjacent communities and/or multi-municipal 
+comprehensive planning communities as necessary. 
+281.6  In no case shall the decision be communicated to the applicant in more 
+than fifteen (15) days from the date that the decision has been made.  
+281.7  The provisions of Section 270 shall be followed for the recording of the 
+approved Plans.  
+281.8  The applicant shall be provided with a form to indicate acceptance of the 
+conditions of approval, if any were imposed. The form shall be signed and 
+dated by the applicant and shall be returned to the LVPC. Unless the 
+signed, dated form is received by the LVPC within ten (10) days of the 
+date that the form was sent to the applicant, the LVPC action is to deny 
+the application for failure to comply with the ordinance requirements cited 
+in the action for conditional approval. 
+SECTION III 
+PLAN REQUIREMENTS 
+300  Feasibility Review  
+301  The feasibility review submission shall include the following maps and materials.  
+301.1  A key map, for the purpose of locating the property being subdivided, 
+drawn at a scale not smaller than one (1) inch equals two thousand 
+(2,000) feet and showing the relation of the property, differentiated by 
+tone or pattern, to adjoining property and to all streets, roads and 
+municipal boundaries existing within one (1) mile of any part of the 
+property. The key map may be based on USGS quad sheet maps.  
+301.2  A map illustrating an analysis of natural drainage patterns and water 
+resources within the proposed subdivision tract, including delineation of 
+streams, natural drainage swales, ponds and lakes, wetlands, flood plains 
+subject to a one hundred (100) year flood frequency, and permanent and 
+seasonal high water table areas. The map shall be based on USGS quad 
+sheets, County Soil Survey Maps, and the flood boundary and floodway 
+map from the Municipal Flood Insurance Study, when available.  
+301.3  A topographic map of the site based on USGS quad sheets.  
+301.4  A map delineating additional significant physical features within the 
+proposed subdivision tract, such as woodland areas, large trees, rock 
+45
+
+[page 46]
+DRAFT DATE: August 25, 2025 
+outcroppings and scenic views. The map may be based on USGS quad 
+sheets and on-site survey work.  
+301.5  Where feasible and legible, the analysis involved in Sections 301.1 
+through 301.4 may be illustrated on one or a combination of composite 
+maps. The combined impact of the natural characteristics upon the 
+development potential of the tract shall be clearly illustrated on the map or 
+maps.  
+301.6  A letter of intent and a sketch of the proposed subdivision or land 
+development tract at a scale of one (1) inch equals one hundred (100) 
+feet explaining and illustrating the developer's general development 
+concepts for the tract. The type of development, density of development, 
+form of ownership, circulation patterns, and means of providing major 
+utility service should be explained and illustrated. The sketch may be 
+based on deed and tax map information.  
+310  Preliminary Plan  
+311  The Preliminary Plan of a proposed subdivision or land development shall be 
+clearly and legibly drawn at one of the following scales:  
+311.1   One (1) inch equals one hundred (100) feet; 
+311.2   One (1) inch equals fifty (50) feet;  
+311.3   One (1) inch equals twenty (20) feet; and  
+311.4   One (1) inch equals ten (10) feet.  
+312  The original drawing and all submitted prints shall be made on sheets of one of 
+the following sets of dimensions:  
+312.1   Eighteen (18) inches by twenty-four (24) inches;  
+312.2   Twenty-four (24) inches by thirty-six (36) inches;  
+312.3  Thirty-six (36) inches by forty-eight (48) inches.  
+313  If the Preliminary Plan requires more than one sheet, a key diagram illustrating 
+relative location of the several sections shall be drawn on each sheet.  
+314  The Preliminary Plan shall indicate the following data:  
+314.1   Name and address of record owner;  
+314.2   Name of developer if different from owner;  
+314.3   Name of the proposed subdivision;  
+46

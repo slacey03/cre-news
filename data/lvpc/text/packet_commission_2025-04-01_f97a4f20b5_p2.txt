@@ -1,0 +1,788 @@
+
+
+[page 25]
+ 
+ 
+ 
+ 
+ 
+MEMORANDUM   
+DATE:   April 16, 2025 
+TO:   Lehigh Valley Transportation Study  
+FROM:   Lehigh Valley Planning Commission  
+      
+REGARDING:   Roadway Functional Classification System Update   
+   
+One of the objectives of the Lehigh Valley Planning Commission (LVPC) is to meet requirements 
+within the Unified Planning Work Program (UPWP) to update the region’s roadway functional 
+classification network, and to promote efficient transportation system management and 
+operation. Functional road classification is the process by which roads are grouped into classes 
+according to the character of service they are intended to provide and are designed to 
+categorize segments based on their functional importance within the Transportation Network. 
+Roads serve two primary functions: providing mobility for through-traffic or offering access to 
+local parcels. Mobility is typically achieved by arterial roads and the interstate/freeway system, 
+allowing higher speeds and efficient traffic flow. In contrast, local roads provide access to 
+adjacent land through lower-speed, lower-volume traffic. Between these two are collector roads, 
+which combine mobility and access, linking local roads with arterial routes. The classification is 
+based on whether a road emphasizes mobility, access, or a combination of both. There are 7 
+functional road classifications within the transportation network. These are Interstate, Other 
+Freeways and Expressways, Other Principal Arterial, Minor Arterial, Major Collector, Minor 
+Collector, and Local. The authority to establish the highway functional classification is set forth 
+in Section 105(b) of 23 CFR 470. 
+Functional classifications are used in a multitude of manners, ranging from planning to highway 
+design to funding. These classifications of roads are utilized in the prioritization and 
+programming of projects. These classifications also define road roles, design expectations 
+(speed and capacity), funding eligibility, and benchmarks for performance monitoring. Traffic 
+safety programs that identify and mitigate crashes utilize functional classifications. Lastly, 
+updating functional classification ensures that Federal funds are allocated where most needed.  
+ 
+The functional classification of roadways should be reviewed and updated as needed or at least 
+every 10 years. The update should coincide with the release of the decennial census data. The 
+U.S. Census Bureau, every 10 years, reestablishes the urban area boundary based on 
+population density. Classifications should also be updated more regularly based upon changes 
+to growth in population, employment, households, and land use. Fast growing areas, such as 
+the Lehigh Valley, could justify updating classifications every three to four years based upon its 
+historically consistent population growth rates and more recent robust growth in 
+warehousing/logistic centers.  
+Since the last review of road classification, both Lehigh and Northampton counties have 
+experienced significant growth. Between 2015 and 2024, the approved residential units and 
+non-residential square footage, have increased by 112% and 33.5% respectively, both leading 
+25
+
+[page 26]
+to higher traffic volumes. In 2015, the total Daily Vehicle Miles Traveled (DVMT) of both counties 
+was almost 13.9 million, whereas in 2023, the DVMT was almost 14.8 million. That means, the 
+DVMT has increased by almost 1 million in both counties since 2015. The opening of new traffic 
+generators in the region has further increased demand on the road network. However, only one 
+functional classification change took place in recent years. A 2.08-mile segment of the Route 
+309 corridor extending from State Route 22 to I-78 in South Whitehall Township, Lehigh County, 
+was reclassified from a Principal Arterial to Other Freeway and Expressway in 2019. More 
+recently, the functional classification of collector and arterial roads were assessed through 
+Geographic Information System (GIS) queries based on the Annual Average Daily Traffic 
+(AADT), to determine if they should be upgraded. Initial findings revealed that some roads have 
+exceeded their current AADT threshold. These recent analyses, combined with continued 
+population and economic growth, have made it imperative to update the functional classification 
+in order to effectively manage congestion, maintain system efficiency, and enhance network 
+cohesion and connectivity. 
+All public roads in Lehigh and Northampton counties must have a functional classification 
+designation. When a functional classification update occurs in an area covered by a 
+Metropolitan Planning Organization (MPO) such as Lehigh Valley Transportation Study (LVTS), 
+coordination with the PennDOT Engineering District is required. A letter of concurrence from 
+LVTS must accompany the request.  
+ 
+Functional Classification Update Methodology 
+LVPC staff have been working on collecting, analyzing, and mapping data on planning for future 
+developments, population and employment density, land uses, traffic volume, and significant 
+traffic generators to propose changes to the functional classification of road networks within 
+Lehigh Valley region. 
+The primary objective of functional classification system is to connect traffic generators 
+(population centers, colleges and universities, shopping areas, etc.) with a roadway network that 
+channelizes trips logically and efficiently. LVPC staff have followed the procedures from Section 
+4 of the Federal Highway Administration’s (FHWA), "Highway Functional Classification 
+Concepts, Criteria and Procedures 2023 edition” manual to determine the appropriate functional 
+classification to connect traffic generators.  
+The LVPC staff have identified 88 key traffic generators, categorized into business districts, air, 
+rail, bus, and truck terminals, regional shopping centers, colleges and universities, consolidated 
+schools, hospital complexes, military bases, industrial and commercial centers, stadiums, 
+fairgrounds, and parks, based on the guidance from FHWA’s manual. Additionally, LANTA’s 
+Enhanced Bus Routes and layers from FutureLV: The Regional Plan (Metropolitan 
+Transportation Plan), including centers and corridors, regional parks, preservation buffers, and 
+development zones, have been incorporated into the map to enhance the identification of traffic 
+generators. These generators are visually represented on the map using graduated symbols, 
+with varying colors corresponding to their respective categories.  
+The LVPC Data Team created an internal ArcGIS Online “Muddy Map” or overlay analysis map 
+tool used to view every dataset mentioned above that helped determine traffic generators or 
+significant locations that have the potential to generate trips in the Lehigh Valley. When every 
+26
+
+[page 27]
+GIS dataset is viewable, the darker or “muddy” locations indicate areas that have significant 
+day-to-day activity. These findings were verified by mapping the high population areas and 
+employment centers against the “muddy map”.  
+Additionally, the LVPC Data Team analyzed Average Annual Daily Traffic (AADT) data and first 
+compared the descriptive statistics (mean, median, mode) for traffic data from before and after 
+the pandemic. This analysis helped validate the decision to use 2019 data, as it avoided skewed 
+results from COVID-19-related traffic changes. A recent GIS query across all road corridors, 
+based on AADT, was then conducted to assess the need for upgrades. Some roads were found 
+to have reached the threshold for a higher functional classification. These roads, with increased 
+AADT, have been identified as candidates for functional classification changes, as their current 
+design no longer supports the existing traffic flow effectively and requires updates. 
+The team will next analyze the correlations between the traffic generators on the muddy map, 
+and the roads that have exceeded their present AADT threshold qualitatively. Lastly, the data 
+team has been working on updating the Transportation Safety Plan. Using PennDOT crash data 
+from the current updates, LVPC staff will also qualitatively verify if locations needing safety 
+improvements correlate with the roads that need functional classification updates. This would be 
+an additional benchmark of important consideration for the potential upgrading or downgrading 
+of functional classification. With this analysis, upon review of the existing Federal Functional 
+Classification of State Routes, National Highway System status, predominant travel distance, 
+and travel shed served, the LVTS will be presented with the initial list of roads that have the 
+potential to be upgraded to the next functional classification.  
+Upon LVTS approval, this document will be sent to PennDOT District 5-0, Central Office and the 
+FHWA for consideration to be upgraded or downgraded according to the initial analysis. The 
+proposed changes are not final until they are approved by PennDOT and the FHWA. 
+27
+
+[page 28]
+YEAR TO DATE (YEAR TO YEAR)
+0
+200
+400
+600
+800
+1,000
+0
+1.6 mil
+3.2 mil
+4.8 mil
+6.4 mil
+8 mil
+MarFebJan
+2025
+402,404
+285
+353,992
+215
+Residential Units Non-Residential Square Footage
+403
+707,253
+LOCATION OF DEVELOPMENT
+NON-RESIDENTIAL DEVELOPMENT
+1,463,649 Total Square Feet
+RESIDENTIAL DEVELOPMENT
+903 Total Units 
+REGIONAL TOTALS*
+*Includes preliminary and final plans
+Subdivision/Lot Line 
+Adjustments
+33
+Development
+70
+Stormwater 
+Management
+39
+Municipal Ordinances, 
+Maps and Plans
+16
+Acres
+2,755
+STORMWATER MANAGEMENT MUNICIPAL ORDINANCES, MAPS AND PLANS
+RESIDENTIAL NON-RESIDENTIAL SUBDIVISIONS AND LOT LINE ADJUSTMENTS
+PLAN ACTIVITY BY COUNTY
+14
+28
+21
+16
+12
+Acres: 2,312
+Reviews: 80
+Lehigh
+22
+21
+18 24
+5
+Acres: 443
+Reviews: 78
+Northampton
+*Warehouse is a subset of Industrial
+L V CP
+Lehigh Valley Planning Commission
+LVBUILD
+BUILD LEHIGH VALLEY
+Subdivision + Land Development Monthly Report
+Previous Reports at lvpc.org/subdivision-data
+Quarter 1 2025
+APARTMENTS
+353
+SINGLE-FAMILY 
+DETACHED
+199
+TOWNHOUSES
+279
+TWINS
+72
+CONDOS
+0
+MANUFACTURED
+HOMES
+0
+ASSISTED-
+LIVING
+0
+616,484
+WAREHOUSE*PUBLIC/
+QUASI-PUBLIC
+70,709
+COMMERCIAL
+345,173
+TRANSPORTATION
+103,785
+OFFICE
+29,674
+INDUSTRIAL
+890,369
+RECREATIONAL
+0
+RETAIL
+23,939
+AGRICULTURE
+0
+28
+
+[page 29]
+YEAR TO DATE (YEAR TO YEAR)
+0
+200
+400
+600
+800
+1,000
+0
+1.6 mil
+3.2 mil
+4.8 mil
+6.4 mil
+8 mil
+Oct
+'24
+Sept
+'24
+Aug
+'24
+Jul
+'24
+Jun
+'24
+May
+'24
+Feb
+'25
+Mar
+'24
+Mar
+'25
+Apr
+'24
+Jan
+'25
+Dec
+'24
+Nov
+'24
+402,404
+389
+556,687
+215
+Residential Units Non-Residential Square Footage
+LOCATION OF DEVELOPMENT
+NON-RESIDENTIAL DEVELOPMENT
+402,404 Total Square Feet
+RESIDENTIAL DEVELOPMENT
+215 Total Units 
+REGIONAL TOTALS*
+*Includes preliminary and final plans
+Subdivision/Lot Line 
+Adjustments
+11
+Development
+24
+Stormwater 
+Management
+11
+Municipal Ordinances, 
+Maps and Plans
+4
+Acres
+221
+STORMWATER MANAGEMENT MUNICIPAL ORDINANCES, MAPS AND PLANS
+RESIDENTIAL NON-RESIDENTIAL SUBDIVISIONS AND LOT LINE ADJUSTMENTS
+PLAN ACTIVITY BY COUNTY
+4
+6
+6
+7
+2
+Acres: 71
+Reviews: 25
+Lehigh
+7
+5
+5 6
+2
+Acres: 150
+Reviews: 25
+Northampton
+L V CP
+Lehigh Valley Planning Commission
+LVBUILD
+BUILD LEHIGH VALLEY
+Subdivision + Land Development Monthly Report
+Previous Reports at lvpc.org/subdivision-data
+March 2025
+APARTMENTS
+127
+SINGLE-FAMILY 
+DETACHED
+16
+TOWNHOUSES
+4
+TWINS
+68
+CONDOS
+0
+MANUFACTURED
+HOMES
+0
+ASSISTED-
+LIVING
+0
+*Warehouse is a subset of Industrial
+55,760
+WAREHOUSE*PUBLIC/
+QUASI-PUBLIC
+60,950
+COMMERCIAL
+187,636
+TRANSPORTATION
+0
+OFFICE
+11,434
+INDUSTRIAL
+136,245
+RECREATIONAL
+0
+RETAIL
+6,139
+AGRICULTURE
+0
+29
+
+[page 30]
+500
+11,450
+22,400
+33,350
+44,300
+55,250
+66,200
+77,150
+88,100
+99,050
+110,000
+2020 2021 2022 2023 2024 2025
+ROUTE 309 
+just south of Route 378 
+(Lehigh County)
+ROUTE 33
+between Newburg Road and State 
+Route 248 (Northampton County)
+ROUTE 22 
+between Airport Road and Lehigh 
+River Bridge (Lehigh County)
+ROUTE 22 
+east of the 33 and 22 interchange 
+(Northampton County)
+TOTAL VEHICLE TRAFFIC
+37,840
+53,28155,180
+106,143101,266
+38,273
+84,16384,92181,888 77,192 (as of 4/25/23)
+(as of 6/1/22)
+(as of 5/28/24)
+(as of 8/27/24)
+MarFebJanDecNovOctSeptAugJulJunMayAprMarFebJanDecJunMarJanDecJunMarJanDecSeptJunMarFebJanDecAugMar
+TOTAL TRUCK TRAFFIC
+0
+6,000
+12,000
+18,000
+24,000
+30,000
+2022 2023 2024 2025
+ROUTE 22 
+between Airport Road and Lehigh 
+River Bridge (Lehigh County)
+ROUTE 33
+between Newburg Road and State 
+Route 248 (Northampton County)
+ROUTE 22 
+east of the 33 and 22 interchange 
+(Northampton County)
+(as of 6/25/24)
+(as of 5/28/24)
+MarFebJanDecNovOctSeptAugJulJunMayAprMarFebJanDecJunMarJanDecJun
+12,003
+11,577
+10,629
+2,856
+2,897
+13,649
+30
+
+[page 31]
+ 
+ 
+ 
+ 
+MEMORANDUM   
+DATE:   April 7, 2025 
+TO:   Lehigh Valley Transportation Study     
+FROM:   Lehigh Valley Planning Commission 
+   
+      
+REGARDING:   1st Quarter of 2025, January to March Traffic Monitoring Report   
+    
+This report covers traffic volumes and types of commercial trucks on roadways with active 
+continuous traffic counters in operation in the Lehigh Valley during the 1st quarter of 2025 which 
+comprises the months of January, February and March.   
+  
+This data is a critical component of the Federal Highway Administration (FHWA) Highway 
+Performance Monitoring System (HPMS) activities conducted by the Lehigh Valley 
+Transportation Study (LVTS) and the Lehigh Valley Planning Commission (LVPC). Traffic data 
+provides the basis for many transportation planning and programming purposes.   
+  
+These are the continuous counters in operation and the associated data collected during the 1st 
+quarter of 2025 with associated last Tuesday of the month data and any unusual variances 
+provided.  
+  
+• Route 22 in Hanover Township between Airport Road and Fullerton Avenue 
+Exits:   
+o January 101,618 vehicles including 9,254 commercial trucks   
+o February 102,493 vehicles including 10,063 commercial trucks  
+o March 106,143 vehicles including 11,577 commercial trucks  
+  
+• Route 33 in Lower Nazareth Township between Newburg Road and Route 248 
+Exits:   
+o January 78,159 vehicles including 8,954 commercial trucks  
+o February 81,532 vehicles including 10,087 commercial trucks  
+o March 84,163 vehicles including 12,003 commercial trucks   
+ ,, 
+• Route 22 in Palmer Township between Route 33 and the 25th Street Exits.  
+o January 49,185 vehicles including 2,410 commercial trucks  
+o February 51,042 vehicles including 3,001 commercial trucks  
+o March 53,281 vehicles including 2,856 commercial trucks  
+  
+• Route 309 in Upper Saucon Township between Fairmount Street and Passer 
+Road   
+o January 36,093 vehicles  
+o February 37,064 vehicles  
+o March 38,273 vehicles  
+▪ Note: the 309-traffic counter is unable to determine types of 
+vehicles such as commercial trucks  
+31
+
+[page 32]
+  
+The 1st quarter of 2025 saw a return to normal seasonal traffic due primarily to travelling and 
+commutes associated with the reactivation of employers and students coming off holiday time 
+off. This is a normal trend associated with this time of year and is reflected through the steady 
+increase to the end of the first quarter. 
+ 
+  
+Comparison of the end of March 2024 to 2025 Traffic Volumes  
+  
+During the 1st quarter of 2025 the Lehigh Valley had 4 counters in operation whereas in the 1st 
+quarter of 2024 there were 2 active continuous traffic counters in operation collecting data.  
+ 
+The counters active during 2024 and 2025 were on US Route 22 near the Lehigh River Bridge 
+in Hanover Township and Route 309 in Upper Saucon Township. The other continuous traffic 
+counters on US Route 22 in Palmer Township and PA Route 33 were not in operation during the 
+1st quarter of 2024 due to installation or maintenance of the counters. 
+  
+• Route 22 in Hanover Township saw a slight decrease from 106,568 vehicles in 
+2024 to 106,143 vehicles recorded in 2025. Commercial trucks were at 11,101 in 
+2024 as compared to 11,557 trucks in 2025. There is a difference of 425 less 
+vehicles overall and 476 more commercial vehicles (trucks). 
+  
+• Route 309 in Upper Saucon Township reported an increase from 2024 of 
+37,518 vehicles to 38,273 in 2025. An increase of 756 overall vehicles. 
+  
+Slight variances year to year are normal, these pattern changes can be because of deviations of 
+normal commutes or congestion allowing people to navigate different routes from normal 
+commutes. The quarterly report does highlight the anticipated volumes and types of trucks are 
+consistent during this seasonal change of traffic. Another factor that may result in changes in 
+traffic volumes is land development, employment centers changing operations due to outside 
+factors such as supply chain interruptions, consumer demand and available resources. Overall, 
+the numbers are consistent with patterns we expect to see from quarter to quarter and analysis 
+of year to year.   
+  
+ 
+32
+
+[page 33]
+ 
+Talking Business with Becky Bradley: Climbing out of 
+this housing shortage 
+By Becky Bradley 
+For The Morning Call 
+April 13, 2025 at 8:31 AM 
+One of the best things about being a planner is that most days the work is incredibly 
+uplifting. Few experiences are more motivating than seeing people  coordinating and 
+collaborating to make their communities better, and I get to witness that repeatedly. 
+But then there are those times when you come across details or data that are eye-
+opening and downright frustrating. That’s when you become even more motivated 
+because the need to solve the problem, to advance our community becomes even 
+more important. That’s leadership and the expectation planners have of themselves 
+and of others. And, yes, that means you, too. 
+We had a “we can and will do hard things moment” at the Lehigh Valley Planning 
+Commission when we started looking at data from our Housing Supply and 
+Attainability Strategy dashboard. It’s a powerful online data tool that allows every 
+community to analyze its housing supply and cost situation and match it against the 
+incomes of people who live in those communities. Find it at lvpc.org/housing. 
+So, what challenges has this tool revealed? A home health aide with a median salary 
+for that occupation doesn’t make enough to afford the median rent or mortgage in any 
+Lehigh Valley municipality. Not one. That’s discouraging. Even a registered nurse, 
+with a median salary of nearly $90,000, can only afford the median rent or mortgage in 
+18 of the region’s 62 municipalities. That is stunning to me. And even the median 
+salary of a lawyer isn’t enough to afford the median cost of a mortgage in Upper 
+Saucon Township. Nearly a quarter of the homeowners and renters in Lower 
+Macungie and Bethlehem townships are cost burdened, or house poor, paying more 
+than 30% of their income towards their residence. It’s an everywhere problem, not just 
+an urban one. Full stop. 
+These are just a few data points that show us how steep this housing attainability 
+mountain will be to climb. To be sure, this is a nationwide issue. However, it’s 
+exasperated in the Lehigh Valley, for two important reasons: After the housing crash 
+of 2008, homebuilding slowed to a trickle; and even as that was happening this region 
+33
+
+[page 34]
+continued its seven-decade run of growing by more than 4,000 residents a year. A 
+decade of suppressed housing production while the population continued to grow has 
+left us with at least a 9000-unit housing shortage that’s driving up prices. Combine that 
+with four decades in which wage growth has not kept pace with steadily inclining real 
+estate prices — also a national issue — and you end up with the housing crisis we 
+have now. 
+Our analysis shows that in 1980, the median price of a Lehigh Valley home was a little 
+more than twice the median household salary. Today, it is more than four times as 
+much, and if the current trends continue, the median-priced home will cost seven 
+times the median household income of the Lehigh Valley resident. Who among us 
+would have been able to afford our first house if it was seven, or even four times our 
+annual household income? And if you can’t afford your first home, your ability to build 
+wealth is greatly limited. Attracting and retaining talent will continue to be a challenge 
+for our businesses, and school districts and other governments will see declining 
+revenues, which in turn affect maintenance and improvements to sewer, water and 
+transportation systems, among other public assets. When our kids can’t afford to live 
+here, the net result is that we jeopardize the community and economic success we 
+took decades building. 
+It’s exactly why we’re partnering with the Urban Land Institute and Lehigh County to 
+bring industries together and create the Lehigh Valley Housing and Attainability 
+Strategy. The goal is to increase housing at appropriate income levels and in locations 
+that support the needs of everyone. We’ve already collected and analyzed the data, 
+so we know where things stand and how we got here. We’ve completed initial 
+stakeholder interviews, including realtors, financiers, builders and developers, 
+designers, planners, educators and government leaders, to develop a plan we hope to 
+release this summer. It will include a healthy menu of doable recommendations 
+designed to increase supply, improve efficiency and reduce costs. Our intent is to 
+create an implementable housing business plan. 
+But I’m the first to say there is no magic wand here. Even through this busy period 
+we’ve been in the past five years, this region has been approving an average of a little 
+more than 2,000 new homes a year. Even if we’re able to boost that by, say 50%, it 
+would still take nearly a decade to erase that 9,000-unit deficit. Merely having more 
+homes, and the right type of homes in sustainable locations, built through a more 
+efficient review process, should help moderate prices, but that doesn’t even begin to 
+deal with rising materials costs or construction labor shortages. 
+Inflation has hit the development industry, too. One developer told us that with the 
+typical 2,200-square-foot single-family detached home — the kind we saw by the 
+thousands in the housing boom of two decades ago — just the “bricks and sticks” now 
+costs at least $300,000. That’s before the land is purchased, paying the cost of getting 
+through the process or making a profit. Innovative development and building 
+techniques, multi-governmental collaborative review processes and shovel-ready sites 
+all will certainly play into the solutions mix. 
+34
+
+[page 35]
+Yet, this is a complex problem with no easy fixes. 
+So, what’s the answer? We roll up our sleeves, we keep working together toward a 
+common goal, we climb this daunting housing mountain, and we make this community 
+better. There is a reason we admire mountain climbers, especially those who scale the 
+world’s highest peaks. It’s the ultimate expression of overcoming adversity, of 
+persistence, patience, strategy, resource allocation, teamwork and talent that it takes 
+to do really great things. It’s the perfect combination of American values, as well. 
+Rising to the challenge, not flitching when the answer is difficult, owning what needs to 
+be done and then doing it well, is fundamentally who we are. That’s truly uplifting. So, 
+let’s lock arms, put on our climbing cleats, grab the supplemental oxygen and get to 
+work. I hear the view from the summit is spectacular. 
+This is a contributed opinion column. Becky Bradley is executive director of the Lehigh 
+Valley Planning Commission. She can be reached at planning@lvpc.org.The views 
+expressed in this piece are those of its individual author, and should not be interpreted 
+as reflecting the views of this publication. 
+Originally Published: April 13, 2025 at 8:30 AM EDT 
+ 
+ 
+ 
+ 
+ 
+35
+
+[page 36]
+ 
+ 
+ 
+ 
+ 
+MEMORANDUM   
+DATE:   April 16, 2025 
+TO:   Lehigh Valley Transportation Study    
+FROM:   Lehigh Valley Planning Commission  
+      
+REGARDING:   Public Engagement, Education and Grants  
+   
+Public Engagement    
+ 
+The most recent Plan Lehigh Valley National Public Radio show, which aired at 6:30 pm, April 
+7 on WDIY radio 88.1 FM, detailed the effort to tackle the Lehigh Valley’s housing shortage, with 
+guest LVPC Chief Community and Regional Planner Jill Seitz. The show details the partnership 
+between the LVPC, Urban Land Institute and Lehigh County to develop the Lehigh Valley 
+Housing Supply and Attainability Strategy, and effort designed to increase housing 
+at appropriate income levels and in locations that support the needs of everyone. The show is 
+available at www.wdiy.org/show/plan-lehigh-valley and www.lvpc.org/newslv. The next Plan 
+Lehigh Valley Radio Show will air May 5, at 6:30 pm.   
+ 
+The current Business Cycle Column was scheduled to be published Sunday, April 2, and it 
+also detailed the effort to create the Lehigh Valley Housing Supply and Attainability Strategy. In 
+the column, Becky discusses the mountain we’ll need to climb to tackle this housing shortage, 
+with a particular focus on the many professions in the Lehigh Valley that don’t pay enough 
+income to afford homes in many communities. The next column in the Morning Call will be 
+published May 25. 
+ 
+ 
+Educational Opportunities    
+ 
+The following Lehigh Valley Government Academy (LVGA), Local Technical Assistance Program 
+(LTAP) Classes will be held virtually: 
+ 
+Friday, May 16 
+PennDOT Traffic Calming Guidelines Update – 11 am to Noon 
+PennDOT has recently updated Pennsylvania`s traffic calming guidelines. Formerly called PennDOT 
+Publication 383, Pennsylvania`s Traffic Calming Handbook, the updated guidelines will be in PennDOT 
+Publication 13, Contextual Design Manual, Chapter 18. This session will review the updated traffic 
+calming guidelines, how to locate the materials, and how to use them for your traffic calming program. 
+Other discussion points will include traffic calming benefits/pitfalls, changes to key guidelines, and new 
+tools for determining appropriate traffic calming measures. 
+ 
+Thursday, June 5 
+Difficult Conversations in Municipal Workplaces – 11 am to Noon 
+Effective communication is at the heart of public service, but difficult conversations, whether with 
+colleagues, leadership, or the community—are inevitable. This interactive webinar equips municipal 
+employees with tools to navigate challenging discussions with confidence, professionalism, and 
+emotional intelligence. Join us to enhance your ability to handle tough talks while maintaining trust, 
+collaboration, and a solutions-oriented mindset in your municipal workplace. 
+ 
+36
+
+[page 37]
+ 
+The following Lehigh Valley Government Academy (LVGA), Local Technical Assistance Program 
+(LTAP) Classes will be held In Person at the LVPC Conference Center, 615 Waterfront Drive, 
+Suite 201, Allentown PA 18102 
+ 
+Tuesday, May 20 
+Stops Signs and Intersection Traffic Control – 8 am to Noon 
+This course focuses on STOP signs and other controls that improve safety at unsignalized intersections. 
+Beginning with reasons for effectively implementing STOP sign placement, course content will examine 
+the components of STOP sign placement, as well as offering suggestions for accommodating uncommon 
+challenges. In addition to STOP signs, the course will present content on other safety features often used 
+at intersections along with signs such as pavement markings and rumble strips. The course will also offer 
+content on common STOP intersection problems such as unwarranted STOP signs and multi-way STOP 
+intersections. The methodology for studying an intersection to warrant STOP signs is included, along with 
+a Workshop, during which participants will be challenged with an example problem and given an 
+opportunity to work through a study to determine the best tools for intersection safety. 
+ 
+ 
+Tuesday, June 10 
+Bridge and Culvert Inspections for Municipalities – 8 am to 3 pm  
+The Federal Highway Administration requires the inspection of structures over 20 feet in length. This 
+course discusses why the requirements for inspection were established and ownership responsibilities. 
+As an introductory level course, components and terminology of smaller span structures are discussed to 
+aid in reading bridge inspection reports. Components of different bridges, including the approach 
+roadway, deck, superstructure, and substructure are discussed as well as culverts. The course discusses 
+common (and uncommon) failure mechanisms typically encountered on smaller span structures. Three 
+sample bridge inspection reports are reviewed, to familiarize municipal officials and employees with the 
+importance of understanding these reports. Individuals who are involved in the maintenance of locally 
+owned bridges (particularly spans less than 20 feet) are encouraged to attend. 
+ 
+ 
+ 
+Tuesday, July 29 
+Geosynthetics  – 8 am to Noon 
+This course identifies various types of geosynthetic materials used in road maintenance operations. 
+Attendees will gain the knowledge and understanding of the common types of geosynthetic materials as 
+well as their applications and functions. Instructors will review the cost benefits in using geosynthetics in 
+the preventive maintenance of roadway structures. Such uses of geosynthetics as subsurface drainage, 
+subgrade stabilization, soil reinforcement, erosion and sedimentation control, and paving fabric will also 
+be discussed.  
+ 
+ 
+Tuesday, August 19 
+Road Surface Management  – 8 am to Noon 
+This course provides the basics for developing a road surface management program to help local 
+governments manage their pavements. It provides an understanding of the concept and importance of 
+road surface inventories and condition surveys. The basic components of flexible and rigid pavements 
+are reviewed as well as pavement condition evaluations and how to recognize common pavement 
+distress. Repair strategies at the system and project level are also discussed. Participants will perform 
+sample pavement ratings.  
+ 
+All LVGA LTAP classes are free and are intended for municipalities, transportation non-profits 
+and organizations with a transportation purpose. LTAP Enables many practitioners who need 
+courses with professional development hours (PDHs) to earn credits for maintaining their 
+licenses and certificates. 
+  
+Anyone can register at www.gis.penndot.gov/LTAP or by contacting Hannah Milagio at 
+hmilagio@lvpc.org or 610-264-4544   
+ 
+37
+
+[page 38]
+Grant Opportunities 
+Safe Streets and Roads for All (SS4A) 
+The Streets and Roads for All program provides competitive grants to support planning, 
+infrastructure, behavioral, and operational initiatives to prevent death and serious injury on 
+roads and streets involving all roadway users, including pedestrians, bicyclists, public 
+transportation, personal conveyance, micro-mobility users, motorists, and commercial vehicle 
+operators. The program provides funding to develop the tools to help strengthen a community’s 
+approach to roadway safety and save lives and is designed to meet the needs of diverse local, 
+Tribal, and regional communities that differ dramatically in size, location, and experience 
+administering Federal funding. The maximum expected award for Planning and Demonstration 
+Grants changed from $10,000,000 to $5,000,000. The application deadline is June 26, 2025, 
+and the deadline for requesting PennDOT support is June 12, 2025. 
+https://www.transportation.gov/grants/SS4A  
+Pennsylvania Department of Community and Economic Development (DCED) Multimodal 
+Transportation Fund (MTF) 
+The Multimodal Transportation Fund provides grants to encourage economic development and 
+ensure that a safe and reliable system of transportation is available to the residents of the 
+commonwealth. Funds may be used for the development, rehabilitation and enhancement of 
+transportation assets to existing communities, streetscape, lighting, sidewalk enhancement, 
+pedestrian safety, connectivity of transportation assets and transit-oriented development. 
+Eligible entities include: Municipalities, Councils of Governments, Businesses, Economic 
+Development Organizations, Public Transportation Agencies, and Ports-Rail/Freight. Grants are 
+available for projects with a total cost of $100,000 or more.  Grants shall not exceed $3,000,000 
+for any project. Applications will be accepted until May 31st. 
+https://dced.pa.gov/programs/multimodal-transportation-fund/  
+Pennsylvania Department of Transportation Automated Red-Light Enforcement (ARLE) 
+Grant 
+The Automated Red Light Enforcement Transportation Enhancements Grant Program (ARLE 
+Funding Program) is a PennDOT-administered competitive grant program. Funding for the 
+program is generated from the net revenue of fines collected through Automated Red Light 
+Enforcement Systems and Automated Speed Enforcement Systems. PennDOT will be 
+accepting applications from June 1st through June 30th, 2025. The 2025 program will continue 
+to prioritize safety enhancements considering both PennDOT's Safety Network Screening 
+methods for the project location and Crash Modification Factors associated with proposed 
+improvements. A pre-application scoping form is required prior to submitting an application, 
+which is due on April 28th, 2025.  
+https://www.dot.state.pa.us/public/Bureaus/BOMO/Portal/TSPortal/FUNDARLE.html  
+Pennsylvania Department of Community and Economic Development (DCED) 
+Greenways, Trails, and Recreation Program (GTRP) 
+The Marcellus Shale Legacy Fund allocates funds to the Commonwealth Financing Authority for 
+planning, acquisition, development, rehabilitation and repair of greenways, recreational trails, 
+38
+
+[page 39]
+open space, parks and beautification projects using the Greenways, Trails, and Recreation 
+Program (GTRP). The funding is available for projects that involve development, rehabilitation 
+and improvements to public parks, recreation areas, greenways, trails, and river conservation. 
+Eligible entities are: Municipalities, Councils of Governments, Watershed Organization, For-
+Profit Businesses, Authorized Organization, and Institutions of Higher Education. Grants shall 
+not exceed $250,000 for any project. A 15% match of the total project cost is required. 
+Applications will be accepted until May 31st.  
+https://dced.pa.gov/programs/greenways-trails-and-recreation-program-gtrp/  
+39

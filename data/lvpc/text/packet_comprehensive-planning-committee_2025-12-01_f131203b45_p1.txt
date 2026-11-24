@@ -1,0 +1,1080 @@
+
+
+[page 1]
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+COMPREHENSIVE PLANNING COMMITTEE MEETING 
+Tuesday, December 16, 2025, 12:00 noon  
+AGENDA 
+ 
+THE MEETING CAN BE ACCESSED AT http://www.tinyurl.com/LVPC2025 OR VIA PHONE 
+610-477-5793 Conf ID: 651 626 091#.  
+ 
+Roll Call  
+ 
+Courtesy of the Floor  
+ 
+New Staff Introductions 
+1. Mary Grace Collins, Community and Regional Planner 
+2. Peter Lantz, Environmental Engineer 
+3. Giovanna Rizkallah, Artificial Intelligence (AI) Engineer and Innovation Planner 
+4. Jacob Weinberg, Community and Regional Planner 
+ 
+Committee Business  
+1. ACTION ITEM: Chair and Vice Chair Elections 
+2. INFORMATION ITEM: Data Centers Presentation 
+3. ACTION ITEM: Upper Macungie Township – Land Use of Regional Significance – 
+Cetronia Road Data Center (JS, SMyerov) 
+4. INFORMATION ITEM: South Whitehall Township – Land Use of Regional 
+Significance – Atlas Industrial (JS) 
+5. ACTION ITEM: Palmer Township – Land Use of Regional Significance – Easton Area 
+High School Athletic Complex (MGC) 
+6. ACTION ITEM: Wilson Borough – Land Use of Regional Significance – Wilson Area 
+School District Athletic Improvements (JW) 
+7. ACTION ITEM: Lynn Township – Zoning Ordinance Amendment – Miscellaneous 
+(JW) 
+8. PRESENTATION & DISCUSSION ITEM: Lehigh County Industrial Land Use Guide (EG, 
+MG, JS, MGC, JW) 
+9. INFORMATION ITEM: Draft Housing Supply and Attainability Strategy (JS) 
+ 
+Next Comprehensive Planning Committee Meeting: 
+January 20, 2026, at 12:00 noon 
+1
+
+[page 2]
+ 
+   
+ 
+ 
+ 
+ 
+December 12, 2025  
+ 
+Meredith Keller, Director of Community Development   
+Upper Macungie Township 
+8330 Schantz Road 
+Breinigsville, Pennsylvania 18031 
+ 
+Re: Cetronia Road Data Center – Land Use of Regional Significance 
+Upper Macungie Township 
+Lehigh County  
+ 
+Dear Ms. Keller: 
+ 
+The Lehigh Valley Planning Commission (LVPC) will consider the subject application at 
+its Comprehensive Planning Committee and Full Commission meetings, pursuant to the 
+requirements of the Pennsylvania Municipalities Planning Code (MPC). The virtual 
+Comprehensive Planning Committee Meeting will occur on Tuesday, December 16 
+noon and the in-person Full Commission meeting will occur on Thursday, December 18 
+at 11:00 AM. Meeting information is available at https://lvpc.org/lvpc-meetings 
+Substantial discussion on projects occurs at the Committee meeting, and any and all 
+participation is welcome. 
+ 
+Background 
+The project proposes to redevelop the site of the former Air Products corporate 
+headquarters by constructing three data center buildings totaling 2,600,100 square feet. 
+The project site is located at 7300 Cetronia Road (parcel number 546562745585).  
+Approximate 
+site location 
+2
+
+[page 3]
+   
+ 
+   
+ 
+The proposal is considered a Land Use of Regional Significance under FutureLV: The 
+Regional Plan as a Major Redevelopment. The Township’s designated zoning for the 
+site is Light Industrial District (LI), which was established to ‘meet current and 
+anticipated future regional needs for light industries, offices and limited types of related 
+commercial development… with a campus-like setting that will aid in attracting new 
+businesses’ (Township Zoning Ordinance §27-301 J.).   
+FutureLV acknowledges that the advancement of technology and increased need for 
+real-time information and data transmission makes infrastructure and connectivity 
+increasingly important (FutureLV Future Forces Section, page 42). Data centers are 
+essential to meeting modern digital connectivity needs and demands; however, 
+hyperscale facilities pose unprecedented levels of impact to communities’ utility 
+infrastructure. Thorough evaluation and coordination across stakeholders are essential 
+to ensure adequate capacity is available to meet the needs of the facility and that the 
+project supports public health, safety and welfare. The LVPC convened a coordination 
+meeting with external review agencies to discuss the project and inform this review. 
+ 
+Site Suitability and Land Use 
+The proposal is located in an area identified as suitable for Development in FutureLV: 
+The Regional Plan due to existing development and infrastructure in the area, and 
+redeveloping the site aligns with FutureLV by reusing vacant and underutilized 
+properties (of FutureLV Policy 5.4).  
+ 
+Nearby land uses include a warehousing facility to the east, shopping centers to the 
+south, and a mix of residential and commercial uses to the west and north. Data centers 
+can pose health and quality of life impacts to neighboring residents and land uses if not 
+appropriately mitigated. Potential impacts include: 
+ 
+• Substantial noise can result from cooling equipment and generator testing. Pre-
+and-post-construction professional noise studies should be conducted for both 
+perceived and low frequency noises, and the LVPC recommends limiting noise 
+generation to a maximum level of 55 decibels, measured at the project property 
+line, to support community health (of Policy 5.3). 
+• The buildings should be aesthetically designed to minimize the visual impacts of 
+the scale of buildings on neighboring properties. Mechanical yards common with 
+data center land uses are not specified on the plans. Once identified, these 
+should be fully screened or enclosed to reduce visual impacts and ‘promote 
+context-specific design solutions’ (of Policy 5.4).  
+• Nighttime lighting levels should be designed to minimize glare, prevent spillover 
+onto adjacent properties, and minimize environmental impacts of development 
+(of Policy 3.2).  
+• The applicant should also assess potential heat-exhaust impacts from 
+mechanical systems that may affect nearby development or pedestrian areas (of 
+Policy 3.2). 
+ 
+3
+
+[page 4]
+   
+ 
+   
+ 
+These community impacts must be mitigated for the project to be suitable for the proposed 
+location (of Policy 1.4). These impacts will also be discussed in greater detail in the following 
+sections of this review. 
+ 
+Emergency Services 
+Given the unique electrical, mechanical, and security characteristics of data centers, the 
+Township and applicant should coordinate early and continuously with local emergency 
+service providers to ensure adequate preparedness and response capabilities. The 
+applicant should provide fire, Emergency Medical Services, and police departments with 
+detailed information on site access, security protocols, hazardous materials storage, 
+backup power systems, and any specialized equipment such as battery energy storage 
+systems. Emergency responders should be consulted on the adequacy of access 
+points, turning radii, hydrant placement and fire-suppression systems, and should 
+receive appropriate training or orientation prior to occupancy. This coordination is 
+essential to safeguard responders, protect critical infrastructure, and ensure that the 
+facility can be safely and effectively served during both routine incidents and large-scale 
+emergencies (of Policy 5.1). 
+ 
+Environment and Utility Infrastructure 
+The submission does not provide sufficient information to evaluate the project’s full 
+electrical demand or its long-term impacts on the regional power grid. The applicant 
+should clarify the total projected electrical load at full build-out and demonstrate 
+coordination with PPL to confirm that the existing grid can reliably accommodate this 
+load without degrading service to current residential or commercial users. The applicant 
+should obtain written confirmation from PPL that identifies whether grid upgrades will be 
+required, such as substation expansion, new feeders, or transmission enhancements, 
+and how these improvements will be funded to promote fiscal health and sustainability 
+(of Policy 4.6).  
+ 
+Additional detail is needed on how the facility will align with industry energy-efficiency 
+standards, including anticipated Power Usage Effectiveness (PUE) targets, energy-
+management audits, and reporting practices. The applicant should also identify what 
+proportion of its energy use will be met through renewable sources and whether it is 
+willing to support new renewable-energy generation, rather than relying solely on 
+existing supply. Information on the developer’s interest or capacity for onsite or offsite 
+renewable-energy production, such as solar, battery storage, or power-purchase 
+agreements, is necessary to understand the project’s long-term sustainability and its 
+alignment with regional clean-energy goals (of Policy 3.4). 
+ 
+The site plans also do not identify locations where backup generators will be stored. 
+The applicant should specify the number, type, and location of all proposed generators 
+and indicate whether non-diesel or other low-emission alternatives were evaluated. 
+LVPC recommends that Tier IV backup generators be required to minimize air quality 
+impacts (of Policy 3.2). Clarification is also needed on whether each generator will be 
+fully enclosed or sound-attenuated, along with expected decibel levels during testing or 
+4
+
+[page 5]
+   
+ 
+   
+ 
+emergency operation. To ensure public health and environmental safety, the Township 
+should request detailed specifications on emissions controls and fuel storage safety 
+measures such as spill-prevention and secondary containment. Finally, the developer 
+should provide a generator-testing plan that outlines the frequency, duration, and timing 
+of tests so the Township can adequately evaluate potential noise, air-quality, and 
+neighborhood impacts (of Policies 5.2, 5.3, and 5.4). 
+ 
+The LVPC notes that the submitted plans indicate an intent to be served by public sewer and 
+water, however upon coordination with Lehigh County Authority (LCA), the authority has not 
+been approached to determine if capacity is available. 
+ 
+The application lacks essential information regarding the project’s water demands and 
+cooling system. The developer should identify the specific cooling technology proposed, 
+whether air-cooled, water-cooled, evaporative, or hybrid, as each has significantly 
+different implications for water use and infrastructure needs. The submission should 
+also clarify whether the system incorporates water-reuse or heat-recovery measures 
+that could reduce overall consumption. Given the region’s current drought conditions, it 
+is critical that the applicant model water use under drought-stage or peak-stress 
+scenarios and demonstrate long-term reliability of the proposed water supply. 
+Immediate coordination with Lehigh County Authority is recommended to evaluate 
+potential necessary infrastructure upgrades and determine opportunities to meet the 
+long-term water supply needs of the facility, including the feasibility of connecting with 
+the nearby LCA Pretreatment Facility along Route 100 just north of the project site. 
+Specifying the type of cooling technology proposed is also essential to determine 
+whether adequate infrastructure exists for wastewater discharge, including how the 
+volume of discharge will be managed, and the identification of appropriate discharge 
+locations and impacts to wells, surface waters and/or groundwater levels.  
+ 
+Information that will be needed by LCA includes, but is not limited to: 
+ 
+General: 
+• What is the estimated commissioning date? 
+• What is the estimated ramp up/buildout schedule? 
+• What is the cooling strategy / technology planned for the data center? 
+Water: 
+• What is the anticipated maximum day and average day water demand? 
+• What is the anticipated instantaneous peak water demand? 
+• What is the anticipated monthly water use profile? 
+• How much on-site water storage / fire protection systems are planned? 
+• Are there any specific water quality parameters that must be met by the water 
+utility? 
+• Is there an interest / willingness to discuss reused water as a potential source 
+for cooling systems, and under what conditions would water reuse be 
+considered a viable option? 
+Sewer: 
+5
+
+[page 6]
+   
+ 
+   
+ 
+• What is the anticipated maximum day and average day sewer discharge? 
+• What is the anticipated instantaneous peak water discharge? 
+• What is the anticipated monthly sewer discharge profile? 
+• How much on-site wastewater storage / flow equalization is planned? 
+• What are the anticipated sewage discharge quality parameters, such as BOD, 
+TSS, TDS, TKN, PFAS or other contaminants? 
+ 
+Because this project constitutes a change from the previously approved land use, that 
+will affect the Township’s Act 537 Sewage Facilities Plan, requiring coordination with 
+DEP and timely submittal of all necessary permitting materials (of Policy 3.2). 
+ 
+Landscaping is provided throughout the project site and along the property boundary. A 
+larger buffer for Building 3 could be provided by eliminating the parking area on the 
+south side of the building, which would allow for increased distance from the residential 
+property north of Cetronia Road (see image below). The LVPC recommends a 500-foot 
+buffer from residential uses, though 1,000 feet is preferred. Adequate buffers, 
+landscaping, berms, and architectural treatments are essential to ensure buildings fit in 
+with community character and disrupt the visual impact of such large building mass (of 
+Policies 3.2 and 3.4). 
+The project site is located within the Little Lehigh Creek Watershed. This watershed has 
+a fully implemented Act 167 Stormwater Management Ordinance. Comments relative to 
+our review of the project’s stormwater management plan are included as Attachment 1.  
+ 
+Transportation 
+The LVPC previously reviewed a nearly identical site plan at the proposed project site, 
+in a letter dated April 29, 2022. At the time, warehousing was the proposed land use, 
+Parking area may be 
+eliminated to 
+increase distance 
+from Cetronia Road 
+6
+
+[page 7]
+   
+ 
+   
+ 
+and the LVPC review letter cited numerous transportation-related concerns from the 
+volume of anticipated trips, including congested corridors, safety, and appropriate truck 
+routing. The now-proposed data center land use would generate far fewer daily trips 
+than other similarly sized industrial land uses. 
+ 
+From a transportation standpoint, a data center is a more appropriate use for the 
+location because it does not pose the same transportation impacts as the previously 
+proposed use. In the Cetronia Road corridor, where prior redevelopment proposals 
+have included multiple warehouses and freight-intensive uses, a lower-traffic user 
+supports the aim of FutureLV to ‘strengthen freight mobility while minimizing quality-of-
+life impacts to nearby residents’ (Policy 2.4). 
+ 
+Aspects of the site plan can be improved to better ensure adequate transportation 
+access and movement. There appears to be substantially more passenger vehicle 
+parking spaces than typically required for data center land uses. The amount of 
+provided parking should be re-evaluated and right-sized to minimize impervious 
+surfaces (of Policy 2.2). Additionally, the plan depicts paved areas that were previously 
+proposed to be used for truck parking at the time of the last review. If these parking 
+areas are no longer needed they should be removed from the plans. Once the 
+appropriate amount of passenger vehicle and commercial truck parking spaces is 
+determined, any resulting changes to the site plans should clearly separate these traffic 
+movements to minimize conflicts. Electric vehicle charging capacity should be provided 
+for both commercial and passenger vehicles (of Policy 2.5). 
+ 
+Sidewalks are proposed along all road frontages of the project site, which supports 
+pedestrian safety and reducing fatalities towards zero (of Policies 5.1 and 5.3). Hamilton 
+Boulevard is a bicycle commuting corridor with existing conventional bike lanes 
+identified in the Walk/RollLV: Active Transportation Plan. Walk/RollLV recommends 
+these bike lanes be upgraded to include a minimum five-foot wide bike lane and a two-
+foot buffer (page 81). The Hamilton Boulevard Corridor Study, completed by Upper 
+Macungie and Lower Macungie Townships in 2015, also includes concept designs for 
+this portion of Hamilton Boulevard (page 90). The LVPC encourages the Township and 
+developer to explore implementation opportunities in conjunction with the proposed 
+redevelopment. Connections to proposed employee parking lots should also be 
+provided, with bicycle racks at each building, to encourage alternative transportation 
+options and offer a seamless network for employees to safely ride to work (of Policies 
+2.2, 2.3 and 5.3).   
+ 
+The Lehigh and Northampton Transportation Authority (LANTA) currently provides 
+fixed-route transportation directly to the southern portion of the project site along the 
+Hamilton Boulevard corridor, with an existing westbound bus stop on the far side of the 
+signalized intersection of Hamilton Blvd. and the main entrance to Trexlertown Plaza 
+across the street. There are currently no sidewalks along the property frontage on 
+Hamilton Boulevard, and LANTA appreciates efforts to include a sidewalk along the full 
+property frontage, as well as an internal pedestrian network within the project site. 
+LANTA requests a five-foot concrete pad in between the proposed sidewalk and 
+7
+
+[page 8]
+   
+ 
+   
+ 
+roadway curb to provide an accessible bus stop landing pad for proper 
+boarding/alighting at the existing westbound bus stop location. 
+ 
+LANTA does not currently serve Cetronia Road, however the proposed sidewalks along 
+the full length of the northern portion of the property frontage can allow for future 
+opportunities for bus stop locations if service is feasible. A future bus stop landing pad 
+would be recommended on the far side of the Cetronia Road and Driveway A 
+intersection, connecting to the proposed internal sidewalk network of the project site. In 
+addition, to better serve the large complex, LANTA recommends a thru-street 
+connecting Hamilton Boulevard and Cetronia Road for better access to the project site, 
+as future service plans would be dependent on this connection to improve circulation. 
+ 
+The LVPC has copied representatives from adjacent municipalities and review agencies 
+to ‘coordinate land use decisions across municipal boundaries’ (of Policy 1.4). 
+ 
+Municipalities, when considering land developments, should reasonably attempt to be 
+consistent with FutureLV: The Regional Plan, as required by the Pennsylvania 
+Municipalities Planning Code (MPC) [Article 1§105, Article III§303, §304 & §306(a), 
+Article VI§603(j)]. The LVPC review does not include an in-depth examination of plans 
+relative to subdivision design standards or ordinance requirements since these items 
+are covered in the municipal review. 
+ 
+Please let me know if there are any questions about this review. 
+ 
+Sincerely, 
+  
+Jill Seitz  
+Chief Community and Regional Planner  
+  
+Susan Myerov   
+Director of Environmental Planning  
+ 
+cc: Ryan Kern, HRG Inc.,Township Engineer; Stanley L. Reggie, Air Products, Applicant; Brent Tucker, 
+The Pidcock Company, Project Engineer; Brian Carl, Weisenberg Township Manager; Mike Siegel, 
+Lowhill Township Manager; David Manhardt, South Whitehall Township Community Development 
+Director; Bruce Beitel, Lower Macungie Township Manager; Liesel Gross, Lehigh County Authority Chief 
+Executive Officer; Garrett Cook, Lehigh County Conservation District Engineer; Fadia Halma, PA DCED 
+Lehigh Valley Regional Director; Alicia Karner, PA DCED BusinessPA Lehigh Valley Regional Office 
+Director; Dean Ritter, PA DEP Assistant Regional Director; Jane George, PPL Regional Affairs Director; 
+Brian Boyer, PennDot District 5; Molly Wood, LANTA Planner/Land Use Specialist. 
+ 
+ 
+ 
+\ 
+ 
+8
+
+[page 9]
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+December XX, 2025 
+ 
+Craig Beavers, Director of Planning 
+Palmer Township 
+3 Weller Place 
+Palmer, PA 18045 
+ 
+Re: Easton Area High School Athletic Complex – Land Use of Regional 
+Significance 
+Palmer Township 
+Northampton County 
+ 
+Dear Mr. Beavers,   
+ 
+The subject application is considered a Land Use of Regional Significance, as ‘All’ 
+Education Facilities are considered land uses of regional significance in FutureLV: The 
+Regional Plan (page 147). The Lehigh Valley Planning Commission (LVPC) considered 
+the subject application at its Comprehensive Planning Committee and Full Commission 
+meetings, per requirements of the Pennsylvania Municipalities Planning Code (MPC). 
+The meeting dates are: 
+ 
+• LVPC Comprehensive Planning Committee Meeting (Virtual)  
+o December 16, 2025, at 12:00 PM 
+o https://lvpc.org/meetings.html  
+• LVPC Full Commission Meeting (In Person) 
+o December 18, 2025, at 11:00 AM  
+o 615 Waterfront Drive, Suite 201, Allentown, PA 
+ 
+The application proposes recreational and site improvements to the Easton Area High 
+School Athletic Complex located at 2601 William Penn Highway (parcel numbers L8 24 
+1 and L9 44 2).  
+ 
+The project includes the construction of two new turf baseball fields to replace existing 
+grass athletic fields. Supporting amenities such as concessions and ticketing facilities, 
+dugouts, bullpens, batting cages, grandstands, stadium lighting, and a champion wall 
+are included as part of the baseball complex. The project also includes a new field 
+house and the addition of tennis courts, replacing an existing grass field.  
+ 
+9
+
+[page 10]
+    
+   
+   
+ 
+ 
+ 
+Site Suitability and Land Use 
+The proposal aligns with multiple goals and policies of FutureLV: The Regional Plan by 
+reusing and redeveloping areas of the property that already contains the existing 
+education facility (of FutureLV Policy 1.1). The project ‘expands access to education 
+and job training’ (of FutureLV Policy 4.1) and invests in schools located along corridors 
+(of FutureLV Policy 4.3). Improving the existing facility serves to increase access to 
+recreational opportunities and ‘support cultural and social programs’ (of FutureLV Policy 
+5.2). FutureLV ‘encourages local institutions to invest in their surrounding communities’ 
+(of Policy 4.1). The LVPC encourages Easton Area High School to consider 
+opportunities for the general public to access and utilize the facility to create public 
+spaces in underserved areas (of Policies 5.2 and 5.3). 
+ 
+Transportation 
+The LVPC recommends that sidewalk networks be completed in the following areas: 
+along the William Penn Highway frontage of the project area, along the southern portion 
+of the project’s internal access driveway, and along Hartley Avenue to close the existing 
+gap near the Hartley Ave and William Penn Highway intersection. Ensuring adequate 
+and complete sidewalk infrastructure promotes ‘safe and secure community design’ and 
+‘safe routes to school’ while ‘reducing bicycle and pedestrian fatalities towards zero’ (of 
+Approximate site 
+location 
+10
+
+[page 11]
+    
+   
+   
+ 
+Policies 5.1 and 5.2). The Lehigh and Northampton Transportation Authority (LANTA) 
+provides transit service to the project site via the William Penn at Milford EB bus stop. 
+Completing this section of sidewalk ‘improves connections between mass transit and 
+pedestrian infrastructure’ (of Policy 2.3).  
+ 
+  
+Gap in sidewalk at Hartley Ave & William Penn Highway 
+The project also presents an opportunity to ‘encourage an interconnected street 
+network’ by connecting both sides of Hartley Avenue across South Greenwood Avenue 
+(of Policy 2.2). Given the proximity to the Greenwood at Hartley SB bus stop, a 
+completed street network at this location would ‘improve efficiency of existing 
+infrastructure’ and ‘enhance public transit service and pedestrian facilities’ (of Policies 
+2.2 and 2.3). Should these upgrades be pursued, the appropriate traffic control 
+measures and signage should be included, such as implementing a 4-way stop or 
+turning lanes from South Greenwood Avenue as well as school zone/speed limit signs. 
+ 
+ 
+Intersection of Hartley and S Greenwood Ave 
+ 
+11
+
+[page 12]
+    
+   
+   
+ 
+Environment 
+The LVPC encourages educational institutions to implement environmentally sensitive 
+building and landscape design, such as green roofs or solar panels. This would 
+increase the cost-effectiveness of building operation and further academic endeavors 
+related to these technologies, while enhancing the campus setting, demonstrating 
+environmental leadership within the region, and reducing environmental impacts 
+through mitigation and adaptation (of FutureLV Policy 3.4).  
+ 
+The project site is located in the Bushkill Creek watershed. This watershed has a fully 
+implemented Act 167 Stormwater Management Ordinance. Comments related to our 
+review of the project’s stormwater management plan are included as attachment 1. 
+  
+Municipalities, when considering subdivision/land developments, should reasonably 
+attempt to be consistent with FutureLV: The Regional Plan, as required by the 
+Pennsylvania Municipalities Planning Code (MPC) [Article 1§105, Article III§303, §304 
+& §306(a), Article VI§603(j)]. The LVPC review does not include an in-depth 
+examination of plans relative to subdivision design standards or ordinance requirements 
+since these items are covered in the municipal review. 
+ 
+Sincerely, 
+ 
+Mackenzie Geisner 
+GIS Planner 
+ 
+ 
+Jill Seitz 
+Chief Community and Regional Planner 
+ 
+ 
+Mary Grace Collins 
+Community and Regional Planner 
+ 
+cc: Ken Case, Easton Area School District, Applicant; Richard Roseberry, Colliers Engineering and 
+Design, Project Engineer; Daniel Wilusz, Township Engineer; Geoff Reese, PE, Master Planner and 
+Engineer, LVPC; Denjam Khadka, Senior Civil and Environmental Engineer, LVPC. 
+12
+
+[page 13]
+ 
+ 
+ 
+ 
+ 
+December XX, 2025 
+ 
+Jill Garcia, Manager 
+Wilson Borough 
+2040 Hay Terrace 
+Wilson Borough, PA 18042 
+ 
+RE: Wilson Area School District Athletic Improvements – Land Use of Regional 
+Significance 
+Wilson Borough 
+Northampton County 
+ 
+Dear Ms. Garcia: 
+ 
+The application is considered a Land Use of Regional Significance under FutureLV: The 
+Regional Plan in the Educational Facilities category. The Lehigh Valley Planning 
+Commission (LVPC) will consider the subject application at its Comprehensive Planning 
+Committee and Full Commission meetings, pursuant to the requirements of the 
+Pennsylvania Municipalities Planning Code (MPC). Discussion on agenda items 
+primarily takes place during the Committee meeting. Both meetings will be virtual and 
+held on:   
+• LVPC Comprehensive Planning Committee Meeting  
+o December 16, 2025 at 12:00 PM  
+o https://lvpc.org/lvpc-meetings  
+• LVPC Full Commission Meeting  
+o December 18, 2025 at 11:00 AM  
+o https://lvpc.org/lvpc-meetings  
+ 
+The application proposes reconstruction of a new athletic field, a 39,209-square-foot 
+auxiliary building, a 1,600-square-foot outbuilding, and a parking lot on a 9.25-acre lot. 
+The proposal is located at 2040 Washington Boulevard (parcel number L9SW4B 4 1) 
+and is currently an athletic complex for the Wilson Area School District (WASD). The 
+existing stadium and auxiliary building would be demolished, as well as an existing 
+parking lot in northeast corner of the lot which contains the site’s stormwater 
+infrastructure. The new auxiliary building will maintain the existing catwalk that spans 
+South 22nd Street, connecting the Wilson Area High School to the new facility and be 
+placed on top of the old parking lot, with a planned expansion of the existing lot in the 
+southeast corner and unimproved parking in the athletic field for additional overflow.  
+ 
+13
+
+[page 14]
+ 
+ 
+ Google Aerial Imagery 
+Site Suitability and Land Use 
+ 
+The property is within an area identified in FutureLV: The Regional Plan as a 
+Development Area. The project achieves many of the goals and policies of FutureLV: 
+The Regional Plan by ‘encouraging reuse and redevelopment in urban areas’ (of Policy 
+1.1), ‘expanding access to education and job training’ (of Policy 4.1), and ‘investing in 
+schools located along corridors (of Policy 4.3). 
+ 
+Further, the improvement of existing facilities ‘encourages local institutions to invest in 
+their surrounding communities’ (of FutureLV Policy 4.1) and ‘supports cultural and social 
+programs’ (of Policy 5.2). The LVPC suggests WASD consider opportunities for the 
+general public to access and utilize the facility to create public spaces in underserved 
+areas (of Policies 5.2 and 5.3).  
+ 
+ 
+Transportation 
+Students and staff can use a variety of transportation when traveling to and from the 
+site, including walking and biking and the Lehigh and Northampton Transportation 
+Authority (LANTA) provides transit service directly to the project site via Butler Street 
+and South 22nd Street.  
+ 
+Access to the project site will be provided by two driveways along South 22nd Street in 
+and out of the expanded parking facilities in the southeast corner, with both entrances 
+allowing access in and out of the facility. In the circumstance where additional parking is 
+needed, a gate will be installed in the southwest corner of the parking lot abutting the 
+grass lot to allow vehicles to park on the lawn. The LVPC recommends consulting with 
+14
+
+[page 15]
+ 
+ 
+local emergency services to ensure access to all parts of the site including the overflow 
+parking.  
+ 
+The project includes an additional loading zone and bus drop off area separated by a 
+tree line from South 22nd Street. The LVPC commends the proposed drop off area 
+which ‘promotes safe routes to schools and playgrounds’(of FutureLV 5.2) by separating 
+the drop off area from the roadway and insulating pedestrians from incoming traffic with 
+preserved street trees from the original site plan.  
+ 
+The project also proposes sidewalk and crosswalk improvements along South 22nd 
+Street, and the reconnection of a catwalk connecting the new auxiliary building and the 
+existing high school. The LVPC commends the proposed catwalk and pedestrian 
+improvements, helping ‘promote safe and security community designs’ (of Policy 5.1).  
+ 
+ Google Street View 
+ 
+The LVPC recommends including restamping the crosswalk on the intersection of Butler 
+Street & South 22nd Street in the project's scope. FutureLV has identified Butler Street 
+as a High-Frequent Bus Service corridor, and the stamped side serves as the main path 
+for pedestrians and exiting passengers coming off LANTA. Maintenance of this 
+crosswalk supports the FutureLV goal of 'enhanced public transit and walk/roll facilities 
+along corridors' (of Policy 2.3).  
+ 
+Environment 
+ 
+The LVPC encourages educational institutions to implement environmentally sensitive 
+building and landscape design, such as green roofs or solar panels. This would 
+increase the cost-effectiveness of building operation and further academic endeavors 
+related to these technologies, while enhancing the campus setting, demonstrating 
+environmental leadership within the region, and reducing environmental impacts 
+through mitigation and adaptation (of FutureLV Policy 3.4).    
+ 
+15
+
+[page 16]
+ 
+ 
+The project site is in the Bushkill Creek watershed. This watershed has a fully 
+implemented Act 167 Stormwater Management Ordinance. Comments related to our 
+review of the project’s stormwater management plan are included as attachment 1.  
+ 
+Municipalities, when considering subdivision/land developments, should reasonably 
+attempt to be consistent with FutureLV: The Regional Plan, as required by the 
+Pennsylvania Municipalities Planning Code (MPC) [Article 1§105, Article III§303, §304 
+& §306(a), Article VI§603(j)]. The LVPC review does not include an in-depth 
+examination of plans relative to subdivision design standards or ordinance requirements 
+since these items are covered in the municipal review. 
+ 
+Please feel free to reach out if you have any questions. 
+ 
+Sincerely, 
+ 
+               
+Jacob Weinberg 
+Community and Regional Planner
+ 
+16
+
+[page 17]
+ 
+   
+ 
+ 
+ 
+ 
+ 
+December XX, 2025 
+ 
+Mr. Marc Fisher 
+Lynn Township 
+7911 Kings Highway 
+New Tripoli, PA 18066 
+ 
+Re: Zoning Ordinance Amendment – Miscellaneous  
+ Lynn Township 
+ Lehigh County 
+ 
+Dear Mr. Fisher: 
+ 
+The Lehigh Valley Planning Commission (LVPC) will consider the subject application at 
+its Comprehensive Planning Committee and Full Commission meetings, pursuant to the 
+requirements of the Pennsylvania Municipalities Planning Code (MPC). Discussion on 
+agenda items largely happens during the Committee meeting. Both meetings will be 
+virtual, and we encourage your participation. The LVPC will issue a follow-up letter after 
+the Commission meeting if Commission members have any additional comments. 
+Meeting participation details are below:  
+ 
+• LVPC Comprehensive Planning Committee Meeting 
+o December 16, 2025 at 12:00 PM 
+o https://lvpc.org/lvpc-meetings 
+• LVPC Full Commission Meeting 
+o December 18, 2025 at 11:00 AM 
+o https://lvpc.org/lvpc-meetings 
+ 
+The proposal amends the Lynn Township Zoning Ordinance with a series of omitted 
+revisions and missing items in the original adoption of the ordinance with the intent of 
+supporting better processes, interpretation, and enforcement of the Township Zoning 
+Ordinance. The proposed amendments include the requirements for site plan review for 
+selected residential and non-residential uses, the addition of missing setbacks for some 
+specific uses, and an update to the definitions.  
+ 
+Additionally, the Township proposes strengthening its 10% limit on non-agricultural 
+development in agricultural zones by restricting how much extra acreage may be 
+17
+
+[page 18]
+    
+   
+   
+ 
+consolidated with existing lots. The LVPC commends the Township for amending the 
+ordinance as to ‘guide the location and intensity of development’ while they ‘preserve 
+the agricultural and natural lands’ (of FutureLV Policy 1.1). Additionally, the amendment 
+includes provisions requiring a copy of the recorded deed and recommends that 
+applicants seeking non-agricultural development check with appropriate agencies to 
+understand the regulations affecting their proposal which strongly supports 'coordination 
+of land use decisions across municipal boundaries' and 'provide guidance on best 
+practices' (of FutureLV Policy 1.4). 
+ 
+Additionally, the amendment proposes adding language to the General Standards (§27-
+502) to ensure that outlined standards apply to both special exceptions and conditional 
+uses. Several standards currently reference only special exceptions, and clarification is 
+needed on whether they also apply to conditional uses.  
+ 
+Municipalities, when considering ordinances and official maps, should reasonably 
+attempt to be consistent with FutureLV: The Regional Plan, as required by the 
+Pennsylvania Municipalities Planning Code (MPC) [Article 1§105, Article III§303, §304 
+& §306(a), Article VI§603(j)]. Please send a copy of any final amendments that are 
+adopted, per the requirements of the MPC.  
+  
+The LVPC has copied representatives of the Northern Lehigh Multi-Municipal 
+Comprehensive Plan to ‘coordinate land use decisions across municipal boundaries’ 
+(Policy 1.4). If you have any questions regarding the content of this letter, please do not 
+hesitate to call.  
+  
+Sincerely,  
+ 
+ 
+Jacob Weinberg       
+Community and Regional Planner    
+ 
+ 
+cc: Tammy White, Lynn Township Secretary/Treasurer: Roy Hambrecht, Slatington Borough Manager: 
+Dawn Didra, Heidelberg Township Secretary: Jill Seymour, Lowhill Township Secretary: Wade Marlatt, 
+Washington Township Manager: Brian Carl, Weisenberg Township Manager 
+18
+
+[page 19]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+1 
+ 
+ 
+ 
+Lehigh County 
+Industrial Land Use 
+Guide  
+Comment Draft 
+December 15, 2025  
+Prepared by the Lehigh Valley Planning Commission 
+19
+
+[page 20]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+2 
+ 
+Table of Contents 
+ 
+ 
+Introduction 
+• How To Use This Guide 
+• Municipal Engagement 
+ 
+Industrial Market Evolution and Development Trends 
+ 
+Tools for Local Governments 
+• Comprehensive Plans 
+• Zoning Ordinances 
+• Subdivision and Land Development Ordinances 
+ 
+Strategies for Addressing Industrial Land Uses 
+ 
+Emerging and Evolving Industrial Land Uses 
+• Digital Infrastructure and Tech Facilities 
+• Advanced Manufacturing 
+• Freight, Logistics and Supply Chain Infrastructure 
+• Energy Generation, Storage and Management 
+• Resource Extraction and Mineral Supply 
+ 
+Managing Industrial Land Use Impacts 
+• Transportation Infrastructure 
+• Utility Infrastructure 
+• Community Safety 
+• Parking 
+• Environmental Factors 
+• Unknown End Users and Shifting Users 
+ 
+Resources 
+• Questions To Ask Developers 
+• Funding Strategies 
+• Comprehensive Plan Best Practice Policies 
+• Industrial Land Use Definitions 
+20
+
+[page 21]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+3 
+ 
+Introduction 
+Industrial development and rapid technology advancements are shaping Lehigh 
+County’s land use needs, forcing communities to evolve quickly to handle the emerging 
+uses arriving at their doorstep. However, this region has a history of adapting because 
+industrial development has been a defining influence on Lehigh County’s economy and 
+landscape since the 1700s, when the earliest European settlers established water-
+powered mills for grain processing, lumber production and iron works along creeks such 
+as the Little Lehigh, Jordan, Coplay and Saucon. The opening of the Lehigh Canal in 
+1829 revolutionized the local economy by allowing goods to easily move between 
+Lehigh County and nearby regions, and local towns like Allentown grew into industrial 
+centers. 
+By the late 1800s, Lehigh County and the broader Lehigh Valley had become home to a 
+wide array of prominent industries. Iron production expanded with the advent of 
+anthracite-fired iron furnaces, including the Allentown Iron Works on the Little Lehigh 
+Creek, the Thomas Iron Works in what is now Hokendauqua, and the Coplay Furnace 
+complex, several of which still stand today as historic sites. These operations helped 
+make the region a national center for early iron manufacturing before Bethlehem Steel’s 
+rise. 
+The Valley also became one of the nation’s premier silk manufacturing hubs in the late 
+1800s, driven by mills such as the Adelaide Silk Mill in Allentown, the Hemphill and 
+Sayre silk operations in Catasauqua, and numerous smaller mills in Emmaus, 
+Slatington, and Alburtis. At the same time, the region’s cement industry began to take 
+shape through plants near Coplay and Egypt, laying the groundwork for the Lehigh 
+Valley’s emergence as the “Cement Belt of the United States.” By the late 1800s and 
+early 1900s, Bethlehem Steel anchored a regional economy built on heavy industry, 
+headquartered just across the county line in Bethlehem.  
+Industry shifted after World War II as American steel and traditional manufacturing 
+declined, but due to the key positioning of Lehigh County relative to adjacent regions, 
+the County emerged as a hub for logistics uses supporting the rise of global supply 
+chains and e-commerce. This rapid shift and expansion of large-scale warehouse 
+development created economic opportunity but also caused traffic, environmental and 
+quality-of-life challenges for municipalities. 
+Today, industry continues to rapidly evolve, as technology-based industrial uses, 
+advanced manufacturing, and alternative energy are expanding into the region, bringing 
+new demands for land, transportation and utility infrastructure. Communities must 
+prepare for a changing industrial landscape to balance community, economic and 
+environmental priorities. The Lehigh County Industrial Land Use Guide provides the 
+resource tools, data and best practices local governments need to manage current 
+impacts and proactively plan. 
+21
+
+[page 22]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+4 
+ 
+ 
+How to Use This Guide 
+The Lehigh County Industrial Land Use Guide is a practical reference for planners, 
+municipal officials and other community stakeholders to better manage industrial growth 
+and its impacts. It serves as a policy alignment and decision-support tool that helps 
+municipalities connect data, best practices and regulatory tools to make informed, 
+balanced decisions about existing and emerging industrial land uses. 
+ 
+Municipalities can use this guide to: 
+• Support Comprehensive Planning: Align local policies and future land use 
+maps with evolving land use trends, identify suitable areas for industrial activity, 
+and integrate industrial corridors into long-range economic and transportation 
+strategies. 
+• Inform Zoning and Land Development Regulations: Translate best practices 
+into zoning districts, use standards, and subdivision and land development 
+ordinance (SALDO) criteria that balance industrial needs with community 
+character and environmental protection. 
+• Strengthen Development Review: Reference the guide when evaluating 
+industrial proposals for consistency with comprehensive plans, transportation 
+access and infrastructure capacity. The guide’s recommendations can also serve 
+as technical justification in decision-making. 
+• Plan Infrastructure and Transportation Improvements: Coordinate industrial 
+land use planning with roadway, freight, rail and utility networks; prioritize capital 
+projects that make appropriate sites development-ready. 
+• Promote Regional Coordination: Use the guide to collaborate with neighboring 
+municipalities on shared issues like truck routing, stormwater or infrastructure 
+extensions that cross boundaries. 
+• Engage the Public: Reference the guide to communicate how industrial uses 
+are evaluated, what impacts are being mitigated, and how local and regional 
+plans align. 
+22
+
+[page 23]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+5 
+ 
+Industrial development continues to fuel Lehigh County’s economic and population 
+growth. By using this guide, communities can manage that growth thoughtfully while 
+supporting jobs and tax revenue, maintaining infrastructure efficiency, protecting 
+environmental and community assets, and positioning themselves for future funding and 
+investment opportunities. 
+23
+
+[page 24]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+6 
+ 
+Municipal Engagement 
+On October 15 from 5:30-7 pm, representatives of Lehigh County communities gathered 
+at the LVPC Conference Center to workshop the Lehigh County Industrial Land Use 
+Guide and discuss common challenges and opportunities. The workshop included a 
+presentation by LVPC on project scope and initial data findings, a facilitated discussion 
+on local industrial land use and freight concerns, priorities for planning for industrial 
+growth, areas of traffic impacts and tools that municipalities have available to address 
+impacts.  
+ 
+The outcome of this engagement directly informed the development of the Guide. Key 
+takeaways from participants included: 
+ 
+1. Managing Traffic and Transportation Impacts Is a Universal Priority 
+Communities cited freight traffic, congestion, truck routing and access 
+management as their top concerns, and emphasized that freight traffic often 
+spills onto local roads when major corridors like Route 22 or I interstate 78 (I-78) 
+back up, creating safety and quality-of-life challenges in boroughs and townships 
+where roads were not designed for heavy truck volumes. 
+ 
+Participants expressed interest in stronger coordination on Highway Occupancy 
+Permits (HOPs), improved truck management tools, and better access to AADT 
+data, turning volumes and freight routing patterns to make informed decisions. 
+ 
+2. Infrastructure Capacity, Especially Energy, is Emerging as a Critical 
+Limiting Factor 
+Participants commented on the growing need for electric capacity to support data 
+centers, cold storage and advanced manufacturing. Several communities 
+questioned whether local grids have the infrastructure to handle large-scale 
+users without compromising service to existing residents and businesses. 
+ 
+3. Communities Need Guidance on Emerging Industrial Uses 
+Municipalities reported a high level of uncertainty about the unique impacts of 
+data centers and other new industrial uses. Key themes included: 
+• Understanding noise, cooling systems, backup power generation 
+and utility intensity. 
+• Clarifying decommissioning expectations and life-cycle impacts. 
+• Ensuring local zoning standards are consistent with state legislation.  
+ 
+Several communities are researching emerging uses or revising ordinances, but 
+they also expressed the need for consistent regional data and best practices to 
+support their efforts. 
+ 
+4. Brownfield Reuse and “Best Use of Existing Space” Remain Strong 
+Values 
+Many municipalities voiced a desire to direct industrial growth to brownfields, 
+existing industrial districts and redevelopment areas rather than greenfields. 
+24
+
+[page 25]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+7 
+ 
+ 
+Townships and boroughs emphasized: 
+• Leverage existing regional assets such as the Lehigh Valley International 
+Airport and FedEx Ground logistics hub. 
+• Aligning industrial development with long-term community visions, 
+including housing and commercial growth priorities. 
+ 
+5. Land Use Conflicts Are Becoming More Nuanced 
+Local leaders expressed concern that new industrial users -- especially large 
+energy-intensive ones -- could crowd out desired residential or commercial 
+development by consuming disproportionate shares of available infrastructure 
+capacity or land supply. 
+Municipalities are navigating how to balance: 
+• The need for economic growth 
+• Maintaining community character 
+• And avoiding over-concentration of industrial uses in certain areas 
+ 
+6. Communities Need Practical Tools, Examples and Clear Data 
+Across municipalities the most requested supports from LVPC included: 
+• Case studies that illustrate impacts, such as utility consumption, traffic 
+generation and project timelines 
+• Regional studies, guidance documents and examples from peer 
+communities 
+• Support in developing or updating comprehensive plans, zoning, and 
+Subdivision and Land Development Ordinances (SALDOs) 
+• Technical assistance in capital improvement planning 
+• Assistance in funding frequent ordinance updates, and planning and code 
+modernization 
+ 
+7. Urban Communities Have Distinct Concerns 
+City of Allentown representatives highlighted challenges around adapting pre-war 
+industrial buildings for modern manufacturing and freight demands. Questions 
+included how to incorporate modern loading, circulation and safety requirements 
+into dense, historic settings. 
+ 
+The workshop made clear that industrial land use in Lehigh County is evolving rapidly, 
+and municipalities are eager for coordinated regional guidance. Participants are facing a 
+mix of long-standing issues -- like freight traffic and redevelopment -- as well as new, 
+complex challenges around utility capacity, digital infrastructure and emerging industrial 
+uses. 
+ 
+The feedback from this engagement directly shaped the structure of the Guide, ensuring 
+it addresses the real-world issues communities are facing and provides the tools, 
+insights, and resources needed to support informed, proactive planning for Lehigh 
+County’s industrial future. 
+25
+
+[page 26]
+Lehigh County Industrial Land Use Guide 
+Comment Draft  
+  
+ 
+8 
+ 
+Industrial Market Evolution and 
+Development Trends  
+Once known for its steel manufacturing and heavy industries like slate and cement, the 
+Lehigh Valley has evolved into an e-commerce and logistics hub for the Northeastern 
+United States. Situated along the I-78 and Interstate 80 (I-80) corridors, the Valley is 
+within a day's drive of roughly one-third of the nation’s population. This geographic 
+advantage has made Lehigh County a competitive location for distribution and 
+warehousing, supporting sustained growth in the industrial real estate market. 
+Warehousing and Logistics  
+The surge in online shopping during and after the COVID-19 Pandemic accelerated 
+demand for large distribution facilities across the Lehigh Valley. Nearly every available 
+building was quickly leased, and vacancy rates fell to around 3% in 2022 -- an 
+extremely low level for the market. With space scarce, rental prices more than doubled 
+in just a few years, climbing from about $5 per square foot in 2021 to over $11 per 
+square foot by the end of 2024. 
+ 
+As of mid-2025, the market has begun to stabilize. Vacancy rates have risen to about 
+7%, and lease rates have leveled off, signaling a transition from rapid expansion to a 
+more sustainable balance of supply and demand. This shift reflects a healthy market 
+adjustment rather than a broader decline. 
+ 
+The logistics sector is also diversifying. Subleasing activity has increased as companies 
+reassess space commitments made during the pandemic, creating new opportunities for 
+smaller businesses. Flex space, which can accommodate light manufacturing, 
+assembly, storage, and administrative functions, is becoming more common. 
+Manufacturing  
+Manufacturing in Lehigh County is becoming increasingly high-tech, driven by 
+automation, robotics and digital systems that reduce labor needs but heighten demands 
+for skilled technicians, reliable power and broadband. These technological 
+advancements require less space to operate, leading to a shift toward smaller facilities, 
+typically between 20,000 and 50,000 square feet. Emerging manufacturers are 
+producing electronics and medical devices, while reshoring trends are returning 
+production of semiconductors, pharmaceuticals and other goods to the United States to 
+shorten supply chains. 
+ 
+Together, warehousing and manufacturing trends illustrate a regional industrial market 
+that remains active but is beginning to stabilize after a period of rapid growth. 
+ 
+Industrial Market Conditions 
+Following years of record expansion, the Lehigh Valley’s industrial market is entering a 
+period of stabilization as demand begins to balance with available supply. Net 
+26

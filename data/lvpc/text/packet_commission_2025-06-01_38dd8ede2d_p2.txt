@@ -1,0 +1,600 @@
+
+
+[page 25]
+venues (e.g. Coca-Cola Park), tourism/entertainment/event venues (e.g. Dorney Park, 
+ArtsQuest), hotel and lodging facilities, educational institutions, medical facilities, grocery stores, 
+retail shopping locations, dense residential neighborhoods (i.e. residential areas without private 
+driveways), publicly accessible workplace charging, municipal buildings, community centers, 
+libraries, and an Other option for individuals to provide a use-case that we have not included. 
+The final EV related question asked was for respondent zip code. 
+Public Community Use Case Workshops
+The LVPC held two EV infrastructure workshops. The first workshop, Community Electric 
+Vehicle Charging Network Planning, was a publicly-advertised and accessible in-person 
+meeting at Lehigh Valley Planning Commission’s conference center on May 22nd, 2025. Twenty 
+people participated in the workshop and were divided amongst five tables, made-up of different 
+stakeholders from throughout the Lehigh Valley including local environmental advisory 
+committees members, utilities, local governments, trade unions, and interested community 
+members. 
+The first workshop was divided into three segments, Part one was a presentation on the 
+background, benefits, and concerns of the EV infrastructure program, as well as, EV 
+implementation as a whole. 
+Part two was an interactive activity where LVPC staff asked each workshop participant what 
+they believe their role is as an individual in the implementation of EVs in the Lehigh Valley is?  
+And, what the organization they were representing’s role in EV implementation may be? Once 
+LVPC understood the participant’s thoughts and backgrounds, participant groups discussed at 
+each table which community use cases they felt were most important in the list we provided 
+through the survey.
+The third part of the workshop consisted of a short reflection from each table about which use-
+cases they felt were the most viable/important. 
+The LVPC staff then gave a short update about what the next steps of the EV infrastructure 
+program process are and how information the stakeholders contributed during the workshop 
+and survey is intended to be used.
+The second workshop was held during a Lehigh Valley Planning Commission Transportation 
+Committee monthly meeting on May 22nd, 2025. The workshop was run in the same way as the 
+first but on a virtual platform. LVPC staff discussed how EV infrastructure can help drive the 
+economy, how charging solutions can serve community needs, and the benefits and concerns 
+participants had.
+Developing materials for the Community Charging Program
+Utilizing the answers from our community stakeholders and quantitative analysis LVPC can 
+determine which locations should be prioritized for EV infrastructure upgrades. The prioritization 
+of the use-cases was created based on the responses we received in the survey, as well as, the 
+discussion from the two workshops. Using that data and local planning knowledge, LVPC was 
+able to determine priorities. Priority communities could be considered downtown neighborhoods 
+of cities, central districts of boroughs, or business districts in suburban townships. The locations 
+were determined based on the results from the workshop and alignment with FutureLV: The 
+Regional Plan.
+25
+
+[page 26]
+A priority scale for the communities was established based on the regional traffic generator 
+map. Priority Level 1 was assigned to the central business districts (downtowns) of the region’s 
+three core cities, as these areas represent the highest concentration of activity. Priority Level 2 
+was designated for major regional destinations and transportation hubs—such as the Lehigh 
+Valley International Airport and the Lehigh Valley Mall—that generate significant traffic volumes. 
+Priority Level 3 was applied to suburban town centers and densely developed urban 
+neighborhoods located near major interchanges, interstates, or primary transportation corridors. 
+Finally, Priority Level 4 was assigned to less densely developed town centers and small 
+borough centers with lower traffic generation potential.
+Community Use Cases & Priority Locations:
+26
+
+[page 27]
+Community Benefits of EV Charging
+Increased Charging Opportunities - 
+Expanding access to EV charging infrastructure enhances the ability of residents to adopt and 
+use electric vehicles. This effort is particularly vital in addressing current gaps in charging 
+availability, especially within high-density urban areas and underinvested communities. By 
+improving the accessibility of charging stations, communities are better positioned to support the 
+growing demand for EV usage.
+Enhanced Convenience and Cost Savings - 
+Strategically located and user-friendly EV charging stations offer greater convenience for both 
+local daily commutes and long-distance travel. Reliable and well-maintained facilities improve 
+the overall user experience and reduce operational burdens. Increased access to public 
+charging also lowers the cost of EV ownership by reducing dependence on high-cost or less 
+efficient alternatives.
+ID Community Charging Use Case Priority Scale
+LVPC - U0001 Gas Stations 1
+LVPC - U0002 Retail Shopping Locations (Grocery Stores) 1
+LVPC - U0003 Public Parking Lots/Decks 1
+LVPC - U0004 Public Transportation/Transit Hubs 2
+LVPC - U0005 Parks & Recreation Areas 3
+LVPC - U0006 On-Street Charging 4
+LVPC - U0007 Tourism/Entertainment/Event Venues/Sports Venues 5
+LVPC - U0008 Community Centers 6
+LVPC - U0009 Medical Facilities 7
+LVPC - U0010 Hotel and Lodging Facilities 8
+LVPC - U0011 Publicly Accessible Workplace Charging 9
+LVPC - U0012 Public Buildings 10
+LVPC - U0013 Educational Facilities 11
+LVPC - U0014 Libraries 12
+LVPC - U0015 Car Dealerships 13
+LVPC - U0016 Gyms 13
+LVPC - U0017 Fleet Locations 13
+ID Community Locations Priority scale considering traffic generators
+LVPC - C0001 Downtown Bethlehem 1
+LVPC - C0002 Downtown Easton 1
+LVPC - C0003 Downtown Allentown 1
+LVPC - C0004 Whitehall Township (LV Mall) 2
+LVPC - C0005 Lehigh Valley International Airport 2
+LVPC - C0006 Upper Macungie 3
+LVPC - C0007 Lower Macungie 3
+LVPC - C0008 Near major routes – 22, 222, 33, 412, 309, 512, 476 3
+LVPC - C0009 South Whitehall Township 3
+LVPC - C0010 Upper Saucon Township (Promenade Shops) 3
+LVPC - C0011 Emmaus - Main Street 4
+LVPC - C0012 West End, Allentown 4
+LVPC - C0013 Southside Allentown 4
+LVPC - C0014 Allentown - East of Route 145 4
+LVPC - C0015 Hanover Townships 4
+LVPC - C0016 Walnutport 4
+LVPC - C0017 Nazareth 4
+LVPC - C0018 Bethlehem Township (Park and Ride off of Route 33) 4
+LVPC - C0019 South Mall 4
+LVPC - C0020 I-78/Golden Key interchange 4
+27
+
+[page 28]
+Improved Air Quality and Public Health - 
+The transition to electric vehicles, supported by accessible charging infrastructure, significantly 
+reduces tailpipe emissions that contribute to air pollution. These environmental benefits also 
+translate into improvements into public health, particularly in urban areas with high traffic 
+volumes. Furthermore, investment in EV infrastructure can stimulate local economies through 
+job creation and related business growth.
+Economic Development and Economic Impact - 
+Robust EV infrastructure development provides economic benefits to all sectors of the 
+community. By addressing the needs of multi-unit housing, low-income neighborhoods, and 
+underserved populations, the initiative ensures greater and consistent access to clean 
+transportation options. In addition, EV infrastructure supports broader economic development by 
+connecting residents to employment centers and attracting investment.
+Energy Diversification and Sustainability - 
+A more resilient transportation network is achieved by diversifying energy sources and reducing 
+dependence on fossil fuels. Investing in EV infrastructure lays the foundation for a sustainable 
+future and better prepares communities for evolving transportation and energy demands. These 
+investments also align with long-term environmental and hazard mitigation goals, and energy 
+independence strategies.
+Economic Impact Highlights -
+• Serves a wide range of users, including individuals and businesses;
+• Enhances connectivity to employment hubs;
+• Stimulates job creation in installation, maintenance, and support services.
+Expanded Access and Regionwide Consistent, Quality Access - 
+• Fills critical infrastructure gaps, ensuring broad geographic coverage;
+• Promotes inclusive access in rural, urban, and underserved communities.
+Scalability and Investment Potential - 
+• Encourages cost-effective expansion through public-private partnerships;
+• Builds a scalable foundation for future EV growth.
+Key Considerations and Challenges in the Transition to Electric Vehicle 
+Transportation
+As we advance toward a more sustainable transportation future through electric vehicles (EVs),
+it is critical to acknowledge and address several challenges that have surfaced at both local and
+national levels. These concerns impact consistency, quality access, infrastructure reliability, and
+long-term scalability of EV adoption.
+Cost of Charging -
+While electric vehicles are often promoted for their long-term cost savings, disparities in
+charging costs are emerging as a significant barrier to community-wide adoption. Home
+28
+
+[page 29]
+charging remains the most affordable and convenient option for most EV owners, particularly
+when using lower-cost overnight electricity rates. However, this presumes that all individuals
+have access to private garages or driveways with installed chargers. Many urban and lower-
+income residents live in apartments or homes without this capability, forcing reliance on more
+expensive public charging stations. Pricing structures at public chargers vary widely—some
+charge per kilowatt-hour, others per minute—and lack the standardized pricing transparency
+consumers expect from traditional fuel stations. These inconsistencies create confusion and
+potential financial burdens, disproportionately affecting those already facing housing or
+transportation insecurity.
+Understanding Classes of Chargers -
+Electric vehicle charging stations come in three classes—Level 1, Level 2, and DC Fast
+Charging (Level 3)—each offering different charging speeds, costs, and practical use cases.
+Level 1 chargers, which plug into standard outlets, are the slowest, providing only 3.5 to 6.5
+miles of range per hour. Level 1 chargers are generally impractical for daily driving needs or
+cold-weather use. Level 2 chargers offer moderate speeds (14–25 miles per hour) and are
+common for home installations or workplace charging, but setup costs, particularly for upgraded
+electrical panels, can be substantial. DC Fast Chargers provide rapid charging of over 200 miles
+per hour but come with high usage fees, limited availability, and can reduce vehicle battery
+lifespan with frequent use. Furthermore, not all EVs are compatible with DC fast chargers,
+creating limitations in accessibility and usability depending on the vehicle make and model.
+Charging Station Access and Parking Dynamics -
+Access to EV chargers is not only about the number of stations but also how and when they can
+be used. A growing concern is that gasoline or diesel vehicles often occupy EV-designated
+parking spaces, either inadvertently or due to limited enforcement. Additionally, some EV
+owners leave their vehicles plugged in long after charging is complete, blocking access for
+others. These behaviors reduce station availability and efficiency. For drivers with disabilities,
+charging stations often lack accessible design or clear pathways, compounding mobility
+challenges. As EV adoption scales up, communities are also faced with reallocating valuable
+curbside or lot parking space to accommodate chargers. This can lead to conflicts with other
+land use priorities, particularly in densely developed settings where space is already at a
+premium.
+Land Uses & Energy Demand -
+As cities and regions plan for EV expansion, they must also contend with other high-demand
+users of energy and land. Industrial facilities, data centers, and large commercial HVAC
+systems all require significant electrical loads and physical infrastructure. These uses can
+compete with EV charging stations for grid capacity and physical space, especially in
+communities developed long ago and in urban environments where infrastructure is already
+strained. Without proper coordination, this competition could result in grid instability, delayed
+infrastructure projects, or lost opportunities to improve public access to charging. In addition,
+rural areas can lack system capacity to support the broader deployment of EVs and consumers
+are more likely to have higher charger installation costs in these areas.  Planning agencies must
+balance the growing demand for energy across sectors while modernizing systems to support
+diverse land uses equitably.
+Electricity Generation and Distribution -
+29
+
+[page 30]
+The transition to EVs increases overall electricity demand and places added strain on
+generation and distribution systems. Utilities must prepare for higher peak loads, particularly
+during evening hours when many EVs are charged. This can lead to transformer overloads,
+voltage drops, and potential outages if the system is not adequately upgraded. Rural and
+remote areas are especially vulnerable, often lacking the infrastructure needed to support high-
+capacity chargers. Moreover, to align EV expansion with broader environmental and hazard
+mitigation goals, utility providers must increase the energy generation distributed to the power
+grid, energy generation, diversification, and security improvements, as well as involve long-term
+investment, regulatory coordination, and public buy-in. Strengthening grid resilience and
+diversifying generation sources will be critical to supporting clean transportation at scale.
+Network Reliability -
+Reliability remains a significant concern among current and prospective EV drivers. Too often,
+public charging stations are found to be out of order, poorly maintained, or lacking essential
+features such as lighting, signage, or customer support. This creates frustration and anxiety
+among users, especially during longer trips or in less populated areas where alternate charging
+options are limited. Reliability issues can undermine public confidence in the EV system and
+slow adoption, particularly among first-time users. For infrastructure to be effective, it must be
+consistently operational, user-friendly, and properly maintained through coordinated oversight
+by public agencies and private operators alike.
+Infrastructure Lag and Charging Deserts -
+The pace of EV adoption often outstrips the development of supporting infrastructure. This
+results in "charging deserts" where access to EV stations is extremely limited or nonexistent,
+particularly in rural communities, small towns, and lower-income urban neighborhoods. This
+disparity mirrors other historical patterns of underinvestment in transportation infrastructure and
+risks furthering inconsistent access during the EV transition. Expanding infrastructure
+consistently requires forward-looking planning, targeted investment, and a willingness to work
+with community stakeholders to address localized barriers. Strategic deployment of chargers,
+especially in underserved areas—is essential to ensure that everyone can participate in and
+benefit from the EV transition.
+Next Steps 
+As the LVPC continues to do important work in the Lehigh Valley continuation of information
+gathering, sharing and advocacy for innovations and the implementation of EV technologies and
+infrastructure is essential. EV’s are everywhere now and more are expected.  Preparing for and
+supporting a diversified vehicle charging future will continue to grow in need.
+While the promise of electric vehicles is significant, particularly for reducing emissions and
+improving public health and increasing energy independence, it comes with a complex set of
+infrastructure challenges.  Consistent deployment of EV charging is also extremely complex and
+an elevated challenge for the Lehigh Valley.  Policymakers, planners, utilities, and private sector
+partners must collaborate to ensure that the EV transition is not only safe and sustainable but,
+inclusive and resilient. Addressing cost disparities, improving charger reliability, expanding grid
+capacity, and ensuring fair access to infrastructure will be vital steps toward achieving a cleaner,
+safe and whole-community supportive transportation future.
+30
+
+[page 31]
+ID Community Charging Use Case Priority Scale 
+LVPC - U0001 Gas Stations 1
+LVPC - U0002 Retail Shopping Locations (Grocery Stores) 1
+LVPC - U0003 Public Parking Lots/Decks 1
+LVPC - U0004 Public Transportation/Transit Hubs 2
+LVPC - U0005 Parks & Recreation Areas 3
+LVPC - U0006 On-Street Charging 4
+LVPC - U0007 Tourism/Entertainment/Event Venues/Sports Venues 5
+LVPC - U0008 Community Centers 6
+LVPC - U0009 Medical Facilities 7
+LVPC - U0010 Hotel and Lodging Facilities 8
+LVPC - U0011 Publicly Accessible Workplace Charging 9
+LVPC - U0012 Public Buildings 10
+LVPC - U0013 Educational Facilities 11
+LVPC - U0014 Libraries 12
+LVPC - U0015 Car Dealerships 13
+LVPC - U0016 Gyms 13
+LVPC - U0017 Fleet Locations 13
+ID Community Locations Priority scale considering traffic generators
+LVPC - C0001 Downtown Bethlehem 1
+LVPC - C0002 Downtown Easton 1
+LVPC - C0003 Downtown Allentown 1
+LVPC - C0004 Whitehall Township (LV Mall) 2
+LVPC - C0005 Lehigh Valley International Airport 2
+LVPC - C0006 Upper Macungie 3
+LVPC - C0007 Lower Macungie 3
+LVPC - C0008 Near major routes – 22, 222, 33, 412, 309, 512, 476 3
+LVPC - C0009 South Whitehall Township 3
+LVPC - C0010 Upper Saucon Township (Promenade Shops) 3
+LVPC - C0011 Emmaus - Main Street 4
+LVPC - C0012 West End, Allentown 4
+LVPC - C0013 Southside Allentown 4
+LVPC - C0014 Allentown - East of Route 145 4
+LVPC - C0015 Hanover Townships 4
+LVPC - C0016 Walnutport 4
+LVPC - C0017 Nazareth 4
+LVPC - C0018 Bethlehem Township (Park and Ride off of Route 33) 4
+LVPC - C0019 South Mall 4
+LVPC - C0020 I-78/Golden Key interchange 4
+31
+
+[page 32]
+YEAR TO DATE (YEAR TO YEAR)
+0
+200
+400
+600
+800
+1,000
+0
+1.6 mil
+3.2 mil
+4.8 mil
+6.4 mil
+8 mil
+Oct
+'24
+Sept
+'24
+Aug
+'24
+Jul
+'24
+Jun
+'24
+May
+'24
+May
+'25
+Feb
+'25
+Mar
+'25
+Apr
+'25
+Jan
+'25
+Dec
+'24
+Nov
+'24
+936,592
+733
+3,665,254 482
+Residential Units Non-Residential Square Footage
+LOCATION OF DEVELOPMENT
+NON-RESIDENTIAL DEVELOPMENT
+936,592 Total Square Feet
+RESIDENTIAL DEVELOPMENT
+482 Total Units 
+REGIONAL TOTALS*
+*Includes preliminary and final plans
+Subdivision/Lot Line 
+Adjustments
+17
+Development
+33
+Stormwater 
+Management
+16
+Municipal Ordinances, 
+Maps and Plans
+3
+Acres
+452
+STORMWATER MANAGEMENT MUNICIPAL ORDINANCES, MAPS AND PLANS
+RESIDENTIAL NON-RESIDENTIAL SUBDIVISIONS AND LOT LINE ADJUSTMENTS
+PLAN ACTIVITY BY COUNTY
+4
+9
+8
+15
+1
+Acres: 281
+Reviews: 37
+Lehigh
+7
+7
+2
+9
+7
+Acres: 171
+Reviews: 32
+Northampton
+L V CP
+Lehigh Valley Planning Commission
+LVBUILD
+BUILD LEHIGH VALLEY
+Subdivision + Land Development Monthly Report
+Previous Reports at lvpc.org/subdivision-data
+May 2025
+APARTMENTS
+466
+SINGLE-FAMILY 
+DETACHED
+7
+TOWNHOUSES
+0
+TWINS
+6
+CONDOS
+3
+MANUFACTURED
+HOMES
+0
+ASSISTED-
+LIVING
+0
+*Warehouse is a subset of Industrial
+359,895
+WAREHOUSE*PUBLIC/
+QUASI-PUBLIC
+223,586
+COMMERCIAL
+164,083
+TRANSPORTATION
+92,119
+OFFICE
+21,351
+INDUSTRIAL
+367,252
+RECREATIONAL
+0
+RETAIL
+68,201
+AGRICULTURE
+0
+32
+
+[page 33]
+Talking Business with Becky Bradley: How AI will 
+make our roads safer 
+By Becky Bradley 
+For The Morning Call 
+May 25, 2025 at 8:30 AM 
+Artificial Intelligence is one of those provocative terms that often brings uncertainty, confusion 
+and fear. For some, it brings visions of the “The Terminator” movie where machines became 
+self-aware and begin annihilating humans. But that’s science fiction. 
+How many of us hop in our cars and check Google or Apple Maps to see how long it is going to 
+take to get to work in the morning or home at the end of the day? AI is a key component of 
+those mapping tools. I don’t know about you, but I rely on them to help me best manage my 
+time. No cybernetic assassin involved. 
+At the Lehigh Valley Planning Commission, we are already using AI to model a safer and more 
+efficient transportation network. As we wade into several transportation projects, AI is already 
+proving to be a credible efficiency-building tool that enables us to do the kind of in-depth 
+33
+
+[page 34]
+analysis that would have taken years before. Transportation safety is an urgent issue and 
+elevating our focus is critical. We simply cannot wait to better invest in roadway safety or 
+congestion management while 7,000 more people move here this year, and in 2026 and 2027, 
+and so on. 
+As a metropolitan planning organization, we plan for the investment of billions of dollars in the 
+transportation system over the next 25 years. Working to decrease the alarming average of 45 
+people who die each year on Lehigh Valley roads is key. In a growing region where 
+transportation needs always outpace federal and state funding, AI is going to help us direct 
+money where it can do the most good, faster and more efficiently. Time and costs are reduced 
+utilizing AI models that we have built and are training now. Most importantly, this will support 
+better transportation system management that can save lives. 
+I understand why so many are apprehensive about AI. In some industries, it has the potential to 
+replace human tasks, causing job loss. In others, there are concerns that AI’s ability to learn will 
+cause it to begin making decisions without human supervision. Skynet run amok. (You non-
+Terminator fans will have Google that one). And if you noodle with ChatGPT, Microsoft Copilot 
+or any of the other globally known AI systems, you will see nonsensical gibberish we know isn’t 
+right. However, like anything else, it needs the right input, refinement and management to be 
+and remain useful. A diesel engine isn’t going to run well if you feed it gasoline. Same applies to 
+any AI model. 
+The way we’re using AI at the LVPC has no such worries because all of our models are tested 
+against rigorous performance metrics that cut the margin of error. We’re fortunate to have 
+Subham Kharel as our first-ever senior data and analytics lanner. Kharel is an expert in applying 
+machine learning and AI to labor market outcomes and transportation systems. He is supported 
+by Mackenzie Geisner, geographic information systems planner, and Minsoo Park, economist. 
+Together, they make up the Data and Information department of the LVPC. It’s of note that Park 
+also supports the Workforce Board Lehigh Valley. This interagency, regional coordination only 
+helps to support and advance the effectiveness of our region. AI, as a tool, will level up our 
+collective response to the region’s needs. 
+This year, we’ll begin a new Transportation Safety Plan and reclassify roads where traffic has 
+increased — all while beginning to update the $633 million Transportation Improvement 
+Program and the $4.4 billion Long-Range Transportation Plan. 
+AI analysis will help us choose projects for funding as well as determine what safety 
+improvements should be made. The Transportation Safety Plan is a perfect example of how AI 
+will be used. In that plan, we assess the safety at the region’s most troublesome corridors and 
+intersections and draft a plan for improvement. The recommendations have always been based 
+heavily on traffic and crash data. Lots of spreadsheets and GIS maps. However, AI takes all of 
+that to the next level. 
+The LVPC Data and Information Team is able to use AI to analyze tens of thousands of incident 
+reports that include not only whether the crash involved injuries or death, but dozens of other 
+factors that played a role in the crash — whether they be rain, alcohol, speeding, dusk 
+conditions or congestion. 
+34
+
+[page 35]
+Based on literally millions of pieces of past performance data, we’ll identify patterns and develop 
+predictive models to forecast how hundreds of roads and intersections will perform in the future 
+— including the crashes that will occur if no improvements are made. On a road where a lot of 
+crashes seem to happen at dusk on curves in the rain, maybe this AI analysis leads to better 
+signage, lighting and high-friction road surfaces. If driver behavior such as aggressive driving or 
+treating a road shoulder as a lane is leading to problems, we can work with law enforcement to 
+establish safety enforcement areas. 
+The potential applications for predictive modeling are endless and not isolated to transportation. 
+We’re already using AI for assessment of the region’s housing shortage and will be using these 
+methods to help make our population and employment forecasts later this year. 
+Advancements that bring massive societal change may seem scary because they are unknown. 
+However, like we always do, we roll up our sleeves, understand the change, kick the tires, see if 
+there is opportunity, and seize it in the interest of making our region better where we can. 
+Skilled workers worried about being replaced tried to head off the first industrial revolution in the 
+18th century. The internal combustion engine brought opposition in the 19th century, and the 
+rise of the internet in the late 20th Century had plenty of detractors. But you’ll notice none of 
+those advances were preventable and all of them became integral parts of American life. 
+AI’s impact on society has the capacity to dwarf all previous disruptors. Like any major 
+technological advancement, you have to separate fact from fiction, figure out how that 
+technology can benefit you, determine how to manage it, and then embrace it for all it’s worth. 
+This one can actually help us save lives. 
+This is a contributed opinion column. Becky Bradley is executive director of the Lehigh Valley Planning 
+Commission. She can be reached at planning@lvpc.org.The views expressed in this piece are those of its 
+individual author, and should not be interpreted as reflecting the views of this publication. 
+35
+
+[page 36]
+M
+EMORANDUM  
+DATE:  June 26, 2025 
+TO:  Lehigh Valley Planning Commission Commissioners 
+FROM:  Lehigh Valley Planning Commission Staff 
+REGARDING:   Public Engagement, Education and Grants 
+Public Engagement 
+The most recent Plan Lehigh Valley National Public Radio show, which aired at 6:30 pm, 
+June 2 on WDIY radio 88.1 FM, took a deep dive into the future of electric vehicle infrastructure 
+with guest LVPC Transportation Planner Evan Gardi. The show details the effort to determine 
+where electric charging stations should be located across the Lehigh Valley. The show is 
+available at www.wdiy.org/show/plan-lehigh-valley and www.lvpc.org/newslv. The next Plan 
+Lehigh Valley Radio Show will air July 1, at 6:30 pm.  
+The current Business Cycle Column published on Sunday, May 25, and examined the impact 
+of Artificial Intelligence (AI) on transportation planning. In the column, Becky discusses how AI 
+will support transportation planning products, including an update to the $633 million 
+Transportation Improvement Program. The next column in the Morning Call will be published 
+July 6. 
+Educational Opportunities 
+The following Lehigh Valley Government Academy (LVGA), Local Technical Assistance Program 
+(LTAP) Classes will be held In Person at the LVPC Conference Center, 615 Waterfront Drive, 
+Suite 201, Allentown PA 18102 
+G
+eosynthetics 
+Tuesday July 29 – 8 am to Noon 
+This course identifies various types of geosynthetic materials used in road maintenance operations. 
+Attendees will gain the knowledge and understanding of the common types of geosynthetic materials as 
+well as their applications and functions. Instructors will review the cost benefits in using geosynthetics in 
+the preventive maintenance of roadway structures. Such uses of geosynthetics as subsurface drainage, 
+subgrade stabilization, soil reinforcement, erosion and sedimentation control, and paving fabric will also 
+be discussed. 
+R
+oad Surface Management 
+Tuesday August 19th – 8 am to Noon 
+This course provides the basics for developing a road surface management program to help local 
+governments manage their pavements. It provides an understanding of the concept and importance of 
+road surface inventories and condition surveys. The basic components of flexible and rigid pavements 
+are reviewed as well as pavement condition evaluations and how to recognize common pavement 
+distress. Repair strategies at the system and project level are also discussed. Participants will perform 
+sample pavement ratings. 
+36
+
+[page 37]
+   
+ 
+   
+ 
+ 
+All LVGA LTAP classes are free and are intended for municipalities, transportation non-profits 
+and organizations with a transportation purpose. LTAP Enables many practitioners who need 
+courses with professional development hours (PDHs) to earn credits for maintaining their 
+licenses and certificates. 
+  
+Anyone can register at www.gis.penndot.gov/LTAP or by contacting Hannah Milagio at 
+hmilagio@lvpc.org or 610-264-4544   
+ 
+ 
+Grant Opportunities 
+US Department of Transportation Safe Streets and Roads for All (SS4A)  
+The Streets and Roads for All program provides competitive grants to support planning, 
+infrastructure, behavioral, and operational initiatives to prevent death and serious injury on 
+roads and streets involving all roadway users, including pedestrians, bicyclists, public 
+transportation, personal conveyance, micro-mobility users, motorists, and commercial vehicle 
+operators. The program provides funding to develop the tools to help strengthen a community’s 
+approach to roadway safety and save lives and is designed to meet the needs of diverse local, 
+Tribal, and regional communities that differ dramatically in size, location, and experience 
+administering Federal funding. The maximum expected award for Planning and Demonstration 
+Grants changed from $10,000,000 to $5,000,000. The application deadline is June 26, 2025, 
+and the deadline for requesting PennDOT support is June 12, 2025. More information is 
+available at https://www.transportation.gov/grants/SS4A   
+PA Department of Transportation (PennDOT) School Bus Safety Grant Program  
+The Automated School Bus Enforcement Grant Program (ASBEGP) was established in 2024 as 
+a PennDOT-administered competitive grant program. Funding for the program is generated from 
+a portion of the fine revenue collected from enforcement of the School Bus Stopping Law. The 
+program aims to promote and increase school bus safety, education, and training, as well as 
+pay for education, training, and other associated costs related to an individual earning their 
+commercial learner's permit, commercial driver's license, or school bus endorsement for the 
+purpose of driving a school bus in Pennsylvania. Independent school bus contractors, school 
+entities, and municipalities may apply. $1.2 million in funds are available through the School Bus 
+Safety Grant Program. Grant awards will not exceed $100,000. The application deadline is July 
+3, 2025. More information is available at https://www.pa.gov/grants/search/grant-
+details.penndot4.html   
+Transportation Alternative Set Aside (TASA) State Grant Program 
+The federal Transportation Alternatives Set-Aside (TASA) provides funding for projects and 
+activities defined as transportation alternatives, including on- and off-road pedestrian and 
+bicycle facilities, infrastructure projects for improving non-driver access to public transportation 
+and enhanced mobility, community improvement activities, and environmental mitigation, trails 
+that serve a transportation purpose, and safe routes to school projects. The application opens 
+July 14, 2025 and the application deadline is October 31, 2025. More information is available at 
+https://www.pa.gov/grants/search/grant-details.penndot2.html 
+ 
+ 
+37

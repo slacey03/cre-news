@@ -1,0 +1,712 @@
+
+
+[page 23]
+   
+ 
+LVTS Carbon Reduction Funding Project Selection Process 
+ 
+technology to reduce congestion, and creating green infrastructure along the region’s busiest 
+highways, among other strategies.  
+ 
+The transportation sector was chosen as a focus of the PCAP as the Lehigh Valley grows in 
+terms of population and is experiencing mass reindustrialization.  In addition, priority focus on 
+the transportation sector allowed the LVTS to develop a specific plan for the allocation of the 
+Carbon Reduction Program funding managed through the Metropolitan Transportation Plan and 
+the Transportation Improvement Program.  This specific plan supports the long-range 
+transportation plan, FutureLV: The Regional Plan, and its fiscally constrained list of regionally 
+significant transportation projects.   
+CRP Project Selection Process 
+The Lehigh Valley Transportation Study (LVTS) developed a transparent, data-driven project 
+selection process for allocating funds from the federal Carbon Reduction Program (CRP). This 
+process was guided by federal, state, and regional priorities, including FutureLV: The Regional 
+Plan, the Lehigh Valley PCAP, the Pennsylvania Carbon Reduction Strategy, and relevant 
+federal regulations (23 U.S.C. 134 and 175). 
+A publicly advertised and accessible LVTS Technical Committee workshop was held on June 25, 
+2025, to: 
+• Discuss federal program requirements and guidance, including example projects eligible 
+for funding provided by PennDOT 
+• Utilize known federal project selection criteria, discuss additional regional criteria and 
+weight the same to create a comprehensive methodology for project selection  
+• Develop and review the list of eligible projects from FutureLV: The Regional Plan, 
+including project sponsor information related to project readiness collected in May 2025 
+• Select project based on the developed selection methodology 
+• Vote to recommend selected projects to the LVTS Coordinating Committee.          
+Projects were limited to those already identified in FutureLV through previous planning 
+processes, including the 2019 Call for Projects and the 2023 Transportation Needs Assessment.  
+Introduction   
+Carbon Reduction Program (CRP) 
+The IIJA was passed by the U.S. Congress in 2021. It includes $6.4 billion for the CRP to fund 
+projects that directly reduce CO2 emissions from the nation’s transportation system. The CRP 
+provides formula funds to states, “to reduce transportation emissions through the development 
+of state carbon reduction strategies and by funding projects designed to reduce transportation 
+emissions”. The IIJA ultimately resulted in the allocation of $265 million in CRP funds to the 
+Commonwealth of Pennsylvania. 65% of a State’s CRP apportionment is to be obligated in the 
+following areas in proportion to their relative shares of the State’s population. [§ 11403; 23 
+U.S.C. 175(e)(1)(A)] Funds attributed to an urbanized area may be obligated in the metropolitan 
+area established under 23 U.S.C. 134 that encompassed the urbanized area [23 U.S.C. 
+175(e)(2)]. The remaining 35% of the State’s CRP apportionment be obligated in any area of the 
+State. [§ 11403; 23 U.S.C. 175(e)(1)(B)].   
+ 
+Lehigh Valley Transportation Study Apportionment  
+In the case, of the Lehigh Valley, the population exceeds 200,000 and PennDOT distributes 
+CRP funds to the LVTS based on a formula derived from federal regulations. 
+23
+
+[page 24]
+   
+ 
+LVTS Carbon Reduction Funding Project Selection Process 
+ 
+The MPO is responsible for programming the CRP funds allocated to its region and may use 
+them for any eligible CRP projects within its jurisdiction. Additionally, eligible entities in a region 
+may apply for statewide CRP funds, depending on project eligibility and available funding.  
+LVTS is committed to reducing emissions from the transportation sector. The LVTS has 
+incorporated the goals of reducing emissions in the FutureLV: The Regional Plan and PCAP. 
+Currently, through coordination with PennDOT, District 5 -0 and Central office, $2,166,000 has 
+been identified for funding Lehigh Valley CRP projects for the Federal Fiscal Year (FFY) 2025 
+allocation, $2,219,000 in FFY 2026, $2,219,000 in FFY 2027, and $2,219,000 in FFY 2028. It is 
+of note that CRP funds are divided into two categories: Urban (CRPU) and general (CRP) 
+categories.  CRPU funds are required by the federal government to be utilized in urbanized 
+areas in accordance with approved maps based on the US Census.  General CRP funds may 
+be utilized anywhere in the metropolitan planning area boundary, specifically, Lehigh and 
+Northampton counties.  Both CRPU and CRP funds may be awarded to qualified projects after 
+going through a selection process managed by the Metropolitan Planning Organization. The 
+figure below illustrates the funding allocation for the FFY 2025-2028 as provided by PennDOT.  
+CRP Funding  
+Allocated 
+FFY 
+2025 
+FFY 2026 FFY 2027 FFY 2028 
+Total for 
+FFY 2025-
+2026 
+Total for FFY 
+2025-2028 
+CRP (General) $572,000 $593,000 $593,000 $593,000 $1,165,000 $2,351,000 
+CRPU (Urban) $1,594,000 $1,626,000 $1,626,000 $1,626,000 $3,220,000 $6,472,000 
+Total $2,166,000 $2,219,000 $2,219,000 $2,219,000 $4,385,000 $8,823,000 
+ 
+Eligible Sponsors – Carbon Reduction Program (CRP)  
+Projects funded through the Carbon Reduction Program are locally administered, federal-aid 
+transportation projects. Eligible sponsors are responsible for all aspects of project delivery—
+including development, quality assurance, contract administration, daily management, 
+construction oversight, and record retention—even if these tasks are outsourced. 
+Per federal and PennDOT guidelines, the following entities are eligible: 
+1. Local Governments – Cities, boroughs, townships, and counties. 
+2. Regional Transportation Authorities – Including Metropolitan Planning Organizations 
+(MPOs; e.g. LVPC). 
+3. Transit Agencies – Public transportation providers eligible under FTA guidelines (e.g., 
+LANTA). 
+4. Tribal Governments – Federally recognized tribes. 
+5. Other Governmental Entities – Local or regional entities with transportation or trail 
+oversight, such as park commissions or trail authorities. 
+All project sponsors were vetted by the LVPC MPO staff for adherence to these federal 
+requirements.   
+ 
+ 
+24
+
+[page 25]
+   
+ 
+LVTS Carbon Reduction Funding Project Selection Process 
+ 
+LVPC Priority Climate Action (PCAP) Plan Goals 
+LVPC/LVTS Lehigh Valley Priority Climate Action Plan for Transportation Decarbonization 
+(PCAP) focuses on strategies to reduce improve air quality from one of the region’s primary 
+sources – the transportation sector.  
+The Lehigh Valley PCAP incorporates input from planning partners, as well as decades of 
+experience managing the Congestion Mitigation Air Quality (CMAQ) and Transportation 
+Alternatives Set Aside (TASA) funding programs to recommend a menu of transportation 
+strategies that can effectively reduce transportation emissions, support economic development 
+and improve public health. The PCAP identifies near and long-term approaches for achieving 
+these goals through improvements to the region’s transportation network. The PCAP supports 
+the goals of the federal CRP.  
+Additionally, the Walk/RollLV: Active Transportation Plan reinforces the need for a safe, 
+comfortable, and connected active transportation network. It highlights infrastructure 
+improvements such as high-visibility crosswalks, pedestrian refuge islands, accessible curb 
+ramps, and traffic calming measures as essential to creating safe conditions for people walking, 
+biking, and rolling. 
+Together, with the overarching goals of FutureLV: The Regional Plan these strategies inform the 
+LVPC’s carbon reduction approach, which is rooted in enhancing safety, connectivity, and 
+accessibility for all users, across all modes of transportation throughout the region. 
+Project Selection Process: 
+Overall Objectives 
+The federal Carbon Reduction Program (CRP) outlines a broad range of eligible projects aimed 
+at reducing transportation-related emissions. At a minimum, projects must meet the eligibility 
+criteria outlined in Federal Highway Administration guidance.  Additional criteria, including 
+alignment with FutureLV: The Regional Plan, Lehigh Valley Priority Climate Action Plan for 
+Transportation Decarbonization, and Walk/RollLV: Active Transportation Plan, as well as project 
+readiness were determined by the LVTS Technical Committee as priority factors for selection.  
+ 
+State Climate Resilient Strategies (CRS) 
+The Pennsylvania CRS encourages LVPC to develop a transparent framework for identifying 
+projects that utilize CRP funds. This framework could mirror the approach used to allocate 
+funding for programs such as the Congestion Mitigation and Air Quality (CMAQ) program or 
+other federal transportation initiatives where LVPC has local programming authority. The 
+purpose of this framework is to ensure transparency in how CRP funds are prioritized and to 
+demonstrate how selected projects align with broader federal goals to reduce emissions, 
+promote fairness, and improve safety. 
+LVTS Project Selection Strategies  
+The list of projects was identified as eligible for Carbon Reduction Program (CRP) funding 
+through a project selection process created by LVTS Technical Committee. To organize the 
+projects for presentation, each project was vetted for consistency with several criteria indicated 
+based on state and federal criteria. A more specific step-by-step outline of how the individual 
+25
+
+[page 26]
+   
+ 
+LVTS Carbon Reduction Funding Project Selection Process 
+ 
+projects were ranked and evaluated can be found in the Eligibility Criteria & Weight section of 
+this document. An LVTS Technical Committee workshop on June 25, 2025, set the groundwork 
+for CRP funding allocation, by reviewing the criteria and setting up the scoring to each criterion 
+to determine a priority list of projects. This included consultation by LVPC staff with the sponsors 
+of projects in FutureLV, and evaluation of regional criteria such as project delivery, readiness, 
+and project cost. As an outreach strategy, LVPC staff emailed a survey on May 27, 2025, to 
+project sponsors, with a follow up reminder on June 3rd, to assess project readiness.  
+The LVTS Technical Committee held a publicly advertised and accessible workshop on June 25, 
+2025.   LVTS Technical Committee members included: Brendan Cotter, Becky Bradley, David 
+Petrik, Basel Yandem, Jennifer Ruth and Nick Raio.   
+Eligibility Criteria & Weight  
+ 
+The initial list of CRP-eligible projects was limited to those within FutureLV: The Regional Plan, 
+which serves as the Metropolitan Transportation Plan (MTP), developed and adopted per 
+federal statute. Projects included in the MTP were identified through a vigorous plan review 
+process that began with an open Call for Projects in 2019. It was followed by a project list 
+update through a Transportation Needs Assessment in 2023. These public open calls for 
+projects allowed for transportation systems need to be sourced across the region and matched 
+with data and quantitative analysis to assess eligibility for federal and state funds by program.   
+Any project determined eligible for state or federal transportation funds, thorough the open call 
+was considered for CRP funding.  The current list of CRP-eligible projects is limited to those in 
+the adopted MTP, FutureLV: The Regional Plan. Projects were then identified for specific 
+conditions and selected as consistent with 23 U.S.C. 134 of the Federal Code of Regulations. 
+Projects were further scrutinized for consistency with the Pennsylvania Department of 
+Transportation (PennDOT) Pennsylvania Carbon Reduction Strategy, November 2023 and 
+Carbon Reduction Program (CRP) Eligibility Examples: 2025 guidance. Projects that met this 
+criterion were considered eligible for further evaluation. 
+ 
+LVTS, in coordination with LVPC, has established formal project eligibility and evaluation criteria 
+for Carbon Reduction Program (CRP) funding. These criteria are grounded in federal, state, and 
+regional policy and are designed to ensure transparent, objective, and results-driven project 
+selection. 
+Eligibility Criteria Framework 
+A total of sixteen (16) criteria has been identified, from the federal and state guidance, and 
+regional priorities.  These align with federal and state programmatic goals and address regional 
+priorities specific to LVTS, particularly around implementation and fiscal responsibility and 
+shovel readiness. 
+The Technical Committee was responsible for determining the weighting.  After extensive 
+discussion regarding the weighting of the criteria, the Technical Committee determined that 
+LVTS criteria should be worth 40% of the scoring, whereas the other 12 criteria should split the 
+remaining 60%. Ultimately, the committee decided to give both “shovel ready” and “project 
+delivery” 15% each, and “project value” and “leveraging other funds” were given 5% each, for 
+the total of 40% for LVTS. It was suggested that the remaining 12 criteria could be primarily 
+based on carbon reductions. A discussion was held regarding the goals of the 2024 PCAP and 
+the carbon emission reduction estimate to continue ranking and distributing percentages.  
+26
+
+[page 27]
+   
+ 
+LVTS Carbon Reduction Funding Project Selection Process 
+ 
+An estimate of carbon reduction from goals of the 2024 PCAP was used to create the rankings. 
+The distributions were created to ensure they add up to 60, as follows: 
+Rank 1 (3 criteria) = 7 points each (21 total) 
+• “A project described to establish or operate a traffic monitoring, management, and 
+control facility or program, including advanced truck stop electrification systems” 
+• “Efforts to reduce the environmental and community impacts of freight movement” 
+• “Projects to Support Alternative Fuel Vehicles, including the acquisition, installation, or 
+operation of publicly accessible electric vehicle charging infrastructure or hydrogen, 
+natural gas, or propane vehicle infrastructure, and the purchase or lease of zero-
+emission construction equipment and vehicles, including the acquisition, construction, or 
+leasing of required supporting facilities” 
+Rank 2 (5 criteria) = 6 points each (30 total) 
+• “A project for advanced transportation and a congestion management technology” 
+• “A project for the deployment of infrastructure-based intelligent transportation systems 
+capital improvements and the installation of vehicle-to-infrastructure communications 
+equipment, including retrofitting dedicated short-range communications technology 
+deployed as part of an existing pilot program to cellular vehicle-to-everything technology” 
+• “A project to replace street lighting and traffic control devices with energy-efficient 
+alternatives” 
+• “A project or strategy designed to support congestion pricing, shifting transportation 
+demand to non-peak hours or other transportation modes, increasing vehicle occupancy 
+rates or otherwise reducing demand for roads, including electronic toll collection, and 
+travel demand management strategies and programs” 
+• “Certain types of projects to improve traffic flow that are eligible under the CMAQ 
+program, and that do not involve construction of new capacity” 
+Rank 3 (1 criterium) = 4 points each (4 total) 
+• “Other (Carbon sequestration, using local material, using renewable energy generation 
+facilities, utilizing micromobility & electric alternative vehicle projects)” 
+Rank 4 (2 criteria) = 2 points each (4 total) 
+• “A public transportation project (construction of lanes, shelters, or lot facilities, or within 
+.25 mile of a LANTA fixed route)” 
+• “Public Transportation Project within/along an EBS corridor” 
+Rank 5 (1 criterium) = 1 point (1 total) 
+• “A transportation alternatives project, including the construction, planning, and design of 
+on-road, and off-road trail facilities for pedestrian, bicyclists, and other motorized forms 
+of transportation” 
+Federal Criteria Total = 60 points 
+LVTS ‘Project Readiness Criteria = 40 points 
+Total Points = 100 
+ 
+27
+
+[page 28]
+   
+ 
+LVTS Carbon Reduction Funding Project Selection Process 
+ 
+Here, rankings reflect the anticipated carbon emission reduction potential, where rank 1 is the 
+most effective while rank 5 is the least effective. An image of the criteria wall (before/after) on 
+how those criteria have been scored, and points are allocated are shown below. 
+ 
+ 
+ 
+ 
+ 
+List of Selected Eligible Projects  
+28
+
+[page 29]
+   
+ 
+LVTS Carbon Reduction Funding Project Selection Process 
+ 
+LVPC staff created a list of the eligible projects based on the federal, state and regional criteria 
+and a ranking was created once the LVTS Technical Committee decided on weighting. The 
+committee reviewed each project from the highest scores down to allocate funding for FFY 25-
+28.   
+Projects that made it through this rigorous and competitive workshop and outreach process 
+were presented to the LVTS Coordinating Committee for final selection on July 16, 2025. The 
+selected project list for the CRP funding allocation is: 
+ 
+ 
+ 
+ 
+Sources: 
+• 1 - USDOT Federal Highway Administration (FHWA), “Carbon Reduction Program (CRP) 
+Implementation Guidance” (Memorandum), April 21, 2022, INFORMATION: Carbon 
+Reduction Program (CRP) Implementation Guidance (accessed July 3, 2025) 
+ 
+• 2 – Lehigh Valley Priority Climate Action Plan, February 2024, 
+content.lvpc.org/Publications/2024 Priority Climate Action.pdf (accessed July 3, 
+2025) 
+29
+
+[page 30]
+Project Name Project Description
+CRP Funding 
+Recommended by 
+LVTS Technical 
+Committee for 
+Federal Fiscal Year 
+(FFY) 2025
+CRP Funding 
+Recommended by 
+LVTS Technical 
+Committee for 
+Federal Fiscal Year 
+(FFY) 2026
+CRP Funding 
+Recommended by 
+LVTS Technical 
+Committee for 
+Federal Fiscal Year 
+(FFY) 2027
+CRP Funding 
+Recommended by 
+LVTS Technical 
+Committee for 
+Federal Fiscal 
+Year (FFY) 2028
+Project Sponsor
+Linden Street 
+Conversion Project
+This project involves the conversion of Linden Street to improve circulation and 
+congestion by converting Linden Street from a one way southbound street to a two 
+way street in the City of Bethlehem, Northampton County. Linden Street is currently 
+a one way southbound street from Fairview Street to East Church Street. There is 
+no parallel one way northbound street.
+$1,800,000 City of Bethlehem
+Bus Rapid Transit (BRT) Bus Rider 
+Infrastructure Safety Improvements
+Infrastructure improvements along BRT routes involving crosswalks and bus rider 
+amenities, queue jumps for traffic signalization and other infrastructure to enhance 
+the BRT
+$366,000 LVTS
+Main Street (State Route 412) and 
+Polk Valley Road (State Route 2002) 
+Improvements
+Construct new sidewalk to connect to Saucon Rail Trail and installation of a new 
+traffic signal $600,000 Hellertown Borough
+Martin Luther King, Jr. Drive 
+Pedestrian Improvements
+Improve multimodal transportation infrastructure along the corridor, including 
+Americans with Disabilities Act ramps, traffic control devices and crosswalks $300,000 City of Allentown
+Bus Rapid Transit (BRT) Bus Rider 
+Infrstructure Safety Improvements
+Infrastructure improvements along BRT routes involving crosswalks and bus rider 
+amenities, queue jumps for traffic signalization and other infrastructure to enhance 
+the BRT
+$319,000 LVTS
+Allentown LED Streetlight Conversion Upgrade all pedestrian lighting infrastructure to high-efficiency LED technology across the city $500,000 City of Allentown
+Traffic-Calming and Pedestrian 
+Accommodation Improvements
+Install traffic-calming and pedestrian improvement measures along Northampton 
+Street from 7th Street to 15th Street and along 13th Street from Butler Street to 
+Jackson Street
+$500,000 City of Easton
+Broad Street Multimodal Project Construct improvements along Broad Street from Hanover Avenue to Stefko Boulevard as recommended in the Broad Street Active Transporation Plan of 2021 $1,400,000 LVTS & City of Bethlehem
+Bus Rapid Transit (BRT) Bus Rider 
+Infrastructure Safety Improvements
+Infrastructure improvements along BRT routes involving crosswalks and bus rider 
+amenities, queue jumps for traffic signalization and other infrastructure to enhance 
+the BRT
+$300,000 LVTS
+Allentown LED Streetlight Conversion Upgrade all pedestrian lighting infrastructure to high-efficiency LED technology across the city $219,000 City of Allentown
+Traffic-Calming and Pedestrian 
+Accommodation Improvements
+Install traffic-calming and pedestrian improvement measures along Northampton 
+Street from 7th Street to 15th Street and along 13th Street from Butler Street to 
+Jackson Street
+$300,000 City of Easton
+Riverside Drive RAISE Grant
+The project will convert approximately 2 miles of an abandoned railroad bed along 
+the west side of the Lehigh River in Whitehall Township and the City of Allentown, 
+Lehigh County, from Lehigh Avenue to Furnace Street to a complete two-lane street 
+with an adjacent multi-use path. The multi-use path will continue north to connect to 
+the existing Delaware and Lehigh (D&L) Trail just north of Race Street. The project 
+will also convert another 450 feet of an abandoned railroad bed between Hamilton 
+Street and Union Street within the City of Allentown to complete the southern 
+terminus of Riverside Drive. Proposed Riverside Drive will vary in width from 24 feet 
+to 36 feet, providing one lane in each direction (north/south) and allowing for turn 
+lanes where warranted. The proposed speed limit will be 25 MPH. The multi-use 
+path will be 10 feet wide and located between Riverside Drive and the Lehigh River. 
+The Right-of-Way will be variable in width, with most of the required Right-of-Way 
+falling within the boundaries of the former RJ Corman Railroad parcels, which will 
+be donated to the City of Allentown, Whitehall Township, and Lehigh County by a 
+private entity. The new roadway will be owned by the City of Allentown and 
+Whitehall Township within their respective municipal boundaries, while the multi-use 
+path will be owned by Lehigh County within Whitehall Township and by the City of 
+Allentown within its limits. The area type is urban. The project includes $19.34 
+million matching funds provided as a real property donation.
+$1,800,000 LVTS
+Bus Rapid Transit (BRT) Bus Rider 
+Infrastructure Safety Improvements
+Infrastructure improvements along BRT routes involving crosswalks and bus rider 
+amenities, queue jumps for traffic signalization and other infrastructure to enhance 
+the BRT
+$219,000 LVTS
+Traffic-Calming and Pedestrian 
+Accommodation Improvements
+Install  traffic-calming and pedestrian improvement measures along Northampton 
+Street from 7th Street to 15th Street and along 13th Street from Butler Street to 
+Jackson Street
+$200,000 City of Easton
+$2,166,000 $2,219,000 $2,219,000 $2,219,000
+Carbon Reduction Program (CRP) Funding
+Total Funding Recommended
+30
+
+[page 31]
+YEAR TO DATE (YEAR TO YEAR)
+0
+200
+400
+600
+800
+1,000
+0
+1.6M
+3.2M
+4.8M
+6.4M
+8M
+JunMayAprMarFebJan
+173,896
+285
+353,992 707,253
+344
+403
+215
+249
+482
+402,404 536,627
+936,592
+2025
+LOCATION OF DEVELOPMENT
+NON-RESIDENTIAL DEVELOPMENT
+3,110,764 Total Square Feet
+RESIDENTIAL DEVELOPMENT
+1,978 Total Units 
+REGIONAL TOTALS*
+*Includes preliminary and final plans
+Subdivision/Lot Line 
+Adjustments
+75
+Development
+163
+Stormwater 
+Management
+77
+Municipal Ordinances, 
+Maps and Plans
+26
+Acres
+3,821
+STORMWATER MANAGEMENT MUNICIPAL ORDINANCES, MAPS AND PLANS
+RESIDENTIAL NON-RESIDENTIAL SUBDIVISIONS AND LOT LINE ADJUSTMENTS
+PLAN ACTIVITY BY COUNTY
+31
+40
+39
+48
+14
+Acres: 2,788
+Reviews: 172
+Lehigh
+45
+37
+12
+36 39
+Acres: 1,033
+Reviews: 169
+Northampton
+STORMWATER MANAGEMENT
+RESIDENTIAL
+NON-RESIDENTIAL
+SUBDIVISIONS AND LOT LINE ADJUSTMENTS
+RESIDENTIAL UNITS NON-RESIDENTIAL SQUARE FOOTAGE
+L V CP
+Lehigh Valley Planning CommissionLVBUILD
+BUILD LEHIGH VALLEY
+Subdivision + Land Development Monthly Report
+Previous Reports at lvpc.org/subdivision-data
+Mid-Year 2025
+APARTMENTS
+1,274
+SINGLE-FAMILY 
+DETACHED
+226
+TOWNHOUSES
+347
+TWINS
+92
+CONDOS
+3
+MANUFACTURED
+HOMES
+36
+ASSISTED-
+LIVING
+0
+*Warehouse is a subset of Industrial
+PUBLIC/
+QUASI-PUBLIC
+478,957
+COMMERCIAL
+700,379
+TRANSPORTATION
+259,304
+OFFICE
+126,725980,040
+WAREHOUSE*INDUSTRIAL
+1,406,482
+RECREATIONAL
+9,646
+RETAIL
+129,271
+AGRICULTURE
+0
+31
+
+[page 32]
+500
+11,450
+22,400
+33,350
+44,300
+55,250
+66,200
+77,150
+88,100
+99,050
+110,000
+2020 2021 2022 2023 2024 2025
+ROUTE 309 
+just south of Route 378 
+(Lehigh County)
+ROUTE 33
+between Newburg Road and State 
+Route 248 (Northampton County)
+ROUTE 22 
+between Airport Road and Lehigh 
+River Bridge (Lehigh County)
+ROUTE 22 
+east of the 33 and 22 interchange 
+(Northampton County)
+TOTAL VEHICLE TRAFFIC
+37,840
+51,56555,180
+103,827
+101,266
+38,630
+84,360
+84,921
+81,888
+77,192
+(as of 4/25/23)
+(as of 6/1/22)
+(as of 5/28/24)
+(as of 8/27/24)
+JunMayAprMarFebJanDecJunMarJanDecJunMarJanDecJunMarJanDecSeptJunMarFebJanDecAugMar
+TOTAL TRUCK TRAFFIC
+0
+6,000
+12,000
+18,000
+24,000
+30,000
+2022 2023 2024 2025
+ROUTE 22 
+between Airport Road and Lehigh 
+River Bridge (Lehigh County)
+ROUTE 33
+between Newburg Road and State 
+Route 248 (Northampton County)
+ROUTE 22 
+east of the 33 and 22 interchange 
+(Northampton County)
+(as of 6/25/24)
+(as of 5/28/24)
+(as of 5/27/25)
+JunMayAprMarFebJanDecJunMarJanDecJunMarJanDecJun
+10,321
+11,46910,629
+2,673
+2,897
+13,649
+32
+
+[page 33]
+ 
+   
+ 
+ 
+ 
+ 
+ 
+MEMORANDUM   
+DATE:   July 24 2025 
+TO:   Lehigh Valley Planning Commission Commissioners    
+FROM:   Lehigh Valley Planning Commission Staff 
+      
+REGARDING:   Public Engagement, Education and Grants  
+   
+Public Engagement    
+ 
+The most recent Plan Lehigh Valley National Public Radio show, which aired at 6:30 pm, July 
+7 on WDIY radio 88.1 FM, showed how environmental issues and economy are connected. The 
+show featured LVPC Director of Environmental Planning Susan Myerov and Ray Minarovic, who 
+chairs the Greater Lehigh Valley Chamber of Commerce Energy and Environment Committee. 
+Susan and Ray showed why initiatives such as the Greater Lehigh Valley Climate Actions Plan 
+that Susan is directing is good business. The show is available at www.wdiy.org/show/plan-
+lehigh-valley and www.lvpc.org/newslv. The next Plan Lehigh Valley Radio Show will air August 
+4, at 6:30 pm.   
+ 
+The current Business Cycle Column published on Sunday, July 6, giving a detailed look at 
+some of the recommendations that came from the most recent Lehigh Valley Housing Supply 
+and Attainability event to add housing at appropriate price points and in places that work for 
+everyone. In the column, Becky spells out tools that can be used by municipalities, builders, 
+planners, engineers and solicitors, banks and everyone in the community. The column can be 
+found at www.lvpc.org/newslv and mcall.com.  The next column in the Morning Call will be 
+published Sunday, August 17. 
+ 
+Educational Opportunities    
+ 
+The following Lehigh Valley Government Academy (LVGA), Classes will be held In Person at the 
+LVPC Conference Center, 615 Waterfront Drive, Suite 201, Allentown PA 18102. 
+ 
+Local Technical Assistance Program (LTAP): 
+ 
+Geosynthetics  
+Tuesday July 29 – 8 am to Noon 
+This course identifies various types of geosynthetic materials used in road maintenance operations. 
+Attendees will gain the knowledge and understanding of the common types of geosynthetic materials as 
+well as their applications and functions. Instructors will review the cost benefits in using geosynthetics in 
+the preventive maintenance of roadway structures. Such uses of geosynthetics as subsurface drainage, 
+subgrade stabilization, soil reinforcement, erosion and sedimentation control, and paving fabric will also 
+be discussed.  
+ 
+Road Surface Management  
+Tuesday August 19th – 8 am to Noon 
+This course provides the basics for developing a road surface management program to help local 
+governments manage their pavements. It provides an understanding of the concept and importance of 
+33
+
+[page 34]
+   
+ 
+   
+ 
+road surface inventories and condition surveys. The basic components of flexible and rigid pavements 
+are reviewed as well as pavement condition evaluations and how to recognize common pavement 
+distress. Repair strategies at the system and project level are also discussed. Participants will perform 
+sample pavement ratings.  
+ 
+All LVGA LTAP classes are free and are intended for municipalities, transportation non-profits 
+and organizations with a transportation purpose. LTAP Enables many practitioners who need 
+courses with professional development hours (PDHs) to earn credits for maintaining their 
+licenses and certificates. 
+  
+Anyone can register at www.gis.penndot.gov/LTAP or by contacting Hannah Milagio at 
+hmilagio@lvpc.org or 610-264-4544   
+ 
+Pennsylvania Municipal Planning Education Institute Courses: 
+ 
+Zoning: September 9, 16, 23, 5:30-9 pm 
+This course is a three-session in-depth “nuts and bolts” course in the drafting, amending, 
+administering, and monitoring of zoning ordinances. Course topics include the Municipal Planning 
+Code authority for zoning, basic and advanced zoning techniques such as overlay and 
+performance zoning, flexible regulatory techniques, planned residential and traditional 
+neighborhood development regulations. Ordinance reviews, map problems, ethical issues are 
+included in the course.  
+Anyone can register at www.lvpc.org/lvga or by contacting Hannah Milagio at hmilagio@lvpc.org 
+or 610-264-4544   
+ 
+Grant Opportunities 
+Transportation Alternative Set Aside (TASA) State Grant Program 
+The federal Transportation Alternatives Set-Aside (TASA) provides funding for projects and 
+activities defined as transportation alternatives, including on- and off-road pedestrian and 
+bicycle facilities, infrastructure projects for improving non-driver access to public transportation 
+and enhanced mobility, community improvement activities, and environmental mitigation, trails 
+that serve a transportation purpose, and safe routes to school projects. The application opens 
+July 14, 2025 and the application deadline is October 31, 2025. More information is available at 
+https://www.pa.gov/grants/search/grant-details.penndot2.html 
+Alternative Fuels Incentive Grant (AFIG) 
+AFIG has approximately $5 million in funding available to school districts, municipalities, 
+nonprofit organizations, and businesses in Pennsylvania that want to transition to 
+cleaner fuel transportation. Applicants will be eligible for a maximum grant award across 
+all applications of $500,000. Individual application awards are still capped at $300,000. 
+The program will collect and review all applications submitted by 11:59 PM on October 
+10, 2025. Supported alternative fuels include electricity, compressed natural gas, 
+liquefied natural gas, propane, hydrogen, hythane, biodiesel, ethanol, methanol, and 
+other advanced biofuels. Grant funding covers: 
+• Incremental costs related to retrofitting vehicles to operate on alternative fuels; 
+• Incremental costs to purchase alternative fuel vehicles; 
+• Cost to purchase and install the necessary fleet-refueling or home-refueling 
+equipment for alternative fuel vehicles; 
+34
+
+[page 35]
+   
+ 
+   
+ 
+Cost to perform research, training, development, and demonstration of new 
+applications or next-phase technology related to alternative fuel vehicles. 
+More information is available at: Alternative Fuels Incentive Grant (AFIG) | Department 
+of Environmental Protection | Commonwealth of Pennsylvania 
+35

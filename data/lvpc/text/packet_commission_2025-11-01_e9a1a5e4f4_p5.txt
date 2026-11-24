@@ -1,0 +1,932 @@
+
+
+[page 167]
+PATHWAY TO A RESILIENT GREATER LEHIGH VALLEY
+LEHIGH VALLEY PLANNING COMMISSION 
+615 WATERFRONT DRIVE, SUITE 201, ALLENTOWN PA 18102
+610-264-4544 | WWW.LVPC.ORG | PLANNING@LVPC.ORG
+167
+
+[page 168]
+ 
+ 
+ 
+ 
+ 
+Resolution No. 11-20-25-A 
+OF THE LEHIGH VALLEY PLANNING COMMISSION 
+PATHWAY TO A RESILIENT GREATER LEHIGH VALLEY 
+ 
+WHEREAS, The Lehigh Valley Planning Commission (LVPC) is organized by the Counties of 
+Lehigh and Northampton to promote the health, safety, and general welfare of the 
+two-county region in accordance with the provisions of the Pennsylvania 
+Municipalities Planning Code, Pennsylvania Stormwater Management Act of 1978, 
+among other statutes both state and federal; and 
+ 
+WHEREAS, The Lehigh Valley Transportation Study (“LVTS”) was created in 1964 to serve as the 
+Metropolitan Planning Organization for the Lehigh Valley pursuant to Title 23 of the 
+United States Code and to implement provisions of the Infrastructure Investment and 
+Jobs Act, among other federal statutes; and 
+ 
+WHEREAS,   Section 60114 of the Inflation Reduction Act authorized the US Environmental Protection  
+Agency (EPA) under the Climate Pollution Reduction Grants (CPRG) program to provide 
+$5 billion in grants to states, local governments, tribes, and territories to develop and 
+implement ambitious plans for reducing greenhouse gas emissions and other harmful air 
+pollution; and  
+  
+WHEREAS, CPRG is a two-phase program provides $250 million for noncompetitive planning grants 
+to the largest metropolitan areas in the US, and approximately $4.6 billion for competitive 
+implementation grants; and  
+ 
+WHEREAS,  The LVPC received a $1 million EPA Planning Grant to develop a Priority Climate Action 
+Plan by March 1, 2024, and a Regional Climate Action Plan by December 1, 2025 for the 
+Allentown-Bethlehem-Easton PA/NJ Metropolitan Statistical Area (MSA), which includes 
+Warren County, NJ and Carbon County, PA in addition to Lehigh and Northampton 
+Counties, PA; and 
+ 
+WHEREAS,  LVPC along with the LVTS, have prepared a draft regional Climate Action Plan known as 
+Pathway to a Resilient Greater Lehigh Valley focused on decarbonization of the region’s 
+major carbon emission sectors in accordance with EPA’s CPRG program guidance; and  
+ 
+WHEREAS,  LVPC/LVTS utilized the open, inclusive, public WorkshopLV: Environment to discuss, 
+guide and draft priorities.  Workshops included residents, businesses, and a variety of 
+partner organizations, agencies, and authorities, who worked create the Pathway to a 
+Resilient Greater Lehigh Valley; and  
+ 
+WHEREAS,  LVPC/LVTS also, met with Carbon County, PA and Warren County, NJ officials, 
+agencies, and stakeholders to engage in the development of the Pathway to a Resilient 
+Greater Lehigh Valley; and   
+ 
+WHEREAS,  The intent of the Pathway to a Resilient Greater Lehigh Valley Plan is to reduce carbon  
+related emissions thereby improving air-quality and improving human and environmental 
+health, reduce hazards and decrease vulnerabilities, and support community and 
+economic development in the interest of the public health, safety and general welfare of 
+168
+
+[page 169]
+    
+   
+ 
+the region.   This broad goal is consistent with FutureLV: The Regional Plan, 
+Walk/RollLV: Active Transportation Plan, Northampton County Livable Landscapes Plan, 
+Lehigh County Livable Landscapes Plan, Lehigh, and Northampton Transportation 
+Authority’s (LANTA) Moving LANTA Forward Regional Transit Plan and LANTA’s 
+Enhanced Bus/Bus Rapid Transit planning; and 
+ 
+WHEREAS,  Pathway to a Resilient Greater Lehigh Valley Plan is consistent with the LVPC and LVTS 
+adopted resolutions to include Health in All policies (Resolutions 9-19-19-A and 10-2-19-
+B, respectively) and LVTS Vision Zero policy ( Resolution 11-15-23-B), as well as, 
+supports meeting LVTS adopted Performance Measures. 
+  
+ 
+NOW, THEREFORE, BE IT RESOLVED, that the LVPC in a public meeting, directs staff to forward the  
+Pathway to a Resilient Greater Lehigh Valley to the EPA by the contract deadline of December 1, 2025. 
+ 
+Adopted by the Lehigh Valley Planning Commission on the 20th day of November 2025. 
+ 
+ 
+ 
+LEHIGH VALLEY PLANNING COMMISSION 
+ 
+ 
+ 
+ 
+________________________________  ________________________________ 
+Dr. Christopher R. Amato, Chair   Christina V. Morgan Vice Chair 
+LVPC      LVPC 
+ 
+ 
+ 
+ 
+ 
+ 
+ATTEST: 
+ 
+ 
+ 
+________________________________ 
+Becky Bradley, AICP, Executive Director 
+LVPC   
+ 
+ 
+ 
+ 
+169
+
+[page 170]
+ 
+ 
+ 
+ 
+ 
+November XX, 2025 
+ 
+Mr. Scott F. Novatnak, Planning Section Chief, Clean Water Program 
+Pennsylvania Department of Environmental Protection 
+Northeast Regional Office 
+2 Public Square 
+Wilkes-Barre, PA 18701-1915 
+ 
+Re: Private Request to Revise Official Act 537 Plan (Request No. 2)       
+ Lowhill Township 
+ Lehigh County 
+ 
+Dear Mr. Novatnak: 
+ 
+The Lehigh Valley Planning Commission (LVPC) considered the subject application at its 
+Environment Committee and Full Commission meetings, pursuant to Pennsylvania Department 
+of Environmental Protection (DEP) regulations, 25 Pa. Code., 71.14. The meetings occurred on: 
+ 
+• LVPC Environment Committee Meeting 
+o November 18, 2025 at 10:30 AM 
+• LVPC Full Commission Meeting 
+o November 20, 2025 at 7:00 PM 
+ 
+The LVPC was notified and presented with the opportunity to comment on correspondence 
+received by DEP from the applicant requesting DEP to order Lowhill Township to revise its 
+Official Sewage Facilities Plan by issuing a resolution of approval for the Sewage Facilities 
+Planning Module submitted by the applicant for the property located at 2951 Betz Court on 
+October 30, 2025. The LVPC was previously notified and invited to comment on private request 
+correspondence related to this project in September 2024. The LVPC responded to the initial 
+private request and submitted comments to DEP on October 25, 2024. On March 14, 2025, PA 
+DEP denied the applicant’s private request to revise the Official Sewage Facilities Plan of 
+Lowhill Township for the sewage facilities planning module Component 2, as “the long-term 
+needs of the development have not been addressed in accordance with Title 25 Chapter 71.52. 
+(a)(4).” Subsequently, the applicant’s engineer submitted a revised sewage facilities planning 
+module submission for the 2951 Betz Court site to the LVPC on August 12, 2025. The LVPC 
+reviewed the sewage facilities planning module for a second time and issued a second review 
+for this project’s planning module on September 3, 2025.  
+  
+According to §71.14 (b), ‘private requests to revise an official plan shall contain evidence that 
+the municipality has refused in writing to revise its plan, is not implementing its plan or has failed 
+to act within the time limits established in § 71.13(a) (relating to Department responsibility to 
+require official plan revisions) for plan updates or § 71.53(b) (relating to municipal administration 
+of new land development planning requirements for revisions) for new land developments’. 
+ 
+170
+
+[page 171]
+    
+   
+2 
+ 
+Per §71.14. (d), ‘In arriving at its decision, the Department will consider the following: 
+(1) The reasons advanced by the requesting person. 
+(2) The reasons for denial advanced by the municipality. 
+(3) Comments submitted under this section. 
+(4) Whether the proposed sewage facilities and documentation supporting 
+the proposed sewage facilities are consistent with this part. 
+(5) The existing official plan developed under this chapter’. 
+ 
+The LVPC appreciates the opportunity to comment on private requests. Any notice of future 
+meetings, rulings or formal correspondence on this review should be sent to the LVPC, as these 
+are regionally impactful matters. It is the role of the LVPC to coordinate between multiple 
+interests, public and private, in the interest of the public health safety and welfare. The LVPC 
+appreciates the opportunity to be included throughout the process due to the nature, scale and 
+impact of the request on the Township, Lehigh County and region. While economic growth and 
+infrastructure expansion are important, it is crucial to consider the long-term environmental, 
+social, and economic consequences of expanding public utility infrastructure in rural areas rich 
+in natural resources. Based on assessment of the proposal and its potential impacts, the LVPC 
+believes that expanding public utility infrastructure in this context would be detrimental to the 
+Township and region. The following comments were provided for consideration by DEP in the 
+first private request submitted in September 2024 for the 2951 Betz Court site and are still 
+applicable for consideration by DEP in this second private request, per Section 71.14 (d): 
+ 
+Background 
+At the time of submission for the project proposed at 2951 Betz Court, the Township was in the 
+process of updating its comprehensive plan, The Multi-Municipal Plan for the Northern Region 
+of Lehigh County (2004). Since then, the Township and all five other municipalities that together 
+form the Northern Lehigh area have adopted their current comprehensive plan, Plan Northern 
+Lehigh, as an update to the original plan.  
+ 
+In the current adopted comprehensive plan, Plan Northern Lehigh, the area around the project 
+site is identified as a Neighborhood Center. The Neighborhood Center, located approximately at 
+Route 100 and Kernsville Road, contains a cluster of small-scale establishments serving the 
+community. Surrounding land uses include low density residential dwellings to the west and 
+east, a day care center to the south, and small commercial businesses to the northeast. The 
+general area is exurban/rural in nature with limited existing development, roadway and utility 
+infrastructure. The nearest existing utility infrastructure is located one mile to the south along 
+Route 100. 
+ 
+The property is located within an area identified in FutureLV: The Regional Plan for Farmland 
+Preservation, where little to no development should occur. At the local level, Plan Northern 
+Lehigh identifies the area as Exurban and within the Preservation Buffer. Exurban areas have 
+few or none of the factors necessary for development and are most suitable for low intensity 
+agriculture-supportive businesses and low-density housing. Areas within the Preservation Buffer 
+may be appropriate for reasonable and contextually sensitive development if certain 
+Development Criteria are met (PlanNL Page 51), including how the site is identified in the 
+municipal official map, zoning ordinance and Act 537 Sewage Facilities Plan. The area also 
+contains High Priority Natural Resources identified for conservation, including an unnamed 
+171
+
+[page 172]
+    
+   
+3 
+ 
+tributary to Jordan Creek, multiple wetland areas, riparian buffers, steep slopes and woodlands, 
+another element of consideration in the Development Criteria. 
+ 
+Impacts of Public Utility Expansion 
+The proposed extension of the community water system is not recommended in areas 
+designated for farmland preservation in FutureLV. Development should occur in areas with 
+public sewer and water capacity (of FutureLV Policy 3.2), and infrastructure expansions should 
+be incremental based on growth patterns and should not “leap-frog” through undeveloped 
+areas. FutureLV aims to ‘minimize and mitigate the impacts of utility expansion’, and therefore 
+the proposal is inconsistent with FutureLV policies (of FutureLV Policy 3.2). 
+ 
+Expanding public utility service to the Kernsville Road/Route 100 Neighborhood Center 
+increases development pressure on natural areas to the north that contain habitats and local 
+ecosystems reliant on unfragmented natural and agricultural landscapes. Infrastructure 
+expansion and resulting development would threaten wildlife and reduce biodiversity in nearby 
+Natural Heritage Inventory Core Habitat and Supporting Landscape areas, as well as the 
+Existing Regional Parks (State Game Lands and Trexler Preserve) which also contain identified 
+Local Natural Areas. 
+ 
+Extending public utilities to support large-scale developments in a rural area come with high 
+costs. These costs are often borne by local governments and taxpayers, who may see little 
+return on investment. Rural areas have limited population density, so the cost per capita to 
+maintain infrastructure could become unsustainable long-term. Additionally, the extension of 
+utility infrastructure may require mandatory hookups for adjacent residents, which can cost 
+residents tens of thousands of dollars and would be detrimental to the fiscal health and 
+sustainability of the Township and residents (FutureLV Policy 4.6).  
+ 
+Municipal Planning Processes 
+The Township adopted the Northern Lehigh Multi-Municipal Comprehensive Plan in October of 
+2022, an update to the first Plan created in 2004. The updated plan reflects the intent of all six 
+municipalities, including Lowhill Township, to direct growth to areas of Northern Lehigh able to 
+accommodate development of appropriate scale. 
+ 
+Since that time, Lowhill Township has updated its Zoning Ordinance, Subdivision and Land 
+Development Ordinance and adopted an Official map developed alongside the communities of 
+the Northern Lehigh Multi-Municipal Plan. These communities have worked together to 
+coordinate sharing of land uses to provide for all land uses in strategic locations across the 
+Northern Lehigh region and minimize adverse impacts of development on the communities and 
+community goals.  
+ 
+Both the Comprehensive Plan Update and Coordinated Zoning and Official Map are essential 
+updates to the Township’s planning policies and land use regulations as a precursor to future 
+updates of other municipal regulatory documents, such as the Township’s Act 537 Plan. Plan 
+Northern Lehigh specifically states that it is Township policy to ‘Implement adopted Act 537 
+Sewage Facilities Plans to ensure the logical provision and extension of public sewer service’ 
+(PlanNL Policy 6.7). The connection between the adopted comprehensive plan and adopted Act 
+172
+
+[page 173]
+    
+   
+4 
+ 
+537 plan is intentional to ensure that land use policy and the Act 537 plan as an implementation 
+tool are both working to achieve Township goals. 
+ 
+Other Challenges 
+Beyond the impacts of extending utility infrastructure, numerous challenges remain that threaten 
+the viability of large-scale development in the area. Roadway infrastructure was not built to 
+accommodate commercial freight vehicles, and transit is not available to support workers 
+traveling to and from jobs. The Township’s Rural Village Zoning District was created to provide 
+small-scale community-supportive businesses and services in a rural area, and both the building 
+mass and land use of proposed development to be served by public utilities is incompatible with 
+existing adjacent land uses. 
+ 
+Overall, the long-term environmental, social and economic consequences of extending public 
+utility infrastructure to facilitate large-scale development are likely to be detrimental to the rural 
+community. The Township’s natural resources, rural character and agricultural base are 
+irreplaceable assets that would be compromised by development not contextually suitable for 
+the location. The LVPC urges the Department of Environmental Protection to carefully consider 
+the potential irreversible impacts on the environment and community, and to prioritize the 
+preservation of rural areas for agriculture, conservation, and sustainable, low-impact 
+development. 
+ 
+Multi-Municipal Coordination 
+The LVPC has copied representatives of the Northern Lehigh Multi-Municipal Comprehensive 
+Plan to further ‘coordinate land use decisions across municipal boundaries’ (Policy 1.4). 
+ 
+New Comments for Consideration - On-lot Disposal System Secondary Absorption Area 
+Since the LVPC’s original review of the sewage facilities planning module in May 2024, the 
+applicant and applicant’s engineer have provided a secondary absorption area for the proposed 
+on-lot sewage disposal system for the site. While the provision of a tested secondary absorption 
+area will ensure a future safeguard in the event of a non-repairable primary area malfunction, 
+aligning with the FutureLV action to ‘protect the quality and quantity of surface water and 
+groundwater’ (of Policy 3.2), the location of the secondary absorption area should not result in 
+additional impacts to the existing natural resource features, including woodlands present in the 
+area.   
+ 
+If you have any questions regarding the content of this letter, please do not hesitate to call. 
+ 
+Sincerely, 
+ 
+ 
+ 
+Susan Myerov, AICP 
+Director of Environmental Planning 
+ 
+ 
+ 
+Jill Seitz 
+173
+
+[page 174]
+    
+   
+5 
+ 
+Chief Community and Regional Planner 
+ 
+ 
+  
+Corinne Ruggiero  
+Environmental Planner  
+ 
+ 
+ 
+cc: Jill Seymour, Lowhill Township Secretary; Curt Dietrich, Lowhill Township Supervisor; 
+Tammy White, Lynn Township Supervisor; Janice Meyers, Heidelberg Township Administrator; 
+Brian Carl, Weisenberg Township Manager; Jeralyn Schoch, Slatington Borough Mayor; Wade 
+Marlatt, Washington Township Manager; Jeffrey Mondulick, PA DEP Sewage Planning 
+Specialist 
+174
+
+[page 175]
+ 
+ 
+ 
+Project Review Summary Sheet 
+ Environment Committee                                                                                                                                        Date: November 2025 
+ 
+Project 
+ 
+Municipality 
+ 
+Statement of Purpose 
+ 
+LVPC Comment 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Draft 
+Allentown 
+Parks Plan 
+2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ALLENTOWN  
+The draft Allentown Parks Plan 2025 aims to demonstrate a “comprehensive 
+strategy to conserve and improve the City’s recreation, open space, and parks.” 
+The community expresses three focus areas of stewardship: infrastructure, 
+programs and management. Goals and improvements described in this plan 
+generally fit into one of those three categories. The Plan acknowledges that with 
+growing population and employment in and around Allentown, there is increasing 
+and changing demand on the City’s park system. The draft Allentown Parks Plan 
+2025 provides comprehensive updates to parks and recreation mapping, data and 
+community goals, as well as detailed master site plans, which will help the City 
+implement park improvements that are responsive to a growing population and 
+evolving recreational preferences. 
+The LVPC is supportive of the 
+City as it looks to implement the 
+Allentown Parks Plan 2025, 
+and the Plan’s robust public 
+engagement, extensive 
+inventory and comprehensive 
+goals and strategies are 
+consistent with many elements 
+of FutureLV: The Regional 
+Plan, including Policies 1.4, 3.2, 
+5.2, 5.3 and 5.4. 
+175
+
+[page 176]
+This celebration honors the region’s most impactful planning, 
+design, and community development achievements across 
+Lehigh and Northampton counties.
+For more event information, please contact: 
+planning@lvpc.org  | (610) 264-4544
+GALA SCHEDULE
+RESERVE YOUR SPOT
+TODAY
+tinyurl.com/lvpcgala2025
+Community of  
+Distinction Award 
+Lehigh Valley 
+Award
+4PM  
+Networking Cocktail 
+Reception
+5PM  
+Keynote Speech 
+and Dinner
+6PM 
+Awards 
+Presentation
+Percy Dougherty 
+Planning Award 
+1ST ANNUAL
+176
+
+[page 177]
+ 
+ 
+ 
+2026 LVPC FULL COMMISSION MEETINGS 
+ 
+The following is the schedule of the Full Commission of the Lehigh Valley Planning Commission (LVPC). These meetings 
+will be held on the fourth Thursday of the month except October, November and December.  Meetings will begin at 7:00 
+PM, except for December which starts at 11:00 AM. LVPC Full Commission meetings will be held virtually in January, 
+February, April, May, July, August, October and November. These meetings can be accessed at 
+www.tinyurl.com/LVPC2026 or by phone at 610-477-5793 ID: 947 550 319#. In-person participation for virtual meetings 
+may be requested; requests should be made to planning@lvpc.org or 610-264-4544. 
+ 
+LVPC Full Commission meetings will be held in-person in March, June, September and December at the LVPC Office at 
+615 Waterfront Drive, Suite 201, Allentown, PA 18102.  
+ 
+Full Commission  
+Meetings will be held on the fourth Thursday of the month except October, November and December.  Meetings will begin 
+at 7:00 PM, except for December which starts at 11:00 AM. **Meetings attendance will be in-person only with extenuating 
+circumstances accommodated 
+ 
+Thursday  January 22, 2026  7:00 PM 
+Thursday  February 26, 2026  7:00 PM 
+Thursday  **March 26, 2026  7:00 PM 
+Thursday  April 23, 2026   7:00 PM 
+Thursday  May 28, 2026   7:00 PM 
+Thursday  **June 25, 2026   7:00 PM 
+Thursday  July 23, 2026   7:00 PM 
+Thursday  August 27, 2026  7:00 PM 
+Thursday  **September 24, 2026  7:00 PM 
+Thursday  October 29, 2026  7:00 PM 
+Thursday  November 19, 2026  7:00 PM 
+Thursday  **December 17, 2026  11:00 AM 
+ 
+ 
+ 
+177
+
+[page 178]
+YEAR-TO-DATE (YEAR-TO-YEAR)
+0
+400
+800
+1,200
+1,600
+2,000
+0
+1.6M
+3.2M
+4.8M
+6.4M
+8M
+Oct
+'24
+Oct
+'25
+Sept
+'25
+Jul
+'25
+Aug
+'25
+Jun
+'25
+May
+'25
+Feb
+'25
+Mar
+'25
+Apr
+'25
+Jan
+'25
+Dec
+'24
+Nov
+'24
+2,299,671
+265
+846,789
+1,648
+LOCATION OF DEVELOPMENT
+NON-RESIDENTIAL DEVELOPMENT
+2,299,671 Total Square Feet
+RESIDENTIAL DEVELOPMENT
+1,648 Total Units 
+REGIONAL TOTALS*
+*Includes preliminary and final plans
+Subdivision/Lot Line 
+Adjustments
+12
+Development
+34
+Stormwater 
+Management
+13
+Municipal Ordinances, 
+Maps and Plans
+3
+Acres
+735
+STORMWATER MANAGEMENT MUNICIPAL ORDINANCES, MAPS AND PLANS
+RESIDENTIAL NON-RESIDENTIAL SUBDIVISIONS AND LOT LINE ADJUSTMENTS
+PLAN ACTIVITY BY COUNTY
+6
+6
+2
+127
+Acres: 283
+Reviews: 33
+Lehigh
+1
+7
+5
+97
+Acres: 452
+Reviews: 29
+Northampton
+STORMWATER MANAGEMENT
+RESIDENTIAL
+NON-RESIDENTIAL
+SUBDIVISIONS AND LOT LINE ADJUSTMENTS
+RESIDENTIAL UNITS NON-RESIDENTIAL SQUARE FOOTAGE
+L V CP
+Lehigh Valley Planning CommissionLVBUILD
+BUILD LEHIGH VALLEY
+Subdivision + Land Development Monthly Report
+Previous Reports at lvpc.org/subdivision-data
+October 2025
+APARTMENTS
+1,139
+SINGLE-FAMILY 
+DETACHED
+79
+TOWNHOUSES
+317
+TWINS
+113
+CONDOS
+0
+MANUFACTURED
+HOMES
+0
+ASSISTED-
+LIVING
+0
+*Warehouse is a subset of Industrial
+PUBLIC/
+QUASI-PUBLIC
+265,468
+COMMERCIAL
+36,126
+TRANSPORTATION
+50,200
+OFFICE
+2,4821,771,110
+WAREHOUSE*INDUSTRIAL
+1,944,395
+RECREATIONAL
+0
+RETAIL
+1,000
+AGRICULTURE
+0
+178
+
+[page 179]
+ROUTE 309 
+just south of Route 378 
+(Lehigh County)
+ROUTE 33
+between Newburg Road and State 
+Route 248 (Northampton County)
+ROUTE 22 
+between Airport Road and Lehigh 
+River Bridge (Lehigh County)
+ROUTE 22 
+east of the 33 and 22 interchange 
+(Northampton County)
+TRAFFIC VOLUME AROUND THE LEHIGH VALLEY
+ROUTE 22 
+between Airport Road and Lehigh 
+River Bridge (Lehigh County)
+ROUTE 33
+between Newburg Road and State 
+Route 248 (Northampton County)
+ROUTE 22 
+east of the 33 and 22 interchange 
+(Northampton County)
+TRUCK VOLUME AROUND THE LEHIGH VALLEY
+ROUTE 22 
+between Airport Road and Lehigh 
+River Bridge (Lehigh County)
+ROUTE 33
+between Newburg Road and State 
+Route 248 (Northampton County)
+ROUTE 22 
+east of the 33 and 22 interchange 
+(Northampton County)
+500
+11,450
+22,400
+33,350
+44,300
+55,250
+66,200
+77,150
+88,100
+99,050
+110,000
+2020 2021 2022 2023 2024 2025
+37,840
+53,40255,180
+105,707101,266
+39,035
+84,892
+84,921
+81,888
+77,192
+(as of 4/25/23)
+(as of 6/1/22)
+(as of 5/28/24)
+(as of 8/27/24)
+OctSeptAugJulJunMayAprMarFebJanDecJunMarJanDecJunMarJanDecJunMarJanDecSeptJunMarFebJanDecAugMar
+0
+6,000
+12,000
+18,000
+24,000
+30,000
+2022 2023 2024 2025
+(as of 6/25/24)
+(as of 5/28/24)
+(as of 5/27/25)
+Sept OctAugJulJunMayAprMarFebJanDecJunMarJanDecJunMarJanDecJun
+10,470
+11,46910,629
+2,5662,897
+13,649
+179
+
+[page 180]
+ 
+Talking Business with Becky Bradley: The rise of data 
+centers, crypto mines and smart manufacturing — and 
+how the Lehigh Valley is planning for it 
+By Becky Bradley 
+For The Morning Call 
+November 9, 2025 at 8:30 AM 
+ 
+I heard a stunning stat the other day from our partners at PPL. The region’s largest 
+electricity company took 100 years to build and utilize 7.5 gigawatts of peak load 
+power. Now, PPL forecasts demand will nearly double that in the next five years. 
+That frenetic pace has the planning world moving faster than ever. Technology, 
+societal preferences and lifestyle trends that were once measured in years or even 
+decades, are shifting in a matter of months. 
+180
+
+[page 181]
+Just a few years ago, we were working with many of our 62 partner municipalities to 
+prepare them for the arrival of one million square foot logistics centers. These, as 
+everyone is now aware, have dramatic impacts on neighborhoods, business corridors 
+and infrastructure systems. 
+Over half of the region’s municipalities responded with updated planning and zoning 
+regulations, balancing impacts where possible but constrained by the limits of the 
+state’s planning code. Still other communities let the change dictate how they would 
+operate, look and grow, accepting the increased tax revenues with the traffic, noise 
+and air quality declines. The state planning code offers this as a choice, too. 
+But even as communities ready themselves for a slowing pace of those types of 
+development, and the smaller logistics hubs that are more common now, new uses 
+have emerged or are emerging that will need their immediate attention. We’ve all 
+heard about the “power-sucking data centers” that are pushing the world into the next 
+version of itself. 
+I’ve been in more rooms than I can count in the last year where the data center was 
+billed as both savior and devil. Like every use, especially large-scale ones, it’s not 
+Godzilla or a Powerball win. It’s a new reality that is best to get in front of, and not 
+behind. 
+Now add cryptocurrency mining, biofabrication, microchip manufacturing, industrial 3D 
+printing facilities, large scale solar arrays, battery storage systems, hydrogen fuel 
+facilities and an endless list of tech-based uses to the mix. Welcome to 2025. All of 
+these are now, not next. And we need every community in the Lehigh Valley to plan 
+for them today. It’s not a matter of if, it’s a matter of when, if not already. 
+No community should just throw up their hands and declare they don’t know what to 
+do or whisper in the halls after a supervisor’s meeting about a major new industrial 
+use as a bail-out for a budget deficit. The state made the general rules, the 
+municipality made the specific ones, and the market largely dictates the game. So, 
+every community is a player, and so are the specific industries that have a state-
+mandated right to propose these new uses. Every local government has a role, and 
+it’s best to take that very seriously. Industry does. 
+And one public service announcement I have to keep making: Remember that 
+Pennsylvania is a right-to-develop state, which means that every community, by law, 
+is required to zone for every use. In other words, communities can’t make like Nancy 
+Reagan and “just say no.” It’s why we’ve worked with 37 of our municipalities to get 
+them in multi-municipal plans that enable them to share that burden, and why so many 
+are updating their planning and zoning regulations. 
+Now back to our regularly scheduled programming — emerging uses. 
+181
+
+[page 182]
+Let’s use data centers as an example of why communities need to move fast. The 
+largest of these can bring billions of dollars of investment to a community, and create 
+new jobs, but they also bring many challenges. 
+One of the reasons why PPL needs to power up is because a single data mega center 
+can use as much power as 500,000 homes. These centers also create other concerns 
+that include noise pollution and water consumption. But just as existing data centers in 
+Northern Virginia and Umatilla, Oregon, were built not so long ago, companies are 
+looking to develop geothermal, closed loop and onsite energy generation systems to 
+not only reduce their costs of operation but, reduce impacts. The industry itself is 
+rapidly evolving too. So before anyone declares the downfall of mankind or stirs up 
+any more gossip bordering on hysteria, take a deep breath and proceed with logic. 
+It’s why, in partnership with Lehigh County, we’re developing the Lehigh County 
+Industrial Land Use Guide, designed to help communities prepare for these newly 
+emerged and emerging uses many of them are about to see. A handful of local 
+governments have already developed new land use regulations, and more are working 
+with the LVPC to update their codes. 
+This region already has a few small data centers, and we are aware that several 
+developers are actively marketing the region for more. We also have an active 
+development plan for a 2.6 million square foot data mega center on the former Air 
+Products headquarters site in Upper Macungie Township, Lehigh County. The larger 
+data centers are multibillion-dollar investments, so I don’t expect us to see as many as 
+we did big box warehouses, but we’ll almost certainly get a few and many of the 
+smaller variety. Seriously. Get ready. Now. 
+And before anyone wants to paint the developers of these as villains, you should know 
+every one of us is making the business case for more. Just the way the expectation 
+that today’s Amazon delivery will be at your doorstep tomorrow helped create the 
+need for giant warehouses, data centers are fed every time we say, “Hey Siri,” consult 
+ChatGPT, stream a Disney movie or use Google Maps. Yep, you, complicit. 
+Similar to the way our 2022 Northampton County Freight-Based Land Use guide is 
+helping those communities regulate large distribution centers, this 2025 version will 
+not only help communities update their comprehensive plans, zoning and ordinances, 
+but it will enable them to prioritize areas that are a good fit for these types of 
+developments. The guide will also provide tools communities can use — such as 
+traffic impact fees — that can help generate revenue needed to mitigate the impact of 
+these on the community. We have already been working with all Lehigh County 
+communities, and everyone should expect the guide by the end of the year. 
+Ultimately, this is the new reality of community planning: constant adaptation. Just as 
+the industrial age gave way to the information age, we’re now also entering the 
+infrastructure age — one defined by energy demand, technological adaptability, and 
+the ability of local governments to respond thoughtfully and quickly. 
+182
+
+[page 183]
+Our job, as always, is to make sure our communities aren’t caught off guard. With 
+good data, proactive partnerships and clear-eyed planning, we can welcome 
+innovation without sacrificing livability or resilience. We just need to make that choice. 
+No victims here. 
+The pace of change may be unprecedented, but it’s not unmanageable. By staying 
+ahead of the curve — together — we can ensure that the Lehigh Valley continues to 
+grow smarter, stronger and more sustainable in the decades ahead. 
+This is a contributed opinion column. Becky Bradley is executive director of the Lehigh 
+Valley Planning Commission. She can be reached at planning@lvpc.org. 
+ 
+ 
+ 
+ 
+ 
+183
+
+[page 184]
+ 
+ 
+ 
+ 
+ 
+MEMORANDUM   
+DATE:   November 10, 2025 
+TO:   Lehigh Valley Planning Commission 
+FROM:   Matt Assad, Managing Editor  
+      
+REGARDING:   Public Engagement, Education and Grants  
+   
+Public Engagement    
+ 
+The most recent Plan Lehigh Valley National Public Radio show, which aired at 6:30 pm, 
+November 3 on WDIY radio 88.1 FM, focused on how Lehigh Valley communities can prepare 
+for data centers, advanced manufacturing and cryptocurrency mining. With co-hosts Becky 
+Bradley and Matt Assad, LVPC Chief Community and Regional Planner Jill Seitz discussed the 
+creation of the Lehigh County Industrial Land Use Guide as a tool to help communities prepare 
+for the new generation of planning trends. The podcast is now streaming at 
+www.wdiy.org/show/plan-lehigh-valley and www.lvpc.org/newslv. The next Plan Lehigh Valley 
+show will air Monday, December 1 at 6:30 pm.   
+ 
+The next Morning Call Business Cycle Column will publish on Sunday, November 9, and will 
+also focus on the Lehigh County Industrial Land Use Guide, with a special look at how 
+technology is ramping up how quickly land use trends change. In the column, Becky discusses 
+why things like data centers and largescale 3D Printing are very different planning uses, and 
+how communities can be ready for them. The column will be available at www.lvpc.org/newslv 
+and mcall.com. The next column in the Morning Call will publish on Sunday, December 21. 
+ 
+Educational Opportunities    
+ 
+The following Lehigh Valley Government Academy (LVGA), Local Technical Assistance Program 
+(LTAP) Class will be held virtually: 
+ 
+Trucks on Local Roads: Issues and Solutions, Dec. 2, 8 am to noon 
+ 
+What: Truck traffic on local roads is a difficult balancing act for many municipalities in 
+Pennsylvania. While trucks need access to pick up and deliver the goods that are necessary for 
+everyday life and the economy, many local roads are not suitable for truck travel. Furthermore, 
+recent changes to State Law in Act 31 of 2018 add more complications. This class will:  
+• Review current state laws and regulations on truck access and restrictions  
+• Discuss the traffic study requirements and options for restricting truck traffic 
+• Examine real local truck traffic issues, problems, and solutions 
+• Explore planning approaches for trucks, including land use, the roadway network and 
+ordinances 
+184
+
+[page 185]
+ 
+Who: All municipal employees involved with trucks on the local roads. While the primary 
+audience is road crews and roadmasters, everyone involved with trucks in the municipality 
+should attend, including public works employees, street superintendents, elected officials, law 
+enforcement personnel, municipal managers, office staff and engineers. 
+ 
+When: Tuesday, December 2, 8 AM to noon 
+ 
+All LVGA LTAP classes are free and are intended for municipalities, transportation non-profits 
+and organizations with a transportation purpose. LTAP enables many practitioners who need 
+courses with professional development hours (PDHs) to earn credits for maintaining their 
+licenses and certificates. 
+  
+Anyone can register at www.gis.penndot.gov/LTAP or by contacting Hannah Milagio at 
+hmilagio@lvpc.org or 610-264-4544   
+ 
+Grant Opportunities 
+ 
+PA Department of Transportation (PennDOT) Green Light – Go 
+The Green Light—Go Program is a competitive application and reimbursement grant 
+program that enables municipalities and metropolitan or rural planning organizations to 
+request financial assistance to replace or enhance traffic signals. A 20% match from 
+grantees is required.  
+ 
+During Fiscal Year 2026-2027, up to $40 million will be available for upgrading traffic 
+signals to light-emitting diode technology and intelligent transportation applications, 
+such as autonomous and connected vehicle-related technology, performing regional 
+operations such as retiming, developing special event plans, monitoring traffic signals 
+and for maintaining and operating traffic signals. 
+Additional information and guidelines can be found on the Department's Traffic Signal 
+website at docs.penndot.pa.gov/Public/Bureaus/BOO/TSPortal/index.html  
+Pre-Applications Project Scoping forms must be filed by January 2, 2026 and the full 
+application period runs from March 1, 2026 through March 31, 2026.  
+ 
+Questions should be directed to Michael Centi, Senior Traffic Control Specialist, Bureau 
+of Maintenance and Operations, Department of Transportation, 400 North Street, 6th 
+Floor, Harrisburg, PA 17120, (717) 787-5313, GLG@pa.gov. 
+ 
+PA Department of Environmental Protection (DEP) 904 Recycling Performance 
+Grant 
+Recycling Program Performance Grants are available to all Pennsylvania local 
+governments with recycling programs. Grants are awarded based on the weight of 
+source-separated recyclable materials identified in Section 1501 of Act 101 that were 
+recycled or marketed in the previous calendar year and the population of the 
+185
+
+[page 186]
+municipality. Applications are due December 31, 2025 at 11:59 PM. More information is 
+available at https://www.pa.gov/grants/search/grant-details/dep/38  
+ 
+PA Department of Conservation + Natural Resources (DCNR) Peer + Circuit Ride 
+Programs 
+These grant programs fund projects that help municipalities, counties, multi-municipal 
+partnerships, and council of governments to increase local capacity for recreation, parks 
+and conservation. The Peer program funds projects that, through a collaborative 
+process, focus on a specific need identified by the grantee and its partners. The Circuit 
+Rider program aides in the hiring of a full-time park, recreation or conservation 
+professional whose services are shared by the members of a formal partnership, 
+commission or authority. Applications are due June 30, 2026. More information is 
+available at https://www.pa.gov/grants/search/grant-details/dcnr/8.  
+ 
+PA Department of Transportation (PennDOT) NEVI Corridor Connections 
+Funds for the PennDOT NEVI program are to be awarded on a competitive basis to 
+plan, design, construct, operate, and maintain Electric Vehicle Supply Equipment 
+(EVSE) sites across Pennsylvania. All incorporated entities are eligible to receive NEVI 
+funds, and project sites must be located in an eligible corridor group. Interstate 78 in 
+Lehigh and Northampton counties is a Priority 1 location. PennDOT will begin 
+accepting proposals on December 22, 2025. Proposals must be submitted by 5:00 
+PM EST on January 30, 2026. For more information, go to 
+https://www.pa.gov/agencies/penndot/research-planning-and-innovation/electric-
+vehicles-and-alternative-fuels/corridor-connections-funding-round 
+ 
+ 
+ 
+ 
+ 
+186
