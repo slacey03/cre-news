@@ -1,0 +1,19 @@
+name: Discover agenda pages
+on:
+  workflow_dispatch:
+    inputs:
+      region: { description: "Registry region", default: "berks" }
+      keys: { description: "Town keys, space separated", default: "reading cumru-berks spring-berks robeson-berks maxatawny-berks" }
+  push:
+    branches: [main]
+    paths: ["tools/discover_pages.py"]
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install requests beautifulsoup4 pypdf
+      - run: python tools/discover_pages.py "${{ inputs.region || 'berks' }}" ${{ inputs.keys || 'reading cumru-berks spring-berks robeson-berks maxatawny-berks' }}
