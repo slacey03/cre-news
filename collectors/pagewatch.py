@@ -215,8 +215,14 @@ def collect(site):
     for page in pages:
         page_url, board, opts = (list(page) + [None])[:3]
         try:
-            for d in find_docs(session_for(page_url).get(page_url).text, page_url, board, opts):
+            resp = session_for(page_url).get(page_url)
+            found = find_docs(resp.text, page_url, board, opts)
+            for d in found:
                 listing.setdefault(d["doc_id"], d)
+            if not found:   # say what came back, so an empty page can be told from a block or a redesign
+                title = re.search(r"<title[^>]*>(.*?)</title>", resp.text, re.I | re.S)
+                print(f"  ? {page_url}: no dated documents (HTTP {resp.status_code}, {len(resp.text)} bytes, "
+                      f"title {(title.group(1).strip()[:60] if title else '-')!r}, {resp.text.lower().count('.pdf')} '.pdf' mentions)")
         except Exception as e:   # one page down shouldn't stop the others
             errors.append(f"{page_url}: {e}")
             print(f"  ! {page_url}: {str(e)[:150]}")

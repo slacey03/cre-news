@@ -20,7 +20,7 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: sudo apt-get update -qq && sudo apt-get install -y -qq tesseract-ocr poppler-utils
-      - run: pip install requests beautifulsoup4 pypdf pdf2image pytesseract
+      - run: pip install requests beautifulsoup4 "pypdf[crypto]" pdf2image pytesseract
       - run: python collectors/civicplus.py
       - run: python collectors/nastudios.py
       - run: python collectors/revize.py
