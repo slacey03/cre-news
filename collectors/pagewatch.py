@@ -75,7 +75,20 @@ SITES = [
         ("https://jeffersontwpbc.com/meet-dates/", None, {"default": "Board of Supervisors"})]),
     ("north-heidelberg-berks", "North Heidelberg Township", "Berks", [
         ("https://northheidelbergtwp.org/board-of-supervisors-agenda/", None, {"default": "Board of Supervisors"})]),
+    # Lehigh Valley (Nov 2026)
+    ("upper-saucon", "Upper Saucon Township", "Lehigh", [
+        ("https://uppersaucon.org/events/category/township-calendar/board-of-supervisors/list/?eventDisplay=past", "Board of Supervisors"),
+        ("https://uppersaucon.org/events/category/township-calendar/planning-commission/list/?eventDisplay=past", PC),
+        ("https://uppersaucon.org/events/category/township-calendar/zoning-hearing-board/list/?eventDisplay=past", ZHB)]),
+    ("whitehall", "Whitehall Township", "Lehigh", [
+        ("https://www.whitehalltownship.org/boc-minutes", "Board of Commissioners", {"kind": "minutes"})]),
+    ("bethlehem-city", "City of Bethlehem", "Northampton", [
+        ("https://www.bethlehem-pa.gov/calendar-planning-zoning/?y={y}&m={m}", PC,
+         {"follow": r"/meetings/20\d\d/planning-commission/"}),
+        ("https://www.bethlehem-pa.gov/calendar-planning-zoning/?y={y}&m={m}", ZHB,
+         {"follow": r"/meetings/20\d\d/zoning-hearing-board/"})]),
 ]
+# Not yet: Palmer (agendas on Granicus, needs its own connector), Salisbury (no agendas/minutes found on its site).
 # Not yet: Maidencreek (files on Dropbox, no year in links), West Reading (nothing posted since late 2025),
 # Sinking Spring, Shoemakersville, Bernville, Bethel and Penn (no recent agendas/minutes online).
 # Not collected: Robeson and Brecknock townships post their files on a host whose robots.txt disallows automated access
@@ -160,7 +173,7 @@ def kind_of(text, fname):
     return None
 
 
-def find_docs(html, page_url, page_board, opts=None):
+def find_docs(html, page_url, page_board, opts=None, fallback_date=None, skip_urls=()):
     """One record per dated development-board document linked from a page (duplicate links merged)."""
     opts = opts or {}
     doc_rx = re.compile(opts["doc"], re.I) if opts.get("doc") else DOC
@@ -176,6 +189,8 @@ def find_docs(html, page_url, page_board, opts=None):
             best[url] = text
     docs = []
     for url, text in best.items():
+        if url in skip_urls:
+            continue
         fname = unquote(urlparse(url).path.rsplit("/", 1)[-1])
         label = f"{text} {fname}"
         if match_rx and not match_rx.search(f"{label} {url}"):
@@ -187,7 +202,7 @@ def find_docs(html, page_url, page_board, opts=None):
         board = page_board or next((b for b, rx in BOARD_FROM_TEXT if rx.search(label)), None) or (opts or {}).get("default")
         if not board:
             continue
-        meeting = parse_date(text, fname)
+        meeting = parse_date(text, fname) or fallback_date
         if not meeting:
             continue
         kind = kind_of(text, fname) or (opts or {}).get("kind") or "agenda"
@@ -211,12 +226,42 @@ def collect(site):
             sessions[host] = PoliteSession(host)
         return sessions[host]
 
-    listing, errors = {}, []
-    for page in pages:
+    cutoff = (date.today() - timedelta(days=LOOKBACK_DAYS)).isoformat()
+    expanded = []
+    for page in pages:   # a page with {y} and {m} is a monthly calendar: one entry per month back to the cutoff
         page_url, board, opts = (list(page) + [None])[:3]
+        if "{y}" in page_url:
+            d0 = date.today().replace(day=1)
+            for i in range(LOOKBACK_DAYS // 30 + 2):
+                m = (d0.month - 1 - i) % 12 + 1; y = d0.year + (d0.month - 1 - i) // 12
+                expanded.append((page_url.format(y=y, m=m), board, opts))
+        else:
+            expanded.append((page_url, board, opts))
+
+    def follow(resp, page_url, board, opts):
+        """A calendar page that links to one page per meeting: read each recent meeting page. Files that sit on the
+        calendar page itself (menus, sidebars) are left out, and a file with no date takes the meeting's date."""
+        soup = BeautifulSoup(resp.text, "html.parser")
+        rx = re.compile(opts["follow"], re.I)
+        site_files = {urljoin(page_url, a["href"].strip()).split("#")[0] for a in soup.find_all("a", href=True)}
+        out = []
+        for link in dict.fromkeys(urljoin(page_url, a["href"].strip()).split("#")[0] for a in soup.find_all("a", href=True)):
+            if not rx.search(link) or link in seen_meetings:
+                continue
+            seen_meetings.add(link)
+            when = parse_date(link)
+            if not when or when.isoformat() < cutoff or when > date.today() + timedelta(days=21):
+                continue
+            inner = {k: v for k, v in opts.items() if k != "follow"}
+            out += find_docs(session_for(link).get(link).text, link, board, inner, fallback_date=when, skip_urls=site_files)
+        return out
+
+    seen_meetings = set()
+    listing, errors = {}, []
+    for page_url, board, opts in expanded:
         try:
             resp = session_for(page_url).get(page_url)
-            found = find_docs(resp.text, page_url, board, opts)
+            found = follow(resp, page_url, board, opts) if (opts or {}).get("follow") else find_docs(resp.text, page_url, board, opts)
             for d in found:
                 listing.setdefault(d["doc_id"], d)
             if not found:   # say what came back, so an empty page can be told from a block or a redesign
@@ -228,7 +273,6 @@ def collect(site):
             print(f"  ! {page_url}: {str(e)[:150]}")
     if errors and not listing:
         raise RuntimeError("; ".join(errors)[:300])
-    cutoff = (date.today() - timedelta(days=LOOKBACK_DAYS)).isoformat()
     todo = [d for d in listing.values() if d["meeting_date"] >= cutoff and d["doc_id"] not in index]
     FOUND[key] = len(listing)
     print(f"[{key}] {len(listing)} dated documents listed, {len(todo)} new within {LOOKBACK_DAYS} days")
