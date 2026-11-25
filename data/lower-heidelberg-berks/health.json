@@ -47,5 +47,12 @@
 "found": 70,
 "new": 0,
 "error": null
+},
+{
+"run_at": "2026-11-25T04:45:38+00:00",
+"status": "error",
+"found": null,
+"new": null,
+"error": "https://lowerheidelbergtownship.org/meeting-minutes/: HTTPSConnectionPool(host='lowerheidelbergtownship.org', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='lowerheidelbergtownship.org', port=443) at 0x720691663110>, 'Connection to lowerhe"
 }
 ]

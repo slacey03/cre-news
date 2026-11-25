@@ -1,0 +1,367 @@
+CITY OF BETHLEHEM
+Inter-Office Memorandum
+
+SUBJECT: Request for City Planning Commission review of Administration-initiated amendment of
+Part 13 of the Zoning Ordinance
+
+TO: Cathy Fletcher, Director of Planning and Zoning
+FROM: Tad J. Miller, City Clerk
+
+DATE: August 19, 2026
+
+Enclosed is the proposed Ordinance which would amend several sections of the City’s Zoning Ordinance
+as they relate to data centers. This proposed Ordinance will be the subject of an October 6 Public Hearing,
+
+which City Council set last evening.
+
+Please forward this communication to the City Planning Commission with a request to add it to its next
+agenda for review.
+
+Thank you for your assistance and please let me know if you have any questions.
+
+eee LE,
+Tad J. Miller
+
+City Clerk
+
+Attachment
+
+
+
+
+CITY OF BETHLEHEM
+
+Department of Community and Economic Development
+Interoffice Memo
+
+TO: Rachel Leon, Council President
+FROM: Cathy Fletcher, Director of Planning and Zoning
+RE: Zoning Ordinance Amendment: Data Centers
+
+Enclosed for City Council’s consideration is an Ordinance amending the City’s Zoning Ordinance
+to establish regulations for Data Centers.
+
+The proposed ordinance includes:
+
+- Establishing a definition of “Data Center”
+
+- Permitting Data Centers as a Special Exception within the Industrial (IN) Zoning District,
+allowing for case-by-case review by the Zoning Hearing Board
+
+- Requiring applicants to submit all plans, studies, evaluations, and mitigation strategies at
+time of application
+
+- Creating site design standards, including a minimum 200-foot setback from any right-of-
+way or lot located outside the IN district, and a minimum 1000-foot setback from any lot
+located in a residential zoning district or any lot with an existing sensitive receptor (i.e.,
+existing dwelling (including institutional uses with a residential component), school, child
+or adult day care, park, hospital, or community recreation center)
+
+- Establishing maximum building height, minimum yard, minimum buffer yard, and
+maximum building coverage requirements
+
+Staff are also preparing public-facing materials to help explain the proposed ordinance. Those
+materials will be provided to City Council as they become available and in advance of public
+consideration of the ordinance.
+
+Thank you.
+
+CC: Mayor Reynolds
+Laura Collins
+Matthew Deschler
+
+DATE:_July 15, 2026 Catherine Fletcher
+Cathy Fletcher, AICP
+Director of Planning and Zoning
+
+
+BILL NO. - 2026
+ORDINANCE NO. 2026-
+
+AN ORDINANCE OF THE CITY OF BETHLEHEM, COUNTIES OF LEHIGH AND
+NORTHAMPTON, COMMONWEALTH OF PENNSYLVANIA, AMENDING PART 13 OF
+THE CITY OF BETHLEHEM CODIFIED ORDINANCES,
+
+TITLED “ZONING ORDINANCE”,
+
+FOR THE PURPOSE OF REGULATING DATA CENTER USES.
+
+THE COUNCIL OF THE CITY OF BETHLEHEM DOES HEREBY ORDAIN AND ENACT
+THE FOLLOWING ORDINANCE:
+
+SECTION 1. Article 1302.35 of the City of Bethlehem Codified Ordinances, defining a “Day
+Care Center, Adult” in the Zoning Ordinance, is hereby amended by inserting the following
+definition of “Data Center” as the new Article 1302.35 and renumbering the definition of “Day
+Care Center, Adult” as Article 1302.36 and renumbering all subsequent sections of Article 1302
+accordingly (bold underlined text denotes additions, whereas strikeouts denote deletions):
+
+Data Center. A facility, which may consist of one or more buildings and/or
+structures, used primarily for the storage, management, processing, and
+
+transmission of digital data, which houses computer or network equipment, systems,
+servers, appliances and other associated components related to digital data
+
+operations. The facility may also include air handlers, backup power generators,
+water cooling and storage facilities, utility substations, security facilities
+administrative offices, and other associated utility infrastructure to support
+sustained operations at the Data Center. This use does not include computers or
+telecommunications-related equipment that is secondary and customarily incidental
+to an otherwise permitted use on the property, such as servers associated with an
+office building.
+
+SECTION 2. The zoning district columns LI, IN, and Pl in Article 1305.01.e. of the City of
+Bethlehem Codified Ordinances relating to the use identified as “Data Centers” in the Industrial
+Uses section of the Types of Uses table, are hereby amended to read as follows (bold
+
+underlined text denotes additions, whereas str#keeuts denote deletions):
+LI IN PI
+PN PSE PN
+
+SECTION 3. Article 1322.03(q) of the City of Bethlehem Codified Ordinances, titled “Day Care
+Center (Child)”, is hereby amended by inserting the following text relating to “Data Center’ as
+
+4
+
+
+
+the new Article 1322.03(q) and relettering the existing “Day Care Center (Child)” use as new
+Article 1322.03(r) and renumbering all subsequent sections of Article 1322 accordingly (bold
+underlined text denotes additions, whereas strikeouts denote deletions):
+
+(q) Data Center
+
+All required plans, studies, evaluations, assessments, and strategies shall be
+submitted together with the zoning permit or land development application,
+whichever is submitted first. An applicant proposing a Data Center shall bear the
+burden of establishing compliance with the following requirements, which shall be
+in addition to all other Zoning Ordinance requirements except that in any conflict
+between a requirement in this subsection (q) and another requirement in the Zoning
+Ordinance, the more restrictive requirement shall apply:
+
+(1)_ The applicant shall provide an environmental impact assessment
+prepared and certified by a qualified professional that evaluates, as
+
+applicable, impacts to karst features, :
+
+quality (surface water and groundwater), wildlife and wildlife habitat,
+and stormwater in both normal conditions and adverse conditions (i.e.
+drought, extended power outages, extreme heat, etc.). Applicant shall
+propose mitigation strategies where necessary.
+
+2 i) The applicant shall rovide a water utilization report prepared and
+
+certified by a qualified professional that identifies water source,
+projected average daily water demand, peak daily water demand,
+seasonal variation, cooling system type and efficiency, water reuse or
+recycling measures, drought or extreme heat assumptions, and any
+required system improvements.
+
+(ii) The applicant shall demonstrate that adequate public water
+capacity exists to support the proposed use. Approval by the City’s
+Water and Sewer Resources Department that adequate capacity exists
+shall be sufficient to satisfy this criterion,
+
+(3) (i) The applicant shall provide wastewater disposal documentation
+that identifies anticipated wastewater characteristics, discharge
+volume, discharge destination, and any pretreatment needs,
+
+(ii) The applicant shall demonstrate that adequate means of
+wastewater disposal, including domestic wastewater and wastewater
+used for cooling or industrial purposes, exists to support the proposed
+use. Approval by the City’s Water and Sewer Resources Department
+that adequate capacity exists shall be sufficient to satisfy this
+
+criterion,
+
+(4) (i) The applicant shall provide an energy management plan prepared
+
+
+
+and certified by a professional engineer that identifies anticipated
+peak electrical demand, annual electricity demand, phasing of electric
+load, energy supply sources that will be utilized, anticipated utility |
+upgrades (including substations or transmission/distribution |
+improvements), and proposed sources of back-up power. The |
+applicant shall provide a power usage effectiveness analysis that
+measures energy efficiency and identifies any proposed measures to
+improve energy efficiency.
+
+(ii) If the applicant proposes to connect the Data Center to the
+electric grid, the applicant shall provide documentation from the
+applicable electricity service provider certifying that that the
+necessary capacity is available and that the applicable electricity
+service proyider will serye the Data Center. Known impacts on
+electric rates or availability for other uses directly attributable to the
+Data Center project shall be noted. Any electric power generation
+plant or system located on the same lot as a Data Center and designed
+or_used to supply power directly to the Data Center, includin
+
+without limitation, putrescent solid waste-to-energy, solar energy
+collection systems, wind turbines, fossil fuel, or nuclear energy
+generating systems, shall not be considered part of the Data Center
+use nor be considered as accessory to the Data Center use. Such plant
+or system shall be considered a separate and primary use and shall be
+
+approved according to the zonin ulations applicable to such use.
+
+(5) The applicant shall provide an electronic waste and decommissioning
+plan addressing the safe removal and/or disposal of servers, batteries,
+hazardous materials, electronic waste, cooling equipment and related
+infrastructure when equipment is replaced or when the Data Center is
+
+decommissioned.
+
+(6) The applicant shall provide an emergency response plan prepared
+and certified by a qualified professional. The plan shall address fire
+suppression, containment, ventilation, evacuation, site access, hydrant
+locations, water flow, high-voltage equipment, any necessary first
+responder training, and provide documentation regarding the type,
+quantity, and location of all battery, fuel, and other hazardous
+materials stored and used onsite for electrical power storage systems
+
+and otherwise.
+
+(7) The applicant shall provide a thermal impact mitigation plan
+prepared and certified by a qualified professional identifying how
+waste heat will be managed, dissipated, or reused. Passive cooling
+strategies such as cool roofs, natural vegetation (green roofs/shade
+trees), and light-colored exterior walls are encouraged to mitigate heat
+impacts.
+
+
+9
+
+licant shall provide a full spectrum (dBA and dBC) pre-
+
+constr ‘uction sound s sound s tudy conducted by a qualified acoustical expert
+that that the Dat: Data Center Center will comply with the following maximum noise
+
+levels, as measured at any lot line of the lot on which the Data Center
+
+is located:
+
+(A) Maximum Allowed Noise Level, Expressed as A-
+Weighted Decibels (“dBA”)
+
+Daytime Nighttime
+7:00 a.m, to 10: 00 10:00 p.m. to 7:00 a.m.
+
+60 dBA __ 55 dBA
+
+A_person shall not cause or permit the emission of a
+pure tone that exceeds an A-weighted sound level 5 dBA
+
+lower than the applicable maximum given in the above
+table.
+
+(B) Maximum Allowed Noise Level, Expressed as C-
+Weighted Decibels (“dBC”)
+
+Daytime Nighttime
+7:00 a.m. to 10:00 p.m. 10:00 p.m. to 7:00 a.m.
+
+75 dBC 70 dBC
+
+(ii) The study shall evaluate all major noise sources associated with
+the Data Center, including mechanical equipment, air handlers,
+chillers, cooling towers, transformers, substations, and generators,
+and shall evaluate normal operations, peak cooling conditions,
+
+enerator testing (time of day, duration, and frequency), tonal noise
+
+low-frequency noise and cumulative site noise.
+
+(iii) The applicant shall submit a post-construction sound study of
+existing operations no sooner than one month but no more than 12
+months after the issuance of the first Cer tificate of Occupancy, and
+shall undertake additional testing at the direction of the City based
+upon reasonable complaint or evidence of changed operations.
+
+The applicant shall provide a vibration study demonstrating that no
+vibrations from the Data Center will be percept tible above 65 VdB
+
+beyond any lot line of the lot on which the Data Center is proposed to
+be located.
+
+
+10 The applicant shall demonstrate, by means of a photometric study
+conducted by a qualified professional expert, that the Data Center will
+comply with the lighting control requirements of Article 1318.25,
+specifically including, without limitation, Article 1318.25(f).
+
+(11)__A Data Center shall provide at least 1.20 parking spaces for every one
+employee, based upon the maximum number of employees on site
+during the largest shift, or, if the number of employees is not known,
+then a minimum of five parking spaces shall be provided.
+
+12 A Data Center shall be subject to the following setbacks:
+
+i) at least 200 feet from an or from the lot line of any
+
+lot not located in the IN district.
+
+(ii) at least 1,000 feet from the lot line of any:
+A lot located _in a residential zoning district
+
+B existing dwelling (including institutional uses with a
+
+residential component), school, child or adult day care, park,
+hospital, or community recreation center.
+
+13 A Data Center shall not exceed 80 feet in height, inclusive of an
+rooftop structures.
+
+14 The minimum yard requirements are as follows:
+
+(i) Minimum front yard setback = 80 feet.
+(ii) Minimum side yard setback = 80 feet.
+(iii) Minimum rear yard setback = 80 feet.
+
+15 The minimum buffer yard required in Article 1318.23 shall be 40 feet
+
+wide. All equipment yards, generators, substations, and utility
+infrastructure shall be surrounded by a secure fence at least 8 feet in
+height, and such fencing shall be further surrounded on its exterior
+side by an evergreen plant screen, which shall be a minimum of 6 feet
+high at planting with an expectation to grow to a minimum of 15 feet
+high at maturity.
+
+(16) The maximum percent building coverages shall be as follows:
+
+
+
+(i) For a building less than 50,000 square feet in building area
+
+For a building 50,000 square feet in building area and less than
+250,000 square feet in building area, an additional 3 square
+feet of lot area shall be required for each square foot of
+additional building area above 50,000 square feet,
+
+For a building 250,000 square feet or greater in building area
+an additional 5 square feet of lot area shall be required for
+
+each sq uare foot of additional building area above 250,000
+square feet.
+
+SECTION 4. All ordinances and parts of Ordinances inconsistent herewith be, and the same are
+hereby repealed.
+
+Sponsored by: /s/
+
+/s/
+
+PASSED finally in Council on this day of , 2026.
+/s/
+
+President of Council
+ATTEST:
+/s/
+City Clerk
+
+This Ordinance approved this day of , 2026.
+
+/s/
+
+Mayor
+
+

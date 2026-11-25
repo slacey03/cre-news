@@ -1,0 +1,795 @@
+fi = > City OF BETHLEHEM BUREAU OF PLANNING AND ZONING
+
+;
+ame
+
+. fe ny
+‘ge 10 East Church Street, Bethlehem, Pennsylvania 18018-6025 Phone: 610-865-7088
+NR SVE Fax: 610-865-7330
+
+TDD: 610-865-7086
+
+September 4, 2026
+
+Drew Moyer
+
+BPG Investments II, LLC
+24 West Broad Street
+Bethlehem, PA 18018
+
+RE: — (26-007 LD) — 26060009 — 701-719 N NEW STREET, 14 W NORTH STREET and 11-15 W
+GARRISON STREET —- MAJOR LAND DEVELOPMENT PLAN — Ward 9, Zoned CB, plans
+dated June 16, 2026.
+
+Dear Mr. Moyer:
+
+This review letter combines both the Land Development Plan and Subdivision (Lot Consolidation) Plan. These plans have
+been reviewed by the appropriate City offices. We offer the following comments:
+
+PUBLIC WORKS
+Sanitary Engineering
+1. In accordance with Ordinance No. 4342, at the time of execution of the developer’s agreement, a sanitary sewer
+tapping fee of $2,527 per EDU shall be paid. The total amount will be determined when a sanitary sewer facilities
+planning module application is submitted. A cover letter, describing the project, and a utility plan shall be
+included in the planning module submittal. Note that building permits cannot be issued until the Planning Module
+is reviewed and approved by the Pennsylvania Department of Environmental Protection (PA DEP).
+
+Stormwater Engineering
+1. Pursuant to Article 925 of the City’s Codified Ordinance, a stormwater escrow fee of $798.10 shall be paid at the
+
+time of execution of the developer’s agreement. The fee is based upon the proposed increase in impervious
+coverage.
+
+Miscellaneous Engineering
+1. Submit a legal description of the consolidated lot.
+2. The following notes are required on the land development plans:
+
+a. By submission of these plans the engineer on record certifies that these plans are in complete conformance
+with the City of Bethlehem Storm Water Management Ordinance.
+
+b. In order to maintain continuity between plan revisions, any changes to a previous plan submission shall be
+flagged with a triangle and revision cloud. Any changes not flagged and marked shall be considered not
+approved. Flagged changes shall be referenced to the appropriate revision date in the revision block.
+
+c. Accurate as-built plans shall be kept up to date during the construction process. At the completion of the
+project record drawings shall be developed from the as-built plans and submitted to the City Engineer’s
+Office. All final drawings shall show North American Datum (NAD) 1983 State Plane Coordinates in feet
+(Pennsylvania South, FIPS Zone 3702) and the digital file shall be in State Plane Feet Coordinates as
+applicable. The hard copy of the record drawings shall be in the form of a Mylar copy. The engineer of record
+shall certify (i.e. P.E. stamped and signed) that the record drawings comply substantially with the approved
+plan and that they conform to industry standards. All digital files shall reside on PC compatible CD Rom
+containing the digital representation of the final plan as presented on the twenty-four (24) inch by thirty-six
+
+1
+
+
+(36) inch sheets. The digital map shall be AutoCAD compatible. All layers included in the digital maps shall
+be the standardized layers prepared and utilized by the City of Bethlehem to ensure compatibility with the
+City’s existing CAD standards and as described in Appendix A of the City’s Subdivision and Land
+Development Ordinance.
+. Prior to any work within the Right-of-Way, permits shall be obtained from City Engineering Office.
+
+e. All improvements within the public ROW shall comply with the City of Bethlehem standards and
+
+specifications and the appropriate public utility authorities.
+3. Correct the Construction Details Sheets to correctly reflect City of Bethlehem Standard Details and include all
+details. For construction details contact the City Engineer’s Office, Dylan Schlosser at either: 610.865.7051, or
+dschlosser@bethlehem-pa.gov.
+
+Forestry
+
+1. Sheet LP-1, Landscaping Plan, include on the plan the City of Bethlehem Planting detail. For planting details
+contact the City Forester, Andrew Danga-Storm at either: 610.865.7073, or adanga-storm@bethlehem-pa.gov.
+
+2. Coordinate with the City Forester for tree locations, species and spacing; final approval shall be at the direction of
+the City Forester.
+
+3. Ifthe calculated amount of street trees cannot be planted, then a fee of $500 per tree shall be paid at the time of
+execution of the developer's agreement.
+
+4. A street tree permit and City licensed arborist are required to remove and plant street trees.
+
+Traffic
+1. Trip generation calculations shall be submitted for the plan, so that it can be determined if a traffic study is
+required per SALDO, Section 1349.04(M).
+
+2. A stop sign (R1-1) shall be added to each driveway exit of the property.
+3. Parking stalls shall not be painted on the road.
+4. The Site Plan page (sheet 4) shall show existing to remain signage.
+5. The plans propose to remove several on-street parking spaces with the addition of new no parking signs (R7-302).
+The application shall provide justification for the removal of these spaces.
+Electrical
+
+1. Sidewalk pedestrian lighting shall be addressed by either matching the surrounding area Victorian pole and fixture
+lighting or building wall pack lighting to illuminate the sidewalks on W. North Street, N. New Street and W.
+Garrison Street for the entire length of the property. See also Zoning Comment 3.
+
+2. The traffic signals at N. New Street and W. North Street shall be upgraded to current Penn DOT standards with
+AAPS style pedestrian pushbutton stations on all corners, count down pedestrian displays in all directions and
+shall be compliant with current ADA requirements. This requirement is necessitated by the additional pedestrian
+traffic that the development will add to the intersection.
+
+Water
+1. Comments, if any, will be submitted under separate cover.
+
+Fire
+
+The City of Bethlehem Fire Department currently enforces the 2018 Edition of the International Fire Code in its entirety
+including Appendices, with local amendments, as adopted in Article 1501 of the Codified Ordinances of the City of
+Bethlehem, Ordinance 2022-15.
+
+A condensed version of Article 1501/Ordinance 2022-15 listing the common items that affect Land Development Projects
+is attached at the end of this document for reference. For a copy of the full ordinance please visit https://www.bethlehem-
+pa.gov/CityOfBethlehem/media/BFDMedia/F ire-Code.pdf
+
+1. Approved fire apparatus access roads shall extend to within 150 feet of all portions of the exterior walls of the first
+story of the building as measured by an approved route around the exterior; Ref. 2018 IFC 503.1. West Garrison
+Street shall meet the requirements of a 20’ wide fire apparatus access road/fire lane along the length of the project.
+
+
+Nn
+
+A Knox Box for City of Bethlehem Fire Department access shall be installed (Add a note to plans and indicate
+location TBD).
+
+Indicate the proposed location of all Fire Department Connections (FDC). Fire department connections shall be
+located on the street side of buildings, fully visible and recognizable from the street or nearest point of fire
+department vehicle access or as otherwise approved by the Fire Marshal. Add a note to the plan stating, “Any
+change in the location of the Fire Department Connection shall be approved by the City of Bethlehem Fire
+Department.”
+
+All ‘Fire Lanes’ or “Fire Department Access Roads” shall be identified and properly marked (Refer to the
+International Fire Code, 2018 ed., Section 503 and Appendix D for additional information).
+
+Add a fire hydrant on W. Garrison St. The hydrant shall be located within 100’ of the FDC.
+
+Add a note to the plan to acknowledge that Chapter 33 of the IFC “Fire Safety During Construction and
+Demolition” will be enforced for the duration of the construction project.
+
+Contact the City of Bethlehem Fire Department office at 610-865-7143 and request Fire Marshal Craig Baer
+(cbaer@bethlehem-pa.gov) or Chief Fire Inspector Lucas Fuller (Ifuller@bethlehem-pa.gov) with any questions,
+
+referenced Fire Code requirements or to obtain any documents required to complete the submittal for review.
+
+RECYCLING
+
+L.
+
+The plans do not provide any details on how the property owner will maintain trash and recycling services for the
+apartment units. Provide specific details such as location of where trash and recycling materials will be stored
+and/or collected, the type of container(s), the number of containers and the frequency of service for both trash and
+recycling materials.
+
+While the submitted plan illustrates a vehicular entrance to dumpster area, it is not clear how a vehicle will access
+the area. Provide a refuse collection vehicle turning plan.
+
+ZONING
+
+Ly
+
+The areas of the proposed building designated as ‘Gym’ and ‘Lounge/Party Room’ are required to be a “retail,
+restaurant or personal service use that is on the front street level;” Ref. 1305.01(a), footnote 4. See also General
+Comment 1.
+
+Applicants shall offer a rationale and present exhibits substantiating the proposal to install a solid fence in lieu of
+the required densely planted vegetative buffer. Also, if utilization of a fence is approved, then the Applicants
+should consider a solid masonry wall, as vinyl fences often do not weather well; Ref 1318.23.
+
+Applicants shall provide a lighting plan with fixture details and photometrics; Ref. 1318.25.
+
+Provide a parking calculation for the purpose of determining the minimum size of required bike racks; Ref.
+1319.02(0).
+
+Provide details of proposed bike racks; Ref. 1319.02(0).
+
+Sheet CS-1, Cover Sheet, Add a General Note stating, “The current landowner shall be responsible to ensure that
+the [bicycle Storage] hitch, rack or locker continues to be available and is well maintained and is replaced if
+damaged or removed.”
+
+Sheet LP-1 notes that the plan falls short of several planting requirements. Applicants shall account for required
+plantings or seek Zoning Hearing Board approval if it is felt a variance is warranted.
+
+GENERAL
+
+1.
+
+Applicants previously submitted sketch plan, dated March 24, 2019, and Preliminary Plan, dated October 1, 2024,
+indicated Retail/Commercial space along the length of North New Street, and in compliance with the City’s
+Zoning Ordinance. The current plan, dated June 18, 2026, reduces this to 3,300 SF of Retail space,
+Atrium/Lounge, Lounge/Party Room and Gym. Presumably, the Lounge/Party Room and Gym are intended to be
+tenant amenities. If so, then these spaces do not comply with the Zoning Ordinance, and the Applicants shall
+either modify the space or provide justification for non-compliance and seek a Zoning Variance. The Planning
+Bureau is amenable to the dimensions of the proposed Lounge/Atrium, as a maximum width of similarly
+approved variations based upon a percentage of the total building length.
+
+A recreation fee shall be paid at the time of execution of the developer's agreement (X # SF of commercial space
+x 0.25 = $X + $1,500 = $X, and 82 DUs x $1,500 = $123,000). This fee is subject to change based upon General
+Comment 1.
+
+
+10.
+
+11.
+
+12.
+
+13.
+
+16.
+
+a. The City shall waive these fees for any residential unit(s) that utilize any federal, state, or local public
+funds, tax credits, or other similar financial programs in which the owner agrees to keep the housing units
+affordable for low- and moderate-income residents based on the affordability guidelines in the specific
+program or programs used in financing the housing units; Ref. 1349.07(B)(2). See also General
+Comments 16 and 17.
+
+Referencing Architectural Sheet A1l.1, Floor Plans, North Steet Level Plan, the plan indicates stair access on
+either side of the elevated entry platform; whereas it is recommended that an unencumbered ADA-accessible
+pathway be provided on the south side of the platform in lieu of the stairs.
+
+While it is commendable that the plans indicate an area within the parking garage for bicycle parking, this does
+not account for tenant guests or commercial space employees or patrons. It is recommended that racks be placed
+nearby the intersections of North New Street and West North Street and North New Street and West Garrison
+Street.
+
+Sheet CS-1, Cover Sheet, Statement of Intent, correct the number of off-street parking spaces from 84 to 80.
+Sheet CS-1, Cover Sheet, add a note to the plan, “Within the CB District, off-street parking spaces are not
+required; Ref. Article 1319.01(a).” The City commends the Applicants for providing 80 off-street parking spaces,
+and notes that additional off-Street parking is available at the nearby North Street Parking Garage. Contact
+Tiffany Wells at either: 610-419-0120, or tiffany@bethpark.org.
+
+Sheet CS-1, Cover Sheet and Sheet LP-1, Landscaping Plan, add a note to the plans, “All landscaping, as
+approved on final site plans, shall be completed and maintained, including the replacement of dead plantings by
+the applicant or their successors and assigns.” Ref. SALDO 1349.19(1).
+
+Sheet SP-1, Site Plan, provide a dimension string between the tree wells and the elevated entry platform.
+
+Sheet SP-1, Site Plan, indicates a 9’ x 25’ Loading/Delivery Space within the right-of-way of North New Street.
+Applicants shall coordinate with and be granted approval from the City Engineer/Department of Public Works for
+this proposed dedicated zone. The Applicants shall also provide a narrative explaining how building management
+will accommodate residential and commercial tenant loading and unloading, tenant and guest drop off and pick up
+and e-commerce deliveries.
+
+Sheet LP-1, Landscaping, Plan, denote the type of vegetative ground cover proposed for non-paved or built areas.
+The use of hardscape, such as gravel or rock, should only be used where it is deemed to be necessary to control
+stormwater, and only then to the extent necessary. Grade shall be sloped away from the building footprint to
+permit recommended foundation plantings.
+
+Sheet LP-1, Landscaping Plan, per SALDO 1349.19(E), modify the buffer yard to consist of evergreen trees
+and/or shrubs or a mix of deciduous trees, evergreen trees and evergreen shrubs. At least 3 types of trees and
+shrubs shall be selected to create the buffer yard. Applicants shall consult with the City Forester prior to finalizing
+the screening materials.
+
+Sheet LP-1, Landscaping Plan, per SALDO 1349.19(G), provide for an average minimum of one deciduous or
+evergreen tree for every 4,000 square feet of impervious surface. This requirement shall be in addition to required
+street trees and buffer yard plantings. Note: this requirement is reduced by 50% in the CB District.*
+
+Sheet LP-1, Landscaping Plan, account for the five replacement trees required under Tree Conservation; Ref
+Zoning Ordinance 1318.28.*
+
+. Sheet LP-1, Landscaping Plan, account for two street trees (501.5 LF / 30 = 17), Ref. 1319.02(j).*
+
+*If the Applicants cannot reasonably accommodate the minimum required landscaping, then they may seek
+variances, waivers and/or payments in lieu of and at the discretion of the City Forester.
+
+. The architect should specify bird-friendly glass being UV-reflective and patterned glass. There are a variety of
+
+manufactures including: Guardian Glass, Bendheim, Glaspro and Pilkington to name a few. The Applicant is
+encouraged to contact Muhlenberg College, Acopian Center for Ornithology, Dr. Daniel Klem,
+danielklem@muhlenberg.edu, to further discuss the most appropriate options.
+
+The five-story structure proposes 82 dwellings. Keeping with the City's affordable housing goals, the City asks
+proposed multifamily projects to offer 10% of a project's units at rents affordable to households earning 80% of
+area median income (AMI) or less. For this 82-unit project, that would be nine (9) units affordable to residents at
+80% of AMI or less.
+
+
+
+17. This parcel sits within a low- to moderate-income area making it eligible for assistance through the U.S.
+Department of Housing and Urban Development's HOME program. For information on the City’s Housing
+Policies and Incentives, contact Sara Satullo at either: 610.419.9003, or ssatullo@bethlehem-pa.gov.
+
+18. Applicants are encouraged to consider green options to promote stormwater infiltration and filtering of pollutants,
+including:
+
+a. Suitable alternative surfaces such as porous pavement and pervious pavers.
+b. Rain gardens or bioswales with plantings that are water tolerant, native species and promote pollinators.
+c. Vegetative roof systems.
+
+19. Comments from the Environmental Advisory Council are enclosed for your review and comments. Please make
+sure responses are provided for the letter when the revised plans are submitted.
+
+20. The project should generally comply with the goals and objectives of the City's Climate Action Plan for new
+development, including energy efficient construction, provisions for safe walking and biking, green development
+and other various provisions.
+
+21. The project is on parcels currently designated as eligible for Enterprise Zone (EZ) Tax Credit benefits. Eligible
+program activities include rehabilitation, expansion, improvement to a building(s), improvement to land,
+engineering, architecture, and acquisition. To discuss whether the project would qualify for a tax credit, please
+contact the Department of Community & Economic Development, Chastity Haxton, at either: 610.865.4347, or
+chaxton@pbethlehem-pa.gov.
+
+22. Submit an Engineer’s Opinion of Probable Cost Estimate.
+
+When these comments are addressed, submit two (2) full set of revised plans, five (5) partial sets of revised plans for
+Forestry, Traffic, Electrical, Fire and Recycling, an electronic plan, and a comment/response letter for further review.
+
+This plan will be placed on the September 10, 2026, Planning Commission Agenda, unless the owner or their
+representative provides a letter granting an extension of time. The next regular meeting of the Planning
+eld on Thur; ay, September 10, 2026.
+
+ing and Zoning
+
+Ryan Knause Andrew Danga-Storm
+Cathy Fletcher Greg Cryder Michael Halbforester
+David Taylor Robert Taylor
+
+Craig Baer
+
+Enc.
+
+
+
+
+environmental advisory council
+www.bethlehemeac.com
+
+July 20, 2026
+
+Craig Peiffer, Assistant Director of Planning and Zoning
+
+City of Bethlehem
+10 E. Church Street
+Bethlehem, PA 18018
+
+Dear Mr. Peiffer,
+
+We appreciate the opportunity to comment on the proposed large development
+centered on 701 N. New Street. Our recommendations are in support of
+Bethlehem City’s Climate Action Plan (CAP), which aims to reduce our carbon
+footprint, increase sustainability and utilize alternative energy sources.
+
+New construction projects provide opportunities to employ energy saving
+strategies that will lower energy costs and at the same time reduce pollution from
+traditional energy sources.
+
+Acknowledgements
+
+e We applaud the inclusion of two indoor bicycle racks. Many people are
+choosing to forego a car and use alternatives, like bicycles. We think you
+tenants will value this.
+
+e A dedicated loading/unloading parking space is included. This is often
+overlooked and a good addition to this plan.
+
+Strong recommendations
+e The developer is removing 5 mature trees, and has a deficit of 2 trees
+along Garrison St. This total of 7 trees should be installed by the
+developer at another location to be specified by the City Forester, or pay
+the $1000 per tree penalty.
+e Regarding the planned trees:
+e The Yoshino Cherry tree is a bad choice. While it looks beautiful, it
+struggles with the harsh conditions found right next to a road.
+Yoshino cherry trees need plenty of room for their roots to spread
+out. The cramped soil spaces between sidewalks and streets will
+stunt their growth. They do not handle car exhaust, road salt, or city
+
+
+dust very well. This stress makes them weak. These trees are
+prone to diseases like leaf spot and pests like aphids. When
+stressed by street conditions, they get sick much easier. Even in
+perfect conditions, they only live about 15 to 25 years. On a busy
+street, they may die even sooner.
+
+e The American Hornbeam (Carpinus caroliniana) is not a good
+choice. Its main drawbacks include a slow growth rate, difficulty in
+transplanting, and high sensitivity to environmental stressors like
+soil compaction, heat, and drought. Its thin bark also makes it
+highly vulnerable to damage. Hophornbeam is intolerant of salt so
+should be avoided where road salting is common.
+
+e Better choices are male Ginkos or Thornless Honeylocusts..
+
+More green space is required to reduce the heat island effect of this large
+concrete structure and help absorb CO2 from the air. Consider making a
+‘green’ roof. There is already a deck planned for the roof. Instead of
+covering the roof with impervious surfaces, include a green roof capable of
+absorbing rain water and improving absorption of CO2. This could include
+a rooftop gardening space for tenants. Include a variety of potted plants
+and small trees. Consideration could be given to using native
+plants/grasses that will provide pollinator habitat in the planters on deck
+and courtyard.
+
+Consider planters alongside garage wall with trellis for vining plants such
+as native trumpet horn. Trellis plants can reduce the urban heat island
+effect.
+
+Unless a green roof is installed, this development will have impervious
+surfaces over the majority of the site. This will add a large volume of water
+going directly into the storm sewers. The city should be compensated for
+this increased demand on the storm sewer system. The existing
+compensation of 7 street trees does not seem adequate.
+
+The use of Electric Vehicles is increasing and Install Level 2 Electric
+Vehicle (EV) Charging stations to allow for a minimum of 4 cars to charge
+simultaneously. As gas prices surge, EV technology becomes less
+expensive, and lower cost used EV’s come to market, EV’s will become
+more popular. Offering on-site charging stations will increase the
+attractiveness for tenants while helping us reduce greenhouse gas
+emissions from tailpipes.
+
+Consider LEED guidelines in the building structures. Adopting LEED
+guidelines will lower utility costs, provide healthier air, and yield higher
+asset value.
+
+We recommend that the developer utilize sustainable building materials
+and energy efficiency measures beyond the building code, such as
+passive solar design features, advanced lighting controls, high efficiency
+HVAC equipment like Heat Pumps, increased insulation and water
+conservation and indoor air quality measures.
+
+External lighting should not reflect up to avoid distracting migrating birds.
+If an abundance of windows is planned, we note the potential for bird
+impacts. Birds are not capable of seeing glass, which is either clear (see-
+
+
+through) or reflective. When windows in a building line-up with one
+another, birds often see habitat on the far side and try to fly through to it,
+often hitting with a terrible and fatal force. According to Dr. Daniel Klem
+Jr., “Every year up to one billion birds are killed or fatally injured colliding
+with glass windows in North America alone.” Should the building
+incorporate large areas of glass, we suggest that the design, location and
+lighting of the building be evaluated for potential collision risk. It is possible
+to purchase glass made specifically to reduce bird flight impacts and bird
+kills, known as bird friendly glass. Please let us know if you would like
+more information.
+
+Additional Considerations
+
+e Northampton County adopted the Commercial Property Assessed Clean
+Energy (C-PACE) program. C-PACE is an innovative financial tool that
+allows financing for solar, increased energy efficiency, water conservation
+and indoor air quality measures to be attached to the property instead of
+the owner. This can free up developers’ finances by placing the
+assessment on the property and structuring repayment through property
+taxes. The Sustainable Energy Fund (SEF) administers the C-PACE
+program for Northampton County and can provide information on the
+program (www.theSEF.org). In addition, there are currently tax credits for
+new solar energy systems.
+
+e Ensure pet waste stations are available at entrances of the apartment
+building. Pet waste stations will help reduce unhealthy waste in the
+neighborhood.
+
+Thank you for your consideration.
+Sincerely,
+Steve Olshevski, Chair
+
+On behalf of the Bethlehem EAC:
+Ben Felzer, Vice Chair
+
+Ben Guthrie, Secretary
+
+Vibhor Kumar
+
+Megan Lysowski
+
+Mandy Tolino
+
+Katie Trembler
+
+cc: Bethlehem City Council
+Mayor J. William Reynolds
+
+
+
+
+CITY OF BETHLEHEM
+
+Department of Fire
+
+Office of the Fire Marshal
+
+“10 East Church Street, Bethlehem, Pennsylvania 18018-6025 www.bethlehem-pa.gov/fire
+Phone: 610 865-7140
+Fax: 610 997-5746
+TDD: 610 865-7143
+
+FIREPREVENTION@BETHLEHEM-PA.GOV
+
+BILL NO. 15-2022
+ORDINANCE NO. 2022-15
+AN ORDINANCE OF THE CITY OF BETHLEHEM,
+COUNTIES OF LEHIGH AND NORTHAMPTON,
+COMMONWEALTH OF PENNSYLVANIA, AMENDING
+ARTICLE 1501 OF THE CODIFIED ORDINANCES OF
+THE CITY OF BETHLEHEM TITLED
+FIRE SAFETY AND CODE ENFORCEMENT INSPECTION FEES
+THE COUNCIL OF THE CITY OF BETHLEHEM HEREBY ORDAINS AS FOLLOWS:
+
+SECTION 1. That Article 1501 of the Codified Ordinances of the City of Bethlehem, titled “Fire Safety and
+Code Enforcement Inspection Fees” as presently enacted is hereby restated and re-enacted as follows:
+
+ARTICLE 1501
+
+FIRE SAFETY AND CODE ENFORCEMENT INSPECTION FEES
+
+1501.01 Authority
+
+1501.02 Permits Required
+
+1501.03 Inspection
+
+1501.04 Adoption
+
+1501.05 Modifications to 2018 International Fire Code
+
+CROSS-REFERENCES
+
+2018 International Fire Code - International Code Council
+
+Article 150 of the Codified Ordinances of the City of Bethlehem - Codes Board of Appeals
+. Article 746 of the Codified Ordinances of the City of Bethlehem - Consumer Fireworks
+DOT 49 CFR Parts 100-185 - United States Department of Transportation regulations
+Optional Third Class City Charter Law Act of July 15, 1957, P.L. 901, as amended
+Pennsylvania Uniform Construction Code 34 Pa.Code § 403
+
+1501.01 AUTHORITY.
+
+The City of Bethlehem Fire Department, Bureau of Inspections is hereby charged with the enforcement
+of this Article.
+
+1501.02 PERMITS REQUIRED.
+
+Bethlehem Fire Department
+
+
+CITY OF BETHLEHEM
+
+Department of Fire
+
+Office of the Fire Marshal
+
+10 East Church Street, Bethlehem, Pennsylvania 18018-6025 www.bethlehem-pa.gov/fire
+Phone: 610 865-7140
+Fax: 610 997-5746
+TDD: 610 865-7143
+
+FIREPREVENTION@BETHLEHEM-PA.GOV
+
+Permits required by the International Fire Code (current edition) shall be obtained from the Fire Code
+Official. Issued permits shall be kept on the premises designated therein at all times and shall be readily
+available for inspection by the Fire Code Official.
+
+A fee for each permit shall be paid in accordance with the fee schedule as is set forth by resolution of
+Council of the City of Bethlehem, Pennsylvania.
+
+1501.04 ADOPTION
+
+The 2018 International Fire Code (hereafter “IFC”) published by the International Code Council, which is part
+of the Pennsylvania Uniform Construction Code pursuant to 34 Pa.Code § 403.21(a)(8), is hereby adopted in its
+entirety and made part of this Article subject to the modifications implemented hereinafter and/or by subsequent
+ordinance(s) of the City of Bethlehem (strikeouts identify proposed deletions and underlined text identify
+proposed insertions to the 2018 IFC).
+
+101.1 Title These regulations shall be known as the FIRE CODE of The City of Bethlehem, hereinafter referred
+to as “this code”.
+
+101.2.1 Appendices B, C, D, E, F, H, I, L, are adopted as part of this code.
+1501.05 MODIFICATIONS TO 2018 INTERNATIONAL FIRE CODE.
+
+(b) § 105.6.15 of the IFC shall be amended to read as follows:
+
+105.6.15 Fire hydrants and valves. Approval from the Bethlehem Water Authority or its designee is
+
+required to use or operate fire hydrants or valves intended for fire suppression purposes which are
+
+installed on water systems and accessible to a fire apparatus access road that is open to or generally used
+by the public.
+
+Exception: A permit is not required for authorized employees of the Bethlehem Water Authority or its
+designee that supplies the system or the fire department to use or operate fire hydrants or valves.
+
+(d) § 105.6.39 of the IFC shall be amended to read as follows:
+
+105.6.39 Private fire hydrants. Approval from the Bethlehem Water Authority and the Fire Code
+
+Official is required for the removal from service of private fire hydrants.
+
+Exception: Approval from the Bethlehem Water Authority and the Fire Code Official is not required
+
+for private industry with trained maintenance personnel, private fire brigade or fire departments to
+maintain, test and use private hydrants.
+
+Bethlehem Fire Department
+
+
+CITY OF BETHLEHEM
+
+Department of Fire
+
+Office of the Fire Marshal
+
+10 East Church Street, Bethlehem, Pennsylvania 18018-6025 www.bethlehem-pa.gov/fire
+Phone: 610 865-7140
+Fax: 610 997-5746
+TDD: 610 865-7143
+
+FIREPREVENTION@BETHLEHEM-PA.GOV
+
+(g) § 105.7.19 of the IFC shall be amended to read as follows:
+
+105.7.19 Private Fire Hydrants. A construction permit is required for the removal or modification of
+private fire hydrants. Maintenance performed in accordance with this code is not considered to be a
+modification and does not require a permit. .
+
+(k) § 109.1 of the IFC shall be amended to read as follows:
+
+109.1 Board of appeals established. In order to hear and decide appeals of orders, decisions or
+determinations made by the fire code official relative to the application and interpretation of this code,
+
+the Board of Appeal identified in Article 150 of the Codified Ordinances of the City of Bethlehem
+and/or occasionally known as the “Codes Board of Appeals” shall have exclusive jurisdiction, subject to
+any right of further appeal therefrom.
+
+(m) The definition of the term “approved” found in IFC § 202 relating to General Definitions shall be
+amended to read as follows:
+
+Approved. Acceptable to the fire code official, as evidenced by his/her written approval.
+
+(0) The definition of the term “fire code official” found in IFC § 202 relating to General Definitions shall be
+amended to read as follows:
+
+FIRE CODE OFFICIAL. The fire chief or other designated authority, including the Fire Marshal of the
+City of Bethlehem, charged with the administration and enforcement of the code, or a duly authorized
+
+representative. The terms “Fire Marshal of the City of Bethlehem” and “Fire Code Official” shall be
+interchangeable in this and any other ordinance or resolution of the City of Bethlehem.
+
+(z) Add the following subsection to the IFC:
+
+505.1.1 Only addresses approved and verified by the Department of Public Works Bureau_of
+Engineering will be acceptable.
+
+(aa) § 507.3 of the IFC shall be amended to read as follows:
+
+507.3 Fire flow. Fire flow requirements for buildings or portions of buildings and facilities shall be
+
+determined by an approved method determined by Department of Water and Sewer Resources.
+
+507.3.1 Fire flow testing. The fire code official, Department of Water and Sewer Resources or its
+designees shall be notified prior to conducting fire flow testing. Fire flow tests shall be witnessed by
+the fire code official, Department of Water and Sewer Resources or its designees and approved
+documentation of the test_and results shall be provided to the Department of Water and Sewer
+
+Resources.
+Bethlehem Fire Department
+
+
+CITY OF BETHLEHEM
+
+Department of Fire
+
+Office of the Fire Marshal
+
+10 East Church Street, Bethlehem, Pennsylvania 18018-6025 www.bethlehem-pa.gov/fire
+Phone: 610 865-7140
+Fax: 610 997-5746
+TDD: 610 865-7143
+
+FIREPREVENTION@BETHLEHEM-PA.GOV
+
+(bb) §507.4 of the IFC shall be amended to read as follows:
+
+507.4 Water supply test. The fire code official and Department of Water and Sewer Resources or its
+designees shall be notified prior to the water supply test. Water supply tests shall be witnessed by the
+fire code official and Department of Water and Sewer Resources or its designees or approved
+documentation of the test shall be provided to Department of Water and Sewer Resources prior to
+final approval of the water supply system.
+
+507.4.1 The property owner is responsible for installation and maintenance of water supply for
+construction projects until the water system is accepted/approved by the Department of Water
+and_ Sewer Resources, and responsibility for the system is formally turned over to the
+Department of Water and Sewer Resources.
+
+(cc) § 507.5.1 of the IFC shall be amended to read as follows:
+
+507.5.1 Where required. Where a portion of the facility or building hereafter constructed or moved
+into or within the jurisdiction is more than 400 feet (122 m) from a hydrant on a fire apparatus access
+road, as measured by an approved route around the exterior of the facility or building, on-site fire
+hydrants and mains shall be provided where required by the fire code official and the Department of
+Water and Sewer Resources
+
+Exceptions:
+
+1. For Group R-3 and Group U occupancies, the distance requirement shall not be greater than
+
+500 feet (152.4 m).
+
+2. For buildings equipped throughout with an approved automatic sprinkler system installed in
+accordance with Section 903.3.1.1 or 903.3.1.2, the distance requirement shall not be greater
+
+than 500 feet (152.4 m).
+
+(dd) Insert 901.6.3.2, 901.6.3.2.1, 901.6.3.2.2
+
+901.6.3 Records. Records of all system inspections, tests and maintenance required by the
+referenced standards shall be maintained on the premises for a minimum of three years and shall be
+
+provided by the company performing the inspection(s) to the Office of the Fire Marshal, unless an
+alternate designee is specified by Resolution approved by the City Council of the City of Bethlehem.
+
+Insert 901.6.3.2.1 Records shall be provided per City of Bethlehem Resolutions 2018-214 and 2018-
+222
+
+Insert _901.6.3.2.2 Records shall be provided within 30 days of the date of inspection, testing, or
+
+maintenance
+
+Bethlehem Fire Department
+
+
+CITY OF BETHLEHEM |
+
+Department of Fire
+
+Office of the Fire Marshal
+
+10 East Church Street, Bethlehem, Pennsylvania 18018-6025 www.bethlehem-pa.gzov/fire
+Phone: 610 865-7140
+Fax: 610 997-5746
+TDD: 610 865-7143
+
+FIREPREVENTION@BETHLEHEM-PA.GOV
+
+(ee) § 903.4.2 of the IFC is deleted in its entirety and replaced with the following:
+
+903.4.2 Alarms. Approved audible devices shall be connected to every automatic sprinkler system.
+Such sprinkler waterflow alarm devices shall be activated by waterflow equivalent to the flow of a
+single sprinkler of the smallest orifice size installed in the system. Alarm devices shall be provided on
+the exterior of the building in an approved location. Where a fire alarm system is installed, actuation
+of the automatic sprinkler system shall actuate the building fire alarm system. In automatic sprinkler
+systems where multiple sprinkler risers are required, and the risers are located in separate areas within
+the building, an outside visible alarm notification appliance shall be required for each riser. Such
+appliance shall be a white strobe (minimum 95 candela strobe rating) placed in an approved location
+on the exterior wall, as close as practicable, to each sprinkler riser. The strobe will activate when the
+water flow alarm for its respective riser is activated.
+
+(ff) The following subsection is added:
+
+905.3.9. Large Area Buildings: The City requires Class I standpipes to access any portion of a
+building’s interior which is more than 250 feet from the nearest_approved point of fire
+department access or the nearest Class I standpipe connection. This distance shall be measured
+along a path of travel where fire hose can be deployed for fire suppression activities.
+
+(gg) 905.4.1 Shall be modified to read:
+
+905.4.1 In every required interior exit stairway, a hose connection shall
+be provided for each story above and below grade plane. Hose
+
+connections shall be located at_an intermediate landing between stories, when present, unless
+otherwise approved by the fire code official
+
+(hh) § 906.1 of the IFC shall be amended to read as follows:
+906.1 Where required, portable fire extinguishers shall be installed in the following locations.
+
+1. In new and existing Group A, B, E, F, H, I, M, R-l, R-2, R-4 and S occupancies without
+exception.
+
+Bethlehem Fire Department
+
+
+CITY OF BETHLEHEM
+
+Department of Fire
+Office of the Fire Marshal
+
+10 East Church Street, Bethlehem, Pennsylvania 18018-6025 www.bethlehem-pa.gov/fire
+
+Phone: 610 865-7140
+Fax: 610 997-5746
+TDD: 610 865-7143
+
+FIREPRE VENTION@BETHLEHEM-PA.GOV
+
+Bethlehem Fire Department

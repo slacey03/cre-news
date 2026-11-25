@@ -1,0 +1,438 @@
+FUNDING 2027 2028 2029 2030 2031 TOTAL
+BOND (2019) -                               -                               -                               -                               -                               -                            
+LRR (2022) 430,647                   -                               -                               -                               -                               430,647                
+LRR (2024) 2,473,678                -                               -                               -                               -                               2,473,678             
+CAPITAL RESERVE 2026-2029 17,078,341              -                               -                               -                               -                               17,078,341           
+RESERVE/BOND (2030) -                               -                               -                               8,922,350                -                               8,922,350             
+CDBG 415,782                   -                               -                               -                               -                               415,782                
+FEDERAL 3,302,347                -                               -                               -                               -                               3,302,347             
+STATE 2,088,133                825,000                   -                               -                               -                               2,913,133             
+FEDERAL/STATE 23,805,577              3,000,000                342,000                   -                               -                               27,147,577           
+COUNTY 300,000                   25,000                     -                               50,000                     -                               375,000                
+LIQUID FUELS 1,200,000                1,150,000                1,110,000                1,075,000                1,115,000                5,650,000             
+SWF 4,000,000                4,400,000                2,450,000                3,200,000                5,050,000                19,100,000           
+CASH RESERVES (UGI COST 
+SHARING) 2,524,185                250,000                   250,000                   250,000                   250,000                   3,524,185             
+REC FEES 644,951                   -                               -                               -                               -                               644,951                
+APPROP FROM GENERAL 2,344,338                367,500                   385,875                   405,169                   425,427                   3,928,309             
+OTHER 8,332,199                5,890,225                2,650,000                3,500,000                3,500,000                23,872,424           
+TOTALS 68,940,178$            15,907,725$            7,187,875$              17,402,519$            10,340,427$            119,778,724$       
+SPENDING  2027 2028 2029 2030 2031 TOTAL
+SCHEDULE 42,542,528$            31,307,725$            17,162,875$            14,805,169$            13,960,427$            119,778,724$       
+LAST REVISED: 8/28/2026
+(2027-2031)
+CITY  OF  BETHLEHEM
+NON  UTILITY  CAPITAL  IMPROVEMENT  PROGRAM
+FUNDING/SPENDING SCHEDULE
+SUMMARY SHEET
+Page 1
+
+PROJECT
+DESCRIPTION 2027 2028 2029 2030 2031 TOTAL
+1. Ambulance Replacement SPENDING SCHEDULE 350,000         375,000         375,000         400,000         400,000         1,900,000      
+FUNDING
+CAPITAL RESERVE 2026-2029 1,100,000      -                     -                     -                     -                     1,100,000      
+RESERVE/BOND (2030) -                     -                     -                     800,000         -                     800,000         
+2. Fire Apparatus Replacement SPENDING SCHEDULE -                     -                     -                     -                     -                     -                     
+ FUNDING -                     
+CAPITAL RESERVE 2026-2029 -                     -                     -                     -                     -                     -                     
+3. SCBA Air Packs SPENDING SCHEDULE -                     -                     -                     2,000,000      2,000,000      
+FUNDING -                     
+RESERVE/BOND (2030) -                     -                     -                     2,000,000      2,000,000      
+4. Police Vehicle Replacement SPENDING SCHEDULE 350,000         367,500         385,875         405,169         425,427         1,933,971      
+FUNDING -                     
+APPROP FROM GENERAL 350,000         367,500         385,875         405,169         425,427         1,933,971      
+5. Public Safety Cameras SPENDING SCHEDULE 25,000           25,000           25,000           50,000           50,000           175,000         
+FUNDING -                     
+CAPITAL RESERVE 2026-2029 50,000           -                     -                     -                     -                     50,000           
+RESERVE/BOND (2030) -                     -                     -                     50,000           -                     50,000           
+NC Grow NorCo Grant -                     25,000           -                     50,000           -                     75,000           
+6. Police Armored Rescue SPENDING SCHEDULE -                     342,000         -                     342,000         
+    Vehicle Replacement FUNDING -                     
+FEDERAL/STATE -                     342,000         -                     342,000         
+PUBLIC SAFETY 2027 2028 2029 2030 2031 TOTAL
+SPENDING SCHEDULE 725,000         767,500         1,127,875      2,855,169      875,427         6,350,971      
+FUNDING
+CAPITAL RESERVE 2026-2029 1,150,000      -                     -                     -                     -                     1,150,000      
+RESERVE/BOND (2030) -                     -                     -                     2,850,000      -                     2,850,000      
+APPROP FROM GENERAL 350,000         367,500         385,875         405,169         425,427         1,933,971      
+COUNTY -                     25,000           -                     50,000           -                     75,000           
+FEDERAL/STATE -                     -                     342,000         -                     -                     342,000         
+TOTALS 1,500,000      392,500         727,875         3,305,169      425,427         6,350,971      
+PUBLIC SAFETY
+CITY  OF  BETHLEHEM
+NON  UTILITY  CAPITAL  IMPROVEMENT  PROGRAM
+FUNDING/SPENDING SCHEDULE 2027-2031
+Page 2
+
+PROJECT
+DESCRIPTION 2027 2028 2029 2030 2031 TOTAL
+1. Isolated Intersections SPENDING SCHEDULE 1,365,235      400,000         400,000         400,000         400,000         2,965,235        
+FUNDING
+LRR (2022) 92,392           -                     -                     -                     92,392             
+LRR (2024) 622,843         -                     -                     -                     622,843           
+     CAPITAL RESERVE 2026-2029 1,450,000      -                     -                     -                     1,450,000        
+     RESERVE/BOND (2030) -                     -                     -                     800,000         800,000           
+2. Traffic Safety Improvements SPENDING SCHEDULE 50,000           50,000           50,000           50,000           50,000           250,000           
+FUNDING -                      
+CAPITAL RESERVE 2026-2029 150,000         -                     -                     -                     150,000           
+RESERVE/BOND (2030) -                     -                     -                     100,000         100,000           
+3. Aerial Bucket Truck SPENDING SCHEDULE 320,000         320,000           
+     for Electrical Bureau FUNDING -                      
+CAPITAL RESERVE 2026-2029 22,650           -                     -                     -                     22,650             
+RESERVE/BOND (2030) 297,350         297,350           
+4. Traffic Signal Upgrades SPENDING SCHEDULE 216,688         -                     -                     -                     -                     216,688           
+(Green Light-Go) FUNDING
+STATE 173,350         -                     -                     -                     -                     173,350           
+APPROP FROM GENERAL 43,338           -                     -                     -                     -                     43,338             
+5. Paint Truck SPENDING SCHEDULE -                     265,225         -                     -                     -                     265,225           
+FUNDING -                      
+OTHER -                     265,225         -                     -                     -                     265,225           
+PUBLIC WORKS -TRAFFIC 2027 2028 2029 2030 2031 TOTAL
+SPENDING SCHEDULE 1,631,923      715,225         450,000         450,000         770,000         4,017,148        
+FUNDING
+LRR (2022) 92,392           -                     -                     -                     -                     92,392             
+LRR (2024) 622,843         -                     -                     -                     -                     622,843           
+CAPITAL RESERVE 2026-2029 1,622,650      -                     -                     -                     -                     1,622,650        
+RESERVE/BOND (2030) -                     -                     -                     1,197,350      -                     1,197,350        
+CITY  OF  BETHLEHEM
+NON  UTILITY  CAPITAL  IMPROVEMENT  PROGRAM
+FUNDING/SPENDING SCHEDULE 2027-2031
+PUBLIC WORKS - TRAFFIC
+Page 3
+
+STATE 173,350         -                     -                     -                     -                     173,350           
+OTHER -                     265,225         -                     -                     -                     265,225           
+APPROP FROM GENERAL 43,338           -                     -                     -                     -                     43,338             
+TOTALS 2,554,573      265,225         -                     1,197,350      -                     4,017,148        
+Page 4
+
+PROJECT
+DESCRIPTION 2027 2028 2029 2030 2031 TOTAL
+1. Linden Street SPENDING  SCHEDULE 1,732,142      -                     -                     -                     1,732,142      
+    Two Way Conversion FUNDING   
+FEDERAL/STATE 1,732,142      -                     -                     -                     1,732,142      
+2. Center Street SPENDING  SCHEDULE -                     3,000,000      -                     -                     3,000,000      
+    Two Way Conversion FUNDING  -                     
+FEDERAL/STATE -                     3,000,000      -                     -                     3,000,000      
+3. Street Overlay Program SPENDING SCHEDULE 3,674,185      2,500,000      2,500,000      2,500,000      2,500,000      13,674,185    
+FUNDING -                     
+LRR (2024) -                     -                     -                     -                     -                     
+CDBG -                     -                     -                     -                     -                     
+CAPITAL RESERVE 2026-2029 4,500,000      -                     -                     -                     4,500,000      
+RESERVE/BOND (2030) -                     -                     -                     2,000,000      2,000,000      
+CASH RESERVE (UGI COST SHARING) 2,424,185      250,000         250,000         250,000         250,000         3,424,185      
+LIQUID FUELS 750,000         750,000         750,000         750,000         750,000         3,750,000      
+4. Heavy Duty Large SPENDING SCHEDULE -                     300,000         -                     325,000         625,000         
+    Dump Trucks (Tri-Axle) FUNDING -                     
+LIQUID FUELS -                     300,000         -                     325,000         625,000         
+5. Plow Pick-up Trucks SPENDING SCHEDULE -                     100,000         110,000         -                     210,000         
+FUNDING -                     
+LIQUID FUELS -                     100,000         110,000         -                     210,000         
+6. Milling Machine SPENDING SCHEDULE 450,000         -                     -                     -                     450,000         
+FUNDING -                     
+LIQUID FUELS 450,000         -                     -                     -                     450,000         
+7. Asphalt Paver- P385C SPENDING SCHEDULE -                     -                     -                     -                     365,000         365,000         
+FUNDING -                     
+LIQUID FUELS -                     -                     -                     -                     365,000         365,000         
+8. East Broad Street Active SPENDING SCHEDULE 967,110         -                     -                     -                     -                     967,110         
+     Transportation Plan FUNDING -                     
+LRR (2024) 348,535         -                     -                     -                     -                     348,535         
+STATE 618,575         -                     -                     -                     -                     618,575         
+9. West Broad Street Corridor Improvements SPENDING SCHEDULE 4,566,675      4,600,000      4,600,000      -                     -                     13,766,675    
+FUNDING -                     
+FEDERAL/STATE 11,071,046    -                     -                     -                     -                     11,071,046    
+OTHER 2,595,629      -                     -                     -                     -                     2,595,629      
+CASH RESERVE (UGI COST SHARING) 100,000         -                     -                     -                     -                     100,000         
+CITY OF BETHLEHEM
+NON  UTILITY  CAPITAL  IMPROVEMENT  PROGRAM
+FUNDING/SPENDING SCHEDULE 2027-2031
+PUBLIC WORKS - STREETS
+Page 5
+
+10. Roadside Brush Tractor SPENDING SCHEDULE -                     -                     250,000         -                     250,000         
+FUNDING -                     
+LIQUID FUELS -                     -                     250,000         -                     250,000         
+11. Complete Streets Plan SPENDING SCHEDULE 1,000,000      1,500,000      1,500,000      1,500,000      1,500,000      7,000,000      
+FUNDING -                     
+OTHER 1,000,000      1,500,000      1,500,000      1,500,000      1,500,000      7,000,000      
+12. Stefko Boulevard Corridor Improvements SPENDING SCHEDULE -                     3,000,000      -                     -                     3,000,000      
+FUNDING -                     
+OTHER -                     3,000,000      -                     -                     3,000,000      
+PUBLIC WORKS -STREETS 2027 2028 2029 2030 2031 TOTAL
+SPENDING SCHEDULE 12,390,112    15,000,000    8,960,000      4,325,000      4,365,000      45,040,112    
+FUNDING
+LRR (2024) 348,535         -                     -                     -                     -                     348,535         
+CAPITAL RESERVE 2026-2029 4,500,000      -                     -                     -                     -                     4,500,000      
+RESERVE/BOND (2030) -                     -                     -                     2,000,000      -                     2,000,000      
+CDBG -                     -                     -                     -                     -                     -                     
+STATE 618,575         -                     -                     -                     -                     618,575         
+FEDERAL/STATE 12,803,188    3,000,000      -                     -                     -                     15,803,188    
+CASH RESERVE (UGI COST SHARING) 2,524,185      250,000         250,000         250,000         250,000         3,524,185      
+OTHER 3,595,629      4,500,000      1,500,000      1,500,000      1,500,000      12,595,629    
+LIQUID FUELS 1,200,000      1,150,000      1,110,000      1,075,000      1,115,000      5,650,000      
+TOTALS 25,590,112    8,900,000      2,860,000      4,825,000      2,865,000      45,040,112    
+Page 6
+
+PROJECT
+DESCRIPTION 2027 2028 2029 2030 2031 TOTAL
+1. Stefko Drainage Swale SPENDING  SCHEDULE 100,000         1,050,000      -                    1,550,000      4,500,000      7,200,000      
+FUNDING
+SWF 100,000         1,050,000      -                    1,550,000      4,500,000      7,200,000      
+2. East Boulevard Detention Basin SPENDING  SCHEDULE 1,700,000      -                    -                    -                    -                    1,700,000      
+FUNDING
+SWF/GRANT 1,700,000      -                    -                    -                    -                    1,700,000      
+3. Easton Avenue to Stefko Boulevard SPENDING  SCHEDULE -                    700,000         700,000         -                    -                    1,400,000      
+    Storm Sewer System Upgrades FUNDING
+    Various Locations (Phase I and II) SWF -                    700,000         700,000         -                    -                    1,400,000      
+4. Miscellaneous Drainage Structures SPENDING SCHEDULE 200,000         200,000         200,000         200,000         200,000         1,000,000      
+FUNDING
+SWF 200,000         200,000         200,000         200,000         200,000         1,000,000      
+5. Stormwater Pollution and Flood SPENDING SCHEDULE 100,000         100,000         100,000         100,000         100,000         500,000         
+     Prevention Program FUNDING
+SWF 100,000         100,000         100,000         100,000         100,000         500,000         
+6. 378 Swale Improvements (Phase I) SPENDING  SCHEDULE -                    500,000         500,000         -                    -                    1,000,000      
+FUNDING
+SWF -                    500,000         500,000         -                    -                    1,000,000      
+7. East Market Street Drainage SPENDING  SCHEDULE 600,000         -                    -                    -                    -                    600,000         
+FUNDING
+SWF 600,000         -                    -                    -                    -                    600,000         
+8. Yellis Tract Drainage SPENDING  SCHEDULE 700,000         -                    -                    -                    -                    700,000         
+FUNDING
+SWF 700,000         -                    -                    -                    -                    700,000         
+9. Corrugated Metal Pipe Study and 
+Replacement Program SPENDING  SCHEDULE 500,000         250,000         250,000         250,000         250,000         1,500,000      
+FUNDING
+SWF 500,000         250,000         250,000         250,000         250,000         1,500,000      
+10. Seidersville Rd. Culverts SPENDING  SCHEDULE -                    -                    100,000         600,000         -                    700,000         
+FUNDING
+SWF -                    -                    100,000         600,000         -                    700,000         
+11. 1001 Johnston Dr Basin SPENDING  SCHEDULE -                    100,000         500,000         -                    -                    600,000         
+CITY OF BETHLEHEM
+NON  UTILITY  CAPITAL  IMPROVEMENT  PROGRAM
+PUBLIC WORKS - STORM SEWERS
+FUNDING/SPENDING SCHEDULE 2027-2031
+Page 7
+
+Restoration/Improvements FUNDING
+SWF -                    100,000         500,000         -                    -                    600,000         
+12. Chenault Dr Basin SPENDING  SCHEDULE -                    -                    100,000         500,000         -                    600,000         
+Restoration/Improvements FUNDING
+SWF -                    -                    100,000         500,000         -                    600,000         
+13. Grandview Blvd/Ritter Street SPENDING  SCHEDULE 100,000         1,500,000      -                    -                    -                    1,600,000      
+Stormwater Improvements FUNDING
+SWF 100,000         1,500,000      -                    -                    -                    1,600,000      
+PUBLIC WORKS - STORM SEWERS 2027 2028 2029 2030 2031 TOTAL
+SPENDING SCHEDULE 4,000,000      4,400,000      2,450,000      3,200,000      5,050,000      19,100,000    
+   FUNDING
+SWF 4,000,000      4,400,000      2,450,000      3,200,000      5,050,000      19,100,000    
+TOTALS 4,000,000      4,400,000      2,450,000      3,200,000      5,050,000      19,100,000    
+Page 8
+
+PROJECT
+DESCRIPTION 2027 2028 2029 2030 2031 TOTAL
+1. Facilities Capital Improvements SPENDING SCHEDULE 1,216,089   500,000      500,000      500,000      500,000      3,216,089      
+FUNDING
+LRR (2024) 216,089     -                  -                  -                  216,089         
+CAPITAL RESERVE 2026-2029 2,000,000   -                  -                  -                  2,000,000      
+RESERVE/BOND (2030) -                 -                  -                  1,000,000   1,000,000      
+2. Easton Ave Fire Station SPENDING SCHEDULE 529,391     -                  -                  -                  529,391         
+FUNDING
+CAPITAL RESERVE 2026-2029 529,391     -                  -                  -                  529,391         
+3. City Hall Plaza Drainage Pipe SPENDING SCHEDULE 100,000     -                  -                  100,000         
+    Replacement FUNDING
+LRR (2022) 100,000     -                  -                  100,000         
+4. Underground Storage Tank Closures SPENDING SCHEDULE 200,000     -                  200,000         
+FUNDING
+LRR (2024) 200,000     -                  200,000         
+5. Ceiling Tile Replacement SPENDING SCHEDULE 250,000      250,000      500,000         
+FUNDING
+CAPITAL RESERVE 2026-2029 500,000     -                  -                  500,000         
+6. City Hall Chiller Replacement SPENDING SCHEDULE 475,000     -                  -                  475,000         
+FUNDING
+LRR (2022) 125,000     125,000         
+LRR (2024) 350,000     -                  -                  350,000         
+7. Mechanical Room SPENDING SCHEDULE 176,300     -                  -                  176,300         
+    Water Pump Replacements FUNDING
+CAPITAL RESERVE 2026-2029 176,300     -                  -                  176,300         
+8. Parking Garage Dry Sprinkler        
+System Replacement SPENDING SCHEDULE -                 -                  -                  1,075,000   -                  1,075,000      
+     FUNDING
+RESERVE/BOND (2030) -                 -                  -                  1,075,000   -                  1,075,000      
+9. Facility Upgrades at the Electrical 
+Bureau SPENDING SCHEDULE -                 125,000      -                  -                  -                  125,000         
+FUNDING/SPENDING SCHEDULE 2027-2031
+PUBLIC WORKS - FACILITIES
+CITY  OF  BETHLEHEM
+NON  UTILITY  CAPITAL  IMPROVEMENT  PROGRAM
+Page 9
+
+     FUNDING
+OTHER -                 125,000      -                  -                  -                  125,000         
+PUBLIC WORKS - FACILITIES 2027 2028 2029 2030 2031 TOTAL
+SPENDING SCHEDULE 2,696,780   875,000      750,000      1,575,000   500,000      6,396,780      
+FUNDING
+LRR (2022) 225,000     -                  -                  -                  225,000         
+LRR (2024) 766,089     -                  -                  -                  766,089         
+CAPITAL RESERVE 2026-2029 3,205,691   -                  -                  -                  3,205,691      
+OTHER -                 125,000      -                  -                  -                  125,000         
+RESERVE/BOND (2030) -                 -                  -                  2,075,000   -                  2,075,000      
+TOTALS 4,196,780   125,000      -                  2,075,000   -                  6,396,780      
+Page 10
+
+PROJECT
+DESCRIPTION 2027 2028 2029 2030 2031 TOTAL
+1. Grounds Capital Improvements SPENDING SCHEDULE 531,474     300,000     300,000     200,000     200,000     1,531,474      
+FUNDING
+LRR (2022) 55,142       -                 -                 55,142           
+LRR (2024) 276,332     -                 -                 276,332         
+CAPITAL RESERVE 2026-2029 800,000     -                 -                 800,000         
+RESERVE/BOND (2030) -                 -                 400,000     400,000         
+2. Leaf Loader SPENDING SCHEDULE 120,000     -                 -                 -                 -                 120,000         
+FUNDING
+LRR (2024) 120,000     -                 -                 -                 -                 120,000         
+PUBLIC WORKS - GROUNDS 2027 2028 2029 2030 2031 TOTAL
+SPENDING SCHEDULE 651,474     300,000     300,000     200,000     200,000     1,651,474      
+FUNDING
+LRR (2022) 55,142       -                 -                 -                 -                 55,142           
+LRR (2024) 396,332     -                 -                 -                 -                 396,332         
+CAPITAL RESERVE 2026-2029 800,000     -                 -                 -                 -                 800,000         
+RESERVE/BOND (2030) -                 -                 -                 400,000     -                 400,000         
+TOTALS 1,251,474  -                 -                 400,000     -                 1,651,474      
+FUNDING/SPENDING SCHEDULE 2027-2031
+PUBLIC WORKS - GROUNDS
+CITY  OF  BETHLEHEM
+NON  UTILITY  CAPITAL  IMPROVEMENT  PROGRAM
+Page 11
+
+PROJECT
+DESCRIPTION 2027 2028 2029 2030 2031 TOTAL
+1. General Pool Improvements SPENDING SCHEDULE 243,522         50,000           50,000           50,000           50,000           443,522         
+FUNDING
+REC FEES 103,643         -                     -                     -                     103,643         
+LRR (2024) 39,879           -                     -                     -                     39,879           
+CAPITAL RESERVE 2026-2029 200,000         -                     -                     -                     200,000         
+RESERVE/BOND (2030) -                     -                     -                     100,000         100,000         
+2. Ice Rink SPENDING SCHEDULE 227,707         50,000           50,000           50,000           50,000           427,707         
+FUNDING
+LRR (2022) 27,707           
+LRR (2024) 100,000         -                     -                     -                     100,000         
+CAPITAL RESERVE 2026-2029 200,000         -                     -                     -                     200,000         
+RESERVE/BOND (2030) -                     -                     -                     100,000         100,000         
+3. Ice Rink Sanitary Sewer Installation SPENDING SCHEDULE -                     150,000         -                     -                     150,000         
+FUNDING
+OTHER -                     150,000         -                     -                     150,000         
+4. 40 in 10 Parks and Recreation Plan SPENDING SCHEDULE 3,700,000      2,000,000      2,000,000      2,000,000      2,000,000      11,700,000    
+FUNDING
+CAPITAL RESERVE 2026-2029 4,000,000      -                     -                     -                     4,000,000      
+OTHER 1,700,000      1,000,000      1,000,000      2,000,000      2,000,000      7,700,000      
+PUBLIC WORKS - RECREATION  2027 2028 2029 2030 2031 TOTAL
+SPENDING SCHEDULE 4,171,229      2,100,000      2,250,000      2,100,000      2,100,000      12,721,229    
+FUNDING    
+REC FEE 103,643         -                     -                     -                     -                     103,643         
+OTHER 1,700,000      1,000,000      1,150,000      2,000,000      2,000,000      7,850,000      
+LRR (2022) 27,707           -                     -                     -                     -                     27,707           
+LRR (2024) 139,879         -                     -                     -                     -                     139,879         
+CAPITAL RESERVE 2026-2029 4,400,000      -                     -                     -                     -                     4,400,000      
+RESERVE/BOND (2030) -                     -                     -                     200,000         -                     200,000         
+TOTALS 6,371,229      1,000,000      1,150,000      2,200,000      2,000,000      12,721,229    
+RECREATION
+CITY  OF  BETHLEHEM
+NON  UTILITY  CAPITAL  IMPROVEMENT  PROGRAM
+FUNDING/SPENDING SCHEDULE 2027-2031
+Page 12
+
+PROJECT
+DESCRIPTION 2027 2028 2029 2030 2031 TOTAL
+1. Bridge Repairs SPENDING SCHEDULE 430,406         100,000         100,000         100,000         100,000         830,406         
+FUNDING
+LRR (2022) 30,406           -                     -                     -                     30,406           
+LRR (2024) 200,000         -                     -                     -                     200,000         
+CAPITAL RESERVE 2026-2029 400,000         -                     -                     -                     400,000         
+RESERVE/BOND (2030) -                     -                     -                     200,000         200,000         
+2. Main St Ramp Improvement SPENDING SCHEDULE 1,000,000      5,000,000      -                     -                     6,000,000      
+FUNDING
+OTHER 900,000         -                     -                     -                     900,000         
+FEDERAL/STATE 5,100,000      -                     -                     -                     5,100,000      
+3. Spring St Ramp Improvement SPENDING SCHEDULE 500,000         2,000,000      -                     -                     2,500,000      
+FUNDING
+OTHER 375,000         -                     -                     -                     375,000         
+FEDERAL/STATE 2,125,000      -                     -                     -                     2,125,000      
+4. Route 378 Light Replacement SPENDING SCHEDULE 1,300,000      -                     -                     -                     1,300,000      
+     (Phase I and II) FUNDING
+FEDERAL/STATE 1,300,000      -                     -                     -                     1,300,000      
+5. Monocacy Way Trail Phase II (Final) SPENDING SCHEDULE 955,089         -                     -                     -                     955,089         
+FUNDING
+FEDERAL/STATE 413,781         -                     -                     -                     413,781         
+REC FEES 541,308         -                     -                     -                     541,308         
+6. South Bethlehem Greenway SPENDING SCHEDULE 1,194,830      -                     -                     1,194,830      
+    (Final Phase: Saucon Rail Trail Connection) FUNDING
+FEDERAL 440,583         -                     -                     -                     440,583         
+STATE 454,247         -                     -                     -                     454,247         
+COUNTY 300,000         -                     -                     -                     300,000         
+7. South Bethlehem Greenway SPENDING SCHEDULE 583,921         -                     -                     583,921         
+    (S New Street to W Third Street) FUNDING
+STATE (DCNR) 291,961         -                     -                     -                     291,961         
+OTHER 291,960         -                     -                     -                     291,960         
+8. Goepp Street Sidewalk Improvements SPENDING SCHEDULE 450,000         -                     -                     450,000         
+FUNDING
+CDBG 200,000         -                     -                     -                     200,000         
+STATE (PA MULTIMODEL) 250,000         -                     -                     -                     250,000         
+9. Guetter Street Improvements SPENDING SCHEDULE 300,000         -                     -                     -                     300,000         
+FUNDING
+STATE (PA MULTIMODEL) 300,000         -                     -                     -                     300,000         
+10. Sun Inn Courtyard Renovations SPENDING SCHEDULE -                     50,000           775,000         -                     825,000         
+FUNDING
+STATE -                     825,000         -                     -                     825,000         
+CITY  OF  BETHLEHEM
+NON  UTILITY  CAPITAL  IMPROVEMENT  PROGRAM
+PUBLIC WORKS - OTHER PROJECTS
+FUNDING/SPENDING SCHEDULE 2027-2031
+Page 13
+
+PUBLIC WORKS - OTHER PROJECTS 2027 2028 2029 2030 2031 TOTAL
+SPENDING SCHEDULE 6,714,246      7,150,000      875,000         100,000         100,000         14,939,246    
+FUNDING -                     
+LRR (2022) 30,406           -                     -                     -                     -                     30,406           
+LRR (2024) 200,000         -                     -                     -                     -                     200,000         
+CAPITAL RESERVE 2026-2029 400,000         -                     -                     -                     -                     400,000         
+RESERVE/BOND (2030) -                     -                     -                     200,000         -                     200,000         
+REC FEES 541,308         -                     -                     -                     -                     541,308         
+OTHER 1,566,960      -                     -                     -                     -                     1,566,960      
+FEDERAL  440,583         -                     -                     -                     -                     440,583         
+STATE 1,296,208      825,000         -                     -                     -                     2,121,208      
+COUNTY 300,000         -                     -                     -                     -                     300,000         
+CDBG 200,000         -                     -                     -                     -                     200,000         
+FEDERAL/STATE 8,938,781      -                     -                     -                     -                     8,938,781      
+TOTALS 13,914,246    825,000         -                     200,000         -                     14,939,246    
+Page 14
+
+PROJECT
+DESCRIPTION 2027 2028 2029 2030 2031 TOTAL
+1. Non-congregate Family Shelter SPENDING SCHEDULE 2,861,764     -                   -                   -                   -                   2,861,764          
+FUNDING
+FEDERAL 2,861,764     -                   -                   -                   -                   2,861,764          
+2. Congregate Emergency Shelter SPENDING SCHEDULE 5,700,000     -                   -                   -                   -                   5,700,000          
+FUNDING
+APPROP FROM GENERAL 1,951,000     -                   -                   -                   -                   1,951,000          
+FEDERAL/STATE 2,063,608     -                   -                   -                   -                   2,063,608          
+CDBG 215,782       
+OTHER 1,469,610     
+3. South Bethlehem Community Center SPENDING SCHEDULE 1,000,000     -                   -                   -                   -                   1,000,000          
+FUNDING -                        
+CAPITAL RESERVE 2026-2029 1,000,000     -                   -                   -                   -                   1,000,000          
+C&ED  2027 2028 2029 2030 2031 TOTAL
+SPENDING SCHEDULE 9,561,764     -                   -                   -                   -                   9,561,764          
+FUNDING
+APPROP FROM GENERAL 1,951,000     -                   -                   -                   -                   1,951,000          
+FEDERAL 2,861,764     -                   -                   -                   -                   2,861,764          
+FEDERAL/STATE 2,063,608     -                   -                   -                   -                   2,063,608          
+CDBG 215,782       -                   -                   -                   -                   215,782             
+CAPITAL RESERVE 2026-2029 1,000,000     -                   -                   -                   -                   
+OTHER 1,469,610     -                   -                   -                   -                   1,469,610          
+                           TOTALS 9,561,764     -                   -                   -                   -                   9,561,764          
+CITY  OF  BETHLEHEM
+NON  UTILITY  CAPITAL  IMPROVEMENT  PROGRAM
+DEPARTMENT OF COMMUNITY AND ECONOMIC DEVELOPMENT
+FUNDING/SPENDING SCHEDULE 2027-2031
+Page 15
