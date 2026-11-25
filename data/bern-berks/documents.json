@@ -194,6 +194,21 @@
   "title": "09_2026",
   "url": "http://www.berntownship.org/newsite/wp-content/uploads/PC-agenda-10-13-26a-1.pdf"
  },
+ "agendac52ece8e5f3a": {
+  "board": "Board of Supervisors",
+  "chars": 3591,
+  "collected_at": "2026-11-25T20:22:52+00:00",
+  "county": "Berks",
+  "kind": "agenda",
+  "meeting_date": "2026-12-01",
+  "municipality": "Bern Township",
+  "needs_ocr": false,
+  "ocr": false,
+  "pages": 2,
+  "source_page": "http://www.berntownship.org/newsite/board-of-supervisors/",
+  "title": "December",
+  "url": "http://www.berntownship.org/newsite/wp-content/uploads/12_2026_Supervisors_Agenda.pdf"
+ },
  "minutes19a2d3d22ad1": {
   "board": "Board of Supervisors",
   "chars": 14188,

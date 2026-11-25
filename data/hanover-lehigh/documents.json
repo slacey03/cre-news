@@ -214,5 +214,23 @@
   "source_page": "https://www.hanleco.org/minutes.html",
   "text": "October 21, 2026",
   "url": "https://www.hanleco.org/minutes/21oct26.pdf"
+ },
+ "minutes_governing-body_2026-11-04_d75de4e5bd": {
+  "board": "Governing Body",
+  "chars": 5415,
+  "collected_at": "2026-11-25T20:01:09+00:00",
+  "county": "Lehigh",
+  "drive_id": null,
+  "kind": "minutes",
+  "meeting_date": "2026-11-04",
+  "municipality": "Hanover Township (Lehigh)",
+  "ocr": false,
+  "on_home_page": false,
+  "pages": 3,
+  "rolling": false,
+  "sha256": "d75de4e5bd49847150088b5dd30da144dbb825d175a540c9514bc0441cb0caa5",
+  "source_page": "https://www.hanleco.org/minutes.html",
+  "text": "November 4, 2026",
+  "url": "https://www.hanleco.org/minutes/04nov26.pdf"
  }
 }

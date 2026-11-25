@@ -1124,6 +1124,21 @@
   "title": "Committee of the Whole Summary 11/02/2026",
   "url": "https://www.readingpa.gov/images/council_cow_summaries/COW_summary_11-02-26.pdf"
  },
+ "agendad658700fea7d": {
+  "board": "City Council",
+  "chars": 14511,
+  "collected_at": "2026-11-25T20:17:13+00:00",
+  "county": "Berks",
+  "kind": "agenda",
+  "meeting_date": "2026-12-07",
+  "municipality": "City of Reading",
+  "needs_ocr": false,
+  "ocr": false,
+  "pages": 15,
+  "source_page": "https://www.readingpa.gov/council-meeting-minutes-and-agendas",
+  "title": "Committee of the Whole Agenda 12/07/2026",
+  "url": "https://www.readingpa.gov/images/council_cow_agenda/2026/COW_agenda_12-7-26.pdf"
+ },
  "agendadadef46bbd70": {
   "board": "City Council",
   "chars": 2990,

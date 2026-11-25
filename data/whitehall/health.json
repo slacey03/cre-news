@@ -5,5 +5,12 @@
 "found": null,
 "new": null,
 "error": "https://www.whitehalltownship.org/boc-minutes: HTTPSConnectionPool(host='www.whitehalltownship.org', port=443): Max retries exceeded with url: /robots.txt (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.whitehalltownship.org', port=443) at 0x72069217cf20>, 'Connection to www.whitehalltowns"
+},
+{
+"run_at": "2026-11-25T20:24:43+00:00",
+"status": "ok",
+"found": 11,
+"new": 5,
+"error": null
 }
 ]
