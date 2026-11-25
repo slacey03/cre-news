@@ -25,6 +25,11 @@ DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "data")
 MUNICIPALITIES = [
     {"key": "forks", "name": "Forks Township", "county": "Northampton",
      "base": "https://www.forkstownship.org"},
+    # Lehigh Valley (Nov 2026): their robots.txt turns away AI crawlers (GPTBot, ClaudeBot...) but not this collector
+    {"key": "easton", "name": "City of Easton", "county": "Northampton", "base": "https://www.easton-pa.com"},
+    {"key": "emmaus", "name": "Emmaus Borough", "county": "Lehigh", "base": "https://www.emmauspa.gov"},
+    {"key": "catasauqua", "name": "Catasauqua Borough", "county": "Lehigh", "base": "https://www.catasauqua.org"},
+    {"key": "slatington", "name": "Slatington Borough", "county": "Lehigh", "base": "https://www.slatington.org"},
     # Berks County (Nov 2026)
     {"key": "boyertown-berks", "name": "Boyertown Borough", "county": "Berks", "base": "https://www.boyertownborough.org"},
     {"key": "marion-berks", "name": "Marion Township", "county": "Berks", "base": "https://www.mariontwpberks.com"},
